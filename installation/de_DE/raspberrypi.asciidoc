@@ -71,11 +71,7 @@ Si vous choisissez d'ouvrir votre port 22 sur l'extérieur, vous devez impérati
 
 
 ----
-wget https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh
-
-chmod +x install.sh
-
-sudo ./install.sh
+wget -O- https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh | sudo bash
 ----
 *Le mot de passe sudo est également raspberry*
 
