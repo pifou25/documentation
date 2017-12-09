@@ -29,7 +29,7 @@ image::../images/aeotec.panicbutton/vuedefaut1.jpg[width=200,align="center"]
 
 Cette télécommande porte-clés au design moderne et agréable dispose d'un bouton permettant de contrôler tout type de dispositifs Z-Wave tels que des lampes, stores, etc.
 
-Avec ses dimensions très réduites, vous pourrez facilement la mettre dans votre poche. Facile à utiliser et élégante, elle est équipée d'un anneau permettant de l'attacher à des clés, ce qui la rend disponible au moment de quitter la maison ou lors du retour à votre domicile.
+Mit seinen sehr kleinen Abmessungen können Sie es leicht in Ihre Tasche stecken. Einfach zu benutzen und elegant, ist es mit einem Ring ausgestattet, der es erlaubt, es an den Schlüsselbund zu befestigen. Das macht es verfügbar, wenn Sie das Haus verlassen oder wenn Sie nach Hause zurückkehren.
 
 Le bouton permet de contrôler deux dispositifs ou scènes grâce à la gestion des appuis courts et longs. Cette télécommande peut être aussi bien utilisée comme contrôleur principal que secondaire.
 
@@ -44,7 +44,7 @@ Cette télécommande peut également être utilisée comme un bouton d'urgence o
 `* Fernbedienung Tür-Schlüssel
 * primär oder sekundär Controller
 * Ultra-kompakt und ultra-Design
-* 1 bouton configurable
+* 1 konfigurierbare Taste
 * Gère jusqu'à 2 périphériques/scènes
 * Peut être utilisé comme un bouton d'urgence/panique
 * Utilisation autour du cou comme médaillon d'urgence
@@ -57,12 +57,12 @@ Cette télécommande peut également être utilisée comme un bouton d'urgence o
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
-* Alimentation : 1 pile Lithium 3V CR2450
+* Modultyp : Z-Wave-Sender
+* Stromversorgung : 1 Batterie CR2450 3V Lithium
 * Durée de vie de la batterie : 2 à 3 mois pour 10 à 20 utilisations par jour
 * Fréquence: 868.42 MHz
-* Distance de transmission : 30m en intérieur
-* Dimensions : 55 x 30 x 11mm (L x l x h) 
+* Übertragungsreichweite : 30m Innenraum
+* Abmessungen : 55 x 30 x 11mm (L x b x h) 
 
 {nbsp} +
 
@@ -90,7 +90,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer sur le bouton LEARN, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man auf die Einlern-Taste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 

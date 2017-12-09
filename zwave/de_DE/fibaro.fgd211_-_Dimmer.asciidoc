@@ -57,19 +57,19 @@ Chaque module Z-Wave fonctionne comme un répéteur sans fil avec les autres mod
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230V, 50 Hz
-* Câblage : neutre pas nécessaire
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230 V, 50 Hz
+* Verdrahtung : Neutralleiter nicht notwendig
 * Charge maxi : 25-500W (charge résistive) ou 1.5A (charge inductive)
 * Type de lampe compatible (dimmable) : Incandescente, Fluocompacte, Halogène (230VAC et 12VDC avec tranformateur électronique), LED
 * Type de lampe compatible (non dimmable) : Fluocompacte, LED
 * Fusible : 2.5A
 * Fréquence : 868,42 Mhz
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions: 15 x 42 x 36 mm
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 15 x 42 x 36 mm
 * Betriebstemperatur : 0-40 ° C
-* Température limite : 105°C
-* Normes : EN 55015 et EN 60669-2-1
+* Maximale Temperatur : 105 ° C
+* Normen : EN 55015 et EN 60669-2-1
 
 {nbsp} +
 
@@ -95,7 +95,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le bouton d'inclusion, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man 3 Mal auf die Inklusionstaste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 

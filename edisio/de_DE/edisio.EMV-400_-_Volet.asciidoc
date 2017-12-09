@@ -39,7 +39,7 @@ Le neutre est nécessaire que pour le mode "Volet"
 
 * Modultyp : Edisio Empfänger
 * Stromversorgung : 230VAC, 50Hz
-* Câblage: 4 fils, 2 pour les commandes et 2 pour l'alimentation
+* Verdrahtung : 4 Drähte, 2 für Befehle und 2 für Stromversorgung
 * Frequenz : 868,3MHz
 * angetriebene Ausgänge : 2 Relais
 * Maximale Leistung : 2A pro Ausgang

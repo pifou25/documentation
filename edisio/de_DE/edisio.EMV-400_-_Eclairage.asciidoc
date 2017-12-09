@@ -23,30 +23,30 @@ Le neutre est nécessaire que pour le mode "Volet"
 
 == Funktionen
 
-* 2 sorties par relais alimentées
+* 2 angetriebene Ausgangsrelais
 * S'installe dans une boite d'encastrement de 55mm ou directement dans les caissons des ouvrants
 * Mode d'usage: Marche/Arrêt, Ouvrir/Stop/Fermer
 * Compatible avec les moteurs à fin de course électronique et mécanique
 * Remote-Modus
 * Fonction minuterie: Mode Marche/Arrêt: 30min ou 60min
 * Réplique du signal (répéteur)
-* Micromodule bidirectionnel
+* Micromodul Bidirektional
 * Niveau de batterie faible de l'émetteur
 * Petit, discret et esthétique
 * Einfache Bedienung und Installation
 
 == Technische Daten
 
-* Type de module: Récepteur Edisio
-* Alimentation: 230VAC, 50Hz
-* Câblage: 4 fils, 2 pour les commandes et 2 pour l'alimentation
+* Modultyp : Edisio Empfänger
+* Stromversorgung : 230VAC, 50Hz
+* Verdrahtung : 4 Drähte, 2 für Befehle und 2 für Stromversorgung
 * Fréquence: 868,3 MHz
-* Sorties alimentées: 2 relais
+* angetriebene Ausgänge : 2 Relais
 * Puissance maximum: 2A par sortie
 * Charge résistive: 460W
 * Autres charges: 100W
 * Betriebstemperatur : -10°C bis +45°C
-* Dimensions: 48x46x26mm
+* Abmessungen : 48x46x26mm
 * Degré de protection: IP20
 
 == Moduldaten

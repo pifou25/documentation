@@ -1,5 +1,5 @@
 :icons:
-== Nodon Prise Intelligente - Smartplug
+== Nodon Intelligente Steckdose - Smartplug
 
 {nbsp} +
 
@@ -49,12 +49,12 @@ L’apprentissage de la prise avec son contrôleur nécessite seulement quelqu
 
 {nbsp} +
 
-* Alimentation : 230V AC +/-10% - 50Hz
+* Stromversorgung : 230V AC +/-10% - 50Hz
 * Puissance maximum : 3000W en continue / 3500W cyclique (Charge résistive) Consommation intrinsèque : <1W
 * Betriebstemperatur: 0°C bis 40°C - Höhe: 2000 m
 * Z-Wave® Funk Protokoll : 868,4MHz - 500 Serie - kompatibel Z-Wave Plus® SDK 06.51.01
 * Reichweite : 40m Innen / 80m Außen
-* Dimensions: 104*51*36mm
+* Abmessung : 104*51*36mm
 * Garantie 2 ans
 * Type EU
 
@@ -117,7 +117,7 @@ image::../images/nodon.smartplug/commandes.jpg[Commandes,align="center"]
 * Etat : C'est la commande qui permet de connaitre le statut de la prise (Allumée/Eteinte)
 * On : C'est la commande qui permet d'allumer la prise
 * Off : C'est la commande qui permet d'éteindre la prise
-* Statut : Permet de savoir si la prise est alimentée ou non (Détection coupure de courant / débranchement)
+* Status : Zeigt an, ob der Stecker eingeschaltet ist oder nicht (Erkennung eines Stromausfalls/Trennung)
 
 {nbsp} +
 
@@ -207,7 +207,7 @@ A minima Jeedom devrait se retrouver dans les groupes 1 et 4
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

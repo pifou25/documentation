@@ -46,7 +46,7 @@ Attention: ce module n'envoie pas son état au contrôleur z-wave lorsque l'util
 * Nécessite le neutre pour fonctionner
 * Protection par fusible
 * Temps de montée et de descente réglables par paramètrage ou par apprentissage sur le module
-* L'interrupteur est fourni avec le module, non interchangeable
+* Der Schalter wird mit dem Modul geliefert, nicht austauschbar
 
 {nbsp} +
 
@@ -54,14 +54,14 @@ Attention: ce module n'envoie pas son état au contrôleur z-wave lorsque l'util
 
 {nbsp} +
 
-* Type de module : récepteur / actionneur Z-Wave
-* Alimentation 230V, 50Hz
+* Modultyp : Z-Wave Empfänger/Aktor
+* Stromversorgung : 230V, 50Hz
 * Neutre nécessaire
 * Charge Maxi : 1800W (résistif), 460VA (inductif)
 * Fusible : T8AH
 * Fréquence : 868,42 Mhz
-* Dimensions : 52 x 52 x 31mm
-* Plage de température : 0°C / +40°C
+* Abmessungen : 52 x 52 x 31 mm
+* Temperaturbereich : 0°C / +40°C
 
 {nbsp} +
 

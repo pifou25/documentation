@@ -115,7 +115,7 @@ image::../images/dlink.dchz110/commandes.jpg[Commandes]
 {nbsp} +
 
 * Ouverture : c’est la commande qui remontera une détection d’ouverture
-* Température : c’est la commande qui permet de remonter la température
+* Temperatur : das ist der Befehl, der es ermöglicht, die Temperatur zu erhöhen
 * Luminosité : c’est la commande qui permet de remonter la luminosité
 * Sabotage : c’est la commande sabotage (elle est déclenchée en cas d’arrachement)
 * Batterie : c’est la commande batterie

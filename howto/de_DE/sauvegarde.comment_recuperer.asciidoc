@@ -1,6 +1,6 @@
 = Sauvegarde - Comment récupérer vos sauvegardes en SFTP ?
 
-== Description
+== Beschreibung
 
 La procédure va permettre de se connecter en SFTP à votre box afin d'aller récupérer les backups quotidiens effectués par la box.
 

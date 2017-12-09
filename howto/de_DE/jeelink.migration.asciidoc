@@ -38,7 +38,7 @@ En fonction des plugins installés sur votre *Jeedom Esclave*, il est nécessair
 ==== Plugin RFXcom
 * Noter pour chaque équipement venant de *l'Esclave* : l'objet parent, le nom, l'ID (Logique), Le type, Le modèle.
 
-NOTE: Une fiche non exhaustive des informations à noter pour la migration est disponible link:../images/MemoMigration.xls[ici]
+HINWEIS : Eine nicht erschöpfende Liste mit Informationen zur Migration ist link:../images/MemoMigration.xls[hier] verfügbar
 
 === Sauvegardes préventives
 * Faire une https://jeedom.github.io/documentation/core/fr_FR/doc-core-backup.html[sauvegarde Jeedom] de votre *Jeedom Maître* et de votre (vos) *Jeedom Esclave(s)* et récupérer celle(s)-ci sur votre PC/NAS....

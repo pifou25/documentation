@@ -36,7 +36,7 @@ image::../images/VirtualBox1.PNG[]
 
 image::../images/VirtualBox2.PNG[]
 
-* Indiquez l'image précédemment téléchargée
+* Geben Sie das zuvor heruntergeladene Abbild an
 
 * Sélectionner ensuite réseau et choisir "accès par pont" dans le mode d'accès réseau.
 

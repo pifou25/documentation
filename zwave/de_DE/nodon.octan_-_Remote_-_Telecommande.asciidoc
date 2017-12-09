@@ -51,7 +51,7 @@ Son aimant intégré permet de la fixer partout, du radiateur à la porte de 
 * Aimant intégré pour fixation sur surface métallique
 * Betriebstemperatur: 0°C bis 40°C - Höhe: 2000 m
 * Z-Wave® Funk Protokoll : 868,4MHz - 500 Serie - kompatibel Z-Wave Plus® SDK 06.51.01  Reichweite: 40m Innen / 80m Außen
-* Dimensions : 80*80*15mm
+* Abmessung : 80x80x15mm
 * Garantie 2 ans
 
 {nbsp} +

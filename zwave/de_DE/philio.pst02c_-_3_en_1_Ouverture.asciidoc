@@ -42,7 +42,7 @@ Un contrôleur Z-Wave (télécommande, dongle ...) est nécessaire afin d'intég
 
 {nbsp} +
 
-* Détecteur 3 en 1: Ouverture, température, lumière
+* 3 in 1 Detektor : Öffnung, Temperatur, Licht
 * Adopte la récente puce Z-Wave 400series pour supporter les opérations multicanaux et un débit de données plus élevé (9.6/40/100kbps)
 * Utilise le SDK Z-Wave 6.02
 * Portée de l'antenne optimisée
@@ -61,14 +61,14 @@ Un contrôleur Z-Wave (télécommande, dongle ...) est nécessaire afin d'intég
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
-* Alimentation : 1 pile 3V CR123A
+* Modultyp : Z-Wave-Sender
+* Stromversorgung : 1 Batterie CR123A 3V 
 * Durée de vie des piles : 3 ans (pour 14 déclenchements par jour)
 * Fréquence : 868.42 MHz
-* Distance de transmission : 30m en intérieur
-* Capteur de température : -10 à 70° C
+* Übertragungsreichweite : 30m Innenraum
+* Temperatursensor : -10 bis 70° C
 * Capteur de luminosité : 0 à 500 lux
-* Dimensions :
+* Abmessungen :
 * Détecteur : 28 x 96 x 23 mm
 * Aimant : 10 x 50 x 12 mm
 * Poids : 52g
@@ -103,7 +103,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le bouton d'inclusion, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man 3 Mal auf die Inklusionstaste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 
@@ -140,7 +140,7 @@ image::../images/philio.pst02c/commandes.jpg[Commandes,align="center"]
 {nbsp} +
 
 * Ouverture : c'est la commande qui remontera une détection d'ouverture
-* Température : c'est la commande qui permet de remonter la température
+* Temperatur : das ist der Befehl, der es ermöglicht, die Temperatur zu erhöhen
 * Luminosité : c'est la commande qui permet de remonter la luminosité
 * Batterie : c'est la commande batterie
 

@@ -36,11 +36,11 @@ Certains matériaux brûlent sans fumer. C'est pourquoi les ingénieurs de Fibar
 {nbsp} +
 
 * Détecteur de fumée Z-Wave
-* Alimenté sur batterie
+* Batterie betrieben
 * Sensibilité du capteur réglable (3 niveaux)
 * Protection contre le sabotage
 * Alarme signalée par le son, une lumière LED et un signal Z-Wave
-* Détection d'incendie par mesure de la température de l'air
+* Branderkennung durch Messung der Lufttemperatur
 * Test d'efficacité automatique, effectuée toutes les 5 secondes
 * Testeur de couverture du réseau Z-Wave intégré
 * Conforme avec la norme EN 14604:2005
@@ -53,19 +53,19 @@ Certains matériaux brûlent sans fumer. C'est pourquoi les ingénieurs de Fibar
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
-* Alimentation : Batterie Lithium 3V CR123A
+* Modultyp : Z-Wave-Sender
+* Stromversorgung : 3V Lithium Batterie CR123A
 * Batterielaufzeit  : 3 Jahre
 * Fréquence : 868,42 MHz
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions : 65 x 28 mm (diamètre x hauteur)
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 65 x 28 mm (Durchmesser x Höhe)
 * Betriebstemperatur : 0-55 ° C
 * Humidité de fonctionnement : 0% - 93%
-* Gamme de mesure de la température : -20 à 100°C
+* Temperaturmessbereich : -20°C bis 100°C
 * Sensibilité à la fumée : 1er niveau - 1,20 +/- 0,5% obs/m; 2e niveau - 1,80 +/- 0,5% obs/m; 3e niveau - 2,80 +/- 0,5% obs/m
 * Niveau sonore: 85 dB à 3m
 * Précision de la mesure : 0,5°C (dans une gamme de 0 à 55°C)
-* Normes : EMC 2004/108/EC et R&TTE 199/5/WE
+* Normen : EMC 2004/108/EC et R&TTE 199/5/WE
 * Certifications : EN 14604:2005
 
 {nbsp} +
@@ -125,7 +125,7 @@ image::../images/fibaro.fgsd102/commandes.jpg[Commandes]
 {nbsp} +
 
 * Fumées : c'est la commande d'alerte du module (pour la fumée, la chaleur ...)
-* Température : c'est la commande de mesure de la température
+* Temperatur : Das ist die Befehl zum messen der Temperatur 
 * Sabotage : c'est la commande de sabotage. Elle signale l'ouverture du boitier
 * Alerte Test : c'est la commande qui remontera le fait que le module est en mode test
 * Alerte Chaleur : c'est la commande qui remontera une alerte chaleur (pas fiable encore)
@@ -198,7 +198,7 @@ image::../images/fibaro.fgsd102/groupe.jpg[Groupe]
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

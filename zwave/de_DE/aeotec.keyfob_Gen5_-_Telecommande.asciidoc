@@ -29,7 +29,7 @@ image::../images/aeotec.keyfob-gen5/vuedefaut1.jpg[width=200,align="center"]
 
 La télécommande porte-clés Aeon Labs au design moderne et agréable dispose de 4 boutons permettant de contrôler tout type de dispositifs Z-Wave tels que des lampes, stores, etc.
 
-Avec ses dimensions très réduites, vous pourrez facilement la mettre dans votre poche. Facile à utiliser et élégante, elle est équipée d'un anneau permettant de l'attacher à des clés, ce qui la rend disponible au moment de quitter la maison ou lors du retour à votre domicile.
+Mit seinen sehr kleinen Abmessungen können Sie es leicht in Ihre Tasche stecken. Einfach zu benutzen und elegant, ist es mit einem Ring ausgestattet, der es erlaubt, es an den Schlüsselbund zu befestigen. Das macht es verfügbar, wenn Sie das Haus verlassen oder wenn Sie nach Hause zurückkehren.
 
 Chaque bouton permet de contrôler deux dispositifs ou scènes grâce à la gestion des appuis courts et longs. Cette télécommande peut être aussi bien utilisée comme contrôleur principal ou secondaire.
 
@@ -44,7 +44,7 @@ Et parce que la télécommande porte-clés Keyfob Gen5 fait partie de la gamme G
 `* Fernbedienung Tür-Schlüssel
 * Contrôleur principal ou secondaire
 * Ultra-kompakt und ultra-Design
-* 4 boutons configurables
+* 4 konfigurierbare Tasten
 * Gère jusqu'à 8 périphériques/scènes
 * Volet de protection coulissant
 * Fait partie de la gamme Gen5 de Aeon Labs
@@ -61,13 +61,13 @@ Et parce que la télécommande porte-clés Keyfob Gen5 fait partie de la gamme G
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
-* Alimentation : 1 pile Lithium 3V CR2450
+* Modultyp : Z-Wave-Sender
+* Stromversorgung : 1 Batterie CR2450 3V Lithium
 * Durée de vie de la batterie : 1 an
 * Fréquence: 868.42 MHz
-* Distance de transmission : 100m en champ libre
-* Température d'utilisation : -10°C à 50°C
-* Dimensions : 55 x 30 x 13mm (L x l x h)
+* Übertragungsreichweite : 100 m im Freiland
+* Betriebstemperatur : -10°C bis 50°C
+* Abmessungen : 55 x 30 x 13mm (L x b x h)
 
 {nbsp} +
 

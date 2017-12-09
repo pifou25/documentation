@@ -48,16 +48,16 @@ Le Wall Plug Fibaro peut être contrôlé par un bouton sur son carter ou bien d
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230V, 50Hz
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230V, 50Hz
 * Consommation électrique : jusqu'à 0.8W
 * Charge maxi : 2.5kW
 * Fréquence : 868,42 Mhz EU
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions: 17 x 42 x 37 mm
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 17 x 42 x 37 mm
 * Betriebstemperatur : 0-40 ° C
-* Température limite : 105°C
-* Normes : LVD (2006/95/WE), EMC (2004/108/EC), R&TTE(1999/5/WE)
+* Maximale Temperatur : 105 ° C
+* Normen : LVD (2006/95/WE), EMC (2004/108/EC), R&TTE(1999/5/WE)
 
 {nbsp} +
 
@@ -83,7 +83,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le bouton d'inclusion, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man 3 Mal auf die Inklusionstaste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 

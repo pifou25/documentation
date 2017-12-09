@@ -1,6 +1,6 @@
 Ce tutorial vous présente :
 
-* Création d'un compte GitHub
+* Erstellen Sie ein GitHub-Konto
 * Fork de Jeedom Core ou de la documentation
 * Modification d'un ou plusieurs fichiers
 * Soumettre une modification

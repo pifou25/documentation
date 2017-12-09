@@ -1,5 +1,5 @@
 == Clef USB/Module d'extension
-Contrôleur ENOCEAN : 
+ENOCEAN-Controller : 
 
 - Clef USB EnOcean USB300
 - Clef USB EnOcean USB310 (Recommandé)
@@ -23,7 +23,7 @@ Dongle GSM :
 - Alcatel one touch X220L
 - HSDPA 7.2MBPS 3G Wireless
 
-Contrôleur Z-WAVE :
+Z-Wave Controller :
 
 - SIGMA DESIGNS Contrôleur Z-Wave Plus USB
 - Z-WAVE.ME - Mini contrôleur USB Z-Wave Plus UZB1
@@ -31,19 +31,19 @@ Contrôleur Z-WAVE :
 - AEON LABS - Contrôleur USB Z-Wave Plus Z-Stick GEN5 (Recommandé)
 
 '''
-== Modules Zwave
+== Zwave Module
 Vous trouverez la liste https://github.com/jeedom/documentation/blob/master/zwave/fr_FR/equipement.compatible.asciidoc[ici]
 
 '''
-== Modules EnOcean
+== EnOcean Module
 Vous trouverez la liste https://github.com/jeedom/documentation/blob/master/enocean/fr_FR/equipement.compatible.asciidoc[ici]
 
 '''
-== Modules Edisio
+== Edisio Module
 Vous trouverez la liste https://github.com/jeedom/documentation/blob/master/edisio/fr_FR/equipement.compatible.asciidoc[ici]
 
 '''
-== Modules RFXcom
+== RFXcom Module
 Vous trouverez la liste https://github.com/jeedom/documentation/blob/master/rfxcom/fr_FR/equipement.compatible.asciidoc[ici]
 
 '''

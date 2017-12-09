@@ -1,6 +1,6 @@
 :icons: font
 
-= Clef Wifi sur mini
+= Wlan Schlüssel für Mini
 
 == Aufgabe
 

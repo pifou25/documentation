@@ -24,7 +24,7 @@ image::../images/secure.ses302/vuedefaut1.jpg[width=350,align="center"]
 {nbsp} +
 
 La sonde SES302 permet la mesure de la température d'ambiance intérieure.
-Elle est alimentée par 2 piles AA et est certifiée Z-Wave Plus.
+Es wird mit 2 AA-Batterien betrieben und ist Z-Wave Plus zertifiziert.
 En plus de sa fonction principale, il est possible de câbler différentes sondes externes SECURE sur le module, soit:
 
 * Une sonde de température externe NTC (SES001)
@@ -40,7 +40,7 @@ On peut facilement l'inclure / l'exclure dans un réseau Z-Wave.
 
 {nbsp} +
 
-* Mesure précise de la température
+* Genaue Temperaturmessung
 * Application dans des systèmes de contrôle dynamique de réservoirs/tubes/planchers chauffants/...
 * Possibilité de brancher des sonde externes
 * Interoperabilität mit zertifizierten Z-Wave Produkten und Systemen 
@@ -54,13 +54,13 @@ On peut facilement l'inclure / l'exclure dans un réseau Z-Wave.
 {nbsp} +
 
 * Type: Portable/fixation murale
-* Plage de mesure de température: ±0.5°C pour 0°C à 40°C
+* Temperaturmessbereich : ±0,5°C für 0°C bis 40°C
 * Puce Z-Wave Plus
 * Fréquence : 868,42 Mhz
-* Alimentation: 2x piles AA (LR6)
+* Stromversorgung : 2x Batterie AA (LR6)
 * Reichweite : bis zu 100 m im Freien
 * Indice de protection : IP30
-* Dimensions : 86 x 85 x 30 mm
+* Abmessungen : 86 x 85 x 30 mm
 
 {nbsp} +
 
@@ -118,7 +118,7 @@ image::../images/secure.ses302/commandes.jpg[Commandes]
 
 {nbsp} +
 
-* Température : c'est la commande de mesure de la température
+* Temperatur : Das ist die Befehl zum messen der Temperatur 
 * Batterie : c'est la commande batterie
 
 Plusieurs températures nons visibles sont aussi disponibles et seront utiles si vous avez raccordé des sondes externes
@@ -179,7 +179,7 @@ image::../images/secure.ses302/groupe.jpg[Groupe]
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

@@ -38,8 +38,8 @@ Le SIR 321 prend en charge les capteurs de température externe SES001, SES002 e
 * Booster pour thermoplongeur, radiateur panneau, sèche-serviettes, radiateur à bain d'huile
 * Minuterie pour chaudière
 * Ventilation forcée dans les salles de conférence
-* Mesure de la température de chauffage au sol (avec sondes en option)
-* Simple à utiliser et fiable
+* Messung der Fußbodenheizungstemperatur (mit optionalen Sonden)
+* Einfach zu bedienen und zuverlässig
 * Realisieren von Energieeinsparung
 
 {nbsp} +
@@ -50,8 +50,8 @@ Le SIR 321 prend en charge les capteurs de température externe SES001, SES002 e
 
 * Type: Minuteur électronique
 * Relais: 13(3)A, 230V AC, approprié pour des charges allants jusqu'à 3kW
-* Alimentation: 230V AC, 50Hz
-* Dimensions 85x85x44mm
+* Stromversorgung : 230V AC, 50Hz
+* Abmessung : 85x85x44mm
 * Indice de protection : IP30
 * Betriebstemperatur : 0°C bis 35°C
 
@@ -112,7 +112,7 @@ image::../images/secure.sir321/commandes.jpg[Commandes]
 
 * On : c'est la commande permettant d'allumer le relais
 * Off : c'est la commande permettant d'éteindre le relais
-* Température : c'est la commande de mesure de la température si une sonde externe est présente
+* Temperatur : Dies ist der Befehl zur Messung der Temperatur, wenn eine externe Sonde vorhanden ist
 
 {nbsp} +
 

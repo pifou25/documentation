@@ -4,22 +4,22 @@ image::../images/jeedom.jpg[]
 
 
 
-=== Etape 1 : Installation de Etcher
+=== Schritt 1 : Etcher installieren 
 
 Vous devez télécharger le logicel Etcher link:https://etcher.io/[ici] puis l'installer sur votre pc
 
-=== Etape 2 : 
+=== Schritt 2 : 
 Récupération de l'image Jessie. Attention la humingboard n'est pas pas un raspberry. *Vous devez impérativement récupérer cet iso spécifique qui est une jessie pour IMX6.*
 
 Vous devez aller link:https://images.solid-build.xyz/IMX6/Debian/sr-imx6-debian-jessie-cli-20171108.img.xz[ici], et sauvegarder cette image sur votre PC.
 
 
-=== Etape 3 : Décompression de l'image
+=== Schritt 3: Abbild Dekomprimieren
 
 Décompresser l'image de Jeedom (si vous n'avez rien pour le décompresser vous pouvez installer link:http://www.clubic.com/telecharger-fiche9632-winrar.html[winrar]).
 
 
-=== Etape 4 : Gravure de l'image sur la carte SD
+=== Schritt 4: Das Abbild auf die SD-Karte brennen
 
 Insérer votre carte SD dans votre ordinateur puis lancer le logiciel Ether, donner lui le chemin de l'image, le chemin de la carte SD et cliquez sur "flash". Le logiciel va graver la carte SD et verifier la gravure 
 
@@ -30,7 +30,7 @@ Vous n'avez plus qu'à mettre la carte SD dans la Mini + à brancher le réseau 
 
 
 
-=== Etape 5 : installation de jeedom - Lancement du script
+=== Schritt 5 : Jeedom Installieren - Starten des Skripts
 
 Ouvrez une console SSH avec putty par exemmple.
 [TIP]

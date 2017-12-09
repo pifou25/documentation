@@ -52,7 +52,7 @@ si vous avez déjà un réseau existant.
 
 {nbsp} +
 
-* Détecteur 3 en 1: mouvement, température, lumière
+* 3 in 1 Detektor : Bewegung, Temperatur, Licht
 * Adopte la récente puce Z-Wave 400series pour supporter les opérations multicanaux et un débit de données plus élevé (9.6/40/100kbps)
 * Utilise le SDK Z-Wave 6.02
 * Portée de l'antenne optimisée
@@ -71,16 +71,16 @@ si vous avez déjà un réseau existant.
 {nbsp} +
 
 
-* Type de module : Emetteur Z-Wave
-* Alimentation : 1 pile 3V CR123A
+* Modultyp : Z-Wave-Sender
+* Stromversorgung : 1 Batterie CR123A 3V 
 * Durée de vie des piles : 2 ans
 * Fréquence : 868.42 MHz
-* Distance de transmission : 30m en intérieur
-* Capteur de température : -10 à 70° C
+* Übertragungsreichweite : 30m Innenraum
+* Temperatursensor : -10 bis 70° C
 * Capteur de luminosité : 0 à 500 lux
 * Angle de détection PIR : 90°
 PIR Erfassungsbereich : 8 bis 10 m
-* Dimensions : 28 x 96 x 23 mm
+* Abmessungen : 28 x 96 x 23 mm
 * Poids : 39g
 * Betriebstemperatur : -10°C bis 40°C
 * Humidité de fonctionnement : 85%RH max
@@ -152,7 +152,7 @@ image::../images/philio.psp01/commandes.jpg[Commandes,align="center"]
 
 * Présence : c'est la commande qui remontera une détection de présence
 * Ouverture : c'est la commande qui remontera une détection d'ouverture
-* Température : c'est la commande qui permet de remonter la température
+* Temperatur : das ist der Befehl, der es ermöglicht, die Temperatur zu erhöhen
 * Luminosité : c'est la commande qui permet de remonter la luminosité
 * Sabotage : c'est la commande sabotage (elle est déclenchée en cas d'arrachement)
 * Batterie: Dies ist der Batterie-Befehl

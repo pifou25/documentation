@@ -32,7 +32,7 @@ Un contrôleur Z-Wave (télécommande, dongle ...) est nécessaire afin d'intég
 
 Chaque module Z-Wave fonctionne comme un répéteur sans fil avec les autres modules, afin d'assurer une couverture totale de votre habitation.
 
-Note : Ce module nécessite le neutre pour fonctionner.
+Hinweis: Dieses Modul benötigt den Neutralleiter zum Betrieb.
 
 {nbsp} +
 
@@ -59,18 +59,18 @@ Note : Ce module nécessite le neutre pour fonctionner.
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230V, 50 Hz
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230 V, 50 Hz
 * Consommation électrique : < 0,8W
-* Câblage : 3 fils, neutre nécessaire
+* Verdrahtung : 3 Adern, Neutralleiter notwendig
 * Charge maxi : 1000W
 * Fréquence : 868,42 Mhz
 * Puissance du signal : 1mW
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions: 17 x 42 x 37 mm
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 17 x 42 x 37 mm
 * Betriebstemperatur : 0-40 ° C
-* Température limite : 105°C
-* Normes : LVD (2006/95/EC), EMC (2004/10B/EC), R&TTE(1999/5/EC)
+* Maximale Temperatur : 105 ° C
+* Normen : LVD (2006/95/EC), EMC (2004/10B/EC), R&TTE(1999/5/EC)
 
 
 {nbsp} +

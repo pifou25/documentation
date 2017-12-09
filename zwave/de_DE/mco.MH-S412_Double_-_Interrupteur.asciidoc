@@ -55,14 +55,14 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
+* Modultyp : Z-Wave-Empfänger
 * Couleur : Blanc
-* Alimentation : 230 V, 50 Hz
-* Câblage : 3 fils, neutre nécessaire
+* Stromversorgung : 230 V, 50 Hz
+* Verdrahtung : 3 Adern, Neutralleiter notwendig
 * Puissance maximum : 5A (1100W) pour chaque canal
 * Fréquence : 868,42 Mhz
 * Reichweite : bis zu 30 m
-* Dimensions : 86 x 86 x 43 mm
+* Abmessungen : 86 x 86 x 43 mm
 * Affichage: LED bleue/rouge
 
 {nbsp} +

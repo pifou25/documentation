@@ -36,7 +36,7 @@ Différents réglages vous permettront de contrôler l'accès à votre maison. D
 Idéal lorsque vous n'avez pas les mains libres, par exemple.
 De plus, 5 clés sont fournies. Vous pourrez les utiliser de l'extérieur.
 L'installation est simple et rapide à effectuer peu importe le type de porte. L'application correspondante est compatible pour iPhone 4S, Android 4.4 et Smartphone.
-Le Danalock ne nécessite pas de source d'alimentation externe. L'alimentation s'effectue à l'aide de piles d'une durée de vie de deux ans.
+Danalock benötigt keine externe Stromquelle. Die Stromversorgung erfolgt durch Batterien mit einer Lebensdauer von zwei Jahren.
 Vous recevrez un signal sonore au cas ou le niveau de chargement des piles est trop faible.
 
 *Facile à mettre en place*
@@ -60,7 +60,7 @@ Et avec la fonction auto-déverrouillage, la serrure Danalock déverrouille auto
 *Longue durée de vie de la batterie*
 
 
-Le Danalock a une durée de vie moyenne de la batterie jusqu'à un an, et ne nécessite pas d'alimentation externe.
+Der Danalock hat eine durchschnittliche Akkulaufzeit von bis zu einem Jahr und benötigt keine externe Stromversorgung.
 Soyez informé que l'utilisation d'un contrôleur ou box domotique Z-Wave peut réduire la durée de vie de la batterie. L'état de la batterie est facilement visible dans l'App. Lorsque la batterie atteint 30, 20, 15 et 10 pourcent, une notification est envoyée par SMS et email.
 
 *Accès limité ou permanent*
@@ -106,11 +106,11 @@ Danalock allie l'élégance et le minimalisme du design scandinave - avec une lu
 
 {nbsp} +
 
-* Alimentation : 4 piles 3V CR123
+* Stromversorgung : 4 Batterie CR123A 3V 
 * Version : V2
 * Matériau : Aluminium massif anodisé
 * Communication : Bluetooth et Z-Wave
-* Dimensions : 79 mm x 49 mm (diamètre x hauteur)
+* Abmessungen : 79 x 49 mm (Durchmesser x Höhe)
 * Poids : 363g
 
 
@@ -248,7 +248,7 @@ image::../images/polycontrol.danalock/bouton_configuration.jpg[Config1,align="ce
 * 4 : Nombre de tours (1 = 10 degrés, 9 = 90 degrés, etc.)
 * 5 : Auto verrouillage 0-60 Combien de secondes à partir du moment où la serrure a été déverrouillée pour automatiquement se fermer à nouveau. Si 0, il est désactivé.
 * 6 : Désactiver ou activer le signal sonore de verrouillage ou déverrouillage (0 = Désactiver, 1 = Activer.)
-* 7 : Type de batterie : Réglez le type de batterie qui alimente l'appareil.
+* 7 : Batterietyp : Legen Sie den Batterietyp fest, mit dem das Gerät betrieben wird.
 * 8 : Alarme batterie : Lorsque le niveau de la batterie est inférieur à cette valeur, le dispositif informera l'utilisateur avec un signal sonore après le verrouillage ou déverrouillage.
 * 9 : Turn & Go 0 = Turn & Go off, 1 = Turn & Go On. Latch & Go tournera la poignée automatiquement lorsqu'on l'actionne manuellement.
 * 10 : Brake & GoBack 0 = Désactivé. 1=>15 secondes pour freiner. Quand il est utilisé le verrou freine pour x quantité de secondes, puis reviens à 75 degrés en arrière. Conçu pour des portes spéciales sans levier. (Uniquement lors du déverrouillage).
@@ -324,7 +324,7 @@ Il n'y a pas de notion de wake up pour ce module.
 [panel,primary]
 .Ce module est sur batterie et je ne peux pas régler le wake up !!
 --
-Pas de notion de wake up sur ce module; lire le paragraphe Spécificités.
+Kein Aufwachkonzept für das Modul, lesen Sie den Abschnitt Spezifikationen. 
 --
 
 {nbsp} +

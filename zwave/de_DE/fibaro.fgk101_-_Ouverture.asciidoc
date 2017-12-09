@@ -23,7 +23,7 @@ image::../images/fibaro.fgk101-DS18B20/vuedefaut1.jpg[width=200,align="center"]
 
 {nbsp} +
 
-Ce détecteur alimenté par pile et compatible Z-Wave dispose d'un capteur reed, un interrupteur de proximité à fonctionnement
+Dieser batteriebetriebene, Z-Wave-kompatible Detektor verfügt über einen Reed-Sensor, einen magnetisch arbeitenden Näherungsschalter
 magnétique, qui permet de détecter l'ouverture d'une porte ou d'une fenêtre lorsque les deux éléments sont éloignés.
 
 Le dispositif est constitué d'une partie avec un aimant (la partie mobile), fixée sur la porte ou la fenêtre, ainsi que de
@@ -49,8 +49,8 @@ déjà un réseau existant.
 * Détection pile faible
 * Protection anti-sabotage
 * 1 entrée filaire sans potentiel
-* 1 entrée analogique 1-Wire (pour connecter une sonde de température DS18B20)
-* Très petit, dimensions réduites
+* 1 Analogeingang  1-Wire(zum Anschluss eines DS18B20 Temperatursensors)
+* Sehr kleine, reduzierte Abmessungen
 * Einfache Bedienung und Installation
 
 {nbsp} +
@@ -59,12 +59,12 @@ déjà un réseau existant.
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
+* Modultyp : Z-Wave-Sender
 * Couleur : Blanc (FGK-101/102/103/104/105/106/107 selon couleur)
-* Alimentation : Pile ER14250 (1/2AA) 3,6V
+* Stromversorgung : ER14250 Batterie (1/2AA) 3,6V
 * Fréquence : 868,42 Mhz
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions: 76 x 17 x 19 mm
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 76 x 17 x 19 mm
 * Betriebstemperatur : 0-40 ° C
 
 {nbsp} +
@@ -193,7 +193,7 @@ image::../images/fibaro.fgk101-DS18B20/groupe.jpg[Groupe]
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

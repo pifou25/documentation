@@ -41,14 +41,14 @@ Le détecteur de mouvement peut être utilisé pour les scènes d'éclairage et 
 
 *	Détecteur de mouvement sans fil
 *	Détecte les mouvements à l'aide d'un capteur infrarouge passif
-*	Mesure de la température
+* Temperaturmessung
 *	Mesure de l'intensité lumineuse
 *	Protection contre l'effraction et le vol
-*	Alertes de mouvement et de température signalées par le clignotement de la diode LED
+*	Bewegungs- und Temperaturalarme werden durch blinkende LED-Dioden angezeigt
 *	Mode de détection de tremblement de terre
 *	Bouton pour inclure/exclure le détecteur
 *	Détection pile faible
-*	Très petit, dimensions réduites
+*	Sehr kleine, reduzierte Abmessungen
 *	Facilité d'installation sur un mur ou toute autre surface
 
 {nbsp} +
@@ -59,15 +59,15 @@ Le détecteur de mouvement peut être utilisé pour les scènes d'éclairage et 
 {nbsp} +
 
 
-*	Type de module : Emetteur Z-Wave
-*	Alimentation : Pile CR123A 3,6VDC
+* Modultyp : Z-Wave+ Sender
+* Stromversorgung : CR123A 3,6VDC Batterie
 *	Hauteur recommandée pour l'installation : 2,4m
-*	Plage de température mesurée : -20°C à 100°C
+* Temperaturmessbereich : -20°C bis 100°C
 *	Précision de la mesure : 0,5°C
 *	Plage de mesure de la luminosité : 0-32000 LUX
 *	Fréquence : 868,42 Mhz
-*	Distance de transmission : 50m champ libre, 30m en intérieur
-*	Dimensions: 4,4 cm de diamètre
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+*	Abmessungen : 4,4 cm im Durchmesser
 * Betriebstemperatur : 0-40 ° C
 *	Certifications : LVD 2006/95/WE EMC 2004/108/WE R&TTE 1999/5/WE RoHS II
 
@@ -135,7 +135,7 @@ image::../images/fibaro.fgms001/commandes.jpg[Commandes,align="center"]
 
 
 * Présence : c'est la commande qui remontera une détection de présence
-* Température : c'est la commande qui permet de remonter la température
+* Temperatur : das ist der Befehl, der es ermöglicht, die Temperatur zu erhöhen
 * Luminosité : c'est la commande qui permet de remonter la luminosité
 * Sabotage : c'est la commande sabotage (elle est déclenchée en cas de vibration)
 * Batterie : c'est la commande batterie
@@ -202,7 +202,7 @@ image::../images/fibaro.fgms001/config4.jpg[Config3,align="center"]
 * 60: permet de dire de combien doit être modifiée la valeur de température pour être envoyée (valeur conseillée 2  soit 0.2 degrés)
 * 62: permet de donner la fréquence des mesures de température (valeur conseillée 900)
 * 64: permet de donner une durée minimum entre deux envois successifs même si la température n'a pas changée (valeur conseillée 2700)
-* 66: permet d'ajuster la température
+* 66 : ermöglicht die Einstellung der Temperatur
 * 80: permet de choisir la couleur de la led lorsqu'il ya détection de mouvement (voir de la désactiver)
 * 81: permet de régler la luminosité de la led
 * 82: permet de régler le seuil minimal de luminosité pour mettre la led à 1% (lié au paramètre 81)

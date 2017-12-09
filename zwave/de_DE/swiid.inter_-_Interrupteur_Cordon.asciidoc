@@ -51,7 +51,7 @@ un "réseau" Z-Wave, ce réseau pouvant être aussi simple qu'une seule téléco
 * Utilisation en remplacement d'un interrupteur à cordon standard d'une lampe de chevet, de table ou de bureau
 * Funktion AN/AUS
 * Activation d'un scénario domotique sur appui long (association Z-Wave)
-* Dimensions comparables à un interrupteur sur cordon ordinaire
+* Abmessungen vergleichbar mit einem normalen Schnurschalter
 * S'installe comme un interrupteur sur cordon ordinaire
 * Convient pour tous types d'ampoules de lampe
 
@@ -63,17 +63,17 @@ un "réseau" Z-Wave, ce réseau pouvant être aussi simple qu'une seule téléco
 
 * Type de module : Récepteur Z-Wave
 * Couleur : noire
-* Alimentation: 230V ± 10% - 50Hz
+* Stromversorgung : 230V +/-10% - 50Hz
 * Puissance maxi : 660W
 * Consommation : < 0,08W
 * Indice de protection: IP20
 * Funkprotokoll : Z-Wave® (SDK 4.55)
 * Funkfrequenz : 868,42MHz (EU)
-* Dist. transmission: Jusqu'à 30m en intérieur (dépend des matériaux)
+* Übertragungsreichweite : 30m Innenraum (Material abhängig)
 * Betriebstemperatur : 0-40°C
 * Affichage marche/arrêt : LEDs bleues
-* Dimensions : 84 x 32 x 29 mm
-* Normes UE : EN 61058-2-1:2011 EN 55015
+* Abmessungen : 84 x 32 x 29 mm
+* EU Normen : EN 61058-2-1:2011 EN 55015
 
 {nbsp} +
 

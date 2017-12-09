@@ -42,7 +42,7 @@ La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné pour 
 * Fonction ON / OFF pour piloter des lampes ou des appareils (pas de variation)
 * Contrôle de la charge en local via le bouton intégré
 * Technologie Z-Wave Plus
-* Dimensions réduites pour passer presque inaperçu
+* Reduzierte Abmessungen, um fast unbemerkt zu bleiben
 * LED de statut sur le bouton intégré
 * Z-Wave Repeater-Funktion
 
@@ -52,14 +52,14 @@ La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné pour 
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230 V, 50 Hz
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230 V, 50 Hz
 * Consommation : 0.6W
 * Puissance maximum : Charge résistive : 1500W, Ampoule à incandesence : 800W, Ampoule Fluocompacte : 200W, Ampoule Led (non dimmable) : 200W
 * Fréquence : 868,42 Mhz
 * Reichweite : bis zu 70 m im Freien, bis zu 30 m in Gebäuden
 * Affichage: LED sur le bouton
-* Dimensions : Longueur (prise incluse) : 74mm Diamètre : 52mm
+* Abmessungen : Länge 74mm (Stecker inbegriffen), Durchmesser 52mm
 
 {nbsp} +
 
@@ -86,7 +86,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
 Pour mettre ce module en mode inclusion  il faut appuyer 3 fois sur son bouton, conformément à sa documentation papier.
-Il est important de noter que ce module se met directement en inclusion lorsqu'il n'appartient à aucun réseau et qu'il est alimenté
+Es ist wichtig zu beachten, dass dieses Modul direkt inkludiert wird, wenn es zu keinem Netzwerk gehört und mit Strom versorgt wird.
 
 {nbsp} +
 
@@ -162,7 +162,7 @@ image::../images/everspring.AN180-6/config1.jpg[Config1,align="center"]
 
 {nbsp} +
 
-Ce module possède 2 groupes d'association.
+Dieses Modul hat 2 Assoziationsgruppen.
 
 {nbsp} +
 
@@ -179,7 +179,7 @@ A minima Jeedom devrait se retrouver dans le groupe 1
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

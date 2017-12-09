@@ -1,6 +1,6 @@
 :icons: font
 
-= PI 3 + SSD sans carte SD
+= PI 3 + SSD ohne SD-Karte
 
 == Objectif
 

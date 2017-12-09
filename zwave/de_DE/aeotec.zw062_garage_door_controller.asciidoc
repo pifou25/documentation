@@ -60,8 +60,8 @@ Qu'il soit utilisé par le moteur ou manuellement, le détecteur intelligent liv
 
 {nbsp} +
 
-* Type de module : Récepteur et émetteur Z-Wave+ série 500
-* Alimentation :
+* Modultyp : Z-Wave+ Serie 500 Empfänger und Sender 
+* Stromversorgung :
   Actionneur : 5 VDC (adaptateur fourni)
   Capteur : Pile Lithium 3V 800mA CR2
 * Consommation en veille : 1W
@@ -69,7 +69,7 @@ Qu'il soit utilisé par le moteur ou manuellement, le détecteur intelligent liv
 * Volume maximum : 105 dB
 * Formats audio supportés : mp3 et WMV à la fréquence de 320Kbps
 * Fréquence : 868,42 Mhz
-* Distance de transmission : 300m en champ libre
+* Übertragungsreichweite : 300 m im Freiland
 * Betriebstemperatur : -20°C bis 50°C
 * Humidité de fonctionnement : 80%
 * Certifications: FCC, UL, CE, ROHS
@@ -203,7 +203,7 @@ image::../images/aeotec.garagedoorcontroller/groupe.jpg[Groupe]
 {nbsp} +
 
 
-==== Spécificités
+==== Spezifikationen
 
 Calibration du temps d'ouverture de la porte de garage:
 
