@@ -1,4 +1,4 @@
-Nous allons voir ici comment lier votre Jeedom à votre compte Market, une fois connecté à votre jeedom vous devez aller sur Général → Administration → Configuration
+Wir werden hier sehen wie Ihr Jeedom mit Ihrem Markt Konto verbunden wird, einmal in ihre Jeedom eingeloggt, müssen sie auf Allgemein → Verwaltung → Konfiguration gehen
 
 Puis cliquez sur "Mise à jour et fichier"
 
@@ -12,4 +12,4 @@ image::../images/premier-linkmarket4.png[]
 
 Eine Nachricht müsste Ihnen sagen, dass alles OK ist
 
-Pour plus de détails sur la page de configuration cliquez link:https://jeedom.github.io/documentation/core/fr_FR/administration.html[ici]
+Für ausführliche Informationen der Konfigurationsseite klicken Sie link:https://jeedom.github.io/documentation/core/fr_FR/administration.html[hier]

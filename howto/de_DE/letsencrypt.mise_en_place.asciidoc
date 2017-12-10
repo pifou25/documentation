@@ -36,7 +36,7 @@ Aucun certificat ne sera delivré par LetsEncrypt tant que votre site en HTTPS n
 ----
 /opt/letsencrypt/letsencrypt-auto --apache --email email@domaine.com -d domaine.com
 ----
-Vous devez remplacer les paramètres email@domaine.com et domaine.com par vos valeurs.
+Sie müssen die Parameter für email@domain.com und domain.com durch Ihre Werte ersetzen.
 Normalement les paramètres d'ajout du protocole https sont ajoutés par le script dans Apache.
 
 [NOTE]

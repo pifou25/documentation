@@ -55,7 +55,7 @@ La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné pour 
 * Modultyp : Z-Wave-Empfänger
 * Stromversorgung : 230 V, 50 Hz
 * Consommation : 0.6W
-* Puissance maximum : Charge résistive : 1500W, Ampoule à incandesence : 800W, Ampoule Fluocompacte : 200W, Ampoule Led (non dimmable) : 200W
+* Maximale Leistung : ohmsche Last : 1500W Glühbirne : 800W kompakte Leuchtstofflampe : 200W LED Lampe (nicht dimmbar) : 200W
 * Fréquence : 868,42 Mhz
 * Reichweite : bis zu 70 m im Freien, bis zu 30 m in Gebäuden
 * Affichage: LED sur le bouton

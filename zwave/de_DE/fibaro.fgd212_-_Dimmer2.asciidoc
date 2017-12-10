@@ -70,7 +70,7 @@ Il est compatible avec tout type de lampes supportant la variation ou non. En pl
 * Type de lampe compatible (dimmable) : Incandescente, Fluocompacte, Halogène (230VAC et 12VDC avec tranformateur électronique), LED
 * Type de lampe compatible (non dimmable) : Fluocompacte, LED
 * Fréquence : 868,42 Mhz
-* Puissance du signal : 1mW
+* Signalstärke : 1 mW
 * Übertragungsreichweite : 50m Freiland, 30m Innenraum
 * Abmessungen : 42.5 x 38.25 x 20.3 mm
 * Betriebstemperatur : 0-35 ° C
@@ -179,7 +179,7 @@ image::../images/fibaro.fgd212/config5.jpg[Config3,align="center"]
 
 {nbsp} +
 
-EN COURS DE REDACTION
+WIRD ERSTELLT
 
 {nbsp} +
 

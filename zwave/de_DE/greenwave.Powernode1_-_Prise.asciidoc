@@ -58,7 +58,7 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 
 * Stromversorgung : 230V AC, 50Hz
 * Maximaler Laststrom : 10A
-* Puissance de charge maximale : 2400W (@ 240V)
+* Maximale Leistung : 2400W (@ 240V)
 * Consommation en veille : 0,4 W
 * Précision de mesure : ± 0.1W
 * Protection contre les surintensités : 10A fusible interne

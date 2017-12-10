@@ -52,16 +52,16 @@ Le micromodule Z-Wave Fibaro FGRGB-101 permet, au choix, de commander des éclai
 === Technische Daten
 
 * Stromversorgung : 12V oder 24V kontinuierlich
-* Puissance maximale de sortie :
+* Maximale Ausgangsleistung :
 * * 12A au total (addition de l'ensemble des canaux),
 * * 6A max. par canal
-* Puissance maximale avec lampes halogènes :
+* Maximale Leistung mit Halogenlampen :
 * * 12V - 144W total (tous canaux),
 * * 24V - 288W total (tous canaux)
 * Fréquence de modulation PWM : 244 Hz
 * Consommation : 0,3W
 * Funkprotokoll : Z-Wave 868,4MHz (EU)
-* Puissance d'émission Z-Wave : 1mW
+* Z-Wave Signalstärke : 1 mW
 * Betriebstemperatur : 0-40 ° C
 * Pour installation dans des boites : Ø≥50 mm
 * Abmessungen : 42 x 37 x 17 mm 

@@ -45,7 +45,7 @@ Chaque module Z-Wave fonctionne comme un répéteur sans fil avec les autres mod
 * Commander un éclairage à distance
 * S'installe derrière un interrupteur existant
 * Fonction ON/OFF et Variation
-* Utilisation en mode 2 fils (neutre pas nécessaire)
+* Verwendung im 2-Draht-Modus (Neutralleiter, nicht notwendig)
 * Détection automatique de la charge
 * Protégé contre les surcharges
 * Petit, discret et esthétique

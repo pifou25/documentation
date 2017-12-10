@@ -65,7 +65,7 @@ Hinweis: Dieses Modul benötigt den Neutralleiter zum Betrieb.
 * Verdrahtung : 3 Adern, Neutralleiter notwendig
 * Charge maxi : 1000W
 * Fréquence : 868,42 Mhz
-* Puissance du signal : 1mW
+* Signalstärke : 1 mW
 * Übertragungsreichweite : 50m Freiland, 30m Innenraum
 * Abmessungen : 17 x 42 x 37 mm
 * Betriebstemperatur : 0-40 ° C

@@ -61,7 +61,7 @@ contrôleur Z-Wave de votre réseau.
 * Modultyp : Z-Wave-Empfänger
 * Stromversorgung : 230 V, 50 Hz
 * Consommation : 0.5W
-* Puissance maximum : Charge résistive : 2500W Ampoule à incandesence : 1200W Ampoule Fluocompacte : 320W
+* Maximale Leistung : ohmsche Last : 2500W Glühbirne : 1200W kompakte Leuchtstofflampe : 320W
 * Fréquence : 868,42 Mhz
 * Portée : jusqu'à  70 m à l'extérieur, jusqu'à 30 m dans les bâtiments
 * Affichage: LED sur le bouton

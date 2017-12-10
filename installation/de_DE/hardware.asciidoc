@@ -11,7 +11,7 @@ Sie können auch eine fertige Box mit vorinstalliertem Jeedom, die zusätzlich e
 - link:https://www.domadoo.fr/fr/box-domotique/4041-jeedom-controleur-domotique-jeedom-smart-enocean.html[Jeedom Smart EnOcean]
 - link:https://www.domadoo.fr/fr/box-domotique/4044-jeedom-controleur-domotique-jeedom-smart-enocean-et-interface-rfxcom.html[Jeedom Smart EnOcean et RFXCOM]
 
-Voici 1 configurations "type" pour bien débuter avec Jeedom en Z-Wave :
+Hier ist 1 Konfigurationen "Type" um gut mit Z-Wave in Jeedom zu starten :
 
 . Raspberry pi 3 : 
 

@@ -64,7 +64,7 @@ un "réseau" Z-Wave, ce réseau pouvant être aussi simple qu'une seule téléco
 * Type de module : Récepteur Z-Wave
 * Couleur : noire
 * Stromversorgung : 230V +/-10% - 50Hz
-* Puissance maxi : 660W
+* Maximale Leistung : 660W
 * Consommation : < 0,08W
 * Indice de protection: IP20
 * Funkprotokoll : Z-Wave® (SDK 4.55)

@@ -42,7 +42,7 @@ Le neutre est nécessaire que pour le mode "Volet"
 * Verdrahtung : 4 Drähte, 2 für Befehle und 2 für Stromversorgung
 * Fréquence: 868,3 MHz
 * angetriebene Ausgänge : 2 Relais
-* Puissance maximum: 2A par sortie
+* Maximale Leistung : 2A pro Ausgang
 * Charge résistive: 460W
 * Autres charges: 100W
 * Betriebstemperatur : -10°C bis +45°C
@@ -80,7 +80,7 @@ Afin d'éviter des redondances inutiles, ne jamais activer le mode "Répéteur" 
 image::../images/emv.400/bouton_r.jpg[align="center"]
 
 [NOTE]
-Appuyer R 3x permet d'activer le mode déporté. 
+Durch Drücken von 3x R wird der Remote-Modus aktiviert. 
 
 === Funktionsschema
 

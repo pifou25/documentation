@@ -62,7 +62,7 @@ Qu'il soit utilisé par le moteur ou manuellement, le détecteur intelligent liv
 
 * Modultyp : Z-Wave+ Serie 500 Empfänger und Sender 
 * Stromversorgung :
-  Actionneur : 5 VDC (adaptateur fourni)
+  Aktor : 5 VDC (Adapter im Lieferumfang enthalten)
   Capteur : Pile Lithium 3V 800mA CR2
 * Consommation en veille : 1W
 * Consommation de l'alarme : 2W

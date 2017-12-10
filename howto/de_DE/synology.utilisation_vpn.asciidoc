@@ -59,7 +59,7 @@ Dans le navigateur entrer 192.168.1.1. Cliquez sur paramètres de la Freebox
 
 image::../images/synology.utilisation_vpn6.png[]
 
-Sélectionner le mode avancé
+Erweiterten Modus auswählen
 
 image::../images/synology.utilisation_vpn7.png[]
 

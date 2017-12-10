@@ -38,7 +38,7 @@ image::../images/VirtualBox2.PNG[]
 
 * Geben Sie das zuvor heruntergeladene Abbild an
 
-* Sélectionner ensuite réseau et choisir "accès par pont" dans le mode d'accès réseau.
+* Wählen Sie dann Netzwerk und wählen Sie im Netzwerkzugriffsmodus "access bridge".
 
 
 image::../images/VirtualBox3.PNG[]

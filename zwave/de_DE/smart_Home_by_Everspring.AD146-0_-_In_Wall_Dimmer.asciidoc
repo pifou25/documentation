@@ -49,7 +49,7 @@ Z-Wave-Controller in Ihrem Netzwerk.
 * Antenne longue portée
 * Technologie Z-Wave Plus
 * S'installe facilement dans une boîte d'encastrement standard
-* Utilisation en mode 2 fils (neutre pas nécessaire)
+* Verwendung im 2-Draht-Modus (Neutralleiter, nicht notwendig)
 * Compatible avec les ampoules Led Dimmable
 * Schaltfläche zum inkludieren/exkludieren/zuordnen von Modulen
 * Z-Wave Repeater-Funktion
@@ -63,7 +63,7 @@ Z-Wave-Controller in Ihrem Netzwerk.
 * Modultyp : Z-Wave-Empfänger
 * Stromversorgung : 230 V, 50 Hz
 * Consommation : 0.5W
-* Puissance maximum :
+* Maximale Leistung :
 * Charge résistive : 300W
 * Ampoule à incandesence : 300W
 * Ampoule Fluocompacte : 200W

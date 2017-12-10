@@ -50,7 +50,7 @@ L’apprentissage de la prise avec son contrôleur nécessite seulement quelqu
 {nbsp} +
 
 * Stromversorgung : 230V AC +/-10% - 50Hz
-* Puissance maximum : 3000W en continue / 3500W cyclique (Charge résistive) Consommation intrinsèque : <1W
+* Maximale Leistung : kontinuierliche 3000W/zyklische 3500W (ohmsche Last) Eigenverbrauch : < 1W
 * Betriebstemperatur: 0°C bis 40°C - Höhe: 2000 m
 * Z-Wave® Funk Protokoll : 868,4MHz - 500 Serie - kompatibel Z-Wave Plus® SDK 06.51.01
 * Reichweite : 40m Innen / 80m Außen
