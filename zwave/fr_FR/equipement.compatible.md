@@ -794,6 +794,7 @@
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
+|![image](../images/305.2.12_psm02-eu.4.in.1.jpg)|Zipato|PSM02 4in1 Multi-Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
 |![image](../images/305.2.2_rgbw_bulb.jpg)|Zipato|Bulb RGBW|Ampoule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2541-zipato-ampoule-led-rgbw-z-wave-3858890731026.html)|
 |![image](../images/305.2.3_rgbw_bulb2.jpg)|Zipato|Bulb 2|Ampoule|Onglet Système, modifier Color Channels avec la valeur 31 pour avoir des rapports de couleurs cohérents|[Acheter](http://www.domadoo.fr/fr/peripheriques/4111-zipato-ampoule-led-rgbw-z-wave-v2-3858890733464.html)|
 |![image](../images/305.24881.17665_mini.keypad.jpg)|Zipato|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|

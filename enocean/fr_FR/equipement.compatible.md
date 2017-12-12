@@ -102,6 +102,13 @@
 ||Soda|Poignée intelligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2.html)|
 
 
+## D2-14
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|![image](../images/d2-14-30_insafe_nexelec.jpg)|Nexelec|Insafe|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+
 ## D2-32
 
 |Image|Marque|Nom|Type|Remarque|Lien|
