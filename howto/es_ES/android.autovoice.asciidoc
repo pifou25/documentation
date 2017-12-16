@@ -1,43 +1,43 @@
 :icons: font
 
-= Android autvoice
+= Android autovoice
 
 == Objectif
 
-Cet article a pour objet de vous guider dans l'utilisation d'Android pour parler à Jeedom. On utilisera le moteur des interactions Jeedom qui permet de formuler des demandes et d'avoir Jeedom qui y réponde (et aussi, si on le souhaite, active différents scénarios ou éléments).
+Cet article a pour objet de vous guider dans l'utilisation d'Android pour parler à Jeedom. On utilisera le moteur des interactions Jeedom qui permet de formuler des demandes et que Jeedom y réponde (et aussi, si on le souhaite, active différents scénarios ou éléments).
 
 == Installation
 
 === Les prérequis
 
 Naturellement, il faut un appareil Android (tablette, téléphone, PC avec microphone et hauts parleurs) et y installer https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=fr[Tasker] et https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice&hl=fr[AutoVoice].
-AutoVoice permet de créer ses propres commandes vocales pour Google Now pour automatiser ses tâches en utilisant la voix.
+Ce dernier permet de créer ses propres commandes vocales pour Google Now pour automatiser ses tâches en utilisant la voix.
 
-À noter : AutoVoice n'est que la composante pour parler à Jeedom mais ne permet pas que Jeedom réponde. Pour que Jeedom réponde, pas besoin de plugin Tasker. On peut aussi utiliser cet exemple en remplaçant la reconnaissance vocale de AutoVoice par un tag NFC, une géolocalisation, un SMS reçu...
+À noter : AutoVoice n'est que la composante pour parler à Jeedom mais ne permet pas à Jeedom de répondre. Pour qu'il le fasse, pas besoin du plugin Tasker. On peut aussi utiliser cet exemple en remplaçant la reconnaissance vocale de AutoVoice par un tag NFC, une géolocalisation, un SMS reçu...
 
 === Le principe
 
-On va utiliser un profil Tasker sur état. Celui-ci sera une reconaissance vocale de AutoVoice. Ensuite en tâche on demandera à Tasker d'exécuter 2 actions. La première sera d'appeler Jeedom et lui transmettre le résultat texte de la reconnaissance vocale. La deuxième sera d'énoncer le retour de Jeedom.
+On va utiliser un profil Tasker sur état. Celui-ci sera une reconnaissance vocale de AutoVoice. Ensuite en tâche, on demandera à Tasker d'exécuter 2 actions. La première sera d'appeler Jeedom et lui transmettre le résultat texte de la reconnaissance vocale. La deuxième sera d'énoncer le retour de Jeedom.
 
 == Création du profil
 
-On ajoute un nouveau profil avec en déclencheur un état.
+On ajoute un nouveau profil avec un *état* comme déclencheur.
 
 image::../images/android.autovoice1.png[]
 
-On sélectionne "Plugin" sur le premier écran.
+On sélectionne *Plugin* sur le premier écran.
 
 image::../images/android.autovoice2.png[]
 
-En type de plugin, on sélectionne AutoVoice.
+En type de plugin, on sélectionne *AutoVoice*.
 
 image::../images/android.autovoice3.png[]
 
-Dans le sous-menu "AutoVoice", on sélectionne "Recognized".
+Dans le sous-menu *AutoVoice*, on sélectionne *Recognized*.
 
 image::../images/android.autovoice4.png[]
 
-Vous pouvez sauvegarder la configuration par défaut, à moins de vouloir préciser des mots clefs ou autres paramètres.
+Vous pouvez sauvegarder la configuration par défaut, à moins de vouloir préciser des mots clefs ou d'autres paramètres.
 
 image::../images/android.autovoice5.png[]
 
@@ -45,27 +45,25 @@ On pourra donner au profil un nom comme "Jeedom Interactions" et la sauvegarde s
 
 == La tâche
 
-On ajoute une nouvelle tâche au profil nouvellement créé. Par exemple, elle pourra être appelée "API Jeedom".
+On ajoute une *nouvelle tâche* au profil nouvellement créé. Par exemple, elle pourra être appelée "API Jeedom".
 
 image::../images/android.autovoice6.png[]
 
-La tâche regroupera à la fin 2 actions : appel API et dire le retour.
+La tâche regroupera finalement 2 actions : *appel API* et *dire le retour*.
 
 image::../images/android.autovoice7.png[]
 
-D'abord on va ajouter une action de type "Réseau".
+D'abord on va ajouter une action de type *Réseau*.
 
 image::../images/android.autovoice8.png[]
 
-Puis on sélectionne "Get HTTP".
-
-image::../images/android.autovoice8.png[]
-
-Là on va remplir avec les informations Jeedom.
+Puis on sélectionne *Get HTTP*.
 
 image::../images/android.autovoice9.png[]
 
+Là on va remplir avec les informations Jeedom.
 Voici les informations à entrer : 
+
 * Serveur:Port : `https://mondomain.tld`
 * Chemin : `/jeedom/core/api/jeeApi.php?apikey=votreclef&type=interact&query=%avcommnofilter&utf8=1`
 
@@ -73,7 +71,7 @@ Ne pas oublier de mettre votre clef API en lieu et place de la chaine `votreclef
 
 image::../images/android.autovoice10.png[]
 
-Ajouter une action de type "Dire". Pour cela, filtrer les actions en mettant "dire" au niveau de la loupe.
+Ajouter une action de type *Dire*. Pour cela, filtrer les actions en mettant "dire" au niveau de la loupe.
 
 image::../images/android.autovoice11.png[]
 
