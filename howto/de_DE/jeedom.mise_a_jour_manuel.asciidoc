@@ -1,15 +1,15 @@
 = Manuelles Jeedom Update
 
-Wir werden hier sehen, wie man Jeedom manuell aktualisiert.
+Nous allons voir ici comment faire une mise à jour manuellement sur Jeedom, via la console SSH.
 
 == Voraussetzungen
 
 - Sie wissen, wie Sie sich mit SSH in Jeedom einloggen können 
 - das SSH Passwort kennen (siehe Installationsdokumentation)
-- Sie haben Internet auf der Jeedombox
+- avoir un accès Internet depuis la box Jeedom
 
 [IMPORTANT]
-Denken Sie daran, vor jeder manuellen Aktualisierung ein Backup zum wiederherstellen zu machen.
+Pensez bien à faire et exporter une sauvegarde avant toute mise à jour manuelle.
 
 == Herunterladen und Entpacken
 
@@ -23,7 +23,7 @@ unzip stable.zip
 cp -R core-stable/* /var/www/html
 ----
 
-== Update Durchführung
+== Mise à jour
 
 Weiterhin in SSH : 
 
