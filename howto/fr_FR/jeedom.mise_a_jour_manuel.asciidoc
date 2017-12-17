@@ -1,15 +1,15 @@
 = Mise à jour manuelle de Jeedom
 
-Nous allons voir ici comment faire une mise à jour manuellement sur Jeedom.
+Nous allons voir ici comment faire une mise à jour manuellement sur Jeedom, via la console SSH.
 
 == Prérequis
 
 - savoir se connecter en SSH à Jeedom
 - connaître les identifiants SSH (voir documentation d'installation)
-- avoir internet sur la box Jeedom
+- avoir un accès Internet depuis la box Jeedom
 
 [IMPORTANT]
-Pensez bien à faire et récupérer un backup avant toute mise à jour manuelle.
+Pensez bien à faire et exporter une sauvegarde avant toute mise à jour manuelle.
 
 == Téléchargement et décompression
 
@@ -23,7 +23,7 @@ unzip stable.zip
 cp -R core-stable/* /var/www/html
 ----
 
-== Passage des mises à jour
+== Mise à jour
 
 Toujours en SSH: 
 
