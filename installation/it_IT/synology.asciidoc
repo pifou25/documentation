@@ -109,7 +109,7 @@ Choisissez un dossier sur votre Synology (c'est dans ce dossier qu'il y aura tou
 
 image::../images/install_synology_27.PNG[]
 
-Dans chemin d'accès, mettez /var/www/jeedom puis cliquez sur "Environnement" :
+Dans chemin d'accès, mettez /var/www/html puis cliquez sur "Environnement" :
 
 image::../images/install_synology_28.PNG[]
 

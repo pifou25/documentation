@@ -61,7 +61,7 @@ En plus d'utiliser le clavier numérique, vous pouvez aussi passer un badge RFID
 * Betriebstemperatur : 10°C bis 40°C
 *	Humidité en fonctionnement : 30% à 80%
 * Abmessungen : 62 x 62 x 20 mm
-*	Certifications :	Sécurité : UL EMC : FCC, CE RoHS
+*	Zulassung :	Sicherheit : UL EMC : FCC, CE RoHS
 
 {nbsp} +
 
@@ -69,7 +69,7 @@ En plus d'utiliser le clavier numérique, vous pouvez aussi passer un badge RFID
 
 {nbsp} +
 
-* Marque : Zipato
+* Marke : Zipato
 * Name : Zipato Mini Keypad RFID
 * Hersteller-ID : 151
 * Produkttyp : 24881

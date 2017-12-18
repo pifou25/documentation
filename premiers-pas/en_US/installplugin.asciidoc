@@ -1,4 +1,4 @@
-Un plugin permet d'ajouter des fonctionnalités à Jeedom, il en existe des centaines, certains peuvent être payants. Pour accéder à la page des plugins aller sur Plugins → Gestion des plugins
+Un plugin permet d'ajouter des fonctionnalités à Jeedom. Il en existe des centaines. Beaucoup sont gratuits, d'autres peuvent être payants. Pour accéder à la page des plugins aller sur Plugins → Gestion des plugins.
 
 Il vous suffit ensuite de cliquer sur Market :
 
@@ -7,7 +7,7 @@ image::../images/premier-plugin2.png[]
 Vous allez ensuite avoir la liste de tous les plugins qu'il est possible d'installer.
 
 [IMPORTANT]
-Attention, certains sont officiels et d'autres non, en cas de souci avec un plugin non officiel l'équipe Jeedom ne pourra être tenue pour responsable.
+Attention, certains sont officiels et d'autres non. En cas de souci avec un plugin non officiel, l'équipe Jeedom ne pourra être tenue pour responsable.
 
 image::../images/premier-plugin3.png[]
 
@@ -15,6 +15,15 @@ By clicking on a plugin you will get its plug :
 
 image::../images/premier-plugin4.png[]
 
-Vous avez ici des boutons pour installer le plugin (la version stable est fortement recommandée) ainsi qu'une brève description et surtout un lien vers la documentation du plugin. Il est important de consulter cette documentation car beaucoup des problèmes que vous pourriez rencontrer sont expliqués dans celle-ci.
+Vous retrouvez alors :
+* des boutons pour installer le plugin : la version stable est fortement recommandée,
+* un bouton pour supprimer le plugin,
+* une brève description,
+* un lien vers la documentation du plugin,
+* un lien vers le changelog (les dernières modifications apportées),
+* la compatibilité avec les différentes plateformes,
+* les avis des utilisateurs,
+* la façon d'utiliser le plugin,
+* des informations complémentaires comme l'auteur, le lien vers la discussion du forum concernant ce plugin, la date de dernière mise à jour, etc.
 
-Pour plus d'informations sur cette page cliquez link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html[ici]
+Pour plus d'informations sur les plugins cliquez link:https://github.com/jeedom/core/blob/master/doc/fr_FR/plugin.asciidoc[ici] .

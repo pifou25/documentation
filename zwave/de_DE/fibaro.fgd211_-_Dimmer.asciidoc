@@ -63,8 +63,8 @@ Chaque module Z-Wave fonctionne comme un répéteur sans fil avec les autres mod
 * Charge maxi : 25-500W (charge résistive) ou 1.5A (charge inductive)
 * Type de lampe compatible (dimmable) : Incandescente, Fluocompacte, Halogène (230VAC et 12VDC avec tranformateur électronique), LED
 * Type de lampe compatible (non dimmable) : Fluocompacte, LED
-* Fusible : 2.5A
-* Fréquence : 868,42 Mhz
+* Sicherung : 2.5A
+* Frequenz : 868,42 MHz
 * Übertragungsreichweite : 50m Freiland, 30m Innenraum
 * Abmessungen : 15 x 42 x 36 mm
 * Betriebstemperatur : 0-40 ° C

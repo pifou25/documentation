@@ -2,7 +2,7 @@
 
 == Beschreibung
 
-La procédure va permettre de se connecter en SFTP à votre box afin d'aller récupérer les backups quotidiens effectués par la box.
+La procédure va permettre de se connecter en SFTP à votre box afin d'aller récupérer les sauvegardes quotidiennes effectuées par celle-ci.
 
 [TIP]
 Attention, afin que cette procédure fonctionne, il est nécessaire que le serveur SSH de la box soit toujours fonctionnel. 
@@ -40,8 +40,8 @@ Le chemin d'accès se renseigne dans la partie site distant.
 
 image::../images/restore-filezilla02.jpg[align="center"]
 
-== Téléchargement du backup
+== Téléchargement de la sauvegarde
 
-Sur la liste des backups, en faisant un clic droit, il est possible de lancer le téléchargement du backup.
+Sur la liste des sauvegardes, en faisant un clic droit, il est possible de lancer son téléchargement.
 
 image::../images/restore-filezilla03.jpg[align="center"]

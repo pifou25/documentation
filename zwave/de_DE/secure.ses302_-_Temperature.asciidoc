@@ -68,7 +68,7 @@ On peut facilement l'inclure / l'exclure dans un réseau Z-Wave.
 
 {nbsp} +
 
-* Marque : Horstmann
+* Marke : Hortsmann
 * Name : SES 302 Temperatur Sensor
 * Hersteller-ID : 89
 * Produkttyp : 13

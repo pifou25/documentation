@@ -77,7 +77,7 @@ Attention: ce module n'envoie pas son état au contrôleur z-wave lorsque l'util
 
 {nbsp} +
 
-=== Connexion
+=== Verbindung
 
 image::../images/duwi.05436/2-Montage.PNG[width=712,align="center"]
 
@@ -87,7 +87,7 @@ image::../images/duwi.05436/2-Montage.PNG[width=712,align="center"]
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 

@@ -73,7 +73,7 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 {nbsp} +
 
 
-* Marque : MC HOME
+* Marke : MC HOME
 * Name : MH-S412 Touch Panel Switch (Schalter 2-fach)
 * Hersteller-ID : 351
 * Produkttyp : 16642
@@ -85,7 +85,7 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 

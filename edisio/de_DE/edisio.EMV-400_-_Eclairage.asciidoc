@@ -44,14 +44,14 @@ Le neutre est nécessaire que pour le mode "Volet"
 * angetriebene Ausgänge : 2 Relais
 * Maximale Leistung : 2A pro Ausgang
 * Charge résistive: 460W
-* Autres charges: 100W
+* Sonstige Belastung : 100W
 * Betriebstemperatur : -10°C bis +45°C
 * Abmessungen : 48x46x26mm
-* Degré de protection: IP20
+* Schutzgrad : IP20
 
 == Moduldaten
 
-* Marque : Edisio Smart Home
+* Marke : Edisio Smart Home
 * Name  EMV-400
 
 == Hauptkonfiguration

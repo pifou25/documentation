@@ -62,12 +62,12 @@ Z-Wave-Controller in Ihrem Netzwerk.
 
 * Modultyp : Z-Wave-Empfänger
 * Stromversorgung : 230 V, 50 Hz
-* Consommation : 0.5W
+* Leistungsaufnahme : 0,5W
 * Maximale Leistung :
-* Charge résistive : 300W
-* Ampoule à incandesence : 300W
+* Ohmsche Last : 300W
+* Glühlampe : 300W
 * Ampoule Fluocompacte : 200W
-* Fréquence : 868,42 Mhz
+* Frequenz : 868,42 MHz
 * Portée : jusqu'à  70 m à l'extérieur, jusqu'à 30 m dans les bâtiments
 * Affichage: LED sur le bouton
 * Abmessungen : 42 x 43 x 16 mm

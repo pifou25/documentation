@@ -68,7 +68,7 @@ pre-up wpa_supplicant -Dwext -i wlan0 -c /etc/wpa_supplicant.conf -B
 iface default inet dhcp
 ----
 
-== Èdition du fichier "/etc/wpa_supplicant.conf"
+== Bearbeiten der Datei "/etc/wpa_supplicant.conf"
 
 Il ne reste maintenant plus qu'à insérer vos paramètres WiFi (nom de votre SSID et clé WPA). Cela se fait en éditant le fichier /etc/wpa_supplicant.conf avec la commande :
 

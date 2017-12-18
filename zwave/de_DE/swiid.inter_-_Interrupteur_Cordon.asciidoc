@@ -65,8 +65,8 @@ un "réseau" Z-Wave, ce réseau pouvant être aussi simple qu'une seule téléco
 * Couleur : noire
 * Stromversorgung : 230V +/-10% - 50Hz
 * Maximale Leistung : 660W
-* Consommation : < 0,08W
-* Indice de protection: IP20
+* Leistungsaufnahme : < 0,08W
+* Schutzgrad : IP20
 * Funkprotokoll : Z-Wave® (SDK 4.55)
 * Funkfrequenz : 868,42MHz (EU)
 * Übertragungsreichweite : 30m Innenraum (Material abhängig)

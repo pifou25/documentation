@@ -67,7 +67,7 @@ Z-Wave-Controller in Ihrem Netzwerk.
 
 {nbsp} +
 
-* Marque : Everspring
+* Marke : Everspring
 * Name : Miniplug Dimmer
 * Hersteller-ID : 96
 * Produkttyp : 3

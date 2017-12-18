@@ -67,8 +67,8 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 * Maximale Z-Wave-Reichweite : 30m
 * Betriebstemperatur : 0°C bis +25°C
 * Lagertemperatur : -20°C bis + 60°C
-* Humidité maximale : 5% à 90%
-* Classe IP (Tolérance d'humidité) : IP20
+* Maximale Luftfeuchtigkeit: 5% bis 90%
+* Schutzgrad : IP20
 
 {nbsp} +
 
@@ -76,7 +76,7 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 
 {nbsp} +
 
-* Marque : GreenWave
+* Marke : GreenWave
 * Name : GreenWave PowerNodes NS310-F Zwischenstecker
 * Hersteller-ID : 153
 * Produkttyp : 2

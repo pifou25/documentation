@@ -69,7 +69,7 @@ Le détecteur de mouvement peut être utilisé pour les scènes d'éclairage et 
 * Übertragungsreichweite : 50m Freiland, 30m Innenraum
 *	Abmessungen : 4,4 cm im Durchmesser
 * Betriebstemperatur : 0-40 ° C
-*	Certifications : LVD 2006/95/WE EMC 2004/108/WE R&TTE 1999/5/WE RoHS II
+*	Zulassung : LVD 2006/95/WE EMC 2004/108/WE R&TTE 1999/5/WE RoHS II
 
 {nbsp} +
 

@@ -64,9 +64,9 @@ Il est compatible avec tout type de lampes supportant la variation ou non. En pl
 
 * Modultyp : Z-Wave-Empfänger
 * Stromversorgung : 230V +/-10% - 50Hz
-* Consommation : 1.3W
+* Leistungsaufnahme : 1,3W
 * Verdrahtung : Neutralleiter nicht notwendig
-* Charge maxi : 50-250W (charge résistive) ou 0.25-1.1A (charge inductive)
+* Maximale Last : 50-250W (ohmsche Last) oder 0.25-1.1A (induktive Last)
 * Type de lampe compatible (dimmable) : Incandescente, Fluocompacte, Halogène (230VAC et 12VDC avec tranformateur électronique), LED
 * Type de lampe compatible (non dimmable) : Fluocompacte, LED
 * Fréquence : 868,42 Mhz

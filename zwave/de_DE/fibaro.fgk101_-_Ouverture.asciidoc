@@ -62,7 +62,7 @@ déjà un réseau existant.
 * Modultyp : Z-Wave-Sender
 * Couleur : Blanc (FGK-101/102/103/104/105/106/107 selon couleur)
 * Stromversorgung : ER14250 Batterie (1/2AA) 3,6V
-* Fréquence : 868,42 Mhz
+* Frequenz : 868,42 MHz
 * Übertragungsreichweite : 50m Freiland, 30m Innenraum
 * Abmessungen : 76 x 17 x 19 mm
 * Betriebstemperatur : 0-40 ° C

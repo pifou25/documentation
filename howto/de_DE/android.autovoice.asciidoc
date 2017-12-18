@@ -65,7 +65,7 @@ Là on va remplir avec les informations Jeedom.
 Voici les informations à entrer : 
 
 * Server:Port : `https://mondomain.tld`
-* Chemin : `/jeedom/core/api/jeeApi.php?apikey=votreclef&type=interact&query=%avcommnofilter&utf8=1`
+* Pfad : /jeedom/core/api/jeeApi.php?apikey=votreclef&type=interact&query=%avcommnofilter&utf8=1`
 
 Ne pas oublier de mettre votre clef API en lieu et place de la chaine `votreclef`. Il faut bien laisser `%avcommonfilter` à la fin, ce sera remplacé par le retour d'Autovoice.
 

@@ -73,8 +73,8 @@ si vous avez déjà un réseau existant.
 
 * Modultyp : Z-Wave-Sender
 * Stromversorgung : 1 Batterie CR123A 3V 
-* Durée de vie des piles : 2 ans
-* Fréquence : 868.42 MHz
+* Lebensdauer der Batterie : 2 Jahr
+* Frequenz : 868,42 MHz
 * Übertragungsreichweite : 30m Innenraum
 * Temperatursensor : -10 bis 70° C
 * Capteur de luminosité : 0 à 500 lux

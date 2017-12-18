@@ -66,12 +66,12 @@ Qu'il soit utilisé par le moteur ou manuellement, le détecteur intelligent liv
   Capteur : Pile Lithium 3V 800mA CR2
 * Consommation en veille : 1W
 * Consommation de l'alarme : 2W
-* Volume maximum : 105 dB
-* Formats audio supportés : mp3 et WMV à la fréquence de 320Kbps
-* Fréquence : 868,42 Mhz
+* Lautstärke maximal : 105 dB
+* Unterstützte Audioformate : MP3 und WMV mit einer Frequenz von 320 Kbps
+* Frequenz : 868,42 MHz
 * Übertragungsreichweite : 300 m im Freiland
 * Betriebstemperatur : -20°C bis 50°C
-* Humidité de fonctionnement : 80%
+* Betrieb Luftfeuchtigkeit : 80%
 * Certifications: FCC, UL, CE, ROHS
 
 {nbsp} +

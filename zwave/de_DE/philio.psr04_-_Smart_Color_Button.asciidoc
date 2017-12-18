@@ -74,7 +74,7 @@ vAutonomie de la batterie : 6 mois pour 2h de charge
 Support : 71,16 x 10,94 mm (diamétre x épaisseur)
 Bouton : 59,99 x 14,89 mm (diamétre x épaisseur)
 Support + Bouton : 71,16 x 17,22 mm (diamétre x épaisseur)
-* Certifications :
+ * Zertifizierungen :
 
 EN 301 489-1, EN 301 489-3
 EN 300 220-1, EN 300 220-2

@@ -65,8 +65,8 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 * Maximale Z-Wave-Reichweite : 30m
 * Betriebstemperatur : 0°C bis +25°C
 * Lagertemperatur : -20°C bis + 60°C
-* Humidité maximale : 5% à 90%
-* Classe IP (Tolérance d'humidité) : IP20
+* Maximale Luftfeuchtigkeit: 5% bis 90%
+* Schutzgrad : IP20
 
 {nbsp} +
 
@@ -74,7 +74,7 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 
 {nbsp} +
 
-* Marque : GreenWave
+* Marke : GreenWave
 * Name : GreenWave NP-210F PowerNode 6 Steckdosenleiste
 * Hersteller-ID : 153
 * Produkttyp : 3

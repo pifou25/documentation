@@ -69,12 +69,12 @@ Un contrôleur Z-Wave (télécommande, dongle ...) est nécessaire afin d'intég
 * Temperatursensor : -10 bis 70° C
 * Capteur de luminosité : 0 à 500 lux
 * Abmessungen :
-* Détecteur : 28 x 96 x 23 mm
-* Aimant : 10 x 50 x 12 mm
-* Poids : 52g
+* Detektor : 28 x 96 x 23 mm
+* Magnet : 10 x 50 x 12 mm
+* Gewicht : 52g
 * Betriebstemperatur : -10°C bis 40°C
-* Humidité de fonctionnement : 85%RH max
-* Norme CE : EN300 220-1
+* Betrieb Luftfeuchtigkeit : 85%RH max
+* CE-Standard : EN300 220-1
 * Certification Z-Wave : ZC08-13050003
 
 {nbsp} +

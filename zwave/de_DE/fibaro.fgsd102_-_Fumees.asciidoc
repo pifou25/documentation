@@ -63,10 +63,10 @@ Certains matériaux brûlent sans fumer. C'est pourquoi les ingénieurs de Fibar
 * Humidité de fonctionnement : 0% - 93%
 * Temperaturmessbereich : -20°C bis 100°C
 * Sensibilité à la fumée : 1er niveau - 1,20 +/- 0,5% obs/m; 2e niveau - 1,80 +/- 0,5% obs/m; 3e niveau - 2,80 +/- 0,5% obs/m
-* Niveau sonore: 85 dB à 3m
-* Précision de la mesure : 0,5°C (dans une gamme de 0 à 55°C)
+* Geräuschpegel : 85 dB bei 3 m
+* Genauigkeit der Messung : 0,5°C (in einem Bereich von 0 bis 55°C)
 * Normen : EMC 2004/108/EC et R&TTE 199/5/WE
-* Certifications : EN 14604:2005
+* Zertifizierungen : EN 14604: 2005
 
 {nbsp} +
 

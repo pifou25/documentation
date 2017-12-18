@@ -1,17 +1,27 @@
-Nous allons voir ici comment vous pouvez trouver/demander de l'aide. En cas de question, il est possible dans Jeedom de trouver les réponses à plusieurs endroits :
+Jeedom aborde des champs très vastes et évoluant de jour en jour. Cependant, de nombreux moyens sont mis à votre disposition pour trouver de l'aide et poser vos questions.
 
-=== Dans la doc
+=== La documentation de Jeedom
 
 Vous trouverez une documentation complète link:https://jeedom.fr/doc[ici] :
 
-image::../images/premier-support1.png[]
+Celle-ci se compose de plusieurs catégories : 
 
-Celle-ci se décompose en plusieurs catégories : une partie pour le "coeur" de Jeedom, une partie sur les modules (Zwave, mySensors, RFXcom) et une dernière partie pour la documentation des plugins.
+* Core : une partie pour le "coeur" de Jeedom,
+* Premiers-pas : Une partie (où vous êtes actuellement) pour les premiers éléments à connaître,
+* Installation : Tout ce qui concerne l'installation de Jeedom,
+* Howto : Des tutoriels pour progresser dans divers domaines,
+* Plugins : Les documentations des différents plugins officiels de Jeedom,
+* les autres : diverses pages sur les différents protocoles utilisés dans Jeedom, la présentation de Jeedom, des listes de compatibilité, etc.
+
+Vous trouverez également en dessous la liste des documentations pour les plugins tiers.
+
+N'hésitez pas à utiliser la fonction *rechercher* en haut à droite de la page pour trouver les pages en fonction d'un mot précis.
 
 === Le forum
 
-Disponible link:https://jeedom.com/forum[ici], le forum est très actif et contient énormément d'informations. Si vous avez une question, n'hésitez pas à la poser, vous aurez une réponse en moins d'une heure (en moyenne).
-Attention, le forum est maintenu par la communauté Jeedom, composée de bénévoles, et non par la société Jeedom.
+Vous le trouverez link:https://jeedom.com/forum[ici] . 
+
+Le forum est très actif et contient énormément d'informations. Si vous avez une question, n'hésitez pas à la poser. Vous aurez une réponse en moins d'une heure (en moyenne). Attention cependant, le forum est maintenu par la communauté Jeedom, composée de bénévoles, et non par la société Jeedom.
 
 image::../images/premier-support3.png[]
 
@@ -20,23 +30,26 @@ image::../images/premier-support3.png[]
 [IMPORTANT]
 Attention, toute demande de support nécessite obligatoirement d'avoir un compte sur le Market.
 
-Si vous n'avez pas trouvé de solution à votre problème, vous pouvez en dernier recours faire une demande de support à l'équipe Jeedom : cette demande passe par un ticket. Il est possible d'en ouvrir un de plusieurs façons :
+Si vous n'avez pas trouvé de solution à votre problème, en dernier recours, vous pouvez faire une demande de support à l'équipe Jeedom. Cette demande passe par un ticket. Il est possible d'en ouvrir un de plusieurs façons :
 
-- Directement à partir de Jeedom (méthode conseillée) : où que vous soyez dans Jeedom, il y a un point d'exclamation en haut à droite qui permet de faire une demande de support
+* Directement à partir de Jeedom (méthode conseillée) : où que vous soyez dans Jeedom, il y a un point d'exclamation en haut à droite qui permet de faire une demande de support :
 
 image::../images/premier-support4.png[]
 
-- Si pour une raison ou une autre vous n'avez pas accès à votre Jeedom, vous pouvez toujours ouvrir un ticket à partir du Market: soit avec le point d'exclamation en haut à droite, soit en allant sur votre profil (cliquez ensuite sur le bouton "Ouvrir une demande de support")
+* Si pour une raison ou pour une autre vous n'avez pas accès à votre Jeedom, vous pouvez toujours ouvrir un ticket à partir du Market :
+** soit avec le point d'exclamation en haut à droite, 
+** soit en allant sur votre profil (cliquez ensuite sur le bouton "Ouvrir une demande de support").
 
 image::../images/premier-support5.png[]
 
 Toute la suite des échanges se fera par mail.
 
-Lors de l'ouverture d'un ticket, j'ai une erreur m'indiquant que j'ai atteint mon quota:
-En effet, en fonction de votre service pack vous êtes limité à un certain nombre de demandes de support par mois:
+[TIP]
+Si, lors de l'ouverture d'un ticket, vous obtenez une erreur indiquant que vous avez atteint votre quota, c'est que vous êtes limités à un certain nombre de demandes de support par mois, en fonction de votre service pack.
 
-- Community (gratuit) : 2 tickets/mois (sur plugins payant uniquement)
-- Power : 10 tickets/mois
-- Pro : 100 tickets/mois
+Les différents services packs sont :
+* Community (gratuit) : 2 tickets/mois (sur plugins payants uniquement)
+* Power : 10 tickets/mois
+* Pro : 100 tickets/mois
 
-Vous pouvez retrouver le détail des service packs link:https://jeedom.fr/doc/documentation/core/fr_FR/doc-core-service_pack.html[ici]
+Vous pouvez retrouver le détail des services packs link:https://www.jeedom.com/site/fr/soft.html#obtenir[ici]

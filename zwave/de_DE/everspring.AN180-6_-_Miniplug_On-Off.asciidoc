@@ -71,7 +71,7 @@ La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné pour 
 * Name : Miniplug ein-/ausschalten
 * Hersteller-ID : 96
 * Produkttyp : 4
-* Produit ID : 7
+* Produkt-ID : 7
 
 {nbsp} +
 

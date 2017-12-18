@@ -1,11 +1,11 @@
-Einer der wichtigsten Schritte ist dann, das Standardpasswort Ihres Jeedom Kontos zu ändern, dafür klicken Sie auf Allgemein  → Konfiguration  → Benutzer :
+Une des étapes importantes est de changer le mot de passe par défaut de votre compte Jeedom, pour cela cliquez sur Administration → Utilisateurs (en haut à droite) :
 
-Erst einmal müssen Sie nur die Zeile mit dem Benutzer "admin" wählen und auf Passwort ändern klicken :
+Une fois dessus vous avez juste à choisir la ligne avec l'utilisateur *admin* et à cliquer sur *changer le mot de passe* :
 
 image::../images/premier-changeuser2.png[]
 
-Ein Fenster wird sie nach dem neuen Passwort fragen. Achtung, merken sie es sich, andernfalls haben Sie keinen Zugang zu Ihrem Jeedom 
+Une fenêtre va vous demander le mot de passe. Attention à bien le retenir, sinon vous ne pourrez plus accéder à votre Jeedom :
 
 image::../images/premier-changeuser3.png[]
 
-Jetzt haben Sie das Passwort des Admin-Kontos geändert, für mehr Information klicken sie auf diese Seite link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-user.html[hier]
+Voilà, vous avez changé le mot de passe du compte admin, pour plus d'information sur cette page cliquez link:https://github.com/jeedom/core/blob/stable/doc/fr_FR/user.asciidoc[ici].
