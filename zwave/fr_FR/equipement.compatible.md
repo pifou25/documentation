@@ -257,6 +257,7 @@
 |---|---|---|---|---|---|
 |![image](../images/96.1.1_hsp02.motion.detector.jpg)|Everspring|HSP02 Motion Detector|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
 |![image](../images/96.1.2_sp814.motion.detector.jpg)|Everspring|SP814 Motion Detector|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/857-everspring-detecteur-de-presence-z-wave-sp814-3700946500288.html)|
+|![image](../images/96.1.5_sp816.outdoormotiondetector.jpg)|Everspring|SP816 Motion Detector|Mouvement|||
 |![image](../images/96.11.1_st812.flood.detector.jpg)|Everspring|ST812|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
 |![image](../images/96.12.1_se812.siren.jpg)|Everspring|SE812|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/845-everspring-sirene-z-wave-se812-3700946500189.html)|
 |![image](../images/96.13.1_sf812.smoke.alarm.jpg)|Everspring|SF812|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/848-everspring-detecteur-de-fumee-z-wave-sf812-3700946500219.html)|
