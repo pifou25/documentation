@@ -1,5 +1,7 @@
 Varios videos tutoriales han sido realizados con el fin de mostrar las importantes funcionalidades de Jeedom, facilitar su utilización y familiarizar al usuario con el programa.
 
+Cependant depuis la réalisation de ces tutoriels, l'interface de Jeedom a pu évoluer et des fonctionnalités ajoutées. La documention reste donc la référence à consulter en cas de besoins, questions, etc. 
+
 Esta es la lista de tutoriales disponibles :
 
 * https://www.youtube.com/watch?v=UTECRBGEUtI[Tutorial Jeedom #1: Primeros pasos]

@@ -1,9 +1,9 @@
 = Erste Schritte mit Jeedom 
 
-Willkommen bei der Dokumentation "Ersten Schritte", es wird Ihnen helfen Ihr Jeedom zu benutzen
+Bienvenue dans cette documentation de premiers pas, celle-ci va vous aider à mettre en service votre Jeedom.
 
 [TIP]
-Dieses Handbuch soll nicht die vollständige Jeedom Dokumentation https://jeedom.fr/doc[hier] ersetzen 
+Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici].
 
 == Auf dem Markt Registrieren
 include::market.asciidoc[]

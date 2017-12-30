@@ -30,4 +30,4 @@ Sie müssen nur die SD-Karte in das  Jeedomboard (oder Hummingboard) stecken, so
 [TIP]
  Die SSH Zugangsdaten jeedom/Mjeedom96
 
-Pour la suite vous pouvez suivre la documentationhttps://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc[Premier pas avec Jeedom]
+Pour la suite vous pouvez suivre la documentation https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html[Premier pas avec Jeedom]

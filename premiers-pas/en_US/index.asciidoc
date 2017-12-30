@@ -1,9 +1,9 @@
 == Started with Jeedom
 
-Welcome to the first steps of documentation, it will help you set up your Jeedom
+Bienvenue dans cette documentation de premiers pas, celle-ci va vous aider à mettre en service votre Jeedom.
 
 [TIP]
-This guide is not intended to replace the full documentation available at Jeedom https://jeedom.fr/doc[here]
+Ce guide n'a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom https://jeedom.fr/doc[ici].
 
 == Registration on the market
 include::market.asciidoc[]
