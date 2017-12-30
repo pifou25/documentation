@@ -56,10 +56,10 @@ Le système Poly-Control peut être utilisé dans un environnement domestique ou
 
 {nbsp} +
 
-* Alimentation : Pile Lithium-Chloride 3.6V
+* Stromversorgung : 3,6 V Lithium-Chlorid-Batterie
 * Fréquence : 868,42 Mhz
 * Reichweite : bis zu 100 m im Freien, bis zu 30 m in Gebäuden
-* Dimensions : 120 x 52 x 60 mm (L x l x h)
+* Abmessungen : 120 x 52 x 60mm (L x b x h)
 * Poids : 370g
 
 {nbsp} +
@@ -82,13 +82,13 @@ Le système Poly-Control peut être utilisé dans un environnement domestique ou
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer 1 fois sur le bouton d'inclusion, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man 1 Mal auf die Inklusionstaste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 
@@ -258,7 +258,7 @@ Il n'y a pas de notion de wake up pour ce module.
 [panel,primary]
 .Ce module est sur batterie et je peux pas régler le wake up !!
 --
-Pas de notion de wake up sur ce module, lire le paragraphe spécificités.
+Kein Aufwachkonzept für das Modul, lesen Sie den Abschnitt Spezifikationen. 
 --
 
 {nbsp} +

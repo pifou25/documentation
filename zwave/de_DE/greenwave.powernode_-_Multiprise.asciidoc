@@ -40,11 +40,11 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 
 {nbsp} +
 
-* Multiprise Z-Wave 6 ports
+* Z-Wave Mehrfachsteckdose 6-Fach
 * Permet le suivi des consommations des appareils branchés
 * Funktion AN/AUS
 * Possibilité de lui affecter un numéro et une couleur afin de différencier les différentes PowerNode d'une même installation.
-* Bouton On/Off directement sur la multiprise
+* An/Aus Schalter direkt an der Mehrfachsteckdose
 * Protection contre les surintensités
 * Indicateur d'état lumineux
 
@@ -54,9 +54,9 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 
 {nbsp} +
 
-* Alimentation : 250V ~ AC, 50Hz
+* Stromversorgung : 230V AC, 50Hz
 * Maximaler Laststrom : 10A
-* Puissance de charge maximale : 2400W (@ 240V)
+* Maximale Leistung : 2400W (@ 240V)
 * Consommation en veille : 0,4 W
 * Précision de mesure : ± 0.1W
 * Protection contre les surintensités : 10A fusible interne
@@ -64,9 +64,9 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 * Z-Wave Funkfrequenz : 868,42MHz
 * Maximale Z-Wave-Reichweite : 30m
 * Betriebstemperatur : 0°C bis +25°C
-* Température de stockage : -20 ° C à + 60 ° C
-* Humidité maximale : 5% à 90%
-* Classe IP (Tolérance d'humidité) : IP20
+* Lagertemperatur : -20°C bis + 60°C
+* Maximale Luftfeuchtigkeit: 5% bis 90%
+* Schutzgrad : IP20
 
 {nbsp} +
 
@@ -74,7 +74,7 @@ Cette multiprise est idéale pour contrôler des appareils multimédia dans un m
 
 {nbsp} +
 
-* Marque : GreenWave
+* Marke : GreenWave
 * Name : GreenWave NP-210F PowerNode 6 Steckdosenleiste
 * Hersteller-ID : 153
 * Produkttyp : 3

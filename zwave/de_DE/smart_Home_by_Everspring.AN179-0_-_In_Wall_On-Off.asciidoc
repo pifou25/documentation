@@ -1,5 +1,5 @@
 :icons:
-== SmartHome by Everspring In Wall On Off - AN179-0
+   == SmartHome von Everspring Unterputz An Aus - AN179-0
 
 {nbsp} +
 
@@ -45,11 +45,11 @@ contrôleur Z-Wave de votre réseau.
 * S'installe derrière un interrupteur existant
 * Fonction ON/OFF
 * Faible consommation d'énergie
-* Très petit, dimensions réduites
+* Sehr kleine, reduzierte Abmessungen
 * Antenne longue portée
 * Technologie Z-Wave Plus
 * S'installe facilement dans une boîte d'encastrement standard
-* Bouton pour inclure/exclure/associer le module
+* Schaltfläche zum inkludieren/exkludieren/zuordnen von Modulen
 * Z-Wave Repeater-Funktion
 
 {nbsp} +
@@ -58,14 +58,14 @@ contrôleur Z-Wave de votre réseau.
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230 V, 50 Hz
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230 V, 50 Hz
 * Consommation : 0.5W
-* Puissance maximum : Charge résistive : 2500W Ampoule à incandesence : 1200W Ampoule Fluocompacte : 320W
-* Fréquence : 868,42 Mhz
-* Portée : jusqu'à  70 m à l'extérieur, jusqu'à 30 m dans les bâtiments
-* Affichage: LED sur le bouton
-* Dimensions : 42mm x 43mm x 16mm
+* Maximale Leistung : ohmsche Last : 2500W Glühbirne : 1200W kompakte Leuchtstofflampe : 320W
+* Frequenz : 868,42 MHz
+* Reichweite : bis zu 70 m im Freien, bis zu 30 m in Gebäuden
+* Anzeige : LED an der Taste
+* Abmessungen : 42 x 43 x 16 mm
 
 {nbsp} +
 
@@ -73,7 +73,7 @@ contrôleur Z-Wave de votre réseau.
 
 {nbsp} +
 
-* Marque : SmartHome by Everspring
+* Marke : SmartHome By Everspring
 * Name : Im Wall it Off
 * Hersteller-ID : 96
 * Produkttyp : 4
@@ -92,7 +92,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
 Pour mettre ce module en mode inclusion  il faut appuyer 3 fois sur son bouton, conformément à sa documentation papier.
-Il est important de noter que ce module se met directement en inclusion lorsqu'il n'appartient à aucun réseau et qu'il est alimenté
+Es ist wichtig zu beachten, dass dieses Modul direkt inkludiert wird, wenn es zu keinem Netzwerk gehört und mit Strom versorgt wird.
 
 {nbsp} +
 
@@ -186,7 +186,7 @@ A minima Jeedom devrait se retrouver dans le groupe 1
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

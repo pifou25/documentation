@@ -6,7 +6,7 @@ Voici un tuto pour installer VMware sur un Intel NUC (gen6). Nous verrons par la
 
 === Intel NUC
 
-L'Intel NUC est un petit PC, pas le plus puissant, mais très économe en énergie et de faibles dimensions. Cela en fait un parfait petit serveur de virtualisation basé sur VMware.
+Der Intel NUC ist ein kleiner PC, nicht der leistungsfähigste, aber sehr energieeffizient und er hat kleine Abmessungen. Dies macht ihn zu einem perfekten kleinen VMware-basierten Virtualisierungs Server.
 
 Il existe actuellement 2 NUC de 6ème génération (les autres marchent aussi pour VMware mais nécessitent de mettre des drivers en plus sur le noyau VMware):
 
@@ -52,7 +52,7 @@ Attention pour la mémoire il faut absolument de la DDR4 en So-DIMM 260 pins, il
 
 Avant de lancer l'installation a proprement parlé il va d'abord falloir récupérer VMware et le mettre sur une clef USB.
 
-=== Téléchargement de VMware
+=== VMware herunterladen
 
 [IMPORTANT]
 Si vous mettez vmware 6.5, il y a un soucis avec la nouvelle gestion de l'USB et les clefs Zwave, pour que cela marche il faut appliquer ce https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2147650[KB]
@@ -81,7 +81,7 @@ image::../images/installation.vmware.nuc2.PNG[]
 
 Il ne vous reste plus qu'à cliquer sur démarrer et attendre.
 
-== Déballage et assemblage du NUC
+== Auspacken und Montage des NUC
 
 Voilà les 3 composants pour mon NUC : 
 

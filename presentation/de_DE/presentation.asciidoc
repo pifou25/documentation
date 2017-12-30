@@ -23,7 +23,7 @@ image::../images/doc-presentation-maj.png[Page Mise à jour]
 image::../images/doc-presentation-sauvegarde.png[Page Sauvegarde]
 
 
-Autour de ce noyau viennent se greffer des plugins qui peuvent être de toutes sortes :
+Um diesen Kern herum kommen Plugins hinzu, die verschieden sein können : 
 
 - Home-Automatisierungs Protokolle (Z-Wave, RFXcom, EnOcean...),
 - IP Protokolle (KNX,xPL...),
@@ -33,7 +33,7 @@ hohes Niveau (Alarm, Thermostat),
 - Organisation (Kalender, Google Kalender)
 - Entwicklung (Skript).
 
-Ces plugins peuvent être récupérés via Market et permettent d'étendre les possibilités de Jeedom.
+Diese Plugins können vom Markt herunter geladen werden und ermöglichen Jeedom zu erweitern.  
 
 image::../images/doc-presentation-market.png[Page Market]
 

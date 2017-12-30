@@ -39,7 +39,7 @@ Le neutre est nécessaire que pour le mode "Volet"
 
 * Modultyp : Edisio Empfänger
 * Stromversorgung : 230VAC, 50Hz
-* Câblage: 4 fils, 2 pour les commandes et 2 pour l'alimentation
+* Verdrahtung : 4 Drähte, 2 für Befehle und 2 für Stromversorgung
 * Frequenz : 868,3MHz
 * angetriebene Ausgänge : 2 Relais
 * Maximale Leistung : 2A pro Ausgang
@@ -80,7 +80,7 @@ Afin d'éviter des redondances inutiles, ne jamais activer le mode "Répéteur" 
 image::../images/emv.400/bouton_r.jpg[align="center"]
 
 [NOTE]
-Appuyer R 3x permet d'activer le mode déporté. 
+Durch Drücken von 3x R wird der Remote-Modus aktiviert. 
 
 === Funktionsschema
 
@@ -96,7 +96,7 @@ image::../images/emv.400/diagramme.jpg[align="center"]
 La fonction minuterie permet l'extinction automatique des relais au bout de 30 ou 60 minutes.
 
 [NOTE]
-Cette fonction ne sert qu'en mode "Eclairage"
+Diese Funktion wird nur im "Beleuchtungs" Modus verwendet
 
 == Le mode "Volet"
 

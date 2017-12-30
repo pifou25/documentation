@@ -28,7 +28,7 @@ image::../images/plugin/inclusion3.jpg[width=756]
 {nbsp} +
 
 Une fois l’inclusion en cours, un message apparait , il faut donc patienter le temps que Jeedom intègre le module.
-La configuration des commandes se fait automatiquement une fois le module reconnu par Jeedom.
+Die Befehls Konfiguration erfolgt automatisch, sobald Jeedom das Modul erkannt hat.
 
 {nbsp} +
 

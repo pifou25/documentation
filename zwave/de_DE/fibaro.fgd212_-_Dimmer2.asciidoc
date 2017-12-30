@@ -51,7 +51,7 @@ Il est compatible avec tout type de lampes supportant la variation ou non. En pl
 * Fonction démarrage progressif (Soft-start)
 * Diode LED d'indication d'état de l'inclusion, d'étalonnage et niveaux de MENU
 * Testeur de portée Z-Wave intégré
-* Détecte automatiquement les défauts de câblage, température élevée, ampoule grillée, les surtensions et les surcharges
+* Erkennt automatisch Verdrahtungsfehler, hohe Temperaturen, kaputte Glühlampen, Überspannungen und Überlasten
 * Optionen der erweiterten Konfiguration
 * Petit, discret et esthétique
 * Einfache Bedienung und Installation
@@ -62,20 +62,20 @@ Il est compatible avec tout type de lampes supportant la variation ou non. En pl
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230V +/- 10%, 50Hz
-* Consommation : 1.3W
-* Câblage : neutre pas nécessaire
-* Charge maxi : 50-250W (charge résistive) ou 0.25-1.1A (charge inductive)
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230V +/-10% - 50Hz
+* Leistungsaufnahme : 1,3W
+* Verdrahtung : Neutralleiter nicht notwendig
+* Maximale Last : 50-250W (ohmsche Last) oder 0.25-1.1A (induktive Last)
 * Type de lampe compatible (dimmable) : Incandescente, Fluocompacte, Halogène (230VAC et 12VDC avec tranformateur électronique), LED
 * Type de lampe compatible (non dimmable) : Fluocompacte, LED
 * Fréquence : 868,42 Mhz
-* Puissance du signal : 1mW
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions : 42.5 x 38.25 x 20.3mm
+* Signalstärke : 1 mW
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 42.5 x 38.25 x 20.3 mm
 * Betriebstemperatur : 0-35 ° C
-* Température limite : 105°C
-* Normes : RoHS 2011/65/EU, LVD 2006/95/EC, EMC 2004/108/EC, R&TTE 1999/5/EC
+* Maximale Temperatur : 105 ° C
+* Normen : RoHS 2011/65/EU, LVD 2006/95/EC, EMC 2004/108/EC, R&TTE 1999/5/EC
 
 {nbsp} +
 
@@ -179,7 +179,7 @@ image::../images/fibaro.fgd212/config5.jpg[Config3,align="center"]
 
 {nbsp} +
 
-EN COURS DE REDACTION
+WIRD ERSTELLT
 
 {nbsp} +
 
@@ -199,7 +199,7 @@ image::../images/fibaro.fgd212/groupe.jpg[Groupe]
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

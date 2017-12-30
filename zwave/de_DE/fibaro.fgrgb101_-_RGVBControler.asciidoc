@@ -32,7 +32,7 @@ Le micromodule Z-Wave Fibaro FGRGB-101 permet, au choix, de commander des éclai
 * * ou 4 canaux de lampes halogènes 12/24V (144W 12V / 288W 24V max.)
 * * ou des ventilateurs 12 / 24V.
 
-* Nécessite une alimentation 12/24V séparée.
+* Erfordert ein separates 12 / 24V-Netzteil.
 * Mesure de consommation globale ou par canal instantanée ou cumulée.
 * Repeater-Funktion (Router), um das Z-Wave-Netzwerk zu erweitern.
 
@@ -51,21 +51,21 @@ Le micromodule Z-Wave Fibaro FGRGB-101 permet, au choix, de commander des éclai
 
 === Technische Daten
 
-* Alimentation : 12 V ou 24 V continu
-* Puissance maximale de sortie :
+* Stromversorgung : 12V oder 24V kontinuierlich
+* Maximale Ausgangsleistung :
 * * 12A au total (addition de l'ensemble des canaux),
 * * 6A max. par canal
-* Puissance maximale avec lampes halogènes :
+* Maximale Leistung mit Halogenlampen :
 * * 12V - 144W total (tous canaux),
 * * 24V - 288W total (tous canaux)
-* Fréquence de modulation PWM : 244 Hz
-* Consommation : 0,3W
+* PWM Modulationsfrequenz : 244 Hz
+* Leistungsaufnahme : 0,3W
 * Funkprotokoll : Z-Wave 868,4MHz (EU)
-* Puissance d'émission Z-Wave : 1mW
+* Z-Wave Signalstärke : 1 mW
 * Betriebstemperatur : 0-40 ° C
-* Pour installation dans des boites : Ø≥50 mm
-* Dimensions : 42 x 37 x 17 mm 
-* Normes Européenes : EMC 2004/108/EC R&TTE 199/5/WE
+* Für den Einbau in Boxen : Ø≥50 mm
+* Abmessungen : 42 x 37 x 17 mm 
+* Europäische Normen : EMC 2004/108/EC R&TTE 199/5/WE
 * Dieses Modul erfordert einen Z-Wave-Controller um zu funktionieren.  
 
 {nbsp} +
@@ -89,7 +89,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le bouton d'inclusion, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man 3 Mal auf die Inklusionstaste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 

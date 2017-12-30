@@ -42,7 +42,7 @@ Ce capteur intègre un testeur de portée de réseau Z-Wave,ce qui vous assure d
 {nbsp} +
 
 * Détecteur d'inondation (présence d'eau via contacts)
-* Détecteur de température
+* Temperaturmelder
 * Détecteur d'inclinaison
 * Alarme sonore et visuelle
 * Testeur de portée Z-Wave
@@ -55,20 +55,20 @@ Ce capteur intègre un testeur de portée de réseau Z-Wave,ce qui vous assure d
 
 {nbsp} +
 
-* Type de module : Emetteur Z-Wave
-* Module pouvant être alimenté en externe : 12 – 24 VDC
+* Modultyp : Z-Wave-Sender
+* Modul, das extern versorgt werden kann : 12-24VDC
 * Type de batterie : CR123A
 * Batterielaufzeit  : 2 Jahre
-* Consommation sur alimentation externe : 0,4W
+* Leistungsaufnahme : 0,4W
 * Courant maximal supporté en sortie (ALARM NC, TAMP NC) :25mA
 * Tension maximale supportée en sortie : 40V (AC ou DC)
 * Fréquence : 868,42 MHz
-* Distance de transmission : 50m champ libre, 30m en intérieur
-* Dimensions : 72 x 28 mm (diamètre x hauteur)
+* Übertragungsreichweite : 50m Freiland, 30m Innenraum
+* Abmessungen : 72 x 28 mm (Durchmesser x Höhe)
 * Betriebstemperatur : 0-40°C (-20°C bis 70°C mit externer Stromversorgung)
-* Gamme de mesure de la température : -20 à 100°C
-* Précision de la mesure : 0,5°C (dans une gamme de 0 à 40°C)
-* Normes : EMC 2004/108/EC et R&TTE 199/5/WE
+* Temperaturmessbereich : -20°C bis 100°C
+* Genauigkeit der Messung : 0,5°C (in einem Bereich von 0 bis 40°C)
+* Normen : EMC 2004/108/EC et R&TTE 199/5/WE
 
 {nbsp} +
 
@@ -77,7 +77,7 @@ Ce capteur intègre un testeur de portée de réseau Z-Wave,ce qui vous assure d
 {nbsp} +
 
 * Marke : Fibar Group
-* Modèle : FGFS101 Flood Sensor
+* Modell : FGFS101 Überflutungssensor
 * Hersteller : FIBARO Systems
 * Hersteller-ID : 271
 * Produkttyp : 2816
@@ -128,7 +128,7 @@ image::../images/fibaro.fgfs101/commandes.jpg[Commandes]
 {nbsp} +
 
 * Fuite : c'est la commande d'alerte du module (pour la présence d'eau, inondation ...)
-* Température : c'est la commande de mesure de la température
+* Temperatur : Das ist die Befehl zum messen der Temperatur 
 * Sabotage : c'est la commande de sabotage. Elle signale l'ouverture du boitier
 * Batterie : c'est la commande batterie
 
@@ -207,7 +207,7 @@ image::../images/fibaro.fgfs101/groupe.jpg[Groupe]
 === Gut zu wissen
 Alimenté par l'extérieur ce module permet de faire office de répéteur Z-wave (information non confirmée actuellement)
 
-Le cablage pour une alimentation extérieure.
+Verkabelung für eine externe Stromversorgung.
 {nbsp} +
 
 image::../images/fibaro.fgfs101/Alim_Exterieur.jpg[width=350,align="center"]

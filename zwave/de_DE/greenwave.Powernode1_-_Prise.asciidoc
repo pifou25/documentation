@@ -56,9 +56,9 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 
 {nbsp} +
 
-* Alimentation : 250V ~ AC, 50Hz
+* Stromversorgung : 230V AC, 50Hz
 * Maximaler Laststrom : 10A
-* Puissance de charge maximale : 2400W (@ 240V)
+* Maximale Leistung : 2400W (@ 240V)
 * Consommation en veille : 0,4 W
 * Précision de mesure : ± 0.1W
 * Protection contre les surintensités : 10A fusible interne
@@ -66,9 +66,9 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 * Z-Wave Funkfrequenz : 868,42MHz
 * Maximale Z-Wave-Reichweite : 30m
 * Betriebstemperatur : 0°C bis +25°C
-* Température de stockage : -20 ° C à + 60 ° C
-* Humidité maximale : 5% à 90%
-* Classe IP (Tolérance d'humidité) : IP20
+* Lagertemperatur : -20°C bis + 60°C
+* Maximale Luftfeuchtigkeit: 5% bis 90%
+* Schutzgrad : IP20
 
 {nbsp} +
 
@@ -76,7 +76,7 @@ Le module prise PowerNode est équipé d'une protection contre les surintensité
 
 {nbsp} +
 
-* Marque : GreenWave
+* Marke : GreenWave
 * Name : GreenWave PowerNodes NS310-F Zwischenstecker
 * Hersteller-ID : 153
 * Produkttyp : 2
@@ -205,7 +205,7 @@ Vous pouvez remettre à zéro votre compteur de consommation en cliquant sur ce 
 {nbsp} +
 
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

@@ -50,7 +50,7 @@ rm /var/www/html/index.html
 [NOTE]
 Si lors de l'installation le système vous demande si vous voulez ou non garder une version modifiée d'un fichier, faites : "Keep the local version currently installed".
 
-=== Copie de Jeedom
+=== Jeedom kopieren
 
 ----
 cp -R /usr/share/nginx/www/jeedom/* /var/www/html/

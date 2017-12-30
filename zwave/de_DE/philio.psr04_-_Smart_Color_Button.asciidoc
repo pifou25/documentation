@@ -63,18 +63,18 @@ Il utilise la dernière puce Z-Wave série 500, offrant une augmentation de la p
 
 {nbsp} +
 
-* Alimentation : Batterie Lithium Polymère 3.7V, 220mA
+* Stromversorgung : Lithium-Polymer-Batterie 3,7 V, 220 mA
 vAutonomie de la batterie : 6 mois pour 2h de charge
 * Consommation en veille : 18µA
 * Consommation en fonctionnement : 45mA
 * Fréquence : 868.42 MHz
-* Distance de transmission : 100m en extérieur, 40m en intérieur
-* Dimensions :
+* Übertragungsreichweite : 100m Freiland, 40m Innenraum
+* Abmessungen :
 
 Support : 71,16 x 10,94 mm (diamétre x épaisseur)
 Bouton : 59,99 x 14,89 mm (diamétre x épaisseur)
 Support + Bouton : 71,16 x 17,22 mm (diamétre x épaisseur)
-* Certifications :
+ * Zertifizierungen :
 
 EN 301 489-1, EN 301 489-3
 EN 300 220-1, EN 300 220-2
@@ -216,7 +216,7 @@ image::../images/philio.psr04/groupe.jpg[Groupe]
 {nbsp} +
 
 
-==== Spécificités
+==== Spezifikationen
 
 Pour utiliser ce module en télécommande il faut procéder comme suit :
 

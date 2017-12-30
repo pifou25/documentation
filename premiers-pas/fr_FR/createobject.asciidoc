@@ -1,20 +1,23 @@
-Vous allez ici créer votre premier objet, mais d'abord il faut savoir ce qu'est un objet, dans Jeedom ça peut être tout et n'importe quoi mais il est recommandé de le faire en fonction de vos pièces
+Vous allez créer votre premier objet, mais d'abord il faut savoir ce qu'est un objet.
+
+Dans Jeedom, cela peut être tout et n'importe quoi, mais il est recommandé de le faire en fonction de vos pièces.
 
 [TIP]
-Il est possible de définir des relations entre les objets, exemple : le salon appartient à l'objet rez-de-chaussée qui appartient lui-même à l'objet maison
+Il est possible de définir des relations entre les objets, exemple : le salon appartient à l'objet rez-de-chaussée qui appartient lui-même à l'objet maison.
 
-Pour créer un objet rien de plus simple, allez sur Outils → Objets
+Pour créer un objet, rien de plus simple :
 
-Puis cliquez sur le bouton ajouter :
+* Allez sur Outils → Objets
+* Cliquez sur le bouton ajouter :
 
 image::../images/premier-objet2.png[]
 
-Jeedom va vous demander le nom de celui-ci :
+* Jeedom va vous demander le nom de celui-ci :
 
 image::../images/premier-objet3.png[]
 
-Validez, voila votre premier objet est créé (facile non ?) :
+* Validez. Voilà votre premier objet créé :
 
 image::../images/premier-objet4.png[]
 
-Pour plus d'informations sur cette partie cliquez link:https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-object.html[ici]
+Pour plus d'informations sur cette partie cliquez link:https://github.com/jeedom/core/blob/stable/doc/fr_FR/object.asciidoc[ici]

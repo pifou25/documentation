@@ -51,17 +51,17 @@ En plus d'utiliser le clavier numérique, vous pouvez aussi passer un badge RFID
 {nbsp} +
 
 *	Type : Esclave Z-Wave
-*	Alimentation : 2x AA 1,5V batteries
+*	Stromversorgung : 2x AA 1,5V Batterie
 *	Fréquence : 868.42 MHz
 * Reichweite : 30m im Freien
 *	Protocole RFID : ISO15693, ISO18000-3, Tag-it™, RFID
 *	Buzzer : 60dBa à 10 cm de distance
-*	Température de stockage : -5°C à +65°C
+* Lagertemperatur : -5°C bis +65°C
 *	Humidité pour stockage : 10% à 70%
 * Betriebstemperatur : 10°C bis 40°C
 *	Humidité en fonctionnement : 30% à 80%
-*	Dimensions : 62 x 62 x 20 mm
-*	Certifications :	Sécurité : UL EMC : FCC, CE RoHS
+* Abmessungen : 62 x 62 x 20 mm
+*	Zulassung :	Sicherheit : UL EMC : FCC, CE RoHS
 
 {nbsp} +
 
@@ -69,7 +69,7 @@ En plus d'utiliser le clavier numérique, vous pouvez aussi passer un badge RFID
 
 {nbsp} +
 
-* Marque : Zipato
+* Marke : Zipato
 * Name : Zipato Mini Keypad RFID
 * Hersteller-ID : 151
 * Produkttyp : 24881
@@ -236,7 +236,7 @@ Sinon (forcément 5) on active l'alarme, on coupe la multiprise, on envoie une n
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

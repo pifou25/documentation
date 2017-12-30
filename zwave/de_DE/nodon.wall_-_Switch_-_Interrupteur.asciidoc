@@ -1,5 +1,5 @@
 :icons:
-== Nodon Interrupteur - Wall Switch
+== Nodon Schalter - Wandschalter
 
 {nbsp} +
 
@@ -52,7 +52,7 @@ L’interrupteur possède une platine de fixation pour le monter facilement dans
 * Altitude : 2000m
 * Z-Wave® Funk Protokoll : 868,4MHz - 500 Serie - kompatibel Z-Wave Plus® SDK 06.51.06
 * Reichweite : 40m Innen / 70m Außen
-* Dimensions : 80*80*15mm
+* Abmessung : 80x80x15mm
 * Garantie 2 ans
 * EN 60950-1:2006 +A11:2009 + A1:2010 + A12:2011 + A2:2013
 * EN 300 220-2 V2.4.1
@@ -66,7 +66,7 @@ L’interrupteur possède une platine de fixation pour le monter facilement dans
 
 {nbsp} +
 
-* Marque : Nodon
+* Marke : Nodon
 * Name : CWS-3-1-01 Wandschalter
 * Hersteller-ID : 357
 * Produkttyp : 2
@@ -78,7 +78,7 @@ L’interrupteur possède une platine de fixation pour le monter facilement dans
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 
@@ -204,7 +204,7 @@ A minima Jeedom devrait se retrouver dans le groupe 1
 
 {nbsp} +
 
-==== Spécificités
+==== Spezifikationen
 
 {nbsp} +
 

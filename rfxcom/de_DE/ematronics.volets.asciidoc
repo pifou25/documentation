@@ -41,7 +41,7 @@ Repérer : Id1 et Id2 et ajouter l’hexadecimal suivant : dans mon exemple Id1=
 vous devez donc les repérer dans la ligne, "Test message" et en extraire  l’Id3 , ici Id3=B9, 
 Notre télécommande a donc comme ID => 1F84B9.
 
-=== Arrêter le Mode Debug par le bouton "Arrêter/Redémarrer le démon"
+=== Stoppen Sie den Debug-Modus mit der Schaltfläche "Daemon Stoppen/Neustart"
 
 image::../images/volet.ematronic/image06.png[]
 

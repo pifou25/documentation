@@ -109,7 +109,7 @@ Choisissez un dossier sur votre Synology (c'est dans ce dossier qu'il y aura tou
 
 image::../images/install_synology_27.PNG[]
 
-Dans chemin d'accès, mettez /var/www/jeedom puis cliquez sur "Environnement" :
+Dans chemin d'accès, mettez /var/www/html puis cliquez sur "Environnement" :
 
 image::../images/install_synology_28.PNG[]
 
@@ -135,4 +135,4 @@ image::../images/install_synology_30.PNG[]
 [TIP]
 Si vous voulez un accès SSH, il vous faut dans les ports rediriger un port local vers le port 22 du conteneur, les identifiants SSH sont root/jeedom. Vous pouvez changer le mot de passe en initialisant la variable d'environement ROOT_PASSWORD à la valeur du mot de passe voulu.
 
-Ensuite, vous pouvez suivre la documentation https://www.jeedom.fr/doc/documentation/premiers-pas/fr_FR/doc-premiers-pas.html[Premier pas avec Jeedom]
+Ensuite, vous pouvez suivre la documentation https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc[Premier pas avec Jeedom]

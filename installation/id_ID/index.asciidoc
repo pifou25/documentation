@@ -8,6 +8,10 @@ include::hardware.asciidoc[]
 include::jeedomboard.asciidoc[]
 
 '''
+== Sur Jeedomboard (hummingboard,mini+ via le script officiel)
+include::Miniplushumingboard.asciidoc[]
+
+'''
 == Sur Synology
 include::synology.asciidoc[]
 
@@ -17,3 +21,7 @@ include::docker.asciidoc[]
 '''
 == Autre/DIY
 include::other.asciidoc[]
+
+'''
+== PI/ Sur une carte SD
+include::raspberrypi.asciidoc[]

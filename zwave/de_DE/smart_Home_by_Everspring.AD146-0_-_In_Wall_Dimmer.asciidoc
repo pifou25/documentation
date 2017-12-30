@@ -1,5 +1,5 @@
 :icons:
-== SmartHome by Everspring In Wall Dimmer - AD146-0
+== SmartHome von Everspring Unterputz Dimmer - AD146-0
 
 {nbsp} +
 
@@ -29,7 +29,7 @@ Il peut également fournir une fonction de variateur qui est uniquement compatib
 200 Watts de charge fluorescente.
 
 Il peut être utilisé en mode 2 fils (sans neutre), en remplacement d'un interrupteur existant, ou trois fils avec
-une alimentation classique du module (Phase + Neutre).
+eine klassische Stromversorgung des Moduls (Phase + Neutralleiter).
 
 Le Module Variateur Mural est un appareil compatible Z-Wave™ qui est destiné pour fonctionner avec tous les
 réseaux compatibles Z-Wave™. Il peut être contrôlé par une télécommande, un logiciel PC, ou n'importe quel
@@ -45,13 +45,13 @@ Z-Wave-Controller in Ihrem Netzwerk.
 * S'installe derrière un interrupteur existant
 * Funktion AN/AUS und Variationen
 * Faible consommation d'énergie
-* Très petit, dimensions réduites
+* Sehr kleine, reduzierte Abmessungen
 * Antenne longue portée
 * Technologie Z-Wave Plus
 * S'installe facilement dans une boîte d'encastrement standard
-* Utilisation en mode 2 fils (neutre pas nécessaire)
+* Verwendung im 2-Draht-Modus (Neutralleiter, nicht notwendig)
 * Compatible avec les ampoules Led Dimmable
-* Bouton pour inclure/exclure/associer le module
+* Schaltfläche zum inkludieren/exkludieren/zuordnen von Modulen
 * Z-Wave Repeater-Funktion
 
 {nbsp} +
@@ -60,17 +60,17 @@ Z-Wave-Controller in Ihrem Netzwerk.
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
-* Alimentation : 230 V, 50 Hz
-* Consommation : 0.5W
-* Puissance maximum :
-* Charge résistive : 300W
-* Ampoule à incandesence : 300W
+* Modultyp : Z-Wave-Empfänger
+* Stromversorgung : 230 V, 50 Hz
+* Leistungsaufnahme : 0,5W
+* Maximale Leistung :
+* Ohmsche Last : 300W
+* Glühlampe : 300W
 * Ampoule Fluocompacte : 200W
-* Fréquence : 868,42 Mhz
+* Frequenz : 868,42 MHz
 * Portée : jusqu'à  70 m à l'extérieur, jusqu'à 30 m dans les bâtiments
 * Affichage: LED sur le bouton
-* Dimensions : 42mm x 43mm x 16mm
+* Abmessungen : 42 x 43 x 16 mm
 
 {nbsp} +
 
@@ -97,7 +97,7 @@ Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
 Pour mettre ce module en mode inclusion  il faut appuyer 3 fois sur son bouton, conformément à sa documentation papier.
-Il est important de noter que ce module se met directement en inclusion lorsqu'il n'appartient à aucun réseau et qu'il est alimenté
+Es ist wichtig zu beachten, dass dieses Modul direkt inkludiert wird, wenn es zu keinem Netzwerk gehört und mit Strom versorgt wird.
 
 {nbsp} +
 

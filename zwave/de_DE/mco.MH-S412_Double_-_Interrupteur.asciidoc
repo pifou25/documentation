@@ -45,7 +45,7 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 * Supporte les commandes d’association (Groupe 1 et Groupe 2)
 * Contrôle des deux charges en local
 * LED de statut
-* Finition en verre, design moderne
+* Glas-Finish, modernes Design
 * Boutons tactiles
 
 {nbsp} +
@@ -55,14 +55,14 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 
 {nbsp} +
 
-* Type de module : Récepteur Z-Wave
+* Modultyp : Z-Wave-Empfänger
 * Couleur : Blanc
-* Alimentation : 230 V, 50 Hz
-* Câblage : 3 fils, neutre nécessaire
-* Puissance maximum : 5A (1100W) pour chaque canal
+* Stromversorgung : 230 V, 50 Hz
+* Verdrahtung : 3 Adern, Neutralleiter notwendig
+* Maximale Leistung : 5A (1100W) pro Ausgang
 * Fréquence : 868,42 Mhz
 * Reichweite : bis zu 30 m
-* Dimensions : 86 x 86 x 43 mm
+* Abmessungen : 86 x 86 x 43 mm
 * Affichage: LED bleue/rouge
 
 {nbsp} +
@@ -73,7 +73,7 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 {nbsp} +
 
 
-* Marque : MC HOME
+* Marke : MC HOME
 * Name : MH-S412 Touch Panel Switch (Schalter 2-fach)
 * Hersteller-ID : 351
 * Produkttyp : 16642
@@ -85,7 +85,7 @@ L’interrupteur est également  équipé d’un voyant LED qui indique son éta
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 

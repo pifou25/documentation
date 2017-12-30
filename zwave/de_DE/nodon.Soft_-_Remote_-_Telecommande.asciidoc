@@ -51,7 +51,7 @@ Elle peut également déclencher des scènes via une centrale domotique compa
 * Betriebstemperatur: 0°C bis 40°C - Höhe: 2000 m
 * Z-Wave® Funk Protokoll : 868,4MHz - 500 Serie - kompatibel Z-Wave Plus® SDK 06.51.06
 * Reichweite : 40m Innen / 80m Außen
-* Dimensions 56*56*20mm
+* Abmessung : 56*56*20mm
 * Garantie 2 ans
 
 {nbsp} +

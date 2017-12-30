@@ -52,13 +52,13 @@ Avec cette télécommande, vous pourrez également inclure/exclure des modules d
 {nbsp} +
 
 
-* Type de module : Contrôleur Z-Wave
+* Modultyp : Z-Wave-Controller
 * Couleur : Blanc
-* Alimentation : batterie interne rechargeable via USB
+* Stromversorgung : Interner Akku über USB aufladbar
 * Affichage: LED bleue et rouge
 * Fréquence : 868,42MHz 
 * Reichweite : bis zu 30 m
-* Dimensions : 0.8cm x 3.3cm x 9.3cm
+* Abmessungen : 0.8cm x 3.3cm x 9.3cm
 * Betriebstemperatur : -35°C bis +85°C
 
 {nbsp} +
@@ -81,13 +81,13 @@ Avec cette télécommande, vous pourrez également inclure/exclure des modules d
 
 {nbsp} +
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en inclusion référez-vous à cette link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[documentation].
+Um das OpenZwave Plugin zu konfigurieren und um zu wissen, wie man es in Jeedom includiert, schauen Sie sich die  link:https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html[Dokumentation] an.
 
 {nbsp} +
 
 [icon="../images/plugin/important.png"]
 [IMPORTANT]
-Pour mettre ce module en mode inclusion il faut appuyer sur le bouton LEARN, conformément à sa documentation papier.
+Um dieses Modul in den Inklusionsmodus zu versetzen muss man auf die Einlern-Taste, gemäß seiner Papierdokumentation, drücken.
 
 {nbsp} +
 
