@@ -4,119 +4,119 @@
 |===
 |Name|Typ|Protokoll|Bemerkung|Link
 
-|Alteco WS-1700|Station météo|Rubicson/Alecto||
+|Alteco WS-1700|Wetterstation|Rubicson/Alecto||
 
-|Atlantic’S MD-210R|Détecteur d'ouverture|Meiantech||
+|Atlantic’S MD-210R|Öffnungsmelder|Meiantech||
 
-|Atlantic’S DT-335R DMT|Détecteur de mouvement|Meiantech||
+|Atlantic’S DT-335R DMT|Bewegungsmelder|Meiantech||
 
-|Atlantic’S MC-335R DMT|Détecteur de mouvement|Meiantech||
+|Atlantic’S MC-335R DMT|Bewegungsmelder|Meiantech||
 
-|Atlantic’S 7380R DMT|Détecteur de mouvement|Meiantech||
+|Atlantic’S 7380R DMT|Bewegungsmelder|Meiantech||
 
-|Atlantic’s PB-201R|Télécommande porte-clé 1 bouton|Meiantech||
+|Atlantic’s PB-201R|Fernbedienung Schlüsselanhänger 1 Taste|Meiantech||
 
-|Blyss 567434|Détecteur de fumée|||
+|Blyss 567434|Rauchmelder|||
 
-|Blyss 582866|Interrupteur|||
+|Blyss 582866|Schalter|||
 
-|Blyss 582849|Motorisation de porte de garage|||
+|Blyss 582849|Garagentor-Antrieb|||
 
-|Blyss 528852|Motorisation de portail à vérins|||
+|Blyss 528852|Torantrieb|||
 
-|Blyss 582867|Pack Interrupteur + micro-module ON/OFF|||
+|Blyss 582867|Paket Schalter+Micro-Modul AN/AUS|||
 
-|Chacon 34131|Détecteur de fumée|AC||
+|Chacon 34131|Rauchmelder|AC||
 
-|Chacon 54595|Pack de 3 Prises Chacon + télécommande 3 canaux + 1 groupe|AC||
+|Chacon 54595|Paket mit 3 Chacon-Steckdosen + Fernbedienung(3 Kanäle + 1 Gruppe)|AC||
 
-|Chacon 54795|Pack de 3 Prises Chacon DI.O first + télécommande 3 canaux|AC||
+|Chacon 54795|Paket mit 3 DiO Chacon Steckdosen + Fernbedienung 3 Kanäle|AC||
 
-|Chacon 54501|Interrupteur|AC||
+|Chacon 54501|Schalter|AC||
 
-|Chacon 54514|Variateur|AC||
+|Chacon 54514|Dimmer|AC||
 
-|Chacon 54761|Télécommande 16 canaux|AC||
+|Chacon 54761|Fernbedienung 16 Kanäle|AC||
 
-|Chacon 54730|Sonnette|AC||http://www.domadoo.fr/fr/peripheriques/574-chacon-di-o-carillon-sans-fil-enfichable.html[Acheter]
+|Chacon 54730|Glocke|AC||http://www.domadoo.fr/fr/peripheriques/574-chacon-di-o-carillon-sans-fil-enfichable.html[kaufen]
 
-|Chacon 54758|Micro-module ON/OFF 200W|AC|On/Off seulement|
+|Chacon 54758|Micro-Modul AN/AUS 200W|AC|nur An/Aus|
 
-|Chacon 54660|Pack 3 prises + télécommande 2000W|AC||
+|Chacon 54660|Paket 3 Steckdosen + Fernbedienung 2000W|AC||
 
-|Chacon 54524 300W|Micro-module Variateur 300W|AC|On/Off seulement|
+|Chacon 54524 300W|Micro-Modul Dimmer 300W|AC|nur An/Aus|
 
-|Coco||AC|Gamme complète|http://www.domotique-store.fr/36_coco-devient-trust-smart-home[Acheter]
+|Coco||AC|komplette Produktpalette|http://www.domotique-store.fr/36_coco-devient-trust-smart-home[kaufen]
 
-|CRESTA HW-TX320|Température Humidité avec affichage|Hideki||
+|CRESTA HW-TX320|Temperatur und Luftfeuchtigkeit mit Display|Hideki||
 
-|Digimax 210 TH10|Thermostat|X10|Utiliser "Température, Humidité et Pression - Défaut"|
+|Digimax 210 TH10|Thermostat|X10|verwendet "Temperatur, Feuchtigkeit und Druck  - Standard"|
 
-|DI.O by Chacon 54583|Détecteur crépusculaire|AC||
+|DI.O by Chacon 54583|Dämmerungssensor|AC||
 
-|DI-O by Chacon 54703|Détecteur de mouvement|AC||
+|DI-O by Chacon 54703|Bewegungsmelder|AC||
 
-|DI.O by Chacon 54760|Télécommande 3 canaux|AC||
+|DI.O by Chacon 54760|Fernbedienung 3 Kanäle|AC||
 
-|DI.O by Chacon 54761|Télécommande 16 canaux|AC||http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm[Acheter]
+|DI.O by Chacon 54761|Fernbedienung 16 Kanäle|AC||http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm[kaufen]
 
-|DI.O by Chacon 54746|Prise extérieure|AC||
+|DI.O by Chacon 54746|Steckdose für Aussen|AC||
 
-|DI-O by Chacon 54783|Détecteur crépusculaire|AC||
+|DI-O by Chacon 54783|Dämmerungssensor|AC||
 
-|DI-O by Chacon 54754|Volet roulant|AC||
+|DI-O by Chacon 54754|Rollladen|AC||
 
-|DI-O by Chacon 54798|Prise 1500W|AC||
+|DI-O by Chacon 54798|Steckdose 1500W|AC||
 
-|DI-O by Chacon 54790|Micro-module ON/OFF 1500W|AC||http://www.domadoo.fr/fr/peripheriques/2999-chacon-micromodule-pour-prise-murale-3500w-5411478547907.html[Acheter]
+|DI-O by Chacon 54790|Micro-Module AN/AUS 1500W|AC||http://www.domadoo.fr/fr/peripheriques/2999-chacon-micromodule-pour-prise-murale-3500w-5411478547907.html[kaufen]
 
-|DS18|Détecteur d'ouverture + entrée filaire|||http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html[Acheter]
+|DS18|Öffnungssensor + verdrahteter Eingang|||http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html[kaufen]
 
-|KDI FER-1000W|Prise|Ex de code pour allumer la prise 07100102500D0160||
+|KDI FER-1000W|Steckdose|Bsp.-code zum Einschalten der Steckdose 07100102500D0160||
 
-|KDI FECT-100|Télécommande|||
+|KDI FECT-100|Fernbedienung|||
 
-|Homewizad HW-TX320|Température Humidité avec affichage|||
+|Homewizad HW-TX320|Temperatur Feuchtigkeit mit Display|||
 
-|LaCross Technologie WS7394|Station météo|LaCrosse||
+|LaCross Technologie WS7394|Wetterstation|LaCrosse||
 
-|Lexibook SM883|Station météo|Hideki / UPM||
+|Lexibook SM883|Wetterstation|Hideki / UPM||
 
-|ITL-1000|Contact sec avec minuterie|||
+|ITL-1000|Potentialfreier Kontakt mit Timer|||
 
-|JB-Media récepteur IR Light-Manager Mini|Convertisseur RF - Infra Rouge|AC||
+|JB-Media Empfänger IR Light-Manager Mini|HF-Konverter - Infrarot|AC||
 
-|Oregon THGR122NX|Température Humidité avec affichage|Oregon||http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2[Acheter]
+|Oregon THGR122NX|Temperatur Feuchtigkeit mit Display|Oregon||http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2[kaufen]
 
-|Oregon THGN132N|Température Humidité|Oregon||
+|Oregon THGN132N|Temperatur Feuchtigkeit|Oregon||
 
-|Oregon WGR800|Anémomètre|Oregon||
+|Oregon WGR800|Windmesser|Oregon||
 
-|Oregon PCR800|Pluviomètre|Oregon||
+|Oregon PCR800|Regenmesser|Oregon||
 
-|UV Oregon UVN800|Sonde UV|Oregon||http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html[Acheter]
+|UV Oregon UVN800|UV Sonde|Oregon||http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html[kaufen]
 
-|OWL CM119|Pince ampèremétrique + afficheur|Oregon||
+|OWL CM119|Stromzange + Display|Oregon||
 
-|OWL Micro+ CM180|Pince ampèremétrique + afficheur|Oregon||
+|OWL Micro+ CM180|Stromzange + Display|Oregon||
 
-|OWL TSE200-001|Transmetteur pour pince ampèrmétrique (ref TSE000-001 ou TSE000-002)|Oregon||
+|OWL TSE200-001|Sender für Stromzange (TSE000-001 oder TSE000-002)|Oregon||
 
-|SIMU RSA HZ|Porte de garage|||
+|SIMU RSA HZ|Garagentor|||
 
-|Somfy Freevia 300|Motorisation portail|Poser RFXcom sur le moteur pour l’associer au moteur comme si c’était une télécommande||
+|Somfy Freevia 300|Torantrieb|Setzen Sie RFXcom auf den Motor, um ihn mit dem Motor zu verbinden, als ob es eine Fernbedienung wäre||
 
-|Somfy Evolvia 400/450|Motorisation portail|Poser RFXcom sur le moteur pour l’associer au moteur comme si c’était une télécommande. Le capot du moteur doit être ouvert et il doit faire jour. La procédure ne marche pas s’il fait nuit.||
+|Somfy Evolvia 400/450|Torantrieb|Setzen Sie RFXcom auf den Motor, um ihn mit dem Motor zu verbinden, als ob es eine Fernbedienung wäre. Die Abdeckung des Motors soll geöffnet sein und es muß Tag sein. Das Verfahren geht nicht, wenn es Nacht ist.||
 
-|Somfy RTS|Volets roulants et autres périphériques Somfy RTS|||
+|Somfy RTS|Rollläden und andere Somfy RTS-Geräte|||
 
-|Thermomètre TX320|Température Humidité avec affichage|||
+|Thermometer TX320|Temperatur Feuchtigkeit mit Display|||
 
-|TFA 30.3139 RADIO SENSOR|Température|||
+|TFA 30.3139 RADIO SENSOR|Temperatur|||
 
-|WD18|Détecteur d’Eau|X10||
+|WD18|Wassermelder|X10||
 
 |===
 
-[NOTE]
-Cette liste est basée sur des retours utilisateurs, l'équipe Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionels
+[HINWEIS]
+Diese Liste basiert auf Benutzer Feedback, das Jeedom Team kann also nicht garantieren, dass alle Module dieser Liste 100% funktiontüchtig sind.

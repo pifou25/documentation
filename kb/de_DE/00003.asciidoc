@@ -11,7 +11,7 @@ Error on shell exec, return value : 1. Details : Array ( [0] => session setup fa
 
 == Analyse
 
-Wenn es keinen Fehler im Benutzernamen und Passwort gibt (Achtung,  es bedarf unbedingt einen Benutzernamen und ein Passwort). Dann kann das Problem von einem speziellen Charakter im Passwort kommt.
+Wenn es keinen Fehler im Benutzernamen und Passwort gibt (Achtung, es bedarf unbedingt einen Benutzernamen und ein Passwort). Dann kann das Problem von einem Sonderzeichen im Passwort kommt.
 
 == Lösung
 
