@@ -1,19 +1,19 @@
-Jeedom aborde des champs très vastes et évoluant de jour en jour. Cependant, de nombreux moyens sont mis à votre disposition pour trouver de l'aide et poser vos questions.
+Jeedom befasst sich mit äußerst umfangreichen Bereichen und entwickelt sich von Tag zu Tag. Jedoch stehen viele Möglichkeiten zur Verfügung, um Hilfe und Fragen zu stellen.
 
-=== La documentation de Jeedom
+=== Die Jeedom Dokumentation
 
 Sie finden eine komplette Dokumentation link:https://jeedom.fr/doc[hier] :
 
-Celle-ci se compose de plusieurs catégories : 
+Diese besteht aus mehreren Kategorien: 
 
-* Core : une partie pour le "coeur" de Jeedom,
-* Premiers-pas : Une partie (où vous êtes actuellement) pour les premiers éléments à connaître,
-* Installation : Tout ce qui concerne l'installation de Jeedom,
-* Howto : Des tutoriels pour progresser dans divers domaines,
-* Plugins : Les documentations des différents plugins officiels de Jeedom,
-* les autres : diverses pages sur les différents protocoles utilisés dans Jeedom, la présentation de Jeedom, des listes de compatibilité, etc.
+* Kern : ist ein Teil, das "Herz" von Jeedom,
+* Erste Schritte : Ein Teil (wo Sie jetzt sind), um die ersten Elemente kennen zu lernen.
+* Installation : Alles, was Sie über die Installation von Jeedom wissen müssen,
+* Howto : Tutoriels, um auf verschiedenen Gebieten Fortschritte zu machen,
+* Plugins : Die Dokumentationen der verschiedenen offiziellen Plugins von Jeedom,
+* Die anderen : Diverse Seiten zu den verschiedenen in Jeedom verwendeten Protokollen, die Jeedom-Präsentation, Kompatibilitätslisten usw.
 
-Vous trouverez également en dessous la liste des documentations pour les plugins tiers.
+Sie finden auch eine Liste der Dokumentationen für Plugins von Drittanbietern.
 
 N'hésitez pas à utiliser la fonction *rechercher* en haut à droite de la page pour trouver les pages en fonction d'un mot précis.
 
@@ -49,7 +49,7 @@ Si, lors de l'ouverture d'un ticket, vous obtenez une erreur indiquant que vous 
 
 Les différents services packs sont :
 * Community (gratuit) : 2 tickets/mois (sur plugins payants uniquement)
-* Power : 10 tickets/mois
-* Pro : 100 tickets/mois
+* Power : 10 Tickets/Monat
+* Pro : 100 Tickets/Monat
 
-Vous pouvez retrouver le détail des services packs link:https://www.jeedom.com/site/fr/soft.html#obtenir[ici]
+Sie können die Details der Service Packs link:https://www.jeedom.com/site/fr/soft.html#obtenir[hier] finden

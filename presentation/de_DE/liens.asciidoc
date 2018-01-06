@@ -1,6 +1,6 @@
 Mehrere Video-Tutorials wurden erstellt, die die wichtigsten Merkmale von Jeedom zeigen, um die Benutzung zu erleichtern und den Benutzer mit der Software vertraut zu machen.
 
-Cependant depuis la réalisation de ces tutoriels, l'interface de Jeedom a pu évoluer et des fonctionnalités ajoutées. La documention reste donc la référence à consulter en cas de besoins, questions, etc. 
+Seit der Realisierung dieses Tutorials konnte sich das Jeedom Interface weiterentwickeln und es wurden Funktionalitäten hinzugefügt. Die Dokumentation bleibt die Referenz, um bei Bedarf nachzulesen, Fragen, usw. 
 
 Hier ist die Liste der verfügbaren Tutorials :
 
