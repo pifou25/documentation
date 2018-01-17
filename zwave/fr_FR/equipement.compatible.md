@@ -2,12 +2,6 @@
 
 
 
-## Act
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
-
-
 ## Aeotec
 
 |Image|Marque|Nom|Type|Remarque|Lien|
@@ -135,12 +129,6 @@
 |---|---|---|---|---|---|
 ||Chromagic|HSP02|Multicapteurs|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
 ||Chromagic|HSM02|Ouverture|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
-
-
-## Cooper
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
 
 
 ## Danfoss
@@ -482,12 +470,6 @@
 |![image](../images/89.4.1_scsc17.jpg)|Horstmann|SCS317, 7 Day Programmable Room Thermostat|Thermostat|Module vendu sous la marque Secure|[Acheter](http://www.domadoo.fr/fr/peripheriques/2419-secure-thermostat-electronique-programmable-z-wave-scs317-5015914370083.html)|
 
 
-## Intermatic
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
-
-
 ## Kaipule
 
 |Image|Marque|Nom|Type|Remarque|Lien|
@@ -500,12 +482,6 @@
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |![image](../images/144.1.1_smartcode912.jpg)|Kwikset|Electronic Deadbolt Smartcode|Serrure||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-
-
-## Leviton
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
 
 
 ## Linear
@@ -648,12 +624,6 @@
 |![image](../images/345.7.83_zmnhzdx.weather.station.jpg)|Qubino|ZMNHZDx Weather Station Z-Wave+|Weather Station||[Acheter](http://www.domadoo.fr/fr/peripheriques/3443-qubino-station-meteo-z-wave-zmnhzd1-3830062070560.html)|
 
 
-## Rcs
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
-
-
 ## Remotec
 
 |Image|Marque|Nom|Type|Remarque|Lien|
@@ -759,12 +729,6 @@
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 ||Vitrum|ZWE060 6 boutons|Interrupteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-
-
-## Wayne
-
-|Image|Marque|Nom|Type|Remarque|Lien|
-|---|---|---|---|---|---|
 
 
 ## Wenzhou
