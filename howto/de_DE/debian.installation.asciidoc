@@ -1,10 +1,10 @@
 = Debian Installation
 
-Nous allons voir ici comment installer une Debian, aussi bien en tant que VM ou en installation directe sur une machine physique
+Wir werden hier sehen, wie man ein Debian sowohl als VM als auch als direkte Installation auf einem physischen Rechner installiert.
 
 == Wiederherstellung von Quellen
 
-Vous pouvez trouver la dernière version Debian en netinstall (taille minimale mais besoin d'internet pour l'installation) https://www.debian.org/CD/netinst[ici] (il faut prendre l'image en amd64) ou cliquer directement http://cdimage.debian.org/debian-cd/9.1.0/amd64/iso-cd/debian-9.1.0-amd64-netinst.iso[ici] pour télécharger l'iso.
+Sie können die neueste Debian-Version in Netinstall (minimale Größe, aber benötigt das Internet zur Installation) https://www.debian.org/CD/netinst[hier](nehmen Sie das amd64-Abbild) finden oder klicken Sie direkt http://cdimage.debian.org/debian-cd/9.1.0/amd64/iso-cd/debian-9.1.0-amd64-netinst.iso[hier] zum herrunterladen der iso-Datei.
 
 
 == Installation starten
