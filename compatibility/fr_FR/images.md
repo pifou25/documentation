@@ -10,17 +10,14 @@ puis dans le dossier Images
 > l’avancement de celui-ci en allant sur l’IP de votre Jeedom avec votre
 > navigateur
 
-+----------------+----------------+----------------+----------------+----------------+
 | Images         | Hardware       | Etat           | Accès SSH      | Remarques      |
-+================+================+================+================+================+
+|----------------|----------------|----------------|----------------|----------------|
 | Jeedomboard    | jeedomboard et | Beta           | root/Mjeedom96 |                |
 | netinstall     | hummingboard   |                |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Jeedomboard    | jeedomboard et | Stable         | root/Mjeedom96 |                |
 |                | hummingboard   |                |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Docker         |                | Beta           | root/Mjeedom96 |                |
-+----------------+----------------+----------------+----------------+----------------+
+
 
 Toutes les autres images téléchargeables précédemment ne sont plus
 maintenues, il vaut mieux passer par l’installation manuelle de Jeedom
