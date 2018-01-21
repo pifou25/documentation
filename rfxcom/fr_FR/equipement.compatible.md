@@ -15,12 +15,8 @@
 | Blyss 582849   | Motorisation de porte de garage |                |                |                |
 | Blyss 528852   | Motorisation de portail à vérins  |                |                |                |
 | Blyss 582867   | Pack Interrupteur + micro-module ON/OFF         |                |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Chacon 34131   | Détecteur de fumée  | AC             |                |                |
-|                |           |                |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Chacon 54595   | Pack de 3 Prises Chacon  + télécommande 3 canaux + 1 groupe     | AC             |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Chacon 54795   | Pack de 3      | AC             |                |                |
 |                | Prises Chacon  |                |                |                |
 |                | DI.O first +   |                |                |                |
@@ -30,7 +26,6 @@
 | Chacon 54514   | Variateur      | AC             |                |                |
 | Chacon 54761   | Télécommande   | AC             |                |                |
 |                | 16 canaux      |                |                |                |
-+----------------+----------------+----------------+----------------+----------------+
 | Chacon 54730   | Sonnette       | AC             |                | [Acheter](http |
 |                |                |                |                | ://www.domadoo |
 |                |                |                |                | .fr/fr/periphe |
