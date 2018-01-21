@@ -1,5 +1,5 @@
 | Nom            | Type           | Protocole      | Remarque       | Lien           |
-|----------------|----------------|----------------|----------------|----------------+
+|----------------|----------------|----------------|----------------|----------------|
 | Alteco WS-1700 | Station météo  | Rubicson/Alecto              |                |                |
 | Atlantic’S     | Détecteur      | Meiantech      |                |                |
 | MD-210R        | d’ouverture    |                |                |                |
