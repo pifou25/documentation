@@ -45,7 +45,7 @@ rapide par rapport aux précédents produits Z-Wave.
 
  \
 
-Fonctions 
+Funktionen 
 ---------
 
  \

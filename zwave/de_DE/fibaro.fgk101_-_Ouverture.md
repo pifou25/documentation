@@ -49,7 +49,7 @@ existant.
 
  \
 
-Fonctions 
+Funktionen 
 ---------
 
  \

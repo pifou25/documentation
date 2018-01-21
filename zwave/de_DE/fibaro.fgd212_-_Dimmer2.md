@@ -47,7 +47,7 @@ de consommation instantanée (en W) et la consommation électrique totale
 
  \
 
-Fonctions 
+Funktionen 
 ---------
 
  \

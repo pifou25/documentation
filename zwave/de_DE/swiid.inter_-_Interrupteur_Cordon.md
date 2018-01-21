@@ -50,7 +50,7 @@ distance.
 
  \
 
-Fonctions 
+Funktionen 
 ---------
 
  \

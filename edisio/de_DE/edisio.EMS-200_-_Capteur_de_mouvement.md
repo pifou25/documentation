@@ -41,7 +41,7 @@ Caractéristiques techniques
 
 -   Alimentation : 3VDC (Pile Lithium ER14250)
 
--   Fréquence : 868,3 MHz
+-   Frequenz : 868,3 MHz
 
 -   Température de fonctionnement : 0°C +45°C
 

@@ -45,7 +45,7 @@ Fonctions
 
 -   Mode déporté
 
--   Fonction minuterie: Mode Marche/Arrêt: 30min ou 60min
+-   Zeitschaltuhr Funktion : Modus Ein-/Ausschalten 30min bis 60min
 
 -   Réplique du signal (répéteur)
 
