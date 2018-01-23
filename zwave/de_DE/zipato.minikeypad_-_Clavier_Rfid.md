@@ -3,7 +3,7 @@ Zipato miniKeypad RFID
 
  \
 
--   **Le module**
+-   **Das Modul**
 
  \
 
@@ -11,7 +11,7 @@ Zipato miniKeypad RFID
 
  \
 
--   **Le visuel Jeedom**
+-   **In Jeedom Sichtbar**
 
  \
 
@@ -19,7 +19,7 @@ Zipato miniKeypad RFID
 
  \
 
-Résumé 
+Zusammenfassung 
 ------
 
  \
@@ -39,7 +39,7 @@ qui a utilisé son badge.
 
  \
 
-Fonctions 
+Funktionen 
 ---------
 
  \
@@ -63,55 +63,55 @@ Fonctions
 
  \
 
-Caractéristiques techniques 
+Technische Daten 
 ---------------------------
 
  \
 
--   Type : Esclave Z-Wave
+-   Typ : Slave Z-Wave
 
--   Alimentation : 2x AA 1,5V batteries
+-   Stromversorgung : 2x AA 1,5V Batterie
 
--   Fréquence : 868.42 MHz
+-   Frequenz : 868,42 MHz
 
--   Portée radio : 30m en champ libre
+-   Reichweite : 30m im Freien
 
--   Protocole RFID : ISO15693, ISO18000-3, Tag-it™, RFID
+-   RFID Protokoll : ISO15693, ISO18000-3, Tag-it™, RFID
 
--   Buzzer : 60dBa à 10 cm de distance
+-   Summer: 60dBa in 10 cm Entfernung
 
--   Température de stockage : -5°C à +65°C
+-   Lagertemperatur : -5°C bis +65°C
 
--   Humidité pour stockage : 10% à 70%
+-   Luftfeuchtigkeit für Lagerung : 10% à 70%
 
--   Température de fonctionnement : 10°C à 40°C
+-   Betriebstemperatur : 10°C bis 40°C
 
--   Humidité en fonctionnement : 30% à 80%
+-   Luftfeuchtigkeit in Betrieb : 30% à 80%
 
--   Dimensions : 62 x 62 x 20 mm
+-   Abmessungen : 62 x 62 x 20 mm
 
--   Certifications : Sécurité : UL EMC : FCC, CE RoHS
+-   Zulassung : Sicherheit : UL EMC : FCC, CE RoHS
 
  \
 
-Données du module 
+Moduldaten 
 -----------------
 
  \
 
--   Marque : Zipato
+-   Marke : Zipato
 
--   Nom : Zipato Mini Keypad RFID
+-   Name : Zipato Mini Keypad RFID
 
--   Fabricant ID : 151
+-   Hersteller-ID : 151
 
--   Type Produit : 24881
+-   Produkttyp : 24881
 
--   Produit ID : 17665
+-   Produkt-ID : 17665
 
  \
 
-Configuration 
+Konfiguration 
 -------------
 
  \
@@ -143,7 +143,7 @@ Une fois inclus vous devriez obtenir ceci :
 
  \
 
-### Commandes 
+### Befehle
 
  \
 
@@ -156,7 +156,7 @@ disponibles.
 
  \
 
-Voici la liste des commandes :
+Hier ist die Liste der Befehle :
 
  \
 
@@ -169,11 +169,11 @@ Voici la liste des commandes :
 -   Code : affiche le code du badge ou du clavier lorsque le code saisi
     n’est pas dans une des mémoires
 
--   Batterie : c’est la commande batterie
+-   Batterie : Dies ist der Batterie-Befehl
 
  \
 
-### Configuration du module 
+### Modulkonfiguration
 
  \
 
@@ -203,7 +203,7 @@ Paramètres)
 
  \
 
-Détails des paramètres :
+Parameterdetails :
 
  \
 
@@ -221,11 +221,11 @@ Détails des paramètres :
 
  \
 
-### Groupes 
+### Gruppen
 
  \
 
-Ce module possède deux groupes d’association.
+Dieses Modul hat zwei Assoziationsgruppen.
 
  \
 
@@ -280,7 +280,7 @@ Celui-ci permet de rajouter des codes. Vous y verrez un tableau.
 
  \
 
-Exemples d’utilisation 
+Anwendungsbeispiele 
 ----------------------
 
  \
@@ -300,12 +300,12 @@ notification pour signaler que la maison est vide.
 
  \
 
-Bon à savoir 
+Gut zu wissen 
 ------------
 
  \
 
-### Spécificités 
+### Spezifikationen
 
  \
 

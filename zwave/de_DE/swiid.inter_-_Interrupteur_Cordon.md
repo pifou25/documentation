@@ -3,7 +3,7 @@ Swiid Interrupteur - Swiidinter
 
  \
 
--   **Le module**
+-   **Das Modul**
 
  \
 
@@ -19,7 +19,7 @@ Swiid Interrupteur - Swiidinter
 
  \
 
-Résumé 
+Zusammenfassung 
 ------
 
  \
@@ -83,48 +83,48 @@ Caractéristiques techniques
 
 -   Couleur : noire
 
--   Alimentation: 230V ± 10% - 50Hz
+-   Stromversorgung : 230V AC +/-10% - 50Hz
 
--   Puissance maxi : 660W
+-   Maximale Leistung : 660W
 
 -   Consommation : &lt; 0,08W
 
--   Indice de protection: IP20
+-   Schutzgrad : IP20
 
--   Protocole radio: Z-Wave® (SDK 4.55)
+-   Funkprotokoll : Z-Wave® (SDK 4.55)
 
--   Fréquence radio : 868,42 MHz (EU)
+-   Funkfrequenz : 868,42 MHz (EU)
 
--   Dist. transmission: Jusqu’à 30m en intérieur (dépend des matériaux)
+-   Übertragungsreichweite : 30m Innenraum (Material abhängig)
 
--   Temp. fonctionnement : 0 – 40°C
+-   Betriebstemperatur : 0-40°C
 
--   Affichage marche/arrêt : LEDs bleues
+-   Ein/Aus-Anzeige: blaue LEDs
 
--   Dimensions : 84 x 32 x 29 mm
+-   Abmessungen : 84 x 32 x 29 mm
 
--   Normes UE : EN 61058-2-1:2011 EN 55015
+-   EU Normen : EN 61058-2-1:2011 EN 55015
 
  \
 
-Données du module 
+Moduldaten 
 -----------------
 
  \
 
--   Marque : Swiid
+-   Marke : Swiid
 
--   Nom : Swiidinter
+-   Name : Swiidinter
 
--   Fabricant ID : 358
+-   Hersteller-ID : 358
 
--   Type Produit : 256
+-   Produkttyp : 256
 
--   Produit ID : 256
+-   Produkt-ID : 256
 
  \
 
-Configuration 
+Konfiguration 
 -------------
 
  \
@@ -154,7 +154,7 @@ Une fois inclus vous devriez obtenir ceci :
 
  \
 
-### Commandes 
+### Befehle
 
  \
 
@@ -185,7 +185,7 @@ icone
 
  \
 
-### Configuration du module 
+### Modulkonfiguration
 
  \
 
@@ -208,7 +208,7 @@ paramètres)
 
  \
 
-Détails du paramètre :
+Parameterdetails :
 
  \
 
@@ -230,7 +230,7 @@ swiidinter à un autre module (appui long)
 
  \
 
-### Groupes 
+### Gruppen
 
  \
 
@@ -260,7 +260,7 @@ d’association 1 via l’écran cité au-dessus.
 
  \
 
-Bon à savoir 
+Gut zu wissen 
 ------------
 
  \
@@ -273,12 +273,12 @@ Bon à savoir
 
  \
 
-Wake up 
+Aufwachen 
 -------
 
  \
 
-Pas de notion de wake up sur ce module.
+Kein Konzept des Aufwachens für dieses Modul.
 
  \
 

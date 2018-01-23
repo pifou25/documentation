@@ -340,5 +340,5 @@ F.A.Q.
 Non. ce module peut s’inclure ou s’exclure en appuyant plusieurs fois
 sur l’interrupteur.
 
- \
+\
 **@sarakha63**
