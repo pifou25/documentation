@@ -100,12 +100,12 @@
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|![image](../images/niu_wazabi.jpg)|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|![image](../images/niu_cozygrey.jpg)|Nodon|Niu Gris|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|![image](../images/niu_lagoon.jpg)|Nodon|Niu Lagoon|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|![image](../images/niu_softberry.jpg)|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|![image](../images/niu_techblue.jpg)|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|![image](../images/niu_white.jpg)|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
 ## Noke
