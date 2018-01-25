@@ -74,7 +74,7 @@ Fonctions
 Caractéristiques techniques 
 ---------------------------
 
- \
+\
 
 -   Type de module : Emetteur Z-Wave+
 

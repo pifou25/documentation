@@ -138,7 +138,7 @@ Une fois inclus vous devriez obtenir ceci :
 
 ### Commandes 
 
- \
+\
 
 Une fois le module reconnu, les commandes associées au module seront
 disponibles.

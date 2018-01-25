@@ -100,9 +100,9 @@ Données du module
 
 -   Fabricant ID : 264 \[0x0108\]
 
--   Type Produit : 2 \[0x0002\]
+-   Produkttyp : 2 \[0x0002\]
 
--   Produit ID : 14 \[0x000e\]
+-   Produkt-ID : 14 \[0x000e\]
 
  \
 

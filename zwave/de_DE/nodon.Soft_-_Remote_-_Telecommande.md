@@ -67,7 +67,7 @@ Caractéristiques techniques
 
 -   Portée : 40m en intéieur / 80m en extérieur
 
--   Dimensions 56\*56\*20mm
+-   Abmessung : 56*56*20mm
 
 -   Garantie 2 ans
 

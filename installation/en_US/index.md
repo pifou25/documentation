@@ -213,7 +213,7 @@ creating the default swap). Follow the procedure.
 interrupt this procedure. If not, we must start all over again. It is
 strongly advise to reboot at the end of the installation.
 
-</ Div>
+</Div>
 
 The following arguments are usable:
 
