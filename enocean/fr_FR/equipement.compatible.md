@@ -1,7 +1,3 @@
-# Liste des equipements enocean compatibles
-
-
-
 A5-02
 =====
 
@@ -15,7 +11,8 @@ A5-02
 |<img src="../images/a5-02-17_thermokon_capteur_de_temperature.jpg" width="60" />|Thermokon|Capteur de température tuyau|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
-## A5-04
+A5-04
+=====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
