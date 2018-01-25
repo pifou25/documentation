@@ -1,226 +1,226 @@
-MCO MH-S412 Double 
+MCO MH-S412 Double
 ==================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/mco.mhs412/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/mco.mhs412/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
-L’interrupteur MH-S412-EU permet de commuter les 2 charges connectées,
-soit manuellement comme un interrupteur classique, ou à distance via le
-protocole sans fil Z-Wave.
+\
+The switch MH-S412-EU allows to switch the 2 connected loads,
+either manually as a conventional switch, or remotely via the
+Z-Wave wireless protocol.
 
-Sa finition en verre et son design apporte un style moderne.
+Its glass finish and its design brings a modern style.
 
-L’interrupteur MH-S412-EU peut contrôler n’importe quel type de charge,
-un éclairage ou un appareil électrique.
+The switch MH-S412-EU can control any type of load,
+lighting or electrical equipment.
 
-L’interrupteur est également équipé d’un voyant LED qui indique son
-état.  \
+The switch is also equipped with an LED indicator that indicates its
+state. \
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Commander deux lampes ou appareils à distance
+-   Order two lamps or devices remotely
 
--   S’installe à la place d’un interrupteur existant (s’insère
-    parfaitement dans une boite d’encastrement de 40mm)
+-   Installs in place of an existing switch (fits
+    perfectly in a 40mm recessed box)
 
--   Fonction ON / OFF
+-   ON / OFF function
 
--   Supporte les commandes d’association (Groupe 1 et Groupe 2)
+-   Supports association orders (Group 1 and Group 2)
 
--   Contrôle des deux charges en local
+-   Control of both loads locally
 
--   LED de statut
+-   Status LED
 
--   Finition en verre, design moderne
+-   Glass finish, modern design
 
--   Boutons tactiles
+-   Touch buttons
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Module Type: Z-Wave Receiver
 
--   Couleur : Blanc
+-   White colour
 
--   Alimentation : 230 V, 50 Hz
+-   Power supply: 230 V, 50 Hz
 
--   Câblage : 3 fils, neutre nécessaire
+-   Wiring: 3 wires, neutral required
 
--   Puissance maximum : 5A (1100W) pour chaque canal
+-   Maximum power: 5A (1100W) for each channel
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Portée : jusqu’à 30 m
+-   Range: up to 30 m
 
--   Dimensions : 86 x 86 x 43 mm
+-   Dimensions: 86 x 86 x 43 mm
 
--   Affichage: LED bleue/rouge
+-   Display: blue / red LED
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : MC HOME
+-   Brand: MC HOME
 
--   Nom : MH-S412 Double
+-   Name: MH-S412 Double
 
--   Fabricant ID : 351
+-   Manufacturer ID: 351
 
--   Type Produit : 16642
+-   Product type: 16642
 
--   Produit ID : 514
+-   Product ID: 514
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur un seul
-> des 2 boutons en face avant pendant 3 sec, conformément à sa
-> documentation papier.
+> To put this module in inclusion mode you have to press a single
+> 2 buttons on the front for 3 seconds, according to its
+> paper documentation.
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/mco.mhs412/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/mco.mhs412/commandes.jpg)
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/mco.mhs412/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1: Saving state before power failure : enable ( permet de retrouver
-    le dernier état des interrupteurs juste avant la coupure secteur )
-    diseable (les interrupteurs seront a l’état OFF au retour secteur )
+-   Saving state before power failure: enable
+    the last state of the switches just before the power failure)
+    diseable (the switches will be in the OFF state at the mains return)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 3 groupes d’association. Seul le troisieme est
-indispensable.
+This module has 3 association groups. Only the third is
+essential.
 
- \
+\
 
 ![Groupe](../images/mco.mhs412/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
-1\) les boutons tactiles ont un halo de couleur bleu lorsque la charge
-est pilotée
+1 \) The touch buttons have a blue halo when charging
+is piloted
 
-2\) les boutons tactiles ont un halo de couleur orangé lorsque la charge
-est non pilotée
+2 \) the touch buttons have an orange halo when charging
+is unmanned
 
-3\) le touché est plutôt agréable et les commandes réactives
+3 \) the touch is pretty nice and responsive controls
 
-4\) cet interrupteur peut piloter sa charge en mode autonome (non
-rattaché à un contrôleur z-wave)
+4 \) this switch can control its load in autonomous mode (no
+attached to a z-wave controller)
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Ce module étant raccordé au secteur (220v) , le reveil est instantanné
-et ne necessite donc pas d’action particulière lors d’un changement de
-paramètres
+This module is connected to the mains (220v), the alarm is instantaneous
+and therefore does not require any special action when changing
+settings
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Pour exclure ce modèle, mettre Openzwave en mode exclusion et appuyer
-sur un seul des 2 boutons en face avant pendant 3 sec, conformément à sa
-documentation papier.
+To exclude this model, put Openzwave in exclusion mode and press
+on one of the 2 buttons on the front panel for 3 seconds, in accordance with its
+paper documentation.
 
-Pour restaurer les paramètres usine, appuyer sur un seul des 2 boutons
-en face avant pendant 10 sec, conformément à sa documentation papier.
+To restore the factory settings, press one of the two buttons
+on the front panel for 10 seconds, according to its paper documentation.
 
- \
+\
 

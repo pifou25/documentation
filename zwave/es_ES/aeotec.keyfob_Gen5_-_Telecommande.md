@@ -1,298 +1,298 @@
-Aeotec Keyfob Gen5 
+Aeotec Mando Gen5
 ==================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/aeotec.keyfob-gen5/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.keyfob-gen5/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-La télécommande porte-clés Aeon Labs au design moderne et agréable
-dispose de 4 boutons permettant de contrôler tout type de dispositifs
-Z-Wave tels que des lampes, stores, etc.
+El llavero Aeon Labs, diseño moderno
+dispone de 4 botones para controlar cualquier tipo de dispositivos
+Z-Wave tales como lámparas, persianas, etc.
 
-Avec ses dimensions très réduites, vous pourrez facilement la mettre
-dans votre poche. Facile à utiliser et élégante, elle est équipée d’un
-anneau permettant de l’attacher à des clés, ce qui la rend disponible au
-moment de quitter la maison ou lors du retour à votre domicile.
+Con su tamaño compacto, se puede poner fácilmente
+en el bolsillo. Fácil de usar y elegante, está equipado con una
+anillo para adjuntarlo a la llave, que pone a disposición de
+al salir de la casa o al volver a su hogar.
 
-Chaque bouton permet de contrôler deux dispositifs ou scènes grâce à la
-gestion des appuis courts et longs. Cette télécommande peut être aussi
-bien utilisée comme contrôleur principal ou secondaire.
+Cada botón puede controlar dos dispositivos o escenas a través
+gestión de prensas cortas y largas. Este mando a distancia también puede
+bien utilizado como un controlador primario o secundario.
 
-Et parce que la télécommande porte-clés Keyfob Gen5 fait partie de la
-gamme Gen5 de Aeotec, elle surpasse tout ce qui existait auparavant.
-Elle utilise la dernière puce Z-Wave série 500, offrant une augmentation
-de la portée radio de 50% et une vitesse de communication de 250% plus
-rapide par rapport aux précédents produits Z-Wave.
+Y porque el dispositivo de llave Mando Gen5 es parte de la
+Gen5 gama Aeotec, que supera todo lo que existía antes.
+Utiliza la última serie de chip Z-Wave 500, proporcionando una mayor
+una gama de radio de 50% y 250% más de velocidad de comunicación
+más rápido que los anteriores productos Z-Wave.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Télécommande porte-clés
+-   llavero de control remoto
 
--   Contrôleur principal ou secondaire
+-   controlador primario o secundario
 
--   Ultra compacte et ultra design
+-   Ultra compacto y diseño ultra
 
--   4 boutons configurables
+-   4 botones configurables
 
--   Gère jusqu’à 8 périphériques/scènes
+-   Gestiona hasta 8 dispositivos / escenas
 
--   Volet de protection coulissant
+-   deslizamiento panel de protección
 
--   Fait partie de la gamme Gen5 de Aeon Labs
+-   Parte de la gama Gen5 Aeon laboratorios
 
--   Sécurité de la communication radio via le chiffrement AES-128
+-   comunicaciones por radio de seguridad mediante el cifrado AES-128
 
--   Intègre la puce Z-Wave série 500
+-   Se integra el chip Z-Wave 500 series
 
--   Communication 250% plus rapide comparée à des périphériques Z-Wave
-    standard
+-   Comunicación 250% más rápido en comparación con los dispositivos Z-Wave
+    estándar
 
--   Optimisation de l’antenne, portée 100 mètres
+-   Optimizado alcance de la antena 100 metros
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Tipo de módulo: Transmisor Z-Wave
 
--   Alimentation : 1 pile Lithium 3V CR2450
+-   Fuente de alimentación: 1 batería de litio de 3V CR2450
 
--   Durée de vie de la batterie : 1 an
+-   Duración de la batería: 1 año
 
--   Fréquence: 868.42 MHz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 100m en champ libre
+-   Distancia de transmisión: 100 metros en campo abierto
 
--   Température d’utilisation : -10°C à 50°C
+-   Temperatura: -10 ° C a 50 ° C
 
--   Dimensions : 55 x 30 x 13mm (L x l x h)
+-   Dimensiones: 55 x 30 x 13 mm (L x W x H)
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Marca: Aeotec
 
--   Nom : ZW088 Key Fob Gen5
+-   Nombre: ZW088 Key Fob Gen5
 
--   Fabricant ID : 134
+-   Identificación del fabricante: 134
 
--   Type Produit : 1
+-   Tipo de producto: 1
 
--   Produit ID : 88
+-   Identificación del producto: 88
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> LEARN, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo tiene que pulsar el botón
+> LEARN, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/aeotec.keyfob-gen5/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.keyfob-gen5/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/aeotec.keyfob-gen5/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Botones: el comando que ascienda el botón pulsado
 
-1 : Bouton 1 appui court
+1: 1 pulsando brevemente la tecla
 
-2 : Bouton 1 appui long
+2: 1 pulsación larga del botón
 
-3 : Bouton 2 appuis courts
+3: Botón 2 pulsaciones cortas
 
-4 : Bouton 2 appuis longs
+4: 2 Botón soporte largo
 
-5 : Bouton 3 appuis courts
+5: Botón de 3 pulsaciones cortas
 
-6 : Bouton 3 appuis longs
+6: Botón apoyo 3 característica
 
-7 : Bouton 4 appuis courts
+7: Botón 4 pulsaciones cortas
 
-8 : Bouton 4 appuis longs
+8: Botón soporte 4 característica
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/aeotec.keyfob-gen5/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   250: mode de fonctionnement de la télécommande (absolument mettre
-    Scene pour s’en servir en télécommande)
+-   250: modo de funcionamiento del mando a distancia (absolutamente poner
+    Escenas a ser utilizado en el control remoto)
 
--   255 : permet de resetter d’usine le Keyfob
+-   255: Permite el Mando resetter de la fábrica
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association, le premier est le seul
-indispensable.
+Este módulo tiene dos grupos de asociación, el primero es el único
+esencial.
 
- \
+\
 
 ![Groupe](../images/aeotec.keyfob-gen5/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
-Pour utiliser ce module en télécommande il faut procéder comme suit :
+Para utilizar este módulo en remoto proceder como sigue:
 
--   1 : Inclure la télécommande
+-   1: Incluir el control remoto
 
--   2 : Réveiller la télécommande
+-   2: El despertar del control remoto
 
--   3 : Changer le paramètre 250 à Scene
+-   3: Cambiar la configuración 250 para la escena
 
--   4 : Réveiller la télécommande et s’assurer que le changement à été
-    pris en compte
+-   4: El despertar del mando a distancia y para asegurar que el cambio ha sido
+    tener en cuenta
 
--   5 : Changer le mode de focntionnement de la télécommande en restant
-    appuyer sur les deux boutons au dos pendant 3 secondes.
+-   5: El cambio en el modo de funcionamiento permanente de los restantes remoto
+    presione los dos botones en la parte posterior durante 3 segundos.
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   rester appuyé 3 secondes sur le bouton LEARN
+-   mantenga pulsado 3 segundos en el botón LEARN
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en restant appuyer 3 secondes sur le bouton LEARN.
+Este módulo se despierta de prensa restante 3 segundos en el botón LEARN.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración de que si se despierta el mando a distancia.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

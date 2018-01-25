@@ -1,298 +1,298 @@
-Aeotec Keyfob Gen5 
+Aeotec Keyfob Gen5
 ==================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/aeotec.keyfob-gen5/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.keyfob-gen5/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-La télécommande porte-clés Aeon Labs au design moderne et agréable
-dispose de 4 boutons permettant de contrôler tout type de dispositifs
-Z-Wave tels que des lampes, stores, etc.
+Aeon Labs keychain remote control with a modern and pleasant design
+has 4 buttons to control any type of devices
+Z-Wave such as lamps, blinds, etc.
 
-Avec ses dimensions très réduites, vous pourrez facilement la mettre
-dans votre poche. Facile à utiliser et élégante, elle est équipée d’un
-anneau permettant de l’attacher à des clés, ce qui la rend disponible au
-moment de quitter la maison ou lors du retour à votre domicile.
+With its very small dimensions, you can easily put it
+in your pocket. Easy to use and elegant, it is equipped with a
+ring to attach to keys, making it available at
+time to leave home or when returning to your home.
 
-Chaque bouton permet de contrôler deux dispositifs ou scènes grâce à la
-gestion des appuis courts et longs. Cette télécommande peut être aussi
-bien utilisée comme contrôleur principal ou secondaire.
+Each button allows you to control two devices or scenes thanks to
+management of short and long supports. This remote control can also be
+well used as a primary or secondary controller.
 
-Et parce que la télécommande porte-clés Keyfob Gen5 fait partie de la
-gamme Gen5 de Aeotec, elle surpasse tout ce qui existait auparavant.
-Elle utilise la dernière puce Z-Wave série 500, offrant une augmentation
-de la portée radio de 50% et une vitesse de communication de 250% plus
-rapide par rapport aux précédents produits Z-Wave.
+And because the keyfob Keyfob Gen5 remote control is part of the
+Gen5 range of Aeotec, it surpasses all that existed before.
+It uses the latest Z-Wave 500 series chip, offering an increase
+50% radio range and 250% more communication speed
+fast compared to previous Z-Wave products.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Télécommande porte-clés
+-   Keychain remote control
 
--   Contrôleur principal ou secondaire
+-   Primary or secondary controller
 
--   Ultra compacte et ultra design
+-   Ultra compact and ultra design
 
--   4 boutons configurables
+-   4 configurable buttons
 
--   Gère jusqu’à 8 périphériques/scènes
+-   Manage up to 8 devices / scenes
 
--   Volet de protection coulissant
+-   Sliding protective shutter
 
--   Fait partie de la gamme Gen5 de Aeon Labs
+-   Part of Aeon Labs Gen5 Series
 
--   Sécurité de la communication radio via le chiffrement AES-128
+-   Security of radio communication via AES-128 encryption
 
--   Intègre la puce Z-Wave série 500
+-   Integrates the Z-Wave 500 series chip
 
--   Communication 250% plus rapide comparée à des périphériques Z-Wave
+-   250% faster communication compared to Z-Wave devices
     standard
 
--   Optimisation de l’antenne, portée 100 mètres
+-   Antenna optimization, range 100 meters
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Module type: Z-Wave transmitter
 
--   Alimentation : 1 pile Lithium 3V CR2450
+-   Power supply: 1 x CR2450 3V Lithium battery
 
--   Durée de vie de la batterie : 1 an
+-   Battery life: 1 year
 
--   Fréquence: 868.42 MHz
+-   Frequency: 868.42 MHz
 
--   Distance de transmission : 100m en champ libre
+-   Transmission distance: 100m in free field
 
--   Température d’utilisation : -10°C à 50°C
+-   Operating temperature: -10 ° C to 50 ° C
 
--   Dimensions : 55 x 30 x 13mm (L x l x h)
+-   Dimensions: 55 x 30 x 13mm (L x W x H)
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Brand: Aeotec
 
--   Nom : ZW088 Key Fob Gen5
+-   Name: ZW088 Key Fob Gen5
 
--   Fabricant ID : 134
+-   Manufacturer ID: 134
 
--   Type Produit : 1
+-   Product type: 1
 
--   Produit ID : 88
+-   Product ID: 88
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> LEARN, conformément à sa documentation papier.
+> To put this module in inclusion mode, press the button
+> LEARN, in accordance with its paper documentation.
 
- \
+\
 
 ![inclusion](../images/aeotec.keyfob-gen5/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.keyfob-gen5/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/aeotec.keyfob-gen5/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Buttons: this is the command that will move up the button
 
-1 : Bouton 1 appui court
+1: Button 1 short press
 
-2 : Bouton 1 appui long
+2: Button 1 long press
 
-3 : Bouton 2 appuis courts
+3: Button 2 short presses
 
-4 : Bouton 2 appuis longs
+4: Button 2 long presses
 
-5 : Bouton 3 appuis courts
+5: Button 3 short presses
 
-6 : Bouton 3 appuis longs
+6: Button 3 long presses
 
-7 : Bouton 4 appuis courts
+7: Button 4 short presses
 
-8 : Bouton 4 appuis longs
+8: Button 4 long presses
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> During a first inclusion always wake up the module just after
+> inclusion.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/aeotec.keyfob-gen5/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   250: mode de fonctionnement de la télécommande (absolument mettre
-    Scene pour s’en servir en télécommande)
+-   250: operating mode of the remote control (absolutely
+    Scene for use in remote control)
 
--   255 : permet de resetter d’usine le Keyfob
+-   255: Resets the Keyfob from the factory
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède deux groupes d’association, le premier est le seul
-indispensable.
+This module has two association groups, the first is the only one
+essential.
 
- \
+\
 
 ![Groupe](../images/aeotec.keyfob-gen5/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
-Pour utiliser ce module en télécommande il faut procéder comme suit :
+To use this module as a remote control, proceed as follows:
 
--   1 : Inclure la télécommande
+-   1: Include the remote control
 
--   2 : Réveiller la télécommande
+-   2: Wake up the remote
 
--   3 : Changer le paramètre 250 à Scene
+-   3: Change the parameter 250 to Scene
 
--   4 : Réveiller la télécommande et s’assurer que le changement à été
-    pris en compte
+-   4: Wake up the remote control and make sure the change has been
+    taken into account
 
--   5 : Changer le mode de focntionnement de la télécommande en restant
-    appuyer sur les deux boutons au dos pendant 3 secondes.
+-   5: Change the operating mode of the remote control while remaining
+    press the two buttons on the back for 3 seconds.
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+To wake up this module there is only one way to proceed:
 
--   rester appuyé 3 secondes sur le bouton LEARN
+-   stay pressed for 3 seconds on the LEARN button
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en restant appuyer 3 secondes sur le bouton LEARN.
+This module wakes up by pressing and holding the LEARN button for 3 seconds.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+This module is a module on battery, the new configuration will be
+take into account only if you wake up the remote control.
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

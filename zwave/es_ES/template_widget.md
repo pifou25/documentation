@@ -1,51 +1,51 @@
-Visuel Alternatif 
+alternativa visual
 =================
 
- \
+\
 
-Il faut maintenant inclure le module, pour cela, il faut se rendre dans
-le menu « Plugins », « Protocole Domotique » puis « Z-Wave ».
+Debemos incluir ahora el módulo, para esto es necesario que vaya a
+el menú "Plugins", "Protocolo de Inicio de automatización" y "Z-Wave".
 
- \
+\
 
 ![inclusion1](../images/plugin/inclusion1.jpg)
 
- \
+\
 
-Une fois sur cette page, vous allez trouver une bouton "Mode Inclusion",
-il suffit de cliquer dessus pour passer en mode inclusion :
+Una vez en esta página, encontrará un botón de "Modo de inclusión",
+simplemente haga clic en él para cambiar a la inclusión de la moda:
 
- \
+\
 
 ![bouton inclusion](../images/plugin/bouton_inclusion.jpg)
 
- \
+\
 
-Après avoir cliqué sur « Mode inclusion », un message apparait pour vous
-rappeler que vous êtes dans ce mode.
+Después de hacer clic en "modo de inserción", aparece un mensaje para usted
+Recuerda que estás en este modo.
 
- \
+\
 
 ![inclusion3](../images/plugin/inclusion3.jpg)
 
- \
+\
 
-Une fois l’inclusion en cours, un message apparait , il faut donc
-patienter le temps que Jeedom intègre le module. La configuration des
-commandes se fait automatiquement une fois le module reconnu par Jeedom.
+Después de la inclusión en curso, aparece un mensaje, es necesario
+esperar mientras Jeedom integra el módulo. La configuración de
+Las órdenes son automáticamente una vez que el módulo reconocido Jeedom.
 
- \
+\
 
 ![inclusion4](../images/plugin/inclusion4.jpg)
 
- \
+\
 
-> **Tip**
+> ** Tip **
 >
-> Il est préférable d’effectuer une exclusion avant une inclusion. Pour
-> effectuer l’exclusion, rien de bien compliqué, il suffit de cliquer
-> sur « Mode exclusion » et d’exclure le module, un message apparaitra
-> vous confirmant l’exclusion du module.
+> Lo mejor es hacer una exclusión antes de la inclusión. Para
+> Realizar la exclusión, nada complicado, basta con hacer clic
+> Para el "modo de exclusión" y excluir el módulo, aparecerá un mensaje
+> Confirmación de la exclusión del módulo.
 
- \
+\
 

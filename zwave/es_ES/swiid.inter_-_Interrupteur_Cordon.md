@@ -1,299 +1,299 @@
-Swiid Interrupteur - Swiidinter 
+Swiid cambiar - Swiidinter
 ===============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/swiid.inter/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/swiid.inter/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-SwiidInter est le premier interrupteur sur cordon dans l’environnement
-domotique Z-Wave qui soit suffisamment petit et discret pour être
-comparable à un interrupteur sur cordon ordinaire.
+SwiidInter es el primer cable del interruptor en el medio ambiente
+Z-Wave domótica que es lo suficientemente pequeño y discreto para estar
+comparable a un conmutador de cable ordinario.
 
-Il peut être utilisé à la fois manuellement comme n’importe quel
-interrupteur sur cordon ordinaire et à distance via un contrôleur
+Se puede utilizar tanto de forma manual como cualquier
+cambiar en el cable plano y de forma remota a través del controlador
 Z-Wave.
 
-L’interrupteur SwiidInter offre également des possibilités d’association
-et ce à double sens. Ainsi, il peut être actionné automatiquement par un
-autre périphérique Z-Wave du même réseau, comme par exemple par le
-déclenchement d’un détecteur de présence. Inversement avec un appui
-court ou avec un appui long il peut commander deux groupes séparés de
-périphériques Z-Wave qui lui auront été associés : par exemple tous les
-autres éclairages de la pièce où se trouve votre interrupteur
+El interruptor SwiidInter también ofrece posibilidades de asociación
+y esto en ambas direcciones. Por lo tanto, puede ser operado automáticamente por un
+otro dispositivo Z-Wave de la misma red, tal como la
+desencadenar un detector de presencia. A la inversa, con el apoyo
+pulsación corta o larga que puede controlar dos grupos separados de
+dispositivos Z-Wave que se han asociado con él: por ejemplo, todos
+otras luces de la habitación donde se encuentra el conmutador
 SwiidInter.
 
-L’interrupteur SwiidInter s’installe exactement comme un interrupteur
-sur cordon ordinaire : c’est donc une installation simple et rapide qui
-ne nécessite aucun outil spécialisé. Il doit ensuite être configuré pour
-s’intégrer dans un "réseau" Z-Wave, ce réseau pouvant être aussi simple
-qu’une seule télécommande qui commande votre interrupteur SwiidInter à
-distance.
+El interruptor SwiidInter mueve exactamente igual que un interruptor
+espinal normal: por lo que esta es una instalación rápida y fácil
+requiere ninguna herramienta especial. Se debe entonces ser configurado para
+ser parte de una "red" Z-Wave, esta red puede ser tan simple
+un solo comando de control remoto para cambiar su SwiidInter
+la distancia.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Interrupteur sur cordon utilisable à la fois manuellement
-    (appui court) et par radio à distance (Z-Wave)
+-   cable del interruptor utilizado tanto de forma manual
+    (Corto) y la radio remota (Z-Wave)
 
--   Utilisation en remplacement d’un interrupteur à cordon standard
-    d’une lampe de chevet, de table ou de bureau
+-   reemplazo usando un cordón de tracción estándar
+    una lámpara de noche, mesa o escritorio
 
--   Fonction ON/OFF
+-   Encendido / apagado
 
--   Activation d’un scénario domotique sur appui long
-    (association Z-Wave)
+-   Habilitación de un escenario domótico de pulsación larga
+    (Z-Wave Asociación)
 
--   Dimensions comparables à un interrupteur sur cordon ordinaire
+-   Dimensiones comparables a un conmutador de cable ordinario
 
--   S’installe comme un interrupteur sur cordon ordinaire
+-   Se instala como un interruptor de cordón ordinaria
 
--   Convient pour tous types d’ampoules de lampe
+-   Adecuado para todos los tipos de bombillas
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Couleur : noire
+-   Color: Negro
 
--   Alimentation: 230V ± 10% - 50Hz
+-   Fuente de alimentación: 230 V ± 10% - 50 Hz
 
--   Puissance maxi : 660W
+-   Potencia máxima: 660W
 
--   Consommation : &lt; 0,08W
+-   Consumo: 0,08W &lt;
 
--   Indice de protection: IP20
+-   Protección: IP20
 
--   Protocole radio: Z-Wave® (SDK 4.55)
+-   protocolo de radio: Z-Wave® (SDK 4.55)
 
--   Fréquence radio : 868,42 MHz (EU)
+-   Radiofrecuencia: 868.42 MHz (UE)
 
--   Dist. transmission: Jusqu’à 30m en intérieur (dépend des matériaux)
+-   Dist. transmisión: hasta 30 m en interiores (dependiendo del material)
 
--   Temp. fonctionnement : 0 – 40°C
+-   Temperatura De funcionamiento: 0 - 40 ° C
 
--   Affichage marche/arrêt : LEDs bleues
+-   Mostrar On / Off: LEDs azules
 
--   Dimensions : 84 x 32 x 29 mm
+-   Dimensiones: 84 x 32 x 29 mm
 
--   Normes UE : EN 61058-2-1:2011 EN 55015
+-   Normas de la UE: EN 61058-2-1: 2011 EN 55015
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Swiid
+-   Marca: Swiid
 
--   Nom : Swiidinter
+-   Nombre: Swiidinter
 
--   Fabricant ID : 358
+-   Identificación del fabricante: 358
 
--   Type Produit : 256
+-   Tipo de producto: 256
 
--   Produit ID : 256
+-   Identificación del producto: 256
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> à l’arrière, conformément à sa documentation papier
+> Para poner este modo la inclusión del módulo tiene que pulsar el botón
+> En la parte posterior, de acuerdo con su documentación en papel
 
- \
+\
 
 ![inclusion](../images/swiid.inter/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/swiid.inter/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/swiid.inter/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    lumière
+-   Estado: Este es el comando para conocer el estado de la
+    luz
 
--   ON : C’est la commande qui permet d’allumer la lumière
+-   ON: Este es el comando para encender la luz
 
--   OFF : C’est la commande qui permet d’éteindre la lumière
+-   OFF: Este es el comando para apagar la luz
 
- \
+\
 
-A noter que sur le dashboard toutes les infos se retrouvent sur le même
-icone
+Tenga en cuenta que la información completa salpicadero se puede encontrar en la misma
+icono
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/swiid.inter/config1.jpg)
 
- \
+\
 
-Détails du paramètre :
+Los detalles del parámetro:
 
- \
+\
 
-Ce paramètre permet de choisir le comportement lorsque vous associez le
-swiidinter à un autre module (appui long)
+Este parámetro determina el comportamiento cuando se asocia el
+swiidinter a otro módulo (pulsación larga)
 
- \
+\
 
--   Inactif : n’aura aucun effet sur les autres lumières
+-   Inactivo: no tendrá ningún efecto sobre otras luces
 
--   Uniquement OFF : sera effectif uniquement pour éteindre les autres
-    lumières
+-   Sólo OFF: sólo será eficaz a poner la otra
+    luces
 
--   Uniquement ON : sera effectif uniquement pour allumer les autres
-    lumières
+-   Sólo el: será eficaz sólo para poner la otra
+    luces
 
--   ON et OFF (fully) : sera effectif pour allumer et éteindre les
-    autres lumières
+-   ON y OFF (totalmente) será efectiva para el encendido y apagado
+    otras luces
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association.
+Este módulo tiene dos grupos de asociación.
 
- \
+\
 
 ![Groupe](../images/swiid.inter/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour un fonctionnement optimum de votre module. Il faut que Jeedom
-> soit associé à minima au groupe 2.
+> Para un funcionamiento óptimo del módulo. debe Jeedom
+> Se asocia con Grupo mínimo 2.
 
- \
+\
 
-Associer à une autre lumière 
+Asociado con otro punto de vista
 ----------------------------
 
- \
+\
 
-Pour associer le swiidinter à une autre lumière et pouvoir bénéficier de
-l’allumage d’une autre lumière, il suffit de la rajouter au groupe
-d’association 1 via l’écran cité au-dessus.
+Para asociar el swiidinter otro punto de vista y beneficiarse de
+encender otra luz, es suficiente con añadir al grupo
+Asociación 1 a través de la pantalla se ha mencionado anteriormente.
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/swiid.inter/vuewidget.jpg)
 
- \
+\
 
-Wake up 
+despertarse
 -------
 
- \
+\
 
-Pas de notion de wake up sur ce module.
+Sin noción de despertador en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Avez-vous associé les deux modules et avez-vous bien configuré la partie
-spécifique.
+Cómo se asocian los dos módulos y has configurado el juego
+específico.
 
- \
+\
 
-Non. Le module ne le permet pas.
+No. El módulo no lo permite.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

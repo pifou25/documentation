@@ -1,33 +1,33 @@
-Nous allons voir ici comment changer votre mot de passe Jeedom, si vous
-l’avez oublié, directement en modifiant celui-ci dans la base de
-données.
+Veremos cómo cambiar su contraseña si Jeedom
+han olvidado, directamente mediante la modificación en la base de datos
+datos.
 
-La première chose à faire est de se connecter en SSH à Jeedom (avec un
-logiciel type kitty ou putty).
+Lo primero que debe hacer es SSH en Jeedom (con
+software como masilla o gatito).
 
-Une fois connecté, il vous faut récupérer les identifiants de la base de
-données :
+Una vez conectado, es necesario recuperar los identificadores de la base
+datos:
 
 ``` {.bash}
 cat /var/www/html/core/config/common.config.php
 ```
 
-Ici, vous trouverez le mot de passe pour accéder à la base de données
-jeedom, il faut ensuite faire :
+Aquí se puede encontrar la contraseña para acceder a la base de datos
+jeedom que hacer a continuación:
 
 ``` {.bash}
 mysql -ujeedom -p
 ```
 
-Là il vous demande le mot de passe récupéré plus haut (le mot de passe
-ne s’affiche pas : c’est normal). Tapez ensuite (ou mieux,
-copier/coller. Il faut faire "clic-droit" sous Putty pour "coller") :
+Allí se le pide la contraseña recuperada por encima (la contraseña
+no aparece: esto es normal). A continuación, introduzca (o mejor,
+copiar pegar. Necesitamos "botón derecho del ratón" en la masilla para "pegar"):
 
 ``` {.bash}
 use jeedom;
 REPLACE INTO user SET `login`='admin',password='c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec',profils='admin', enable='1';
 ```
 
-Voilà. Vous pouvez vous déconnecter/reconnecter à votre Jeedom avec les
-identifiants admin/admin ce qui vous permettra de modifier le mot de
-passe des autres comptes également.
+Listo. Puede desconectar / reconectar a su Jeedom con
+admin / admin contraseña que le permitirá cambiar la contraseña
+pasar otras cuentas también.

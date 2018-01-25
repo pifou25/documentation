@@ -1,275 +1,275 @@
-Aeotec Panic Button 
+Botón de pánico Aeotec
 ===================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/aeotec.panicbutton/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.panicbutton/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Cette télécommande porte-clés au design moderne et agréable dispose d’un
-bouton permettant de contrôler tout type de dispositifs Z-Wave tels que
-des lampes, stores, etc.
+Este llavero de control remoto en el diseño atractivo y moderno tiene una
+botón para controlar cualquier tipo de dispositivos Z-Wave como
+lámparas, persianas, etc.
 
-Avec ses dimensions très réduites, vous pourrez facilement la mettre
-dans votre poche. Facile à utiliser et élégante, elle est équipée d’un
-anneau permettant de l’attacher à des clés, ce qui la rend disponible au
-moment de quitter la maison ou lors du retour à votre domicile.
+Con su tamaño compacto, se puede poner fácilmente
+en el bolsillo. Fácil de usar y elegante, está equipado con una
+anillo para adjuntarlo a la llave, que pone a disposición de
+al salir de la casa o al volver a su hogar.
 
-Le bouton permet de contrôler deux dispositifs ou scènes grâce à la
-gestion des appuis courts et longs. Cette télécommande peut être aussi
-bien utilisée comme contrôleur principal que secondaire.
+El botón se utiliza para controlar dos dispositivos o escenas a través
+gestión de prensas cortas y largas. Este mando a distancia también puede
+bien utilizado como controlador principal y secundaria.
 
-Cette télécommande peut également être utilisée comme un bouton
-d’urgence ou de panique. En cas de détresse ou lorsque son détenteur se
-trouve face à une autre situation d’urgence, il lui suffit d’appuyer sur
-le bouton et un signal Z-Wave sera émis. Dans ce cas, ce périphérique
-peut aussi être utilisé comme un médaillon autour du cou.
+Esta distancia también se puede utilizar como un botón
+emergencia o pánico. En caso de peligro o cuando su titular
+se enfrenta a otra situación de emergencia, basta con pulsar sobre ella
+Se emitirán botón y una señal Z-Wave. En este caso, este dispositivo
+También se puede utilizar como un medallón alrededor de su cuello.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Télécommande porte-clés
+-   llavero de control remoto
 
--   Contrôleur principal ou secondaire
+-   controlador primario o secundario
 
--   Ultra compacte et ultra design
+-   Ultra compacto y diseño ultra
 
--   1 bouton configurable
+-   1 botón configurable
 
--   Gère jusqu’à 2 périphériques/scènes
+-   Gestiona hasta 2 dispositivos / escenas
 
--   Peut être utilisé comme un bouton d’urgence/panique
+-   Se puede utilizar como un botón de emergencia / pánico
 
--   Utilisation autour du cou comme médaillon d’urgence
+-   Usar alrededor del cuello como medallón de emergencia
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Tipo de módulo: Transmisor Z-Wave
 
--   Alimentation : 1 pile Lithium 3V CR2450
+-   Fuente de alimentación: 1 batería de litio de 3V CR2450
 
--   Durée de vie de la batterie : 2 à 3 mois pour 10 à 20 utilisations
-    par jour
+-   duración de la batería: 2 a 3 meses de 10 a 20 usos
+    por día
 
--   Fréquence: 868.42 MHz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 30m en intérieur
+-   Distancia de transmisión: 30m cubierta
 
--   Dimensions : 55 x 30 x 11mm (L x l x h)
+-   Dimensiones: 55 x 30 x 11 mm (L x W x H)
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Marca: Aeotec
 
--   Nom : Panic Button
+-   Nombre: Botón de pánico
 
--   Fabricant ID : 134
+-   Identificación del fabricante: 134
 
--   Type Produit : 1
+-   Tipo de producto: 1
 
--   Produit ID : 38
+-   Identificación del producto: 38
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> LEARN, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo tiene que pulsar el botón
+> LEARN, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/aeotec.panicbutton/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.panicbutton/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/aeotec.panicbutton/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Botones: el comando que ascienda el botón pulsado
 
-1 : Bouton appui court
+1: el botón corto
 
-2 : Bouton appui long
+2: Botón de pulsación larga
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/aeotec.panicbutton/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   250: mode de fonctionnement de la télécommande (absolument mettre
-    Scene pour s’en servir en télécommande)
+-   250: modo de funcionamiento del mando a distancia (absolutamente poner
+    Escenas a ser utilizado en el control remoto)
 
--   255 : permet de resetter d’usine le Keyfob
+-   255: Permite el Mando resetter de la fábrica
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède un seul et unique groupe d’association. Il est
-indispensable.
+Este módulo tiene un solo grupo de asociación. El es
+esencial.
 
- \
+\
 
 ![Groupe](../images/aeotec.panicbutton/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
-Pour utiliser ce module en télécommande il faut procéder comme suit :
+Para utilizar este módulo en remoto proceder como sigue:
 
--   1 : Inclure la télécommande
+-   1: Incluir el control remoto
 
--   2 : Réveiller la télécommande
+-   2: El despertar del control remoto
 
--   3 : Changer le paramètre 250 à true (bien le faire même s’il
-    apparait déjà à true)
+-   3: establece el valor true 250 Cambio (lo hacen bien, incluso si él
+    aparece ya en true)
 
--   4 : Réveiller la télécommande et s’assurer que le changement à été
-    pris en compte
+-   4: El despertar del mando a distancia y para asegurar que el cambio ha sido
+    tener en cuenta
 
--   5 : Changer le mode de focntionnement de la télécommande en restant
-    appuyé sur les deux boutons au dos pendant 3 secondes.
+-   5: El cambio en el modo de funcionamiento permanente de los restantes remoto
+    presionando los dos botones en la parte posterior durante 3 segundos.
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   rester appuyé 3 secondes sur le bouton LEARN
+-   mantenga pulsado 3 segundos en el botón LEARN
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en restant appuyer 3 secondes sur le bouton LEARN.
+Este módulo se despierta de prensa restante 3 segundos en el botón LEARN.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración de que si se despierta el mando a distancia.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

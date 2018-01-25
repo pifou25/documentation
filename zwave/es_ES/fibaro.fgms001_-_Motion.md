@@ -1,209 +1,209 @@
-Fibaro Motion Sensor - FGMS-001 
+Sensor de movimiento Fibaro - GSMF-001
 ===============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/fibaro.fgms001/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgms001/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le détecteur de mouvement Fibaro est un détecteur multifonctions Z-Wave.
-En plus de la détection de mouvement, ce dispositif mesure la
-température et l’intensité lumineuse. Ce détecteur comporte aussi un
-accéléromètre intégré afin de détecter toute tentative d’altération du
-dispositif.
+El detector de movimiento Fibaro es un detector de Z-Wave multifuncional.
+Además de la detección de movimiento, el dispositivo mide el
+la temperatura y la intensidad de la luz. El detector incluye también una
+acelerómetro incorporado para detectar cualquier manipulación de
+dispositivo.
 
-Le détecteur de mouvement Fibaro est alimenté par batterie et est conçu
-pour être installé rapidement et facilement sur n’importe quelle
-surface. Le voyant LED signale le mouvement, le niveau de température,
-le mode de fonctionnement et peut être utilisé pour voir si l’appareil
-est dans le réseau Z-Wave.
+Fibaro el detector de movimiento es con pilas y está diseñado
+para instalarse rápida y fácilmente en cualquier
+superficie. El LED señala el nivel de movimiento, temperatura,
+el modo de funcionamiento y se puede utilizar para ver si el dispositivo
+es la red Z-Wave.
 
-Le détecteur de mouvement peut être utilisé pour les scènes d’éclairage
-et les systèmes de surveillance et/ou de sécurité.
+El detector de movimiento se puede utilizar para escenas de iluminación
+y el seguimiento y / o sistemas de seguridad.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Détecteur de mouvement sans fil
+-   detector de movimiento inalámbrico
 
--   Détecte les mouvements à l’aide d’un capteur infrarouge passif
+-   Detecta movimientos con un sensor infrarrojo pasivo
 
--   Mesure de la température
+-   La medición de la temperatura
 
--   Mesure de l’intensité lumineuse
+-   La medición de la intensidad de la luz
 
--   Protection contre l’effraction et le vol
+-   Protección contra el robo y hurto
 
--   Alertes de mouvement et de température signalées par le clignotement
-    de la diode LED
+-   Alertas de movimiento y temperatura indicada por el parpadeo
+    del LED
 
--   Mode de détection de tremblement de terre
+-   Modo de detección terremoto
 
--   Bouton pour inclure/exclure le détecteur
+-   Botón para incluir / excluir el detector
 
--   Détection pile faible
+-   Detección de batería baja
 
--   Très petit, dimensions réduites
+-   Muy pequeña, de tamaño compacto
 
--   Facilité d’installation sur un mur ou toute autre surface
+-   Fácil de instalar en una pared u otra superficie
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Tipo de módulo: Transmisor Z-Wave
 
--   Alimentation : Pile CR123A 3,6VDC
+-   Potencia: CR123A 3,6VDC
 
--   Hauteur recommandée pour l’installation : 2,4m
+-   La altura recomendada para la instalación: 2,4 m
 
--   Plage de température mesurée : -20°C à 100°C
+-   medido rango de temperatura: -20 ° C a 100 ° C
 
--   Précision de la mesure : 0,5°C
+-   Precisión de medida: 0,5 ° C
 
--   Plage de mesure de la luminosité : 0-32000 LUX
+-   Brillo rango de medición: 0-32000 LUX
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Distancia de transmisión: campo libre 50m, 30m en interiores
 
--   Dimensions: 4,4 cm de diamètre
+-   Dimensiones: 4,4 cm de diámetro
 
--   Température de fonctionnement : 0-40°C
+-   Temperatura de funcionamiento: 0-40 ° C
 
--   Certifications : LVD 2006/95/WE EMC 2004/108/WE R&TTE 1999/5/WE RoHS
+-   Certificaciones: LVD 2006/95 / WE EMC 2004/108 / WE R & TTE 1999/5 / nosotros RoHS
     II
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Marca: Grupo Fibar
 
--   Nom : Fibaro FGMS-001 \[Motion Sensor\]
+-   Nombre: Fibaro GSMF-001 \ [sensor de movimiento \]
 
--   Fabricant ID : 271
+-   Identificación del fabricante: 271
 
--   Type Produit : 2048
+-   Tipo de producto: 2048
 
--   Produit ID : 4097
+-   Identificación del producto: 4097
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgms001/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgms001/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgms001/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Présence : c’est la commande qui remontera une détection de présence
+-   Presencia: es el comando que ascienden detección de presencia
 
--   Température : c’est la commande qui permet de remonter la
-    température
+-   Temperatura: la orden de copia de seguridad del
+    temperatura
 
--   Luminosité : c’est la commande qui permet de remonter la luminosité
+-   Brillo: el comando para aumentar el brillo
 
--   Sabotage : c’est la commande sabotage (elle est déclenchée en cas
-    de vibration)
+-   Sabotaje: el comando de sabotaje (que se activa en caso de
+    vibración)
 
--   Batterie : c’est la commande batterie
+-   Batería: el control de la batería
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/fibaro.fgms001/config1.jpg)
 
@@ -213,173 +213,173 @@ Paramètres)
 
 ![Config3](../images/fibaro.fgms001/config4.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   Wakeup : c’est l’interval de réveil du module (valeur
-    recommandée 7200)
+-   Despertador: Este es el intervalo de la alarma del módulo (valor
+    Recomendado 7200)
 
--   1: permet de régler la sensibilité du capteur de présence
+-   1: Ajuste de la sensibilidad del sensor de presencia
 
--   2: permet de régler l’inertie du capteur de présence
+-   2: juego de la inercia del sensor de presencia
 
--   3: déconseillé de changer ce paramètre
+-   3: No se recomienda cambiar este parámetro
 
--   4: déconseillé de changer ce paramètre
+-   4: No se recomienda cambiar este parámetro
 
--   6: temps après lequel le capteur enverra le signal "plus de
-    mouvement" (valeur conseillée 30)
+-   6: tiempo tras el cual el sensor envía la señal "más
+    movimiento "(valor recomendado 30)
 
--   8: permet d’activer le mode nuit / jour ou les deux (valeur
-    conseillée : toujours actif)
+-   8: Activar el modo de noche / día, o bien (valor
+    Recomendado: siempre activo)
 
--   9: permet de régler le seuil de passage en mode nuit (utile si vous
-    avez changé le paramètre 8)
+-   9: Ajusta el umbral para la conmutación al modo de noche (útil si
+    han cambiado el parámetro 8)
 
--   12: à modifier seulement si vous savez pourquoi vous le faites
-    (association avec un module par exemple)
+-   12: Sólo cambiar si sabe por qué está haciendo
+    (Combinación con un módulo por ejemplo)
 
--   14: idem
+-   14: ídem
 
--   16: idem
+-   16: ídem
 
--   20: sensibilité du capteur gyroscopique (valeur conseillée 15)
+-   20: sensibilidad del sensor de giro (valor recomendado 15)
 
--   22: temps après lequel le capteur enverra le signal "plus de
-    sabotage" (valeur conseillée 30)
+-   22: tiempo tras el cual el sensor envía la señal "más
+    sabotaje "(valor recomendado 30)
 
--   24: permet de dire comment le sabotage est notifié (IMPORTANT :
-    valeur conseillée : Capteur anti-sabotage notifié à SensorAlarm
-    command class/ Annulation est notifié après le temps défini en
-    paramètre 22 )
+-   24: a decir cómo se notifica el sabotaje (IMPORTANTE:
+    Valor recomendado: Sabotaje Sensor notificó SensorAlarm
+    class / cancelación se notifica después del tiempo establecido en
+    parámetro 22)
 
--   26: à modifier seulement si vous savez pourquoi vous le faites
+-   26: Sólo cambiar si sabe por qué está haciendo
 
--   40: permet de dire de combien doit être modifiée la valeur de
-    luminosité pour être envoyée (valeur conseillée 50)
+-   40: decir cuánto se debe modificar el valor
+    brillo para ser enviado (valor recomendado 50)
 
--   42: permet de donner une durée minimum entre deux envois successifs
-    même si la luminosité n’a pas changée (valeur conseillée 3600)
+-   42: para dar un período mínimo entre dos envíos sucesivos
+    incluso si el brillo no se cambia (valor recomendado 3600)
 
--   60: permet de dire de combien doit être modifiée la valeur de
-    température pour être envoyée (valeur conseillée 2 soit 0.2 degrés)
+-   60: decir cuánto se debe modificar el valor
+    temperatura para ser enviado (valor recomendado 2 es de 0,2 grados)
 
--   62: permet de donner la fréquence des mesures de température (valeur
-    conseillée 900)
+-   62: permite dar la frecuencia de las mediciones de temperatura (valor
+    900 recomendado)
 
--   64: permet de donner une durée minimum entre deux envois successifs
-    même si la température n’a pas changée (valeur conseillée 2700)
+-   64: permite dar un tiempo mínimo entre dos envíos sucesivos
+    incluso si la temperatura no ha cambiado (valor recomendado 2700)
 
--   66: permet d’ajuster la température
+-   66: para ajustar la temperatura
 
--   80: permet de choisir la couleur de la led lorsqu’il ya détection de
-    mouvement (voir de la désactiver)
+-   80: elegir el color de la LED cuando hay detección
+    movimiento (ver la deshabilitar)
 
--   81: permet de régler la luminosité de la led
+-   81: Ajuste el brillo del LED
 
--   82: permet de régler le seuil minimal de luminosité pour mettre la
-    led à 1% (lié au paramètre 81)
+-   82: Ajuste del umbral mínimo para llevar el brillo
+    LED 1% (en relación al parámetro 81)
 
--   83: permet de régler le seuil maximal de luminosité pour mettre la
-    led à 100% (lié au paramètre 81)
+-   83: establece el umbral de brillo máximo para llevar el
+    LED 100% (en relación al parámetro 81)
 
--   86: température en dessous de laquelle la led s’allumera en bleu
-    (lié au paramètre 81)
+-   86: temperatura por debajo de la cual el LED se vuelve azul
+    (Relacionado con el parámetro 81)
 
--   87: température au dessus de laquelle la led s’allumera en rouge
-    (lié au paramètre 81)
+-   87: temperatura por encima de la cual el LED se iluminará en rojo
+    (Relacionado con el parámetro 81)
 
--   89: permet de faire clignoter la led en bleu/blanc/rouge en cas de
-    sabotage
+-   89: permite a parpadear el LED en caja azul / blanco / rojo
+    sabotaje
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède trois groupes d’association, seul le troisième est
-indispensable.
+Este módulo tiene tres grupos de asociación, sólo el tercero es
+esencial.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgms001/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-> **Tip**
+> ** Tip **
 >
-> Ce module est très capricieux sur les wakeup et très mal configuré
-> d’usine. Il est primordial de bien le réveiller après l’inclusion
-> (plusieurs fois valent mieux qu’une), de bien le configurer selon vos
-> souhaits, et de bien le réveiller pour que la config soit prise en
-> compte.
+> Este módulo es muy temperamental en la reactivación y mal configurado
+> Fábrica. Es esencial para despertar después de la inclusión
+> (varias veces mejor que uno), así configurarlo para su
+> Deseos, y así despertarle para config se toma en
+> Cuenta.
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgms001/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   appuyer 3 fois sur le bouton d’inclusion (la lumière s’allume
-    en bleue). Même si la lumière s’allume, il peut être nécessaire de
-    le faire plusieurs fois de suite (2 ou 3)
+-   presione 3 veces el botón de inclusión (la luz se enciende
+    azul). Incluso si la luz se enciende, puede ser necesario
+    hacer repetidamente (2 o 3)
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant 3 fois sur son bouton d’inclusion.
+Este módulo se despierta pulsando 3 veces en el botón de la inclusión.
 
- \
+\
 
-Ce module est très capricieux. Il est conseillé de faire l’inclusion au
-plus proche de votre box et de s’y reprendre plusieurs fois.
+Este módulo es muy temperamental. Es recomendable hacer la inclusión
+más cerca de su caja y tomar varias veces.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wakeup.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración en la próxima despertador.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

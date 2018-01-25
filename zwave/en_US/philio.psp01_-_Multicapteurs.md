@@ -1,350 +1,350 @@
-Philio PSP01 
+Philio PSP01
 ============
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/philio.psp01/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/philio.psp01/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le détecteur PSP01 propose 3 fonctions différentes : détection de
-mouvement, capteur de température et détecteur de luminosité.
+The PSP01 detector offers 3 different functions: detection of
+motion, temperature sensor and brightness sensor.
 
-Ce détecteur peut être utilisé pour la sécurité ou pour
-l’automatisation. Quand le détecteur est associé avec des appareils de
-sécurité, il sert comme déclencheur d’alertes en détectant des
-changements dans les niveaux de radiation infra-rouge. Si une personne
-bouge dans le champ de vision du détecteur, un signal radio est
-transmis, ce qui déclenche une alarme afin de dissuader les intrus.
+This detector can be used for security or
+automation. When the detector is associated with
+security, it serves as a trigger for alerts by detecting
+changes in infra-red radiation levels. If a person
+moving in the field of view of the detector, a radio signal is
+transmitted, which triggers an alarm to deter intruders.
 
-Le détecteur peut également être utilisé en association avec un
-contrôleur Z-Wave pour des usages domotiques, en détectant à la fois les
-changements dans les niveaux de radiation infrarouge (présence) et les
-modifications dans le niveau de luminosité. Ainsi, on peut déclencher un
-éclairage lors d’une détection de mouvement dans l’obscurité.
+The detector can also be used in combination with a
+Z-Wave controller for home automation uses, by detecting both
+changes in the levels of infrared radiation (presence) and
+changes in the brightness level. So, we can trigger a
+lighting when motion detection in the dark.
 
-Le détecteur remontera aussi la luminosité et la température, soit en
-cas de changement important, et à chaque fois qu’un mouvement est
-détecté. Un contrôleur Z-Wave (télécommande, dongle …​) est nécessaire
-afin d’intégrer ce détecteur dans votre réseau si vous avez déjà un
-réseau existant.
+The detector will also go up the brightness and the temperature, either in
+case of significant change, and whenever a movement is
+detected. A Z-Wave controller (remote control, dongle ...) is needed
+to integrate this detector into your network if you already have a
+existing network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Détecteur 3 en 1: mouvement, température, lumière
+-   3-in-1 detector: movement, temperature, light
 
--   Adopte la récente puce Z-Wave 400series pour supporter les
-    opérations multicanaux et un débit de données plus
-    élevé (9.6/40/100kbps)
+-   Adopt the recent Z-Wave 400series chip to support the
+    multichannel operations and more data throughput
+    high (9.6 / 40 / 100kbps)
 
--   Utilise le SDK Z-Wave 6.02
+-   Use the Z-Wave 6.02 SDK
 
--   Portée de l’antenne optimisée
+-   Optimized antenna range
 
--   Utilisation pour des applications domotiques ou de sécurité
+-   Use for home automation or security applications
 
--   Bouton pour inclure/exclure le détecteur
+-   Button to include / exclude the detector
 
--   Autoprotection
+-   tamper
 
--   Indication de batterie faible
+-   Low battery indication
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Module type: Z-Wave transmitter
 
--   Alimentation : 1 pile 3V CR123A
+-   Power supply: 1 battery 3V CR123A
 
--   Durée de vie des piles : 2 ans
+-   Battery life: 2 years
 
--   Fréquence : 868.42 MHz
+-   Frequency: 868.42 MHz
 
--   Distance de transmission : 30m en intérieur
+-   Transmission distance: 30m indoors
 
--   Capteur de température : -10 à 70° C
+-   Temperature sensor: -10 to 70 ° C
 
--   Capteur de luminosité : 0 à 500 lux
+-   Light sensor: 0 to 500 lux
 
--   Angle de détection PIR : 90°
+-   PIR detection angle: 90 °
 
--   Portée de détection PIR : 8 à 10m
+-   PIR detection range: 8 to 10m
 
--   Dimensions : 28 x 96 x 23 mm
+-   Dimensions: 28 x 96 x 23 mm
 
--   Poids : 39g
+-   Weight: 39g
 
--   Température de fonctionnement : -10 à 40° C
+-   Operating temperature: -10 to 40 ° C
 
--   Humidité de fonctionnement : 85%RH max
+-   Operating humidity: 85% RH max
 
--   Norme CE : EN300 220-1
+-   CE Standard: EN300 220-1
 
--   Certification Z-Wave : ZC08-13050003
+-   Z-Wave Certification: ZC08-13050003
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Philio Technology Corporation
+-   Brand: Philio Technology Corporation
 
--   Nom : Philio PSP01
+-   Name: Philio PSP01
 
--   Fabricant ID : 316
+-   Manufacturer ID: 316
 
--   Type Produit : 2
+-   Product type: 2
 
--   Produit ID : 2
+-   Product ID: 2
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> To put this module in inclusion mode you have to press 3 times on the
+> inclusion button, according to its paper documentation.
 
- \
+\
 
 ![inclusion](../images/philio.psp01/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/philio.psp01/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/philio.psp01/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Présence : c’est la commande qui remontera une détection de présence
+-   Presence: this is the command that will trace a presence detection
 
--   Ouverture : c’est la commande qui remontera une détection
-    d’ouverture
+-   Opening: it is the command that will remount a detection
+    opening
 
--   Température : c’est la commande qui permet de remonter la
-    température
+-   Temperature: it is the command which allows to go up the
+    temperature
 
--   Luminosité : c’est la commande qui permet de remonter la luminosité
+-   Brightness: it is the command which makes it possible to raise the luminosity
 
--   Sabotage : c’est la commande sabotage (elle est déclenchée en
-    cas d’arrachement)
+-   Sabotage: it is the sabotage command (it is triggered in
+    case of tearing)
 
--   Batterie : c’est la commande batterie
+-   Battery: it's the battery control
 
- \
+\
 
-Tous les modules de la gamme ayant les mêmes ids, à vous d’afficher ceux
-correspondant à votre module.
+All the modules of the range having the same ids, to you to display those
+corresponding to your module.
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> During a first inclusion always wake up the module just after
+> inclusion.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/philio.psp01/config1.jpg)
 
 ![Config2](../images/philio.psp01/config2.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   2: permet de régler le signal envoyé aux modules dans le groupe
-    d’association 2
+-   2: Adjusts the signal sent to the modules in the group
+    association 2
 
--   3: permet de régler la sensibilité du capteur de présence (0 :
-    désactivé 99: sensibilité max)
+-   3: Adjusts the sensitivity of the presence sensor (0:
+    disabled 99: max sensitivity)
 
--   4: permet de régler le niveau de luminosité à partir duquel le
-    signal défini en paramètre 2 sera envoyé aux modules associés au
-    groupe 2
+-   4: Adjusts the brightness level from which the
+    signal defined in parameter 2 will be sent to the modules associated with the
+    group 2
 
--   5: mode de fonctionnement (déconseillé de le changer : se reporter
-    sur la documentation constructeur)
+-   5: operating mode (not recommended to change it: refer to
+    on the manufacturer documentation)
 
--   6: mode de fonctionnement du multi-sensor (déconseillé de le changer
-    : se reporter sur la documentation constructeur)
+-   6: mode of operation of the multi-sensor (not recommended to change it
+    : refer to the manufacturer's documentation)
 
--   9: permet de définir au bout de combien de temps le signal OFF sera
-    envoyé aux modules associés au groupe 2
+-   9: Set how long the OFF signal will be
+    sent to modules associated with group 2
 
--   10: permet de définir la durée entre deux rapports de batterie (une
-    unité = 30 minutes)
+-   10: Sets the duration between two battery reports (one
+    unit = 30 minutes)
 
--   12: permet de définir la durée entre deux rapports de luminosité
-    (une unité = 30 minutes)
+-   12: Set the duration between two brightness ratios
+    (one unit = 30 minutes)
 
--   13: permet de définir la durée entre deux rapports de température
-    (une unité = 30 minutes)
+-   13: defines the duration between two temperature reports
+    (one unit = 30 minutes)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède deux groupes d’association, seul le premier est
-indispensable.
+This module has two association groups, only the first is
+essential.
 
- \
+\
 
 ![Groupe](../images/philio.psp01/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
-> **Tip**
+> ** Tip **
 >
-> Ce module a une particularité, n’ayant pas de rapport basé sur les
-> variations mais uniquement sur la durée, il envoit toutes ses infos à
-> chaque détection. Il envoie aussi plusieurs fois le signal de
-> détection de présence à la suite. Il est donc conseillé de cocher la
-> case "Evènement sur changement" sur la présence si vous utilisez cette
-> commande en déclencheur de scénario.
+> This module has a peculiarity, having no report based on
+> variations but only over time, he sends all his information to
+> each detection. It also sends the signal of
+> presence detection as a result. It is therefore advisable to check the
+> "Change event" box on the presence if you use this
+> command in scenario trigger.
 
- \
+\
 
-### Visuel alternatif 
+### Alternative visual
 
- \
+\
 
 ![vuewidget](../images/philio.psp01/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+To wake up this module there is only one way to proceed:
 
--   relachez le bouton tamper et réappuyez dessus
+-   release the tamper button and press it again
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant sur son bouton tamper.
+This module wakes up by pressing its tamper button.
 
- \
+\
 
-Cochez la case "Evènement sur changement".
+Check the "Event on change" box.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wakeup.
+This module is a battery module, the new configuration will be
+taken into account at the next wakeup.
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

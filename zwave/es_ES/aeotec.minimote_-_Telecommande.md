@@ -1,271 +1,271 @@
-Aeotec Minimote 
+Aeotec Minimote
 ===============
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/aeotec.minimote/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.minimote/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Ce mini contrôleur Aeon Labs est compatible avec une grande variété de
-modules Z-Wave tels que des interrupteurs, variateurs, détecteurs de
-mouvement, interrupteurs pour stores…​ Ainsi, vous pourrez commander à
-distance vos éclairages, appareils ou volets roulants. Avec cette
-télécommande, vous pourrez également inclure/exclure des modules de
-votre réseau Z-Wave et associer des scènes aux boutons de la
-télécommande. Un clapet coulissant dissimule les boutons permettant de
-paramétrer le réseau Z-Wave.
+Este mini controlador de Aeon Labs es compatible con una amplia variedad de
+módulos Z-Wave tales como interruptores, reguladores, sensores
+movimiento de los interruptores para las persianas ... así que puedes pedir en
+de distancia de sus luces, aparatos o persianas. con este
+mando a distancia, también se pueden incluir / excluir módulos
+su red Z-Wave y se combinan escenas con los botones
+mando a distancia. Una válvula de corredera oculta los botones para
+establecer la red Z-Wave.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Paramétrage du réseau Z-Wave (inclusion/exclusion de modules)
+-   Configuración de la red Z-Wave (inclusión / módulos de exclusión)
 
--   Permet de piloter jusqu’à 4 scènes
+-   Permite hasta 4 escenas
 
--   8 touches : 4 pour les scènes, 4 pour le paramétrage du réseau
+-   8 teclas: 4 escenas, 4 para la configuración de la red
 
--   Fonctions marche/arrêt et variation
+-   caminar / parada y cambio de funciones
 
--   Fonction ALL ON/ALL OFF
+-   ALL ON / OFF Función ALL
 
--   Batterie interne rehargeable sur USB
+-   Batería interna rehargeable USB
 
--   Mise à jour du firmware par USB
+-   Actualización del firmware a través de USB
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Contrôleur Z-Wave
+-   Tipo de módulo: Z-Wave Controlador
 
--   Couleur : Blanc
+-   Color: Blanco
 
--   Alimentation : batterie interne rechargeable via USB
+-   Alimentación: batería interna recargable a través de USB
 
--   Affichage: LED bleue et rouge
+-   Pantalla: azul y el LED rojo
 
--   Fréquence : 868,42MHz
+-   Frecuencia: 868,42MHz
 
--   Portée : jusqu’à 30 m
+-   Alcance: hasta 30 metros
 
--   Dimensions : 0.8cm x 3.3cm x 9.3cm
+-   Dimensiones: 0,8 cm x 3,3 cm x 9.3cm
 
--   Température de fonctionnement : -35 to +85 °C
+-   Temperatura de funcionamiento -35 a +85 ° C
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Marca: Aeotec
 
--   Nom : Minimote
+-   Nombre: Minimote
 
--   Fabricant ID : 134
+-   Identificación del fabricante: 134
 
--   Type Produit : 1
+-   Tipo de producto: 1
 
--   Produit ID : 3
+-   Identificación del producto: 3
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> LEARN, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo tiene que pulsar el botón
+> LEARN, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/aeotec.minimote/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.minimote/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/aeotec.minimote/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Botones: el comando que ascienda el botón pulsado
 
-1 : Bouton 1 appui court
+1: 1 pulsando brevemente la tecla
 
-2 : Bouton 1 appui long
+2: 1 pulsación larga del botón
 
-3 : Bouton 2 appuis courts
+3: Botón 2 pulsaciones cortas
 
-4 : Bouton 2 appuis longs
+4: 2 Botón soporte largo
 
-5 : Bouton 3 appuis courts
+5: Botón de 3 pulsaciones cortas
 
-6 : Bouton 3 appuis longs
+6: Botón apoyo 3 característica
 
-7 : Bouton 4 appuis courts
+7: Botón 4 pulsaciones cortas
 
-8 : Bouton 4 appuis longs
+8: Botón soporte 4 característica
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/aeotec.minimote/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   241: mode de fonctionnement du bouton 1 (laisser par défaut)
+-   1 botón de operación (deje por defecto): 241
 
--   242: mode de fonctionnement du bouton 2 (laisser par défaut)
+-   2 botón de operación (deje por defecto): 242
 
--   243: mode de fonctionnement du bouton 3 (laisser par défaut)
+-   3 botón de operación (deje por defecto): 243
 
--   244: mode de fonctionnement du bouton 4 (laisser par défaut)
+-   botón de operación 4 (deje por defecto): 244
 
--   250: mode de fonctionnement de la télécommande (absolument laisser
-    Scene pour s’en servir en télécommande)
+-   250: el modo de funcionamiento del mando a distancia (dejar absolutamente
+    Escenas a ser utilizado en el control remoto)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède quatre groupes d’association, aucun n’est nécessaire
-pour s’en servir en télécommande dans Jeedom.
+Este módulo tiene cuatro grupos de asociación, ninguno es necesario
+para ser utilizado en Jeedom remoto.
 
- \
+\
 
 ![Groupe](../images/aeotec.minimote/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   rester appuyé 3 secondes sur le bouton LEARN
+-   mantenga pulsado 3 segundos en el botón LEARN
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en restant appuyé 3 secondes sur le bouton LEARN.
+Este módulo se despierta aún presionando 3 segundos en el botón LEARN.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración de que si se despierta el mando a distancia.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

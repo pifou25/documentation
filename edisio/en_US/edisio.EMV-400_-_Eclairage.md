@@ -1,370 +1,370 @@
--   **Le module**
+-   **The module**
 
 ![module](../images/emv.400/module.jpg)
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
 ![vue default eclairage](../images/emv.400/vue_default_eclairage.jpg)
 
-Résumé 
+summary
 ======
 
-Le micromodule EMV-400 va vous permettre de gérer un moteur
-bidirectionnel ou des appareillages électriques. Il permet le contrôle
-de 2 sorties Marche/Arrêt ou d’un volet roulant Ouvrir/Stop/Fermer.
+The micromodule EMV-400 will allow you to manage an engine
+bidirectional or electrical equipment. It allows control
+2 On / Off outputs or Roller shutter Open / Stop / Close.
 
-De plus, l’interaction avec d’autres protocoles est possible, il est
-contrôlable par des interrupteurs et/ou télécommandes de la marque
-Edisio, directement depuis Jeedom, mais aussi par n’importe quel
-émetteur Z-Wave de votre réseau.
+Moreover, the interaction with other protocols is possible, it is
+controllable by switches and / or remotes of the brand
+Edisio, directly from Jeedom, but also by any
+Z-Wave transmitter on your network.
 
-Chaque module Edisio sur réseau électrique, à la possibilité de
-fonctionner comme un répéteur sans fil avec les autres modules, afin
-d’assurer une couverture totale de votre habitation.
+Each module Edisio on electrical network, with the possibility of
+function as a wireless repeater with the other modules, so
+to ensure total coverage of your home.
 
-Pour finir, chaque module peut être utilisé en mode déporté, c’est très
-pratique car cela permet d’associer un émetteur sans devoir accéder au
-récepteur.
+Finally, each module can be used in remote mode, it is very
+convenient because it allows to associate a transmitter without having to access the
+receiver.
 
-> **Important**
+> ** Important **
 >
-> Le neutre est nécessaire que pour le mode "Volet"
+> The neutral is only necessary for the "Shutter" mode
 
-Fonctions 
+functions
 =========
 
--   2 sorties par relais alimentées
+-   2 relay outputs powered
 
--   S’installe dans une boite d’encastrement de 55mm ou directement dans
-    les caissons des ouvrants
+-   Can be installed in a 55mm embedding box or directly in
+    the caissons of the openings
 
--   Mode d’usage: Marche/Arrêt, Ouvrir/Stop/Fermer
+-   Usage mode: On / Off, Open / Stop / Close
 
--   Compatible avec les moteurs à fin de course électronique et
-    mécanique
+-   Compatible with electronic end-stroke motors and
+    mechanical
 
--   Mode déporté
+-   Deported mode
 
--   Fonction minuterie: Mode Marche/Arrêt: 30min ou 60min
+-   Timer function: On / Off mode: 30min or 60min
 
--   Réplique du signal (répéteur)
+-   Replica signal (repeater)
 
--   Micromodule bidirectionnel
+-   Bidirectional micromodule
 
--   Niveau de batterie faible de l’émetteur
+-   Low battery level of the transmitter
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
-Caractéristiques Techniques 
+Technical characteristics
 ===========================
 
--   Type de module: Récepteur Edisio
+-   Module type: Edisio receiver
 
--   Alimentation: 230VAC, 50Hz
+-   Power supply: 230VAC, 50Hz
 
--   Câblage: 4 fils, 2 pour les commandes et 2 pour l’alimentation
+-   Wiring: 4 wires, 2 for controls and 2 for power
 
--   Fréquence: 868,3 MHz
+-   Frequency: 868.3 MHz
 
--   Sorties alimentées: 2 relais
+-   Powered outputs: 2 relays
 
--   Puissance maximum: 2A par sortie
+-   Maximum power: 2A per output
 
--   Charge résistive: 460W
+-   Resistive load: 460W
 
--   Autres charges: 100W
+-   Other charges: 100W
 
--   Température de fonctionnement: -10°C +45°C
+-   Operating temperature: -10 ° C + 45 ° C
 
 -   Dimensions: 48x46x26mm
 
--   Degré de protection: IP20
+-   Degree of protection: IP20
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : EMV-400
+-   Name: EMV-400
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Important **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
-> **Important**
+> ** Important **
 >
-> A l’inverse, les récepteurs Edisio sont à créer manuellement dans
+> Conversely, Edisio receivers are manually created in
 > Jeedom.
 
-DIP Switch et bouton "R" : 
+DIP Switch and "R" button:
 --------------------------
 
 ![bouton association](../images/emv.400/bouton_association.jpg)
 
--   Le DIP Switch va vous permettre de régler les paramètres
-    (Répéteur/Mode volet/éclairage/Minuterie) du module:
+-   The DIP Switch will allow you to adjust the parameters
+    (Repeater / Shutter Mode / Lighting / Timer) of the module:
 
 ![dip switch](../images/emv.400/dip_switch.jpg)
 
-> **Note**
+> ** Note **
 >
-> Afin d’éviter des redondances inutiles, ne jamais activer le mode
-> "Répéteur" sur tous les récepteurs, 5 récepteurs au maximum par
+> To avoid unnecessary redundancies, never activate the mode
+> "Repeater" on all receivers, up to 5 receivers per
 > installation.
 
--   Le bouton "R", va permettre d’associer un émetteur au récepteur,
-    d’activer ou désactiver la fonction minuterie et d’activer le mode
-    déporté :
+-   The button "R", will allow to associate a transmitter to the receiver,
+    activate or deactivate the timer function and activate the
+    deported:
 
 ![bouton r](../images/emv.400/bouton_r.jpg)
 
-> **Note**
+> ** Note **
 >
-> Appuyer R 3x permet d’activer le mode déporté.
+> Pressing R 3x activates the remote mode.
 
-Diagramme de fonctionnement 
+Operating diagram
 ---------------------------
 
-Suivant si votre émetteur est configuré en mode "1 touche" ou "2
-touches", voici le fonctionnement du module:
+Next if your transmitter is set to "1 touch" or "2" mode
+"keys", here is the operation of the module:
 
-> **Note**
+> ** Note **
 >
-> Référez-vous à la documentation du fabricant, afin de pouvoir
-> configurer votre émetteur.
+> Refer to the manufacturer's documentation, so that you can
+> configure your transmitter.
 
 ![diagramme](../images/emv.400/diagramme.jpg)
 
-Fonction minuterie 
+Timer function
 ------------------
 
-La fonction minuterie permet l’extinction automatique des relais au bout
-de 30 ou 60 minutes.
+The timer function automatically switches off the relays after
+30 or 60 minutes.
 
--   Activer : Appuyer 4x "R" du récepteur, confirmation par un simple
-    bip sonore en continu
+-   Activate: Press 4x "R" of the receiver, confirmation by a simple
+    continuous beep
 
--   Désactiver: Appuyer 5x "R" du récepteur , confirmation par 3 simples
-    bip sonores.
+-   Disable: Press 5x "R" of the receiver, confirmation by 3 simple
+    beep sound.
 
--   Minuterie de 30 minutes: DIP Switch 3 en haut
+-   30 minute timer: DIP Switch 3 at the top
 
--   Minuterie de 60 minutes: DIP Switch 3 en bas
+-   60 minute timer: DIP Switch 3 at the bottom
 
-Le mode "Eclairage" 
+"Lighting" mode
 ===================
 
-Le mode "Eclairage" permet de piloter 2 appareils électriques à
+The "Lighting" mode allows you to control 2 electrical devices at
 distance.
 
-> **Important**
+> ** Important **
 >
-> Le neutre n’est pas nécessaire
+> Neutral is not necessary
 
-Configuration et raccordements électriques : 
+Configuration and electrical connections:
 --------------------------------------------
 
 ![mode eclairage](../images/emv.400/mode_eclairage.jpg)
 
-> **Important**
+> ** Important **
 >
-> Afin que le module soit en mode "Eclairage" le DIP Switch 2 doit être
-> en haut
+> In order for the module to be in "Lighting" mode, the DIP Switch 2 must be
+> at the top
 
-> **Important**
+> ** Important **
 >
-> NE JAMAIS BRANCHER SOUS TENSION
+> NEVER CONNECT TO POWER
 
-Création du module dans Jeedom 
+Module creation in Jeedom
 ------------------------------
 
-Pour associer un module récepteur Edisio à Jeedom, il faut créer
-manuellement un équipement.
+To associate an Edisio receiver module with Jeedom, you have to create
+manually a piece of equipment.
 
 ![ajout equip](../images/emv.400/ajout_equip.jpg)
 
-Une fois, votre équipement créé, vous devriez obtenir ceci :
+Once your equipment is created, you should get this:
 
 ![crea equip](../images/emv.400/crea_equip.jpg)
 
-> **Note**
+> ** Note **
 >
-> Pensez à activer votre nouvel équipement.
+> Remember to activate your new equipment.
 
-Dans la liste d’équipements, à droite, sélectionner "Micro-module
-lumière" :
+In the equipment list, on the right, select "Micro-module
+light ":
 
 ![infos equip eclairage](../images/emv.400/infos_equip_eclairage.jpg)
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement sauvegardé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is backed up, you should get the orders
+associated with the module:
 
 ![Commandes](../images/emv.400/commande_eclairage.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   On : C’est la commande qui permet d’activer le relais 1
+-   On: This is the command that activates the relay 1
 
--   Off : C’est la commande qui permet de désactiver le relais 1
+-   Off: This is the command to disable relay 1
 
--   On 2 : C’est la commande qui permet d’activer le relais 2
+-   On 2: This is the command that activates relay 2
 
--   Off 2: C’est la commande qui permet de désactiver le relais 2
+-   Off 2: This is the command to disable relay 2
 
--   E : C’est la commande qui permet de se servir du mode déporté
+-   E: This is the command that allows you to use the remote mode
 
-> **Important**
+> ** Important **
 >
-> Le retour d’état est simulé par Jeedom. Par conséquent, si vous
-> utilisez un autre émetteur, Jeedom ne pourra pas mettre à jour l’état
-> du récepteur.
+> The return of state is simulated by Jeedom. Therefore, if you
+> use another transmitter, Jeedom will not be able to update the status
+> the receiver.
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/emv.400/infos_eclairage.jpg)
 
--   Création : Indique la date à laquelle l’équipement a été crée
+-   Creation: Indicates the date on which the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the micro-module
 
--   Batterie : Indique l’état de la batterie pour les modules à piles
+-   Battery: Indicates battery status for battery modules
 
--   Status : Retourne le statut du module
+-   Status: Returns the status of the module
 
-Association du micromodule à Jeedom 
+Association of the micromodule in Jeedom
 ===================================
 
-Afin que vous puissiez interagir avec Jeedom, comme si c’était un
-émetteur Edisio.
+So that you can interact with Jeedom, as if it were a
+Edisio transmitter.
 
-> **Note**
+> ** Note **
 >
-> Un des gros avantages d’Edisio, c’est qu’un récepteur peut avoir
-> plusieurs émetteurs associés
+> One of the big advantages of Edisio is that a receiver can have
+> several associated issuers
 
-Méthode standard 
+Standard method
 ----------------
 
-Chaque sortie est à associer à une commande Jeedom:
+Each output is to be associated with a Jeedom command:
 
--   Associer la sortie 1 :
+-   Associate Output 1:
 
-    -   Appuyez 1x sur le "R" du récepteur, simple bip sonore (court
-        en répétition) signale la programmation de la sortie 1 activée.
+    -   Press 1x on the receiver "R", single beep sound (short
+        in repetition) signals the programming of output 1 activated.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "Ouvrir"
-        dans Jeedom, un bip sonore en continu signale l’association de
-        la sortie 1 à Jeedom.
+    -   Within 10 sec, press "Test" on the "Open" command
+        in Jeedom, a continuous beep signals the association of
+        exit 1 to Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "R" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Within 10 sec, press "R" on the receiver again, for
+        confirm the association, the beep stops.
 
--   Associer la sortie 2 :
+-   Associate Output 2:
 
-    -   Appuyez 2x sur le "R" du récepteur, double bip sonore (court
-        en répétition) signale la programmation de la sortie 2 activée.
+    -   Press 2x on the "R" receiver, double beep sound (short
+        in repetition) indicates the programming of output 2 activated.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "Fermer"
-        dans Jeedom, un bip sonore en continu signale l’association de
-        la sortie 2 à Jeedom.
+    -   Within 10 seconds, press "Test" on the "Close" command
+        in Jeedom, a continuous beep signals the association of
+        Exit 2 to Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "R" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Within 10 sec, press "R" on the receiver again, for
+        confirm the association, the beep stops.
 
-Méthode déportée 
+Deported method
 ----------------
 
-Nous en avons parlé au début de cette documentation. Dans le cas, de
-modules déjà encastrés, dans les faux plafonds ou même les combles.
-Cette méthode permet l’ajout d’un nouvel émetteur sans accéder au "R" du
-récepteur.
+We talked about it at the beginning of this documentation. In the case of
+already built-in modules, in false ceilings or attics.
+This method allows the addition of a new transmitter without accessing the "R" of the
+receiver.
 
--   Associer le bouton "R" :
+-   Associate the "R" button:
 
-    -   Appuyez 3x sur "R" du récepteur, triple bip sonore (court
-        en répétition) signale le mode de programmation activé.
+    -   Press 3x on "R" receiver, triple beep sound (short
+        in repetition) indicates the activated programming mode.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "E" dans
-        Jeedom, un bip sonore en continu signale l’association à Jeedom.
+    -   Within 10 sec, press "Test" command "E" in
+        Jeedom, a continuous beep signals the association to Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "E" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Within 10 sec, press "E" on the receiver again, for
+        confirm the association, the beep stops.
 
-C’est fait, votre Jeedom est à présent associé et sa commande "E"
-remplace désormais le bouton "R" du récepteur.
+It's done, your Jeedom is now associated and his command "E"
+now replaces the "R" button on the receiver.
 
--   Associer un nouvel émetteur à un récepteur avec Jeedom déjà associé
+-   Associate a new transmitter to a receiver with Jeedom already associated
     :
 
-    -   Sortie 1 :
+    -   Exit 1:
 
-        -   Appuyez 1x sur "Tester" la commande "E" dans Jeedom, simple
-            bip sonore (court en répétition) signale la programmation de
-            la sortie 1 activée.
+        -   Press 1x "Test" the "E" command in Jeedom, simple
+            beep (short in repetition) indicates the programming of
+            output 1 activated.
 
-        -   Dans les 10 sec, appuyez sur une des touches "C" du nouvel
-            émetteur à associer, un bip sonore en continu signale
-            l’association de la sortie 1.
+        -   Within 10 sec, press one of the "C" keys on the new
+            transmitter to associate, a continuous beep signals
+            the association of exit 1.
 
-        -   Dans les 10 sec, appuyez à nouveau sur "Tester" de la
-            commande "E" dans Jeedom, pour valider l’association, le bip
-            sonore s’arrête.
+        -   Within 10 sec, press again "Test" of the
+            command "E" in Jeedom, to validate the association, the beep
+            sound stops.
 
-    -   Sortie 2 :
+    -   Exit 2:
 
-        -   Appuyez 2x sur "Tester" de la commande "E" dans Jeedom,
-            double bip sonore (court en répétition) signale la
-            programmation de la sortie 2 activée.
+        -   Press 2x "Test" of the "E" command in Jeedom,
+            double beep (short in repetition) signals the
+            programming of output 2 activated.
 
-        -   Dans les 10 sec, appuyez sur une des touches "C" du nouvel
-            émetteur à associer, un bip sonore en continu signale
-            l’association de la sortie 2.
+        -   Within 10 sec, press one of the "C" keys on the new
+            transmitter to associate, a continuous beep signals
+            the association of the exit 2.
 
-        -   Dans les 10 sec, appuyez à nouveau sur "Tester" de la
-            commande "E" dans Jeedom, pour valider l’association, le bip
-            sonore s’arrête.
+        -   Within 10 sec, press again "Test" of the
+            command "E" in Jeedom, to validate the association, the beep
+            sound stops.
 
-> **Note**
+> ** Note **
 >
-> Vous pouvez recommencer autant de fois que vous voulez associer
-> d’émetteurs au récepteur
+> You can start again as many times as you want to associate
+> from transmitters to receiver
 
-Visuel alternatif 
+Alternative visual
 =================
 
 ![Commandes](../images/emv.400/vue_alt_eclairage.jpg)
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment effacer la mémoire du récepteur ?
+How to clear the memory of the receiver?
 
-:   Appuyez et maintenez 10 sec sur le "R", jusqu’au bip sonore continu.
+: Press and hold for 10 seconds on the "R" until you hear a continuous beep.
 
-Comment piloter le récepteur via un émetteur Z-Wave?
+How to control the receiver via a Z-Wave transmitter?
 
-:   Avec le plugin Scénario de Jeedom.
+: With the Jeedom script plugin.
 
-Comment puis-je avoir le même visuel ?
+How can I have the same visual?
 
-:   Avec le plugin Widgets de Jeedom.
+: With the Jeedom Widgets plugin.
 
-**@Jamsta**
+** @ ** Jamsta

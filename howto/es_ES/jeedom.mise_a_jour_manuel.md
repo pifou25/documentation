@@ -1,42 +1,42 @@
-Nous allons voir ici comment faire une mise à jour manuellement sur
-Jeedom, via la console SSH.
+Veremos cómo actualizar manualmente
+Jeedom, a través de la consola SSH.
 
-Prérequis 
+Requisitos previos
 =========
 
--   savoir se connecter en SSH à Jeedom
+-   si SSH en Jeedom
 
--   connaître les identifiants SSH (voir documentation d’installation)
+-   SSH conoce la contraseña (véase el documento de instalación)
 
--   avoir un accès Internet depuis la box Jeedom
+-   tener acceso a Internet desde el cuadro de Jeedom
 
-> **Important**
+> ** Importante **
 >
-> Pensez bien à faire et exporter une sauvegarde avant toute mise à jour
-> manuelle.
+> Recuerde que para hacer y exportar una copia de seguridad antes de actualizar
+> Manual.
 
-Téléchargement et décompression 
+Descargar y descomprimir
 ===============================
 
-En SSH, faites :
+SSH, utilice:
 
-    sudo su -
-    cd /root
-    wget https://github.com/jeedom/core/archive/stable.zip
-    unzip stable.zip
-    cp -R core-stable/* /var/www/html
+    sudo su -
+    cd / root
+    wget https://github.com/jeedom/core/archive/stable.zip
+    stable.zip descomprimir
+    cp -R núcleo-permanente / * / var / www / html
 
-Mise à jour 
+Actualización
 ===========
 
-Toujours en SSH:
+También en SSH:
 
-    sudo su -
-    php /var/www/html/install/update.php mode=force
-    chmod 775 -R /var/www/html
-    chown www-data:www-data -R /var/www/html
+    sudo su -
+    modo php /var/www/html/install/update.php = resistencia
+    chmod -R 775 / var / www / html
+    chown www-data: www-data -R / var / www / html
 
-> **Important**
+> ** Importante **
 >
-> Si votre installation de Jeedom est un peu ancienne, il faut remplacer
-> tous les /var/www/html par /usr/share/nginx/www/jeedom
+> Si su instalación de Jeedom es un poco viejo, reemplace
+> Todos los / var / www / html / usr / share / nginx / www / jeedom

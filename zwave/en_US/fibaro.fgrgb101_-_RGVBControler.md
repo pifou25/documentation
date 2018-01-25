@@ -1,274 +1,274 @@
-Fibaro RGVB Controler - FGRGB-101 
+Fibaro RGVB Controler - FGRGB-101
 =================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/fibaro.fgrgb101/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![Visuel jeedom](../images/fibaro.fgrgb101/Visuel_jeedom.png)
 
- \
+\
 
-Résumé 
+summary
 ------
 
-Le micromodule Z-Wave Fibaro FGRGB-101 permet, au choix, de commander
-des éclairages basse tension 12/24V (halogène ou LED), un ruban LED RVB
-ou RVB+blanc ou bien encore de relier des sondes analogiques utilisant
-la norme 0-10V.
+The Z-Wave Fibaro FGRGB-101 micromodule allows you to order
+12 / 24V low voltage lights (halogen or LED), RGB LED strip
+or RGB + white or even connect analog probes using
+the 0-10V standard.
 
--   4 entrées analogiques 0 à 10V à connecter à de nombreux capteurs
-    compatibles, des potentiomètres, des boutons-poussoirs (monostables)
-    ou des commutateurs (bistables).
+-   4 analog inputs 0 to 10V to connect to many sensors
+    compatible, potentiometers, pushbuttons (monostable)
+    or switches (bistables).
 
--   4 sorties variateur (PWM) pour contrôler :
+-   4 inverter outputs (PWM) to control:
 
--   \* soit 1 canal de LED RVB + Blanc (RGBW) 12/24V
+-   1 * RGB LED channel + White (RGBW) 12 / 24V
 
--   \* ou 4 canaux de LED blanches 12/24V
+-   \ * or 4 channels of white LED 12 / 24V
 
--   \* ou 4 canaux de lampes halogènes 12/24V (144W 12V / 288W 24V max.)
+-   \ * or 4 channels of 12 / 24V halogen lamps (144W 12V / 288W 24V max.)
 
--   \* ou des ventilateurs 12 / 24V.
+-   \ * or 12 / 24V fans.
 
--   Nécessite une alimentation 12/24V séparée.
+-   Requires a separate 12 / 24V power supply.
 
--   Mesure de consommation globale ou par canal instantanée ou cumulée.
+-   Measurement of overall consumption or by instantaneous or cumulative channel.
 
--   Fonction répéteur (routeur) pour étendre le réseau Z-Wave.
+-   Repeater function (router) to extend the Z-Wave network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
--   Commander des éclairages basse tension 12/24V (halogène ou LED)
+-   Order low voltage lighting 12 / 24V (halogen or LED)
 
--   S’installe derrière un interrupteur existant
+-   Installs behind an existing switch
 
--   Simulation lumineuse précédemment programmée
+-   Previously programmed light simulation
 
--   Fonction ON/OFF et Variation
+-   ON / OFF and Variation function
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
--   Alimentation : 12 V ou 24 V continu
+-   Power supply: 12 V or 24 V continuous
 
--   Puissance maximale de sortie :
+-   Maximum output power:
 
 -   \* 12A au total (addition de l’ensemble des canaux),
 
 -   \* 6A max. par canal
 
--   Puissance maximale avec lampes halogènes :
+-   Maximum power with halogen lamps:
 
--   \* 12V - 144W total (tous canaux),
+-   \ * 12V - 144W total (all channels),
 
 -   \* 24V - 288W total (tous canaux)
 
--   Fréquence de modulation PWM : 244 Hz
+-   PWM modulation frequency: 244 Hz
 
--   Consommation : 0,3W
+-   Consumption: 0.3W
 
--   Protocole radio : Z-Wave à 868,4 MHz (EU)
+-   Radio protocol: Z-Wave at 868.4 MHz (EU)
 
--   Puissance d’émission Z-Wave : 1mW
+-   Z-Wave transmit power: 1mW
 
--   Température de fonctionnement : 0 - 40 C
+-   Operating temperature: 0 - 40 C
 
--   Pour installation dans des boites : Ø≥50 mm
+-   For installation in boxes: Ø≥50 mm
 
--   Dimensions : 42 x 37 x 17 mm
+-   Dimensions: 42 x 37 x 17 mm
 
--   Normes Européenes : EMC 2004/108/EC R&TTE 199/5/WE
+-   European Standards: EMC 2004/108 / EC R & TTE 199/5 / WE
 
--   Ce module nécessite un contrôleur Z-Wave pour fonctionner.
+-   This module requires a Z-Wave controller to work.
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
--   Marque : Fibar Group
+-   Brand: Fibar Group
 
--   Nom : Fibaro FGRGB-101 RGBW
+-   Name: Fibaro FGRGB-101 RGBW
 
--   Fabricant ID : 271
+-   Manufacturer ID: 271
 
--   Type Produit : 2304
+-   Product type: 2304
 
--   Produit ID : 4096
+-   Product ID: 4096
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> To put this module in inclusion mode you have to press 3 times on the
+> inclusion button, according to its paper documentation.
 
- \
+\
 
 ![vue bp inclusion](../images/fibaro.fgrgb101/vue_bp_inclusion.png)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgrgb101/configuration.png)
 
- \
+\
 
-### Commandes 
+### Orders
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgrgb101/commande_1.png)
 
 ![Commandes](../images/fibaro.fgrgb101/commande_2.png)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   Couleur : C’est la commande qui permet de régler le code couleur à
-    afficher
+-   Color: This is the command that allows you to set the color code to
+    display
 
--   Cheminée : C’est la commande qui permet de simuler une ambiance de
-    cheminée
+-   Fireplace: This is the command that simulates an atmosphere of
+    fireplace
 
--   Orage : C’est la commande qui permet de simuler une ambiance d’Orage
+-   Thunderstorm: This is the command that simulates a storm atmosphere
 
--   Aube : C’est la commande qui permet de simuler une ambiance d’aude
-    (levée progressive du soleil)
+-   Dawn: This is the command that simulates a mood of aude
+    (gradual lifting of the sun)
 
--   Fading : C’est la commande qui permet de simuler l’ensemble du
-    spectre de couleur
+-   Fading: This is the command that simulates the entire
+    color spectrum
 
--   RBB : C’est la commande qui permet de simuler une ambiance de flic
+-   RBB: This is the command that simulates a cop atmosphere
 
--   Blanc Froid : C’est la commande qui permet de simuler d’avoir une
-    couleur type blanc froid, si le bandeau de couleur le permet. (cette
-    commande est non visible par défaut)
+-   Cold White: This is the command that allows you to simulate having a
+    cold white type color, if the color strip allows it. (this
+    command is not visible by default)
 
--   Blanc Chaud : C’est la commande qui permet de simuler d’avoir une
-    couleur type blanc chaud, si le bandeau de couleur le permet. (cette
-    commande est non visible par défaut)
+-   Warm White: This is the command that allows you to simulate having a
+    color type warm white, if the color strip allows. (this
+    command is not visible by default)
 
--   On : C’est la commande qui permet d’allumer le bandeau sur la
-    dernière couleur choisit auparavant
+-   On: This is the command that turns on the banner on the
+    last color chooses before
 
--   Off : C’est la commande qui permet d’éteindre le bandeau
+-   Off: This is the command that turns off the banner
 
--   Intensité : C’est la commande qui permet de régler l’intensité
-    lumineuse
+-   Intensity: This is the command that adjusts the intensity
+    light
 
-A noter que sur le dashboard toutes les infos se retrouvent sur le même
-icone
+Note that on the dashboard all the information is found on the same
+icon
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/fibaro.fgrgb101/parametres.png)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
-Merci de vous rapporter à la capture d’écran précédente, les paramètres
-étant traduit en francais.
+Please refer to the previous screenshot, settings
+being translated into French.
 
- \
+\
 
-### Groupes 
+### Groups
 
-Ce module possède cinq groupes d’association, seul le cinquième est
-indispensable.
+This module has five association groups, only the fifth is
+essential.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgrgb101/groupes.png)
 
-Bon à savoir 
+Good to know
 ------------
 
-### Spécificités 
+### Specificities
 
-Utilisation des capteurs 0-10V.
+Use of 0-10V sensors.
 
- \
+\
 
-> **Caution**
+> ** Deposit **
 >
-> Pour l’instant, la configuration par défaut de jeedom ne le permet
-> pas, mais une configuration spécifique peut être envisagée.
+> For now, Jeedom's default configuration does not allow it
+> not, but a specific configuration can be considered.
 
-### Visuel alternatif 
+### Alternative visual
 
- \
+\
 
 ![Visuel alternatif](../images/fibaro.fgrgb101/Visuel_alternatif.png)
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
-Pour l’instant, la configuration par défaut de jeedom ne le permet pas,
-mais une configuration spécifique peut être envisagée.
+For now, Jeedom's default configuration does not allow it,
+but a specific configuration can be considered.
 
- \
+\
 

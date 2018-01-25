@@ -1,186 +1,186 @@
-Fibaro FGRWPE-101 "Wall plug" 
+Fibaro FGRWPE-101 "El enchufe de pared"
 =============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/fibaro.fgwpe101/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgwpe101/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le Wall Plug Fibaro est un récepteur-prise-transmetteur universel sous
-forme d\`un adaptateur à brancher sur une prise murale au réseau
-électrique, compatible avec le standard Z-Wave. Il permet de gérer
-n’importe quel dispositif ayant une puissance maximale de 2,5kW, tout en
-intégrant la fonctionnalité de mesurer la puissance active du courant et
-la consommation d’énergie des dispositifs. Ce module est équipé d\`un
-anneau lumineux avec des LEDs signalant son état et la consommation
-d’énergie de tout dispositif branché. Le Wall Plug Fibaro peut être
-contrôlé par un bouton sur son carter ou bien depuis n’importe quel
-contrôleur compatible avec le standard Z-Wave
+El enchufe de pared Fibaro es un plug-in universal de receptor-transmisor
+forma \ `un adaptador para el enchufe en una toma de corriente a la red
+eléctrico, compatible con el estándar Z-Wave. Se puede administrar
+cualquier dispositivo que tiene una potencia máxima de 2,5 kW, mientras
+la integración de la funcionalidad de medición de la potencia activa de la corriente y
+el consumo de energía de los dispositivos. Este módulo tiene \ `una
+anillo de luz con LED que indica su estado y el consumo
+energía de cualquier dispositivo conectado. La pared del enchufe puede ser Fibaro
+controlado por un botón en su carcasa o de cualquier
+Controlador compatible con el estándar Z-Wave
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Contrôlé depuis un contrôleur compatible avec le standard Z-Wave.
+-   Controlada desde un controlador compatible con el estándar Z-Wave.
 
--   Contrôle à micro-chips.
+-   micro-chips de controlar.
 
--   Élément d\`exécution: relais.
+-   Elemento \ `Ejecución: Relay.
 
--   Mesure de puissance active du courant et de l\`énergie électrique
-    du récepteur.
+-   medición de potencia activa de la corriente y la \ `energía eléctrica
+    receptor.
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Alimentation : 230V, 50Hz
+-   Fuente de alimentación: 230V, 50Hz
 
--   Consommation électrique : jusqu’à 0.8W
+-   Consumo de energía: hasta 0,8 W
 
--   Charge maxi : 2.5kW
+-   Carga máxima: 2,5 kW
 
--   Fréquence : 868,42 Mhz EU
+-   Frecuencia: 868.42 MHz de EE.UU.
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Distancia de transmisión: campo libre 50m, 30m en interiores
 
--   Dimensions: 17 x 42 x 37 mm
+-   Dimensiones: 17 x 42 x 37 mm
 
--   Température de fonctionnement : 0-40°C
+-   Temperatura de funcionamiento: 0-40 ° C
 
--   Température limite : 105°C
+-   Límite de temperatura: 105 ° C
 
--   Normes : LVD (2006/95/WE), EMC (2004/108/EC), R&TTE(1999/5/WE)
+-   Normas: LVD (2006/95 / WE), EMC (2004/108 / CE), R & TTE (1999/5 / WE)
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Marca: Grupo Fibar
 
--   Nom : Wall Plug FGWPE-101
+-   Nombre: enchufe de pared FGWPE-101
 
--   Fabricant ID : 271
+-   Identificación del fabricante: 271
 
--   Type Produit : 1536
+-   Tipo de producto: 1536
 
--   Produit ID : 4096
+-   Identificación del producto: 4096
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgwpe101/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgwpe101/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgwpe101/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    prise
+-   Estado: Este es el comando para conocer el estado de la
+    toma
 
--   On : C’est la commande qui permet d’allumer la prise
+-   Uno: Este es el comando para activar el plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Apagado: Este es el comando para apagar el tapón
 
--   Puissance : C’est la commande qui remonte la puissance instatanée
-    consommée
+-   Potencia: Este es el comando que fue el poder instatanée
+    consumida
 
--   Conso : C’est la commande qui remonte la consommation totale
+-   Contras: Este es el comando que fue el consumo total
 
- \
+\
 
-A noter que sur le dashboard les commandes ON/OFF/ETAT sont regroupées
-en un seul bouton.
+Tenga en cuenta que el salpicadero controla el interruptor ON / OFF / STATUS se agrupan
+en un solo botón.
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/fibaro.fgwpe101/config1.jpg)
 
@@ -190,116 +190,116 @@ paramètres)
 
 ![Config4](../images/fibaro.fgwpe101/config4.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: permet de bloquer le module en toujours ON
+-   1: bloqueará el módulo siempre en ON
 
--   16: permet de se souvenir du dernier état en cas de coupure de
-    courant
+-   16: Para recordar el último estado en el caso de la energía
+    actual
 
--   34: permet de choisir a quel type d’alarme du réseau Zwave la prise
-    doit réagir
+-   34: para seleccionar un tipo de la red de decisión de alarma Zwave
+    debe reaccionar
 
--   35: permet de régler la façon dont la prise réagira aux alarmes
+-   35: Ajuste cómo la decisión va a responder a las alarmas
 
--   39: permet de définir la durée de l’alarme
+-   39: Ajuste la hora de la alarma
 
--   40: permet de définir de combien doit varier la puissance pour être
-    remontée (en %)
+-   40: define cuánto se debe variar el poder de estar
+    la recuperación (en%)
 
--   42: idem mais en mode standard (jusqu’à 5 fois par pas définis en
-    param 43)
+-   42: igual pero en modo estándar (hasta 5 veces no definidos
+    PARAM 43)
 
--   43: intervalle de remontée de la puissance
+-   intervalo de recuperación de potencia: 43
 
--   45: intervalle de remontée de la consommation (en kWh 10=0,1 kWh)
+-   45: El consumo de gama de elevación (10 kWh = 0,1 kWh)
 
--   47: intervalle en secondes de remontée des infos independamment
-    d’une variation
+-   47: segundo intervalo de levantamiento de información de forma independiente
+    una variación
 
--   49: prendre en compte la consommation du module lui même dans les
-    valeurs
+-   49: tener en cuenta el consumo del propio módulo de
+    valores
 
--   50: valeur minimal utilisée par le param 52
+-   50: Valor mínimo utilizado por el parámetro 52
 
--   51: valeur maximale utilisée par le param 52
+-   51: el valor máximo utilizado por el parámetro 52
 
--   52: action à faire si la puissance sort des bornes définies aux
-    paramètres 50 et 51
+-   52: medidas para hacer si se va fuera de los límites definidos en
+    parámetros 50 y 51
 
--   60: puissance au dela de laquelle la prise clignotera en violet
+-   60: el poder más allá del cual la toma de destello púrpura
 
--   61: couleur quand la prise est allumée
+-   61: color cuando el tapón está activada
 
--   62: couleur quand la prise est éteinte
+-   62: color cuando el tapón está apagado
 
--   63: couleur lorsqu’une alarme Zwave est détectée
+-   63: Zwave color cuando se detecta una alarma
 
--   70: puissance de sécurité (la prise se coupera lorsque la puissance
-    atteindra ce seuil)
+-   70: Potencia de seguridad (se corta enchufe cuando el poder
+    alcanza este umbral)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède 3 groupes d’association, seul le troisième est
-indispensable.
+El módulo tiene tres grupos de asociación, sólo el tercero es
+esencial.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgwpe101/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Reset 
+### reajustar
 
- \
+\
 
 ![Config5](../images/fibaro.fgwpe101/config5.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système. Il faut choisir
-PressButton.
+Usted puede configurar su medidor de consumo haciendo clic
+este botón disponible en la ficha Sistema. Hay que elegir
+Botón de control.
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgwpe101/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Lire la section Reset de cette doc.
+Lea la sección Restablecer este documento.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

@@ -1,274 +1,274 @@
-Secure SES 302 "Température" 
+Asegurar su "Temperatura" 302
 ============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/secure.ses302/module.jpg)
 
- \
+\
 
--   **Le visuel jeedom**
+-   ** El jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/secure.ses302/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-La sonde SES302 permet la mesure de la température d’ambiance
-intérieure. Elle est alimentée par 2 piles AA et est certifiée Z-Wave
-Plus. En plus de sa fonction principale, il est possible de câbler
-différentes sondes externes SECURE sur le module, soit:
+SES302 la sonda permite la medición de la temperatura ambiente
+interior. Está alimentado por 2 baterías AA y está certificado Z-Wave
+Más. Además de su función principal, es posible alambre
+SEGURO diferentes sensores externos en el módulo, incluyendo:
 
--   Une sonde de température externe NTC (SES001)
+-   Un sensor de temperatura NTC externo (SES001)
 
--   4 capteurs de température filaires pour tuyau ou réservoir (SES002)
-    reliés par des câbles de 1m
+-   4 sensores de temperatura por cable para tubería o tanque (SES002)
+    conectado por cables 1m
 
--   1 capteur de température filaire pour tuyau ou réservoir (SES003)
-    relié par un câble de 4m
+-   1 sensor de temperatura por cable para tubería o tanque (SES003)
+    conectado por un cable 4m
 
-Ces modules sont parfaits pour la mesure de température dans des
-applications de contrôles de chauffage central ou toute autre
-application similaire. Son interface utilisateur est simple, avec un
-bouton-poussoir local et une LED d’indication sur la face arrière. On
-peut facilement l’inclure / l’exclure dans un réseau Z-Wave.
+Estos módulos son ideales para la medición de temperatura en
+Aplicación de calefacción central o otros controles
+aplicación similar. Su interfaz de usuario es simple, con una
+pulsador local y los indicadores LED en la parte posterior. uno
+puede incluir / excluir fácilmente en una red Z-Wave.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Mesure précise de la température
+-   La medición precisa de la temperatura
 
--   Application dans des systèmes de contrôle dynamique de
-    réservoirs/tubes/planchers chauffants/…​
+-   Aplicación en los sistemas de control dinámico
+    tanques / tuberías / calefacción por suelo radiante / ...
 
--   Possibilité de brancher des sonde externes
+-   Posibilidad de conexión de sonda externa
 
--   Interopérable avec les produits et systèmes Z-Wave certifiés
+-   Interoperabilidad con los productos y sistemas de certificación Z-Wave
 
--   Installation facile et rapide
+-   fácil Instalación
 
--   Rapport de batterie faible
+-   Informe de batería baja
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type: Portable/fixation murale
+-   Tipo: Portable montaje / pared
 
--   Plage de mesure de température: ±0.5°C pour 0°C à 40°C
+-   rango de medición de temperatura: ± 0,5 ° C desde 0 ° C a 40 ° C
 
--   Puce Z-Wave Plus
+-   el chip Z-Wave Más
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Alimentation: 2x piles AA (LR6)
+-   Fuente de alimentación: 2x AA (LR6)
 
--   Portée : jusqu’à 100 m en champ libre
+-   Rango: hasta 100 m en el exterior
 
--   Indice de protection : IP30
+-   Protección: IP30
 
--   Dimensions : 86 x 85 x 30 mm
+-   Dimensiones: 86 x 85 x 30 mm
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Horstmann
+-   Marca: Horstmann
 
--   Nom : SES 302 Temperature Sensor
+-   Nombre: SES sensor de temperatura 302
 
--   Fabricant ID : 89
+-   Identificación del fabricante: 89
 
--   Type Produit : 13
+-   Tipo de producto: 13
 
--   Produit ID : 2
+-   Identificación del producto: 2
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 1 seconde sur
-> le bouton au dos et relacher, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo hay que pulsar 1 segundo
+> Botón en la parte posterior y la liberación de conformidad con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/secure.ses302/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/secure.ses302/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/secure.ses302/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Température : c’est la commande de mesure de la température
+-   Temperatura: el control de la temperatura de medición
 
--   Batterie : c’est la commande batterie
+-   Batería: el control de la batería
 
-Plusieurs températures nons visibles sont aussi disponibles et seront
-utiles si vous avez raccordé des sondes externes
+Varios temperaturas NONS visibles también están disponibles y serán
+Útiles sondas externas si se ha conectado
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite il est nécessaire d’effectuer la configuration du module en
-fonction de votre installation. Il faut pour cela passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+A continuación, es necesario la configuración del módulo
+Dependiendo de su configuración. Para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/secure.ses302/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: Permet de régler de combien doit varier la température pour que
-    le module l’envoie à Jeedom (par pas de 0.1)
+-   1: Ajusta la cantidad debe variar la temperatura para ese
+    el módulo envía a Jeedom (en 0.1)
 
--   2: Permet de régler l’intervalle de temps d’envoi de la température
-    à Jeedom (en minutes)
+-   2: Establecer el intervalo de enviar el tiempo de la temperatura
+    a Jeedom (en minutos)
 
-Tous les autres paramètres sont identiques et correspondent à toutes les
-sondes externes éventuellement branchées
+Todos los demás parámetros son idénticos y corresponden a todo
+sondas externas opcionalmente ramificados
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède un seul groupe d’association, il est indispensable
+Este módulo tiene un solo grupo de asociación, es esencial
 
- \
+\
 
 ![Groupe](../images/secure.ses302/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![widget1](../images/secure.ses302/widget1.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il faut appuyer 1 fois sur le bouton au dos
+Para despertar este módulo tiene que pulsar 1 tanto en el botón de retroceso
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant 1 fois sur son bouton d’inclusion.
+Este módulo se despierta pulsando 1 de nuevo en su botón de la inclusión.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wake up.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración en la próxima activación.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wake up, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> Configuración, después de un cambio de despertar después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

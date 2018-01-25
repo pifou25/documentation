@@ -1,38 +1,38 @@
-OpenGarage est un objet de type DIY mais aussi disponible monté sur
-commande et qui sert dans le garage.
+OpenGarage is a DIY object but also available mounted on
+order and who serves in the garage.
 
-Il propose l’activation d’un relais (pour ouvrir le garage) et un
-capteur de distance pour vérifier la présence de la voiture.
+It proposes the activation of a relay (to open the garage) and a
+distance sensor to check the presence of the car.
 
-<http://opengarage.io/>
+<Http://opengarage.io/>
 
-Lecture des états du OpenGarage 
+Reading the states of OpenGarage
 ===============================
 
-Afin de récupérer l’état du relais et du capteur de distance, l’url à
-utiliser est :
+In order to recover the state of the relay and the distance sensor, the url to
+use is:
 
-    http://addropengarage/jc
+    http: // addropengarage / jc
 
-Le résultat est un json. Il faut donc utiliser un equipement de type
-Script et une commande info de type json
+The result is a json. It is therefore necessary to use a type of equipment
+Script and an info command of type json
 
-Pour l’état du relais le nom de la propriété du json : door
+For relay status the property name of the json: door
 
-Pour le capteur de distance : dist
+For the distance sensor: dist
 
-Action sur le OpenGarage 
+Action on OpenGarage
 ========================
 
-L’adresse pour l’activation du relais est :
+The address for relay activation is:
 
-    http://addropengarage/cc?dkey=xxxx&click=1
+    http: // addropengarage / DC dkey = xxxx click = 1?
 
-dkey est la clef de l’api, par défaut c’est opendoor
+dkey is the key of the API, by default it is opendoor
 
-Plus d’infos 
+More informations
 ============
 
-La documentation complète de l’API est disponible sur github :
+The complete documentation of the API is available on github:
 
-<https://github.com/OpenGarage/OpenGarage-Firmware/tree/master/docs>
+<Https://github.com/OpenGarage/OpenGarage-Firmware/tree/master/docs>

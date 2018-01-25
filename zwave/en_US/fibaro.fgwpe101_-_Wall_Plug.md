@@ -1,28 +1,28 @@
-Fibaro FGRWPE-101 "Wall plug" 
+Fibaro FGRWPE-101 "Wall plug"
 =============================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/fibaro.fgwpe101/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgwpe101/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
 Le Wall Plug Fibaro est un récepteur-prise-transmetteur universel sous
 forme d\`un adaptateur à brancher sur une prise murale au réseau
@@ -35,152 +35,152 @@ d’énergie de tout dispositif branché. Le Wall Plug Fibaro peut être
 contrôlé par un bouton sur son carter ou bien depuis n’importe quel
 contrôleur compatible avec le standard Z-Wave
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Contrôlé depuis un contrôleur compatible avec le standard Z-Wave.
+-   Controlled from a controller compatible with the Z-Wave standard.
 
--   Contrôle à micro-chips.
+-   Micro-chip control.
 
 -   Élément d\`exécution: relais.
 
 -   Mesure de puissance active du courant et de l\`énergie électrique
-    du récepteur.
+    of the receiver.
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Module Type: Z-Wave Receiver
 
--   Alimentation : 230V, 50Hz
+-   Power supply: 230V, 50Hz
 
--   Consommation électrique : jusqu’à 0.8W
+-   Power consumption: up to 0.8W
 
--   Charge maxi : 2.5kW
+-   Max load: 2.5kW
 
--   Fréquence : 868,42 Mhz EU
+-   Frequency: 868.42 Mhz EU
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Transmission distance: 50m free field, 30m indoor
 
 -   Dimensions: 17 x 42 x 37 mm
 
--   Température de fonctionnement : 0-40°C
+-   Operating temperature: 0-40 ° C
 
--   Température limite : 105°C
+-   Limit temperature: 105 ° C
 
--   Normes : LVD (2006/95/WE), EMC (2004/108/EC), R&TTE(1999/5/WE)
+-   Standards: LVD (2006/95 / WE), EMC (2004/108 / EC), R & TTE (1999/5 / WE)
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Brand: Fibar Group
 
--   Nom : Wall Plug FGWPE-101
+-   Name: Wall Plug FGWPE-101
 
--   Fabricant ID : 271
+-   Manufacturer ID: 271
 
--   Type Produit : 1536
+-   Product Type: 1536
 
--   Produit ID : 4096
+-   Product ID: 4096
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> To put this module in inclusion mode you have to press 3 times on the
+> inclusion button, according to its paper documentation.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgwpe101/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgwpe101/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgwpe101/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    prise
+-   Status: This is the command that allows to know the status of the
+    taking
 
--   On : C’est la commande qui permet d’allumer la prise
+-   On: This is the command that turns on the plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Off: This is the command that turns off the plug
 
--   Puissance : C’est la commande qui remonte la puissance instatanée
-    consommée
+-   Power: It is the command that raises the power instatanée
+    consumed
 
--   Conso : C’est la commande qui remonte la consommation totale
+-   Conso: This is the order that goes back the total consumption
 
- \
+\
 
-A noter que sur le dashboard les commandes ON/OFF/ETAT sont regroupées
-en un seul bouton.
+Note that on the dashboard the ON / OFF / STATUS commands are grouped together
+in one button.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/fibaro.fgwpe101/config1.jpg)
 
@@ -190,116 +190,116 @@ paramètres)
 
 ![Config4](../images/fibaro.fgwpe101/config4.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1: permet de bloquer le module en toujours ON
+-   1: block the module always ON
 
--   16: permet de se souvenir du dernier état en cas de coupure de
-    courant
+-   16: allows to remember the last state in case of break of
+    current
 
--   34: permet de choisir a quel type d’alarme du réseau Zwave la prise
-    doit réagir
+-   34: allows to choose what type of network alarm Zwave the socket
+    must react
 
--   35: permet de régler la façon dont la prise réagira aux alarmes
+-   35: Set how the plug will react to alarms
 
--   39: permet de définir la durée de l’alarme
+-   39: Set the duration of the alarm
 
--   40: permet de définir de combien doit varier la puissance pour être
-    remontée (en %)
+-   40: allows to define how much power must vary to be
+    ascent (in%)
 
--   42: idem mais en mode standard (jusqu’à 5 fois par pas définis en
+-   42: same but in standard mode (up to 5 times in steps defined in
     param 43)
 
--   43: intervalle de remontée de la puissance
+-   43: power rise interval
 
--   45: intervalle de remontée de la consommation (en kWh 10=0,1 kWh)
+-   45: rise in consumption (in kWh 10 = 0.1 kWh)
 
--   47: intervalle en secondes de remontée des infos independamment
-    d’une variation
+-   47: interval in seconds of information feed independently
+    a variation
 
--   49: prendre en compte la consommation du module lui même dans les
-    valeurs
+-   49: take into account the consumption of the module itself in the
+    values
 
--   50: valeur minimal utilisée par le param 52
+-   50: minimum value used by param 52
 
--   51: valeur maximale utilisée par le param 52
+-   51: maximum value used by param 52
 
--   52: action à faire si la puissance sort des bornes définies aux
-    paramètres 50 et 51
+-   52: action to be done if the power goes out of the limits defined in
+    parameters 50 and 51
 
--   60: puissance au dela de laquelle la prise clignotera en violet
+-   60: power beyond which the socket will flash in purple
 
--   61: couleur quand la prise est allumée
+-   61: color when the plug is on
 
--   62: couleur quand la prise est éteinte
+-   62: color when the plug is off
 
--   63: couleur lorsqu’une alarme Zwave est détectée
+-   63: color when a Zwave alarm is detected
 
--   70: puissance de sécurité (la prise se coupera lorsque la puissance
-    atteindra ce seuil)
+-   70: safety power (the plug will turn off when the power
+    will reach this threshold)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 3 groupes d’association, seul le troisième est
-indispensable.
+This module has 3 association groups, only the third is
+essential.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgwpe101/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Reset 
+### reset
 
- \
+\
 
 ![Config5](../images/fibaro.fgwpe101/config5.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système. Il faut choisir
-PressButton.
+You can reset your consumption meter by clicking
+on this button available in the System tab. It's necessary to choose
+Pressbutton.
 
- \
+\
 
-### Visuel alternatif 
+### Alternative visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgwpe101/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Lire la section Reset de cette doc.
+Read the Reset section of this doc.
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

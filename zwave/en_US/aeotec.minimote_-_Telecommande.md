@@ -1,271 +1,271 @@
-Aeotec Minimote 
+Aeotec Minimote
 ===============
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/aeotec.minimote/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.minimote/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Ce mini contrôleur Aeon Labs est compatible avec une grande variété de
-modules Z-Wave tels que des interrupteurs, variateurs, détecteurs de
-mouvement, interrupteurs pour stores…​ Ainsi, vous pourrez commander à
-distance vos éclairages, appareils ou volets roulants. Avec cette
-télécommande, vous pourrez également inclure/exclure des modules de
-votre réseau Z-Wave et associer des scènes aux boutons de la
-télécommande. Un clapet coulissant dissimule les boutons permettant de
-paramétrer le réseau Z-Wave.
+This Aeon Labs mini controller is compatible with a wide variety of
+Z-Wave modules such as switches, dimmers,
+movement, switches for blinds ... So you can order at
+distance your lights, appliances or shutters. With this
+remote control, you will also be able to include / exclude modules from
+your Z-Wave network and associate scenes with the buttons of the
+remote control. A sliding flap conceals the buttons allowing
+set up the Z-Wave network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Paramétrage du réseau Z-Wave (inclusion/exclusion de modules)
+-   Z-Wave network configuration (inclusion / exclusion of modules)
 
--   Permet de piloter jusqu’à 4 scènes
+-   Allows driving up to 4 scenes
 
--   8 touches : 4 pour les scènes, 4 pour le paramétrage du réseau
+-   8 keys: 4 for scenes, 4 for network setting
 
--   Fonctions marche/arrêt et variation
+-   On / off and dimming functions
 
--   Fonction ALL ON/ALL OFF
+-   ALL ON / ALL OFF function
 
--   Batterie interne rehargeable sur USB
+-   Internal battery re-chargeable on USB
 
--   Mise à jour du firmware par USB
+-   Firmware update via USB
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Contrôleur Z-Wave
+-   Module Type: Z-Wave Controller
 
--   Couleur : Blanc
+-   White colour
 
--   Alimentation : batterie interne rechargeable via USB
+-   Power supply: Internal rechargeable battery via USB
 
--   Affichage: LED bleue et rouge
+-   Display: blue and red LED
 
--   Fréquence : 868,42MHz
+-   Frequency: 868.42MHz
 
--   Portée : jusqu’à 30 m
+-   Range: up to 30 m
 
--   Dimensions : 0.8cm x 3.3cm x 9.3cm
+-   Dimensions: 0.8cm x 3.3cm x 9.3cm
 
--   Température de fonctionnement : -35 to +85 °C
+-   Operating temperature: -35 to +85 ° C
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Brand: Aeotec
 
--   Nom : Minimote
+-   Name: Minimote
 
--   Fabricant ID : 134
+-   Manufacturer ID: 134
 
--   Type Produit : 1
+-   Product type: 1
 
--   Produit ID : 3
+-   Product ID: 3
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> LEARN, conformément à sa documentation papier.
+> To put this module in inclusion mode, press the button
+> LEARN, in accordance with its paper documentation.
 
- \
+\
 
 ![inclusion](../images/aeotec.minimote/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.minimote/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/aeotec.minimote/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Buttons: this is the command that will move up the button
 
-1 : Bouton 1 appui court
+1: Button 1 short press
 
-2 : Bouton 1 appui long
+2: Button 1 long press
 
-3 : Bouton 2 appuis courts
+3: Button 2 short presses
 
-4 : Bouton 2 appuis longs
+4: Button 2 long presses
 
-5 : Bouton 3 appuis courts
+5: Button 3 short presses
 
-6 : Bouton 3 appuis longs
+6: Button 3 long presses
 
-7 : Bouton 4 appuis courts
+7: Button 4 short presses
 
-8 : Bouton 4 appuis longs
+8: Button 4 long presses
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> During a first inclusion always wake up the module just after
+> inclusion.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/aeotec.minimote/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   241: mode de fonctionnement du bouton 1 (laisser par défaut)
+-   241: operating mode of button 1 (leave by default)
 
--   242: mode de fonctionnement du bouton 2 (laisser par défaut)
+-   242: operating mode of button 2 (leave by default)
 
--   243: mode de fonctionnement du bouton 3 (laisser par défaut)
+-   243: operating mode of button 3 (leave by default)
 
--   244: mode de fonctionnement du bouton 4 (laisser par défaut)
+-   244: operating mode of button 4 (leave by default)
 
--   250: mode de fonctionnement de la télécommande (absolument laisser
-    Scene pour s’en servir en télécommande)
+-   250: operating mode of the remote control (absolutely leave
+    Scene for use in remote control)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède quatre groupes d’association, aucun n’est nécessaire
-pour s’en servir en télécommande dans Jeedom.
+This module has four association groups, none are needed
+to use it as a remote control in Jeedom.
 
- \
+\
 
 ![Groupe](../images/aeotec.minimote/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+To wake up this module there is only one way to proceed:
 
--   rester appuyé 3 secondes sur le bouton LEARN
+-   stay pressed for 3 seconds on the LEARN button
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en restant appuyé 3 secondes sur le bouton LEARN.
+This module wakes up by pressing and holding the LEARN button for 3 seconds.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+This module is a module on battery, the new configuration will be
+take into account only if you wake up the remote control.
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

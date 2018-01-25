@@ -1,304 +1,304 @@
-Secure SRT 323 "Thermostat" 
+Secure SRT 323 "Thermostat"
 ===========================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/secure.srt323/module.jpg)
 
- \
+\
 
--   **Le visuel jeedom**
+-   ** The jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/secure.srt323/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le SRT323 est un thermostat mural fonctionnant sur batterie. Il dispose
-d’un bouton rotatif permettant à l’utilisateur de régler la température
-de consigne dans la pièce. Ce thermostat intègre un relais de commande
-de charge. Il n’est donc pas nécessaire d’installer un actionneur près
-de la chaudière.
+The SRT323 is a battery operated wall thermostat. He has
+a rotary knob that allows the user to adjust the temperature
+deposit in the room. This thermostat incorporates a control relay
+load. It is not necessary to install an actuator near
+of the boiler.
 
-En vérifiant la température de consigne avec la température réelle
-mesurée, le thermostat décide d’actionner la chaudière. De plus ce
-thermostat intègre un algorythme TPI (time-proportionnal integral),
-permettant une optimisation et un réglage plus juste de la température
-de votre environnement.
+By checking the set temperature with the actual temperature
+measured, the thermostat decides to operate the boiler. Moreover, this
+thermostat incorporates a TPI algorithm (time-proportional integral),
+allowing optimization and a more precise adjustment of the temperature
+of your environment.
 
-Le thermostat peut recevoir la température de consigne depuis un autre
-contrôleur Z-Wave, et peut être également utilisé comme un capteur de
-température. Le thermostat lui-même n’a pas de timer intégré mais
-exécute les commandes Z-Wave et les commandes locales.
+The thermostat can receive the set temperature from another
+Z-Wave controller, and can also be used as a sensor for
+temperature. The thermostat itself has no built-in timer but
+execute Z-Wave commands and local commands.
 
-Il peut être utilisé comme un remplaçant direct pour les thermostats
-existants, sans devoir effectuer de changements de câblage. L’algorythme
-TPI va permettre d’optimiser l’allumage et l’extinction de la chaudière
-afin de maintenir au mieux la température de consigne, sans
-"dépassement" de celle-ci. Il à été démontré que les contrôleurs TPI
-peuvent fournir des économies d’énergie considérables par rapport aux
-régulateurs de chauffage traditionnels.
+It can be used as a direct substitute for thermostats
+existing, without having to make any wiring changes. The algorithm
+TPI will optimize the ignition and shutdown of the boiler
+in order to best maintain the set temperature, without
+"overtaking" of it. It has been shown that TPI controllers
+can provide considerable energy savings compared to
+traditional heating regulators.
 
-Le SRT323 est un partenaire idéal pour une utilisation avec passerelle
-domotique, vous permettant de contrôler à distance votre système de
-chauffage. Vous n’aurez plus à vous soucier de rentrer chez vous dans
-une maison froide, tant que vous avez un smartphone, une tablette ou un
-PC à portée de main et connecté à internet.
+The SRT323 is an ideal partner for gateway use
+home automation system, allowing you to remotely control your
+heating. You will not have to worry about going home in
+a cold house, as long as you have a smartphone, tablet or
+PC at your fingertips and connected to the internet.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Thermostat pour application domestique
+-   Thermostat for domestic application
 
--   Remplace un thermostat existant
+-   Replaces an existing thermostat
 
--   Technologie sans fil Z-Wave
+-   Z-Wave wireless technology
 
--   Ecran LCD rétroéclairé
+-   Backlit LCD display
 
--   Simple d’utilisation
+-   Easy to use
 
--   Compatible avec d’autres produits Z-Wave
+-   Compatible with other Z-Wave products
 
--   Un seul bouton
+-   One button
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Contrôleur Z-Wave
+-   Module Type: Z-Wave Controller
 
--   Algorythme TPI intégré
+-   Integrated TPI algorithm
 
--   Relai: 3(1)A 230V AC
+-   Relay: 3 (1) A 230V AC
 
--   Plage de température réglable: 5°C à 30°C
+-   Adjustable temperature range: 5 ° C to 30 ° C
 
--   Alimentation : 2x piles AAA (LR3)
+-   Power supply: 2x AAA batteries (LR3)
 
--   Durée de vie des piles : 2 ans
+-   Battery life: 2 years
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Portée : jusqu’à 50 m en champ libre
+-   Range: up to 50 m in free field
 
--   Indice de protection : IP30
+-   Protection class: IP30
 
--   Température de fonctionnement : 0°C à 40°C
+-   Operating temperature: 0 ° C to 40 ° C
 
--   Dimensions : 86 x 86 x 36,25 mm
+-   Dimensions: 86 x 86 x 36.25 mm
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Horstmann
+-   Brand: Horstmann
 
--   Nom : SRT 323 Electronic Room Thermostat and Temperature
+-   Name: SRT 323 Electronic Room Thermostat and Temperature
 
--   Fabricant ID : 89
+-   Manufacturer ID: 89
 
--   Type Produit : 1
+-   Product type: 1
 
--   Produit ID : 4
+-   Product ID: 4
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut mettre le switch 1 en
-> position ON puis avec la molette afficher L et appuyer sur la molette,
-> conformément à sa documentation papier.
+> To put this module in inclusion mode you have to put the switch 1 in
+> position ON then with the wheel display L and press the wheel,
+> in accordance with its paper documentation.
 
- \
+\
 
 ![inclusion](../images/secure.srt323/inclusion.jpg)
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Ce module est capricieux à l’inclusion. Lors d’une première inclusion
-> réveillez toujours le module juste après l’inclusion. Pour ce faire
-> laisser le switch 1 en position ON puis avec la molette mettez vous en
-> position "n" et appuyez sur le bouton. Appuyez une seconde fois apres
-> 10 secondes pour être sûr. Une fois fait, cliquez sur le bouton
-> Synchroniser (visible en vue expert) à côté des boutons
-> Inclusion/Exclusion. Ensuite sur la page de votre module cliquez sur
-> la loupe en haut à droite.
+> This module is capricious on inclusion. During a first inclusion
+> always wake the module right after inclusion. To do this
+> leave the switch 1 in the ON position and then with the wheel put in
+> position "n" and press the button. Press a second time after
+> 10 seconds to be sure. Once done, click on the button
+> Synchronize (visible in expert view) next to the buttons
+> Inclusion / Exclusion. Then on the page of your module click on
+> the magnifying glass at the top right.
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/secure.srt323/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/secure.srt323/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Température : c’est la commande de mesure de la température
+-   Temperature: this is the temperature control
 
--   ConsigneEtat : c’est la commande qui donne la consigne en cours
+-   SetpointState: This is the command that gives the current instruction
 
--   Consigne : c’est la commande qui permet de régler la consigne
+-   Setpoint: it is the command which makes it possible to adjust the instruction
 
--   Etat Chauffe : c’est la commande qui permet de savoir si le
-    thermostat est en mode chauffe ou non
+-   State Heating: it is the order which makes it possible to know if the
+    thermostat is in heating mode or not
 
--   Batterie : c’est la commande batterie
+-   Battery: it's the battery control
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Ensuite il est nécessaire d’effectuer la configuration du module en
-fonction de votre installation. Il faut pour cela passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then it is necessary to perform the configuration of the module in
+depending on your installation. You have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/secure.srt323/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1: permet d’activer ou non le capteur de température interne
+-   1: enable or disable the internal temperature sensor
 
--   2: permet de choisir l’unité de la température
+-   2: allows you to choose the temperature unit
 
--   3: permet de définir le palier de variation de la température pour
-    que le module la remonte (par unité de 0.1°C)
+-   3: defines the temperature variation step for
+    the module goes up (per unit of 0.1 ° C)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Pour un fonctionnement optimum de votre module il faut que Jeedom soit
-associé aux 5 groupes
+For optimum operation of your module Jeedom must be
+associated with 5 groups
 
- \
+\
 
 ![Groupe](../images/secure.srt323/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Ce module est sur batterie. Donc il est important de noter qu’un
-> changement de consigne sera uniquement pris en compte au reveil. Par
-> défaut le wake up est à 86400 secondes. Il est vivement recommandé de
-> le diminuer à 10 minutes environ. Ainsi un changement de consigne sera
-> pris en compte par le module au maximum après 10 minutes
+> This module is battery powered. So it's important to note that a
+> setpoint change will only be taken into account when the alarm is woken up. By
+> default the wake up is at 86400 seconds. It is strongly recommended to
+> reduce it to about 10 minutes. So a change of instructions will be
+> taken into account by the module at maximum after 10 minutes
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il faut mettre le switch 1 en position ON et
-avec la molette choisir n et appuyer sur la molette.
+To wake up this module it is necessary to put the switch 1 in ON position and
+use the dial to select n and press the dial.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wake up.
+This module is a battery module, the new configuration will be
+taken into account at the next wake up.
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

@@ -1,283 +1,283 @@
-Aeotec Contrôleur de porte de garage 
+Aeotec Garage Door Controller
 ====================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/aeotec.garagedoorcontroller/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/aeotec.garagedoorcontroller/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Facilement connecté sur le moteur existant de votre porte, le contrôleur
-de porte de garage l’améliore avec une suite de capteurs de sécurité et
-de sûreté. Le contrôleur de porte de garage ne permet pas seulement de
-contrôler votre porte de garage, il vous permet également de vérifier
-son état. Qu’il soit utilisé par le moteur ou manuellement, le détecteur
-intelligent livré avec le contrôleur de porte de garage sait si la porte
-est ouverte ou fermée, et peut vous avertir quand ce qui se passe ne le
-devrait pas.
+Easily connected to the existing motor of your door, the controller
+garage door improves with a suite of security sensors and
+safety. The garage door controller does not just allow you to
+control your garage door, it also allows you to check
+its state. Whether used by the engine or manually, the detector
+smart delivered with the garage door controller knows if the door
+is open or closed, and can warn you when this is happening
+should not.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Contrôlez et surveillez votre porte de garage à distance.
+-   Control and monitor your garage door remotely.
 
--   Module s’installant simplement sur le moteur de votre
-    porte actuelle.
+-   Module that simply installs on your engine
+    current door.
 
--   Contrôle de la porte en local via le bouton intégré.
+-   Door control locally via the integrated button.
 
--   Envoie des alertes d’ouverture/fermeture au contrôleur Z-Wave.
+-   Send opening / closing alerts to the Z-Wave controller.
 
--   Alertes d’ouverture/fermeture sonores et visuelles.
+-   Audible / audible opening / closing alerts
 
--   Volume sonore de l’alarme réglable (105 dB max)
+-   Adjustable alarm sound volume (105 dB max)
 
--   Port USB pour charger vos propres sons MP3.
+-   USB port to charge your own MP3 sounds.
 
--   LED de statut intégrée sur le bouton.
+-   Integrated status LED on the button.
 
--   Fait partie de la gamme Gen5 de Aeon Labs.
+-   Part of the Gen5 range of Aeon Labs.
 
--   Sécurité de la communication radio via le chiffrement AES-128.
+-   Security of radio communication via AES-128 encryption.
 
--   Intègre la puce Z-Wave série 500.
+-   Integrates the Z-Wave 500 series chip.
 
--   Communication 250% plus rapide comparée à des périphériques
+-   250% faster communication compared to devices
     Z-Wave standard.
 
--   Répéteur de messages Z-Wave.
+-   Z-Wave message repeater.
 
--   Optimisation de l’antenne, portée 300 mètres.
+-   Optimization of the antenna, range 300 meters.
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur et émetteur Z-Wave+ série 500
+-   Module Type: Z-Wave + 500 Series Receiver and Transmitter
 
--   Alimentation : Actionneur : 5 VDC (adaptateur fourni) Capteur : Pile
+-   Power supply: Actuator: 5 VDC (adapter supplied) Sensor: Battery
     Lithium 3V 800mA CR2
 
--   Consommation en veille : 1W
+-   Standby power consumption: 1W
 
--   Consommation de l’alarme : 2W
+-   Alarm consumption: 2W
 
--   Volume maximum : 105 dB
+-   Maximum volume: 105 dB
 
--   Formats audio supportés : mp3 et WMV à la fréquence de 320Kbps
+-   Supported audio formats: mp3 and WMV at 320Kbps
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Distance de transmission : 300m en champ libre
+-   Transmission distance: 300m in free field
 
--   Température de fonctionnement : -20°C à 50°C
+-   Operating temperature: -20 ° C to 50 ° C
 
--   Humidité de fonctionnement : 80%
+-   Operating humidity: 80%
 
 -   Certifications: FCC, UL, CE, ROHS
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Aeotec
+-   Brand: Aeotec
 
--   Nom : Garage Door Controller (ZW062)
+-   Name: Garage Door Controller (ZW062)
 
--   Fabricant ID : 134
+-   Manufacturer ID: 134
 
--   Type Produit : 3
+-   Product type: 3
 
--   Produit ID : 62
+-   Product ID: 62
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> Z-Wave, conformément à sa documentation papier.
+> To put this module in inclusion mode, press the button
+> Z-Wave, according to its paper documentation.
 
- \
+\
 
 ![inclusion](../images/aeotec.garagedoorcontroller/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/aeotec.garagedoorcontroller/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/aeotec.garagedoorcontroller/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Open/Close : Ouvrir, fermer ou arrêter la porte de garage.
+-   Open / Close: Open, close or stop the garage door.
 
--   Position : Position actuelle de la porte de garage.
+-   Position: Current position of the garage door.
 
--   Volume : Volume actuel du haut-parleur.
+-   Volume: Current volume of the speaker.
 
--   Température : Température de la zone, pas de remonté automatique.
+-   Temperature: Zone temperature, no automatic winding.
 
--   Sabotage : Etat du sabotage en texte.
+-   Sabotage: State of sabotage in text.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/aeotec.garagedoorcontroller/config1.jpg)
 
 ![Config1](../images/aeotec.garagedoorcontroller/config2.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   34: Permet de démarrer la calibration du temps d’ouverture de
-    la porte.
+-   34: Starts the calibration of the opening time of
+    the door.
 
--   41: Permet de resetter l’état du sabotage en sélectionnant "Relieve
-    the alarm state"
+-   41: Resets the tamper status by selecting "Relieve
+    the alarm state "
 
--   80: sur Hail
+-   80: on Hail
 
--   255 : permet de resetter la configuration d’usine
+-   255: resets the factory configuration
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède deux groupes d’association. Le premier "Lifeline" est
-indispensable.
+This module has two association groups. The first "Lifeline" is
+essential.
 
- \
+\
 
 ![Groupe](../images/aeotec.garagedoorcontroller/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
-Calibration du temps d’ouverture de la porte de garage:
+Calibration of the opening time of the garage door:
 
--   1 : La porte de garage doit être entièrement fermée.
+-   1: The garage door must be completely closed.
 
--   2 : Activer le parametre 34 sur "Do calibration".
+-   2: Activate parameter 34 on "Do calibration".
 
--   3 : Lancer l’ouverture de la porte
+-   3: Start opening the door
 
--   4 : Attendre que la porte soit completement ouverte.
+-   4: Wait until the door is completely open.
 
--   5 : Lancer la fermeture de la porte
+-   5: Start closing the door
 
-La calibration est complétée
+The calibration is completed
 
--   Le paramètre 34 sera actualisé sur "Normal".
+-   Parameter 34 will be updated to "Normal".
 
--   Le paramètre 35 sera mis ajour avec le temps d’ouverture calculé.
+-   Parameter 35 will be updated with the calculated opening time.
 
- \
+\
 
-Remise à zéro du sabotage:
+Reset of sabotage:
 
--   1 : Le capteur doit être convenablement fixé.
+-   1: The sensor must be properly attached.
 
--   2 : Activer le paramètre 41 sur "Relieve the alarm state".
+-   2: Enable parameter 41 on "Relieve the alarm state".
 
--   3 : Actualiser les paramètres.
+-   3: Update the settings.
 
-La calibration est complétée
+The calibration is completed
 
--   Le parametre 41 sera mis ajour avec "Sensor is not removed".
+-   Parameter 41 will be updated with "Sensor is not removed".
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
- \
+\
 
-**@nechry**
+** @ ** nechry

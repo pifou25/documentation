@@ -1,124 +1,124 @@
-Recherche de l’ID de la télécommande 
+Buscar el ID remoto
 ====================================
 
-Aller dans "Plugins", "Gestion des plugins", "RFX COM" 
-------------------------------------------------------
+Ir a "Plugins", "Gestión de Programas", "RFX COM"
+-------------------------------------------------- ----
 
 ![image07](../images/volet.ematronic/image07.png)
 
-Dans "Gestion des protocoles RFXcom", 
+En "Los protocolos de manejo RFXCOM"
 -------------------------------------
 
 ![image04](../images/volet.ematronic/image04.png)
 
-cocher le Protocole 8, BlindsT1, Enregistrer et sortir.
+comprobar Protocolo 8 BlindsT1, guardar y salir.
 
 ![image08](../images/volet.ematronic/image08.png)
 
-Activer, "Lancer en mode debug" 
+Habilitar "Iniciar en modo de depuración"
 -------------------------------
 
 ![image03](../images/volet.ematronic/image03.png)
 
-Attendre l’ouverture de la fenêtre, puis appuyer sur la touche Ouvrir de
-votre télécommande Ematronic.
+Espere a que la apertura de la ventana, a continuación, pulse Abrir para
+Ematronic su control remoto.
 
-    MainThread - rfxcmd:2765 - DEBUG - Test message: 09 19 03 01 1F 84 B9 01 01 60
-    MainThread - rfxcmd:2805 - DEBUG - Message OK
-    MainThread - rfxcmd:328 - DEBUG - Verified OK
-    MainThread - rfxcmd:334 - DEBUG - PacketType: 19
-    MainThread - rfxcmd:338 - DEBUG - SubType: 03
-    MainThread - rfxcmd:342 - DEBUG - SeqNbr: 01
-    MainThread - rfxcmd:346 - DEBUG - Id1: 1F
-    MainThread - rfxcmd:350 - DEBUG - Id2: 84
-    MainThread - rfxcmd:359 - DEBUG - Verify correct packet length
-    MainThread - rfxcmd:556 - DEBUG - Save packet to log_msgfile
+    TrenzadoPrincipal - rfxcmd: 2765 - Depuración - Mensaje de prueba 09 de marzo de 19 de 01 84 B9 1F 1 de enero de 60
+    TrenzadoPrincipal - rfxcmd: 2805 - debug - Mensaje OK
+    TrenzadoPrincipal - rfxcmd: 328 - debug - Verified OK
+    TrenzadoPrincipal - rfxcmd: 334 - debug - PacketType: 19
+    TrenzadoPrincipal - rfxcmd: 338 - debug - subtipo: 03
+    TrenzadoPrincipal - rfxcmd: 342 - debug - SEQNBR: 01
+    TrenzadoPrincipal - rfxcmd: 346 - debug - Id1: 1F
+    TrenzadoPrincipal - rfxcmd: 350 - DEBUG - Id2: 84
+    TrenzadoPrincipal - rfxcmd: 359 - Depuración - Verificar la longitud del paquete correcto
+    TrenzadoPrincipal - rfxcmd: 556 - debug - Guardar paquete a log_msgfile
 
-Rechercher de l’ID de la télécommande 
+Buscar el ID del mando a distancia
 -------------------------------------
 
-Remarque: les télécommandes Ematronic commencent toujours par : 09 19 03
-donc la zone qui nous intéresse démarre de "Test message" : 09 19 03.
+Nota: Los controles remotos Ematronic siempre comienzan con: 19 Septiembre 03
+Por lo que el área que nos interesa para iniciar "Mensaje de prueba": September 19, 03.
 
-Repérer : Id1 et Id2 et ajouter l’hexadecimal suivant : dans mon exemple
-Id1=1F et Id2=84. vous devez donc les repérer dans la ligne, "Test
-message" et en extraire l’Id3 , ici Id3=B9, Notre télécommande a donc
-comme ID ⇒ 1F84B9.
+Marca: ID1 e ID2 y agregue el siguiente formato hexadecimal: en mi ejemplo
+Id1 y Id2 = 1F = 84. debe identificar en la línea, "Test
+mensaje "y extraer el Id3 aquí id3 = B9, ​​por lo tanto nuestro remoto
+⇒ 1F84B9 como identificación.
 
-Arrêter le Mode Debug par le bouton "Arrêter/Redémarrer le démon" 
------------------------------------------------------------------
+Detener modo de depuración Uso de la "parada / reinicio del diablo"
+-------------------------------------------------- ---------------
 
 ![image06](../images/volet.ematronic/image06.png)
 
-Création de la télécommande sous JeeDom 
+Creación de la distancia bajo JeeDom
 =======================================
 
-Aller, dans Plugins, Protocole domtique, RFXcom.
+Ir en plugins, domtique Protocolo RFXCOM.
 
 ![image10](../images/volet.ematronic/image10.png)
 
-Cliquer sur "Ajouter" et saisir un nom pour votre télécommande
-virtuelle.
+Haga clic en "Agregar" e introduzca un nombre para su control remoto
+Virtual.
 
 ![image00](../images/volet.ematronic/image00.png)
 
-Choisir dans la liste des équipements le template : "Volet Ematronic -
-Défaut".
+Elija de la lista de equipos de la plantilla: "Componente Ematronic -
+Por defecto".
 
-Remplacer l’ID automatique par celui que vous avez extrait précédemment
-et Cocher "Activer" et "Visible" :
+Reemplazar Identificación automática con la que ha extraído anteriormente
+y comprobar "Habilitar" y "visible":
 
 ![image11](../images/volet.ematronic/image11.png)
 
-Cliquer sur "Sauvegarder" pour enregistrer votre configuration et
-charger le template "Volet Ematronic - Défaut".
+Haga clic en "Guardar" para guardar la configuración y
+cargar la plantilla "Ematronic componentes - Fallo".
 
 ![image02](../images/volet.ematronic/image02.png)
 
-Voilà votre télécommande est prête, elle doit ressembler à ça :
+Este mando a distancia está listo, se debe tener este aspecto:
 
 ![image05](../images/volet.ematronic/image05.png)
 
-Associer votre télécommande virtuelle JeeDom à votre moteur Ematronic: 
-======================================================================
+Enlace su JeeDom remota su motor Ematronic virtual:
+================================================== ====================
 
-Réinitialisation du moteur: 
+Restablecimiento del motor:
 ---------------------------
 
--   Débrancher électriquement le moteur.
+-   desconectar eléctricamente el motor.
 
--   Sur la télécommande d’origine, laisser le bouton "Up" Appuyé 3 ou 4
-    secondes, la led devient rouge fixe.
+-   En el mando a distancia original, permita que el botón "Up" Supported 3 o 4
+    segundo, el LED se vuelve rojo sólido.
 
--   Brancher électriquement le moteur.
+-   Conectar eléctricamente el motor.
 
--   Relâcher le bouton de la télécommande.
+-   Al soltar el botón del mando a distancia.
 
--   Le moteur fera 5 bips.
+-   El motor será de 5 pitidos.
 
--   Rapidement, appuyer avec un trombone sur le "micro bouton" a
-    l’arrière de la télécommande.
+-   presione rápidamente con un clip de papel en el botón "micro" tiene
+    la parte posterior del mando a distancia.
 
--   Le moteur fera 3 bips.
+-   El motor será de 3 pitidos.
 
-Association de la télécommande virtuelle JeeDom au moteur Ematronic: 
-====================================================================
+Asociación JeeDom mando a distancia virtual a motor Ematronic:
+================================================== ==================
 
--   Débrancher électriquement le moteur.
+-   desconectar eléctricamente el motor.
 
--   Sur le télécommande d’origine, laisser le bouton "Up" Appuyer 3 ou 4
-    secondes, la led devient rouge fixe.
+-   En el mando a distancia original, permitir que el botón "Up" Pulse 3 o 4
+    segundo, el LED se vuelve rojo sólido.
 
--   Brancher électriquement le moteur.
+-   Conectar eléctricamente el motor.
 
--   Relâcher le bouton de la télécommande.
+-   Al soltar el botón del mando a distancia.
 
--   Le moteur fera 5 bips.
+-   El motor será de 5 pitidos.
 
--   Appuyer sur la Commande "Monter" de la télécommande virtuelle de
-    JeeDom. image::../images/volet.ematronic/image09.png\[\]
+-   Pulse la tecla "Up" de control de remoto virtual
+    JeeDom. Imagen :: ../ images / volet.ematronic / image09.png \ [\]
 
--   Le moteur fera 3 bips, pour annoncer que votre JeeDoom est associé
+-   El motor será de 3 pitidos para anunciar que su pareja es JeeDoom
     !!
 
 

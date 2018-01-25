@@ -1,221 +1,221 @@
-Fibaro Dimmer - FGD-211 
+Fibaro Dimmer - FGD-211
 =======================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/fibaro.fgd211/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgd211/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le micromodule variateur FGD-211 va vous permettre de contrôler une
-lampe ou plafonnier à distance grâce au protocole Z-Wave tout en
-conservant votre interrupteur existant.
+The dimmer micromodule FGD-211 will allow you to control a
+remote lamp or ceiling lamp thanks to the Z-Wave protocol while
+retaining your existing switch.
 
-Vous allez donc pouvoir actionner la lampe connectée et faire varier son
-intensité en utilisant l’interrupteur existant, un émetteur Z-Wave ou
-directement depuis le bouton présent sur le micromodule. Il est
-compatible avec tout type de lampe supportant la variation
-(incandescence, fluo-compact, LED, …​). Le micromodule variateur Fibaro
-est un concentré de technologie, il détecte automatiquement le type de
-charge connectée et est protégé contre les surtensions.
+So you will be able to operate the connected lamp and vary its
+intensity using the existing switch, a Z-Wave transmitter or
+directly from the button on the micromodule. It is
+compatible with any type of lamp supporting variation
+(incandescent, fluo-compact, LED, ...). The Fibaro variator micromodule
+is a concentrate of technology, it automatically detects the type of
+connected load and is protected against overvoltages.
 
-Pour les ampoules fluorescentes qui ne supportent pas la variation, le
-module agit alors automatiquement en tant que module commutateur (ON/OFF
-uniquement).
+For fluorescent bulbs that do not support variation, the
+module then automatically acts as a switch module (ON / OFF
+only).
 
-Il peut être utilisé en mode 2 fils (sans neutre), en remplacement d’un
-interrupteur existant, ou trois fils avec une alimentation classique du
-module (Phase + Neutre).
+It can be used in 2-wire mode (without neutral), replacing a
+existing switch, or three wires with a conventional power supply
+module (Phase + Neutral).
 
-Pour des lampes ayant une très faible consommation (lampe LED par
-exemple), vous pourrez utiliser la charge (bypass) FGB-001 qui permet un
-fonctionnement correct du module. Un contrôleur Z-Wave (télécommande,
-dongle …​) est nécessaire afin d’intégrer ce détecteur dans votre réseau
-si vous avez déjà un réseau existant. Chaque module Z-Wave fonctionne
-comme un répéteur sans fil avec les autres modules, afin d’assurer une
-couverture totale de votre habitation.
+For lamps with very low consumption (LED lamp per
+example), you will be able to use the FGB-001 (bypass)
+correct operation of the module. A Z-Wave controller (remote control,
+dongle ...) is necessary to integrate this detector into your network
+if you already have an existing network. Each Z-Wave module works
+as a wireless repeater with the other modules, to ensure
+total coverage of your home.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Commander un éclairage à distance
+-   Controlling remote lighting
 
--   S’installe derrière un interrupteur existant
+-   Installs behind an existing switch
 
--   Fonction ON/OFF et Variation
+-   ON / OFF and Variation function
 
--   Utilisation en mode 2 fils (neutre pas nécessaire)
+-   Use in 2-wire mode (neutral not necessary)
 
--   Détection automatique de la charge
+-   Automatic load detection
 
--   Protégé contre les surcharges
+-   Protected against overloads
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Module Type: Z-Wave Receiver
 
--   Alimentation : 230V, 50 Hz
+-   Power supply: 230V, 50 Hz
 
--   Câblage : neutre pas nécessaire
+-   Wiring: neutral not necessary
 
--   Charge maxi : 25-500W (charge résistive) ou 1.5A (charge inductive)
+-   Max load: 25-500W (resistive load) or 1.5A (inductive load)
 
--   Type de lampe compatible (dimmable) : Incandescente, Fluocompacte,
-    Halogène (230VAC et 12VDC avec tranformateur électronique), LED
+-   Compatible lamp type (dimmable): Incandescent, Fluocompact,
+    Halogen (230VAC and 12VDC with electronic transformer), LED
 
--   Type de lampe compatible (non dimmable) : Fluocompacte, LED
+-   Compatible lamp type (non dimmable): Compact fluorescent, LED
 
--   Fusible : 2.5A
+-   Fuse: 2.5A
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Transmission distance: 50m free field, 30m indoor
 
 -   Dimensions: 15 x 42 x 36 mm
 
--   Température de fonctionnement : 0-40°C
+-   Operating temperature: 0-40 ° C
 
--   Température limite : 105°C
+-   Limit temperature: 105 ° C
 
--   Normes : EN 55015 et EN 60669-2-1
+-   Standards: EN 55015 and EN 60669-2-1
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Brand: Fibar Group
 
--   Nom : Fibaro FGMS-001 \[Motion Sensor\]
+-   Name: Fibaro FGMS-001 \ [Motion Sensor \]
 
--   Fabricant ID : 271
+-   Manufacturer ID: 271
 
--   Type Produit : 256
+-   Product Type: 256
 
--   Produit ID : 4106
+-   Product ID: 4106
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> To put this module in inclusion mode you have to press 3 times on the
+> inclusion button, according to its paper documentation.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgd211/inclusion.jpg)
 
- \
+\
 
-> **Tip**
+> ** Tip **
 >
-> Si vous avez déjà intégré votre module au mur, vous pouvez l’inclure
-> en faisant de nombreux aller retour sur l’interrupteur ou de nombreux
-> appuis si vous avez un interrupteur sur bouton poussoir.
+> If you have already integrated your module on the wall, you can include it
+> by doing many go back on the switch or many
+> supports if you have a push button switch.
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgd211/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgd211/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Intensité : C’est la commande qui permet de régler l’intensité de la
-    lumière
+-   Intensity: This is the command that adjusts the intensity of the
+    light
 
--   On : C’est la commande qui permet d’allumer la lumière
+-   On: This is the command that turns on the light
 
--   Off : C’est la commande qui permet d’éteindre la lumière
+-   Off: This is the command that turns off the light
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    lumière
+-   Status: This is the order that allows to know the status of the
+    light
 
-A noter que sur le dashboard toutes les infos se retrouvent sur le même
-icone
+Note that on the dashboard all the information is found on the same
+icon
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/fibaro.fgd211/config1.jpg)
 
@@ -223,122 +223,122 @@ Paramètres)
 
 ![Config3](../images/fibaro.fgd211/config3.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1: Fonctions ALL ON / ALL OFF : utilisé que si vous avez associé le
-    FGD-211 à un autre module
+-   1: ALL ON / ALL OFF functions: used only if you have paired the
+    FGD-211 to another module
 
--   6: permet de dire comment les informations sont envoyées au groupe
-    d’association 1
+-   6: lets you tell how information is sent to the group
+    association 1
 
--   7: permet de vérifier ou non le statut du module associé avant
-    d’envoyer une commande
+-   7: allows to check or not the status of the associated module before
+    to send an order
 
--   8: permet de définir le pourcentage de variation (auto)
+-   8: Set the percentage of variation (auto)
 
--   9: durée de la variation entre les deux extrêmes (manuel)
+-   9: duration of the variation between the two extremes (manual)
 
--   10: durée de la variation entre les deux extrêmes (auto)
+-   10: duration of the variation between the two extremes (auto)
 
--   11: permet de définir le pourcentage de variation (manuel)
+-   11: allows to define the percentage of variation (manual)
 
--   12: permet de définir le niveau maximal autorisé
+-   12: Sets the maximum allowed level
 
--   13: permet de définir le niveau minimal autorisé
+-   13: Sets the minimum level allowed
 
--   14: REGLAGE IMPORTANT : permet de choisir entre interrupteur
-    BISTABLE ou MONOSTABLE (bouton poussoir)
+-   14: IMPORTANT SETTING: allows to choose between switch
+    BISTABLE or MONOSTABLE (push button)
 
--   15: active l’option permettant de mettre la luminosité au maximum
-    sur double appui (ou aller retour sur bistable)
+-   15: Enable the option to set brightness to maximum
+    on double support (or go back on bistable)
 
--   16: option permettant d’activer la mémorisation du dernier état
+-   16: option to activate last state storage
 
--   17: permet de choisir entre le mode va et vient et le mode
-    télérupteur
+-   17: to choose between the mode to and fro and the mode
+    contactor
 
--   18: permet de synchroniser le niveau de variation aux autres
-    variateurs associés
+-   18: Synchronize the level of variation to others
+    associated drives
 
--   19: mode fonctionnement de l’interrupteur bistable (inversion
-    ou non)
+-   19: operating mode of the bistable switch (inversion
+    or not)
 
--   20: permet d’ajuster le niveau minimum pour des ampoules LEDS
-    dimmables par exemple
+-   20: adjusts the minimum level for LEDS bulbs
+    dimmable for example
 
--   30: permet de définir le mode de fonctionnement du module en cas de
-    réception d’un signal broadcast Alarm
+-   30: allows to define the mode of operation of the module in case of
+    receiving a broadcast Alarm signal
 
--   39: durée de l’alarme défini en paramètre 30
+-   39: duration of the alarm defined in parameter 30
 
--   41: permet d’activer ou non la fonction d’Activations des scènes
+-   41: allows to activate or not the function of Activations of the scenes
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède trois groupes d’association, seul le troisième est
-indispensable.
+This module has three association groups, only the third is
+essential.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgd211/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
-> **Caution**
+> ** Deposit **
 >
-> Le paramètre le plus important de la configuration est le 14. Il
-> permet de choisir le type d’interrupteur utilisé. Par défaut le type
-> est défini sur monostable.
+> The most important parameter of the configuration is 14. It
+> allows to choose the type of switch used. By default the type
+> is set to monostable.
 
- \
+\
 
-Si vous voulez exclure/inclure le module sans démonter votre
-interrupteur, vous pouvez appuyer plusieurs fois sur votre interrupteur
-(ou faire des allers retours en cas d’interrupteur bi stable)
+If you want to exclude / include the module without disassembling your
+switch, you can press your switch several times
+(or go back and forth in case of bi stable switch)
 
- \
+\
 
-### Visuel alternatif 
+### Alternative visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgd211/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Non. ce module peut s’inclure ou s’exclure en appuyant plusieurs fois
-sur l’interrupteur.
+No. this module can be included or excluded by pressing several times
+on the switch.
 
- \
-**@sarakha63**
+\
+** @ ** sarakha63

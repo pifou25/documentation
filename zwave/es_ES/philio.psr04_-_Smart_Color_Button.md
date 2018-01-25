@@ -1,300 +1,300 @@
-Philio Smart Color Button 
+Botón Philio Color inteligente
 =========================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/philio.psr04/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/philio.psr04/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Cet interrupteur au design unique propose plusieurs fonctions. Vous
-pourrez l’utiliser pour allumer, éteindre ou varier l’éclairage, ajuster
-la position de vos volets, régler la température du thermostat ou
-l’utiliser comme une minuterie.
+Este conmutador ofrece varias características de diseño únicas. Usted
+se puede utilizar para encender, apagar o cambiar la iluminación, ajuste
+la posición de las persianas, ajustar el termostato o
+utilizarlo como un temporizador.
 
-Une fois inclus dans votre réseau Z-Wave, l’interrupteur PSR04 de Philio
-devra être associé au(x) périphérique(s) que vous souhaitez contrôler.
-Il peut fonctionner uniquement par association directe avec des
-périphériques, et ne peut lancer de scènes créées dans votre contrôleur
-domotique Z-Wave.
+Una vez incluido en su red Z-Wave, el PSR04 cambiar Philio
+debe asociarse con (x) dispositivo (s) que desea controlar.
+Se puede trabajar sólo a través de la asociación directa con
+dispositivos, y no se pueden ejecutar escenas creadas en su controlador
+Z-Wave domótica.
 
-Utilisé comme un variateur, il a le même comportement qu’un variateur
-traditionnel. Tournez le bouton vers la droite pour augmentez la
-lumière, et vers la gauche pour la diminuer.
+Se utiliza como un controlador, que tiene el mismo comportamiento que una unidad
+Tradicional. Gire el mando hacia la derecha para aumentar la
+luz, y hacia la izquierda para disminuirlo.
 
-De plus, vous pouvez facilement déplacer et positionner cet interrupteur
-à l’endroit de votre choix grâce à son support magnétique. Sa conception
-étanche permet de l’installer dans un endroit à forte humidité comme une
-salle de bains.
+Además, puede mover y posicionar el interruptor fácilmente
+la ubicación de su elección gracias a sus medios magnéticos. su diseño
+sello puede ser instalado en una zona de alta humedad, tal como una
+sala de baño.
 
-Il utilise la dernière puce Z-Wave série 500, offrant une augmentation
-de la portée radio de 50% et une vitesse de communication de 250% plus
-rapide par rapport aux précédents produits Z-Wave, ainsi qu’une plus
-faible consomation d’énergie permettant une plus grande autonomie.
+Utiliza la última serie de chip Z-Wave 500, proporcionando una mayor
+una gama de radio de 50% y 250% más de velocidad de comunicación
+más rápido que los anteriores productos Z-Wave y una mayor
+bajo consomation potencia que permite una mayor autonomía.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Interrupteur multifonctions
+-   interruptor multifunción
 
--   Technologie Z-Wave+
+-   Z-Wave Tecnología +
 
--   Fonction ON/OFF et variation (éclairage ou volets)
+-   ON / OFF y regulación (iluminación y persianas)
 
--   Fonction minuterie intégrée
+-   temporizador integrado
 
--   Etanche
+-   impermeable
 
--   S’adapte à tout style de décoration
+-   Se adapta a cualquier estilo de decoración
 
--   Batterie rechargeable
+-   recargable
 
--   Très faible consommation d’énergie
+-   Muy bajo consumo de energía
 
--   Longue durée de vie de la batterie (6 mois par charge)
+-   Batería de larga duración (6 meses por carga)
 
--   Support magnétique
+-   medios magnéticos
 
--   LED d’indication RGBW
+-   indicación RGBW LED
 
--   Facile à installer
+-   Fácil de instalar
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Alimentation : Batterie Lithium Polymère 3.7V, 220mA vAutonomie de
-    la batterie : 6 mois pour 2h de charge
+-   Potencia: polímero de litio de 3.7V, 220mA de vAutonomie
+    Batería: 6 meses a 2 horas de carga
 
--   Consommation en veille : 18µA
+-   Consumo en espera: 18μA
 
--   Consommation en fonctionnement : 45mA
+-   Consumo de energía: 45 mA
 
--   Fréquence : 868.42 MHz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 100m en extérieur, 40m en intérieur
+-   La distancia de transmisión: 100m al aire libre, 40 m en interiores
 
--   Dimensions :
+-   dimensiones:
 
-Support : 71,16 x 10,94 mm (diamétre x épaisseur) Bouton : 59,99 x 14,89
-mm (diamétre x épaisseur) Support + Bouton : 71,16 x 17,22 mm (diamétre
-x épaisseur) \* Certifications :
+Soporte: 71,16 x 10,94 mm (diámetro x espesor) Botón: 59.99 x 14.89
+mm (espesor x diámetro) Superficie + Button: 71,16 x 17,22 mm (diámetro
+x grosor) \ * Certificado:
 
 EN 301 489-1, EN 301 489-3 EN 300 220-1, EN 300 220-2 EN62479, EN60950
-FCC Part 15 B, FCC Part 15 C
+FCC Parte 15 B, FCC Parte 15 C
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Philio
+-   Marca: Philio
 
--   Nom : PSR04 Smart Color Button
+-   Nombre: Botón PSR04 Color inteligente
 
--   Fabricant ID : 316
+-   Identificación del fabricante: 316
 
--   Type Produit : 9
+-   Tipo de producto: 9
 
--   Produit ID : 34
+-   ID del producto: 34
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut le mettre en position
-> basse (inclusion) et appuyer sur le bouton, conformément à sa
-> documentation papier.
+> Para poner este modo módulo requiere la inclusión en su posición
+> Baja (inclusión) y pulse el botón, según su
+> Documentación en papel.
 
- \
+\
 
 ![inclusion](../images/philio.psr04/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/philio.psr04/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/philio.psr04/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : c’est la commande qui remontera la position du bouton de 0 à
+-   Estado: Este es el comando que ascienda la posición del botón 0
     100%
 
--   Batterie : c’est la commande qui remonte l’état de batterie du
-    module
+-   Batería: este es el comando que se remonta el estado de la batería
+    módulo
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/philio.psr04/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: définit la borne la plus basse (position complètement à gauche)
+-   1: Establece el terminal más pequeña (totalmente a la izquierda)
 
--   2 : définit la borne la plus haute (position complètement à droite)
+-   2 define el terminal más alto (totalmente a la derecha)
 
--   10 : intervalle de temps de remontée de batterie
+-   intervalo de tiempo de ascenso de la batería: 10
 
--   25 : permet de définir si le module envoie sa positon
-    automatiquement après rotation (1s de délai) ou si il faut appuyer
-    sur le bouton pour valider l’envoi
+-   25: Establece si el módulo envía su positon
+    girar automáticamente (a menos de 1 segundo) o si tiene que pulsar
+    botón para validar el envío
 
--   26 : active l’envoi de scène ou non sur appui du bouton centrale
-    (paramètre non pris en compte dans Jeedom)
+-   26: activa el envío de escena o no en el botón central de apoyo
+    (El parámetro no tiene en cuenta en Jeedom)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association, le premier est le seul
-indispensable. Le deuxième permet de remonter la position à Jeedom
+Este módulo tiene dos grupos de asociación, el primero es el único
+esencial. El segundo se remonta a la posición Jeedom
 
- \
+\
 
 ![Groupe](../images/philio.psr04/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
-Pour utiliser ce module en télécommande il faut procéder comme suit :
+Para utilizar este módulo en remoto proceder como sigue:
 
--   Rajouter le contrôleur dans le groupe 2
+-   Añadir el controlador en el grupo 2
 
-En effet ce type de module n’est pas fait pour interagir directement
-avec une box mais directement avec d’autres modules. Cependant en
-rajoutant Jeedom au groupe 2, cela permet de recevoir la position du
-bouton et donc de s’en servir pour contrôller un scénario (régler un
-volume par exemple)
+De hecho este tipo de módulo no está hecho para interactuar directamente
+con una caja sino directamente con otros módulos. Sin embargo,
+añadiendo Jeedom al grupo 2, se puede recibir la posición de la
+botón y por lo tanto utilizar una función para controlar escenario (establecer una
+volumen, por ejemplo)
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   mettre le module en position basse et appuyer sur le bouton
+-   poner el módulo en la posición inferior y pulse el botón
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez le module.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración de que si se despierta en el módulo.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

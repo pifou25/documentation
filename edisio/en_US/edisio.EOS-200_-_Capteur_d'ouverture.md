@@ -1,170 +1,170 @@
--   **Le module**
+-   **The module**
 
 ![eos200.module](../images/eos200/eos200.module.jpg)
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
 ![eos200.vue defaut](../images/eos200/eos200.vue-defaut.jpg)
 
-Résumé 
+summary
 ======
 
-Placé sur une porte, fenêtre, porte de garage, tiroir, tous ouvrants, ce
-capteur compact et discret vous permettra de connaitre l’état
-d’ouverture ou de fermeture de ce dernier.
+Placed on a door, window, garage door, drawer, all opening, this
+compact and discreet sensor will allow you to know the state
+opening or closing of the latter.
 
-Suivant l’état, le capteur contrôle l’allumage ou l’extinction de vos
-éclairages, fermeture ou ouverture des volets, ou encore le
-déclenchement d’une alarme via un scénario.
+Depending on the condition, the sensor controls the switching on or off of your
+lighting, closing or opening the shutters, or the
+triggering an alarm via a scenario.
 
-Le signal est uniquement envoyé à la séparation du capteur de son
-élément magnétique. L’indicateur LED intégré signale tous changements
-d’état. Niveau de batterie faible signalé par 3 "bip" sonores sur le
-récepteur
+The signal is only sent to the separation of the sound sensor
+magnetic element. Built-in LED indicator signals any changes
+state. Low battery level indicated by 3 "beep" sound on the
+receiver
 
-Fonctions 
+functions
 =========
 
--   Capteur magnétique sans fil alimenté par piles
+-   Battery powered wireless magnetic sensor
 
--   Détecte les ouvertures/fermetures
+-   Detects openings / closures
 
 -   Ultra compact
 
--   Installation facile et en toute liberté
+-   Easy installation and in complete freedom
 
--   Signal transmis instantanément lors d’une ouverture/fermeture
+-   Signal transmitted instantly when opening / closing
 
--   Auto-protection à l’arrachage
+-   Self-protection on pulling out
 
--   Informations sur le niveau de la batterie
+-   Battery level information
 
--   Montage au mur par des vis ou par un adhésif double face
+-   Wall mounting with screws or double-sided tape
 
-Caractéristiques Techniques 
+Technical characteristics
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Module type: Edisio transmitter
 
--   Alimentation : 3VDC (Pile Lithium ER14250)
+-   Power Supply: 3VDC (ER14250 Lithium Battery)
 
--   Fréquence : 868,3 MHz
+-   Frequency: 868.3 MHz
 
--   Température de fonctionnement : 0°C +45°C
+-   Operating temperature: 0 ° C + 45 ° C
 
--   Portée en champs libre : 100M
+-   Free field range: 100M
 
--   Dimensions : 25x79x19mm
+-   Dimensions: 25x79x19mm
 
--   Degré de protection : IP20
+-   Degree of protection: IP20
 
--   Utilisation : En intérieur
+-   Use: Indoor
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : EOS-200
+-   Name: EOS-200
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Important **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
-Bouton "E" 
+Button "E"
 ----------
 
-Vous trouverez dessous le bouton "E" qui est le bouton d’association du
-capteur de température.
+You will find below the button "E" which is the button of association of the
+temperature sensor.
 
 ![eos200.bouton e](../images/eos200/eos200.bouton-e.jpg)
 
-Configuration 
+Configuration
 -------------
 
-Par défaut, le capteur est configuré en NO (Normalement Ouvert)
+By default, the sensor is configured in NO (Normally Open)
 
 ![eos200.nf no](../images/eos200/eos200.nf-no.jpg)
 
-> **Note**
+> ** Note **
 >
-> Il faudra donc configurer votre capteur, si vous souhaitez avoir un
-> widget avec une porte fermée lorsque celle-ci l’est.
+> It will be necessary to configure your sensor, if you wish to have a
+> widget with a door closed when it is.
 
 ![eos200.mode](../images/eos200/eos200.mode.jpg)
 
-Association du capteur à Jeedom 
+Association of the sensor at Jeedom
 ===============================
 
-L’association du capteur de mouvement est simple comme bonjour. Il
-suffit d’appuyer sur le bouton "E", situé sous le capteur. Celui-ci sera
-reconnu automatiquement par Jeedom. Il suffira de se rendre dans le
-plugin Edisio. Vous pourrez ainsi le placer dans un objet, lui donner un
-nom et sauvegarder.
+The association of the motion sensor is as simple as hello. he
+just press the "E" button, located under the sensor. This one will be
+automatically recognized by Jeedom. It will be enough to go to
+Edisio plugin. So you can place it in an object, give it a
+name and save.
 
-Une fois votre équipement associé, vous devriez obtenir ceci :
+Once your equipment is associated, you should get this:
 
 ![eos200.general](../images/eos200/eos200.general.jpg)
 
-> **Tip**
+> ** Tip **
 >
-> Afin que le widget soit présent sur le dashboard, pensez à placer
-> votre équipement dans un objet.
+> In order for the widget to be present on the dashboard, consider placing
+> your equipment in an object.
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is created, you should get the orders
+associated with the module:
 
 ![Commandes](../images/eos200/eos200.commandes.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   Porte : C’est la commande qui indique si la porte est ouverte ou
-    fermée
+-   Door: This is the command that indicates if the door is open or
+    closed
 
--   Batterie : Indique l’état de la batterie
+-   Battery: Indicates the status of the battery
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/eos200/eos200.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à été créé
+-   Creation: Indicates the date on which the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the module
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Battery: Indicates battery status of battery modules
 
--   Status : Retourne le status du module
+-   Status: Returns the status of the module
 
-Visuel alternatif 
+Alternative visual
 =================
 
 ![eos200.vue alternative](../images/eos200/eos200.vue-alternative.jpg)
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment piloter un récepteur Z-Wave?
+How to pilot a Z-Wave receiver?
 
-:   Avec le plugin Scénario de Jeedom.
+: With the Jeedom script plugin.
 
-Comment puis-je avoir le même visuel ?
+How can I have the same visual?
 
-:   Avec le plugin Widgets de Jeedom.
+: With the Jeedom Widgets plugin.
 
-**@Jamsta**
+** @ ** Jamsta

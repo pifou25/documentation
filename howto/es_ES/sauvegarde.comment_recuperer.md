@@ -1,61 +1,61 @@
-Description 
+descripción
 ===========
 
-La procédure va permettre de se connecter en SFTP à votre box afin
-d’aller récupérer les sauvegardes quotidiennes effectuées par celle-ci.
+El procedimiento permitirá conectarse a la caja para SFTP
+para ir y obtener copias de seguridad diarias por ella.
 
-> **Tip**
+> ** Tip **
 >
-> Attention, afin que cette procédure fonctionne, il est nécessaire que
-> le serveur SSH de la box soit toujours fonctionnel.
+> Tenga en cuenta que este procedimiento funciona, es necesario
+> Servidor SSH de la caja sigue siendo funcional.
 
-Installation de Filezilla 
+Instalación de Filezilla
 =========================
 
-Filezilla est un logiciel gratuit et disponible sur toutes les
-plateformes. Il permet de transférer des fichiers via différents
-protocoles (FTP, FTPS, SFTP…​) Il est téléchargeable via ce lien :
-<https://filezilla-project.org/download.php?type=client>
+FileZilla es un software libre disponible en todo
+plataformas. Se pueden transferir archivos a través de diferentes
+(FTP, FTPS, SFTP ...) Se puede descargar usando este enlace:
+<Https://filezilla-project.org/download.php?type=client>
 
-Connexion à la box 
+Entrar en la caja
 ==================
 
-Pour se connecter à votre box, il suffit de renseigner les champs
-d’information en haut de la fenêtre Filezilla :
+Para conectarse a la caja, sólo tiene que rellenar los campos
+Filezilla información de la parte superior de la ventana:
 
 ![restore filezilla01](../images/restore-filezilla01.jpg)
 
--   Hôte : Adresse IP de Jeedom (sftp:// est rajouté automatiquement)
+-   Host: Dirección IP Jeedom (sftp: // se añade automáticamente)
 
--   Identifiant : jeedom
+-   ID: jeedom
 
--   Mot de passe : Mjeedom96
+-   Contraseña: Mjeedom96
 
--   Port : 22
+-   Puerto: 22
 
-Puis de cliquer sur "Connexion rapide"
+A continuación, haga clic en "Conexión rápida"
 
-Navigation vers le répertoire de sauvegarde 
+Navegando en el directorio de copia de seguridad
 ===========================================
 
-Une fois la connexion établie, il est nécessaire de se rendre dans le
-répertoire de sauvegarde de Jeedom.
+Una vez conectado, es necesario visitar el
+directorio de copia de seguridad Jeedom.
 
-2 cas de figures :
+2 casos:
 
--   Serveur Apache (Box Jeedom Smart) : /var/www/html/backup
+-   Apache (Smart Box Jeedom): / var / www / html / copia de seguridad
 
--   Serveur Nginx (Box Jeedom Mini+) :
-    /usr/share/nginx/www/jeedom/backup
+-   servidor Nginx (Jeedom Mini +):
+    / Usr / share / nginx / www / jeedom / copia de seguridad
 
-Le chemin d’accès se renseigne dans la partie site distant.
+La ruta a la información del sitio remoto en parte.
 
 ![restore filezilla02](../images/restore-filezilla02.jpg)
 
-Téléchargement de la sauvegarde 
+Copia de seguridad descarga
 ===============================
 
-Sur la liste des sauvegardes, en faisant un clic droit, il est possible
-de lancer son téléchargement.
+En la lista de copias de seguridad haciendo clic derecho, es posible
+lanzado su descarga.
 
 ![restore filezilla03](../images/restore-filezilla03.jpg)

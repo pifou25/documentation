@@ -1,193 +1,193 @@
-Nous allons voir ici comment installer une Debian, aussi bien en tant
-que VM ou en installation directe sur une machine physique
+Veremos cómo instalar Debian, así como
+que VM o instalación directa en una máquina física
 
-Récupération des sources 
+Conseguir las fuentes
 ========================
 
-Vous pouvez trouver la dernière version Debian en netinstall (taille
-minimale mais besoin d’internet pour l’installation)
-[ici](https://www.debian.org/CD/netinst) (il faut prendre l’image en
-amd64) ou cliquer directement
-[ici](http://cdimage.debian.org/debian-cd/9.1.0/amd64/iso-cd/debian-9.1.0-amd64-netinst.iso)
-pour télécharger l’iso.
+Puede encontrar las últimas Debian versión netinstall (tamaño
+mínima, pero necesita internet para la instalación)
+[Aquí] (https://www.debian.org/CD/netinst) (que tiene que tomar la imagen
+amd64) o hacer clic directamente
+[Aquí] (http://cdimage.debian.org/debian-cd/9.1.0/amd64/iso-cd/debian-9.1.0-amd64-netinst.iso)
+para descargar la iso.
 
-Lancement de l’installation 
+Inicio de la instalación
 ===========================
 
-Sur une machine physique 
+En una máquina física
 ------------------------
 
-Il faut soit graver l’iso sur un CD et mettre le CD dans la machine
-(mais de nos jour les lecteurs CD sont de plus en plus rares) ou alors
-créer une clef USB bootable.
+Que o bien quemar el ISO en un CD y poner el CD en la máquina
+(Sin embargo, nuestros jugadores el día de CD son cada vez más raro) o de lo contrario
+crear una memoria USB de inicio.
 
-Pour la clef USB bootable il faut télécharger rufus
-[là](http://rufus.akeo.ie/downloads/rufus-2.9.exe), le lancer et le
-configurer comme cela :
+Para memoria USB de inicio debe descargar rufus
+[No] (http://rufus.akeo.ie/downloads/rufus-2.9.exe), el inicio y
+configure de esta manera:
 
 ![debian.installation](../images/debian.installation.PNG)
 
-> **Note**
+> ** Nota **
 >
-> Pensez bien à sélectionner le fichier ISO que vous avez téléchargé
-> juste avant
+> Recuerde seleccionar el archivo ISO que descargó
+> Justo antes
 
-Il ne vous reste plus qu’à cliquer sur démarrer, puis mettre la clef USB
-sur la machine et la faire booter dessus.
+Sólo tiene que hacer clic en Inicio y, a continuación, poner el stick USB
+en la máquina y para arrancarlo.
 
-Sur une VM 
+En una máquina virtual
 ----------
 
-La manipulation est assez simple, vous créez une nouvelle machine
-virtuelle, vous branchez, mettez un lecteur CD virtuel dessus qui pointe
-vers l’iso (pensez bien à le connecter) et vous lancez la machine. Voir
-[ici](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.creer_une_vm.html)
-pour plus de détails.
+El manejo es muy sencillo, se crea una nueva máquina
+virtual, la conexión, ponga una unidad de CD virtual que apunta anteriormente
+a iso (Recuerde conectar) y se inicia la máquina. Ver
+[Aquí] (https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.creer_une_vm.html)
+para más detalles.
 
-Installation 
+instalación
 ============
 
-Appuyez sur entrée pour lancer l’installation :
+Pulse Intro para iniciar la instalación:
 
 ![debian.installation1](../images/debian.installation1.PNG)
 
-Choisissez "French" et validez par la touche entrée
+Seleccione "francés" y pulsar la tecla enter
 
 ![debian.installation2](../images/debian.installation2.PNG)
 
-Ici il faut choisir "French" (Français)
+Aquí hay que elegir la opción "Francés" (francés)
 
 ![debian.installation3](../images/debian.installation3.PNG)
 
-Idem :
+mismo
 
 ![debian.installation4](../images/debian.installation4.PNG)
 
-Entrez le nom de votre machine (ici nabaztag mais si c’est un jeedom
-mettez jeedom)
+Introduzca el nombre de su máquina (nabaztag aquí, pero si es un jeedom
+poner jeedom)
 
 ![debian.installation5](../images/debian.installation5.PNG)
 
-Appuyez juste sur entrée :
+Sólo la entrada de prensa:
 
 ![debian.installation6](../images/debian.installation6.PNG)
 
-Mettez un mot de passe, je vous en conseille un simple ici (comme oooo),
-il pourra être changé plus tard (commande passwd) :
+Poner una contraseña, yo le aconsejo que simplemente aquí (como oooo)
+se puede cambiar más tarde (comando passwd):
 
 ![debian.installation7](../images/debian.installation7.PNG)
 
-Remettez-le même :
+Poner de nuevo el mismo:
 
 ![debian.installation8](../images/debian.installation8.PNG)
 
-Donnez le nom de l’utilisateur principal (ici nabaztag mais si c’est un
-jeedom mettez jeedom)
+Dar el nombre de usuario principal (nabaztag aquí, pero si se trata de una
+jeedom jeedom opción de venta)
 
 ![debian.installation9](../images/debian.installation9.PNG)
 
-Remettez la même chose :
+Vuelva a colocar la misma cosa:
 
 ![debian.installation10](../images/debian.installation10.PNG)
 
-Mettez un mot de passe, je vous en conseille un simple ici (comme oooo),
-il pourra être changé plus tard (commande passwd) :
+Poner una contraseña, yo le aconsejo que simplemente aquí (como oooo)
+se puede cambiar más tarde (comando passwd):
 
 ![debian.installation11](../images/debian.installation11.PNG)
 
-Remettez la même chose :
+Vuelva a colocar la misma cosa:
 
 ![debian.installation12](../images/debian.installation12.PNG)
 
-Validez en appuyant sur entrée :
+Confirmar con entrada:
 
 ![debian.installation13](../images/debian.installation13.PNG)
 
-Idem :
+mismo
 
 ![debian.installation14](../images/debian.installation14.PNG)
 
-A nouveau validez en appuyant sur entrée :
+Una vez más confirmar con la tecla Enter:
 
 ![debian.installation15](../images/debian.installation15.PNG)
 
-On valide encore :
+Nos sigue siendo válida:
 
 ![debian.installation16](../images/debian.installation16.PNG)
 
-Et encore :
+Y todavia :
 
 ![debian.installation17](../images/debian.installation17.PNG)
 
-Choisissez "France" et validez :
+Elija "Francia" y validar:
 
 ![debian.installation18](../images/debian.installation18.PNG)
 
-Validez en appuyant sur entrée :
+Confirmar con entrada:
 
 ![debian.installation19](../images/debian.installation19.PNG)
 
-Idem :
+mismo
 
 ![debian.installation20](../images/debian.installation20.PNG)
 
-Et encore (oui on valide beaucoup sur une installation de debian) :
+Y sin embargo (sí un lote válida acerca de una instalación de Debian):
 
 ![debian.installation21](../images/debian.installation21.PNG)
 
-Maintenant plus compliqué, il faut désélectionner "environnement de
-bureau Debian" en appuyant sur la touche espace et sélectionner "serveur
-SSH" en appuyant sur espace (il faut se déplacer avec les flèches du
-clavier), puis valider en appuyant sur entrée :
+Ahora más complicado, hay que anular la selección de "entorno
+oficina de Debian "pulsando la tecla de espacio y seleccione" Servidor
+SSH "pulsando espacio (debe moverse con la flecha
+teclado), a continuación, confirmar con la tecla ENTER:
 
 ![debian.installation22](../images/debian.installation22.PNG)
 
-On valide à nouveau :
+Nos válida una vez más:
 
 ![debian.installation23](../images/debian.installation23.PNG)
 
-Il faut choisir /dev/sda puis valider :
+Debemos elegir / dev / sda y validar:
 
 ![debian.installation24](../images/debian.installation24.PNG)
 
-Là vous avez juste à retirer la clef USB, le cdrom ou le cdrom virtuel
-et à appuyer sur entrée :
+No sólo hay que quitar la llave USB, el CD-ROM o CD-ROM virtuales
+y presione ENTRAR:
 
 ![debian.installation25](../images/debian.installation25.PNG)
 
-Voilà votre installation de debian est finie. Vous pouvez arrêter le
-tuto là si vous le voulez ou suivre les étapes suivantes pour quelques
-modifications du système (utile surtout pour jeedom).
+Aquí se ha terminado la instalación de Debian. Puede detener el
+tutorial aquí si quieres o seguir los pasos de unos pocos
+cambios en el sistema (útil especialmente para jeedom).
 
-Optimisation pour Jeedom 
+optimización Jeedom
 ========================
 
-Pour préparer l’installation de Jeedom vous pouvez faire quelques
-optimisations :
+Para preparar la instalación de Jeedom usted puede hacer algo
+optimizaciones:
 
-Ajouter vim et sudo 
+Añadir vim y sudo
 -------------------
 
-    sudo apt-get install -y vim sudo
+    sudo apt-get install sudo vim -y
 
-Ajouter fail2ban 
+Añadir fail2ban
 ----------------
 
-Fail2ban est un logiciel qui permet de sécuriser l’accès à votre debian,
-en cas d’un trop grand nombre d’échecs de connexion il bloque l’accès à
-l’IP en question (donc pas à tout le monde, seulement à l’attaquant) un
-certain temps.
+Fail2ban es un software que permite el acceso seguro a su debian,
+si demasiados fallos en la conexión bloquea el acceso a
+IP en cuestión (por lo que no es para todos, sólo el atacante) una
+tiempo.
 
-    sudo apt-get install -y fail2ban
+    sudo apt-get install fail2ban -y
 
-Ajouter les Open VMware Tools 
+Añadir Abrir las herramientas de VMware
 -----------------------------
 
-Les Open VMware Tools installent les drivers spécifiques au système
-d’exploitation installé et apportent les optimisations de cet OS hébergé
-sur un hyperviseur ESXi.
+Open las herramientas de VMware instalar controladores específicos para el sistema
+Operativo instalado y proporcionar optimizaciones que SO alojado
+en un hipervisor ESXi.
 
-    sudo apt-get install -y open-vm-tools
+    sudo apt-get install -y-vm-herramientas abiertas
 
-Il ne vous reste plus qu’à installer Jeedom en suivant
-[ceci](https://jeedom.github.io/documentation/installation/fr_FR/doc-installation.html#_autre)
+Sólo será instalar Jeedom siguiente
+[Este] (https://jeedom.github.io/documentation/installation/fr_FR/doc-installation.html#_autre)

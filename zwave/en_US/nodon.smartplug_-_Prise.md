@@ -1,311 +1,311 @@
-Nodon Prise Intelligente - Smartplug 
+Nodon Smart Socket - Smartplug
 ====================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/nodon.smartplug/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/nodon.smartplug/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-La prise télécommandée NodOn® est pilotable via une centrale domotique
-compatible Z- Wave® ou Z-Wave Plus® ou directement via d’autres
-contrôleurs Z-Wave® ou Z-Wave Plus® tels que la Soft Remote,
-l’interrupteur mural ou la Octan Remote NodOn®. Au standard allemand
-(Schuko) ou français (Type E), la prise peut se brancher dans les 2
-sens, tête en haut ou tête en bas. Associées à son design fin, ces 2
-caractéristiques permettent une intégration facilitée, sans boucher les
-fûts voisins sur une multiprise. L’apprentissage de la prise avec son
-contrôleur nécessite seulement quelques secondes. Un bouton local permet
-d’allumer ou d’éteindre la prise directement.
+The NodOn® remote control socket can be controlled via a home automation system
+Z-Wave® or Z-Wave Plus® compatible or directly via other
+Z-Wave® or Z-Wave Plus® controllers such as the Soft Remote,
+wall switch or Octan Remote NodOn®. German standard
+(Schuko) or French (Type E), the plug can be plugged into the 2
+sense, head up or upside down. Associated with its fine design, these 2
+features allow for easy integration without clogging
+neighboring drums on a power strip. Learning to take with his
+controller only requires a few seconds. A local button allows
+turn on or off the plug directly.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Détection perte de courant secteur
+-   Power loss detection
 
--   Ergonomique: Possibilité de brancher la prise tête en haut/tête en
-    bas
+-   Ergonomic: Ability to connect the head-up / head-in
+    low
 
--   Gestion intelligente des alarmes
+-   Intelligent management of alarms
 
--   Portée radio améliorée
+-   Improved radio range
 
--   Ampérage maximum: 16A
+-   Maximum Amperage: 16A
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Alimentation : 230V AC +/-10% - 50Hz
+-   Power supply: 230V AC +/- 10% - 50Hz
 
--   Puissance maximum : 3000W en continue / 3500W cyclique
-    (Charge résistive) Consommation intrinsèque : &lt;1W
+-   Maximum power: 3000W continuous / 3500W cyclic
+    (Resistive load) Intrinsic consumption: &lt;1W
 
--   Température de fonctionnement : 0°C à 40°C - Altitude : 2000m
+-   Operating temperature: 0 ° C to 40 ° C - Altitude: 2000m
 
--   Protocole radio Z-Wave® : 868.4MHz – 500 Series – Compatible Z-Wave
-    Plus® SDK 06.51.01
+-   Z-Wave® Radio Protocol: 868.4MHz - 500 Series - Z-Wave Compatible
+    SDK 06.51.01
 
--   Portée: 40m indoor / 80m outdoor
+-   Range: 40m indoor / 80m outdoor
 
--   Dimensions: 104\*51\*36mm
+-   Dimensions: 104 \ * 51 \ * 36mm
 
--   Garantie 2 ans
+-   2 years warranty
 
 -   Type EU
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Nodon
+-   Brand: Nodon
 
--   Nom : Smartplug
+-   Name: Smartplug
 
--   Fabricant ID : 357
+-   Manufacturer ID: 357
 
--   Type Produit : 1
+-   Product type: 1
 
--   Produit ID : 1
+-   Product ID: 1
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> jusqu’à que la lumière devienne rouge, conformément à sa documentation
-> papier.
+> To put this module in inclusion mode, press the button
+> until the light turns red, according to its documentation
+> paper.
 
- \
+\
 
 ![inclusion](../images/nodon.smartplug/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/nodon.smartplug/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/nodon.smartplug/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    prise (Allumée/Eteinte)
+-   Status: This is the order that allows to know the status of the
+    socket (On / Off)
 
--   On : C’est la commande qui permet d’allumer la prise
+-   On: This is the command that turns on the plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Off: This is the command that turns off the plug
 
--   Statut : Permet de savoir si la prise est alimentée ou non
-    (Détection coupure de courant / débranchement)
+-   Status: Lets you know if the plug is powered or not
+    (Detection of power failure / disconnection)
 
- \
+\
 
-A noter que sur le dashboard, les infos Etat, ON/OFF se retrouvent sur
-le même icone.
+Note that on the dashboard, state, ON / OFF information is found on
+the same icon.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin Zwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+Zwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/nodon.smartplug/config1.jpg)
 
 ![Config1](../images/nodon.smartplug/config2.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1 : Ce paramètre déﬁnit l’état (ON/OFF) de la Smart Plug après une
-    coupure de courant ou après branchement
+-   1: This parameter sets the status (ON / OFF) of the Smart Plug after a
+    power failure or after connection
 
--   2 : Ce paramètre permet de conﬁgurer les rapports de notiﬁcation de
-    coupure/retour de courant, ainsi que les groupes associés (Groupes
-    4, 5, 6, 7, 8). Plusieurs combinaisons sont possibles (se référer à
-    la documentation papier ou à la bulle d’aide dans jeedom). Il est
-    recommandé de mettre ce paramètre à 1.
+-   2: This parameter is used to con fi gure the noti fi cation reports of
+    shutdown / return of power, as well as the associated groups (Groups
+    4, 5, 6, 7, 8). Several combinations are possible (refer to
+    the paper documentation or the help bubble in jeedom). It is
+    recommended to set this parameter to 1.
 
--   3 : Ce paramètre permet d’activer ou désactiver les groupes 2 et 3.
+-   3: This parameter enables or disables groups 2 and 3.
 
--   4 : Le paramètre force l’état de la Smart Plug à « ON » (Smart
-    Plug activée). Lorsque que la paramètre est activée, il n’est pas
-    possible d’éteindre la Smart Plug (local ou radio)
+-   4: The parameter forces the status of Smart Plug to "ON" (Smart
+    Plug activated). When the parameter is enabled, it is not
+    possible to turn off the Smart Plug (local or radio)
 
--   Paramètres 5 à 20 : Au travers des paramètres de conﬁgurations \#5 à
-    \#20, il est possible de conﬁgurer jusqu’à 8 alarmes différentes.
-    Aﬁn de bien conﬁgurer vos alarmes, le formulaire en ligne:
-    www.nodon.fr/support/asp3/alarm vous guidera
+-   Parameters 5 to 20: Through the configuration parameters \ # 5 to
+    \ # 20, it is possible to con fi gure up to 8 different alarms.
+    In order to properly con fi gure your alarms, the online form:
+    www.nodon.fr/support/asp3/alarm will guide you
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 8 groupes d’association.
+This module has 8 association groups.
 
- \
+\
 
 ![Groupe](../images/nodon.smartplug/groupe.jpg)
 
- \
+\
 
--   Groupe 1 – Lifeline : Ce groupe est généralement utilisé pour
-    reporter des informations de la Smart Plug au contrôleur principal
-    du réseau.
+-   Group 1 - Lifeline: This group is generally used to
+    report information from the Smart Plug to the main controller
+    network.
 
--   Groupe 2 – Suivi de l’état de la Smart Plug Lorsque la Smart Plug
-    est activée (respectivement désactivée) via le bouton local,
-    celle-ci envoie une commande d’activation
-    (respectivement désactivation) aux appareils associés. Aucune
-    commande n’est envoyée si le changement d’état de la Smart Plug a
-    été provoqué par une commande radio
+-   Group 2 - Smart Plug Status Monitoring When Smart Plug
+    is activated (respectively deactivated) via the local button,
+    it sends an activation command
+    (respectively deactivation) to the associated devices. Any
+    command is sent if the status change of the Smart Plug has
+    been caused by a radio command
 
--   Groupe 3 – Suivi de l’état complémentaire Lorsque que la Smart Plug
-    est activée (respectivement désactivée) via le bouton local,
-    celle-ci envoie une commande de désactivation
-    (respectivement d’activation) aux appareils associés. Aucune
-    commande n’est envoyée si le changement d’état de la Smart Plug a
-    été provoqué par une commande radio.
+-   Group 3 - Complementary status monitoring When the Smart Plug
+    is activated (respectively deactivated) via the local button,
+    it sends a deactivation command
+    (respectively activation) to the associated devices. Any
+    command is sent if the status change of the Smart Plug has
+    been caused by a radio control.
 
--   Groupe 4 – Notiﬁcation de coupure de courant Lorsque la Smart Plug
-    détecte une coupure de courant ou un retour du courant, un rapport
-    de notiﬁcation est envoyé aux appareils associés. Le rapport envoyé
-    est un « Notiﬁcation Report : Power Management - AC disconnected
+-   Group 4 - Noti fi cation of power failure When the Smart Plug
+    detects a power failure or a current feedback, a report
+    notification is sent to the associated equipment. The report sent
+    is a "Noti fi cation Report: Power Management - AC disconnected
     / Re-connected).
 
--   Groupe 5 – Activation sur coupure de courant Lorsque la Smart Plug
-    détecte une coupure de courant, elle active les appareils associés.
+-   Group 5 - Activation on power failure When Smart Plug
+    detects a power failure, it activates the associated devices.
 
--   Groupe 6 – Désactivation sur coupure de courant Lorsque la Smart
-    Plug détecte une coupure de courant, elle désactive les appareils
-    associés
+-   Group 6 - Disabling Power Failure When Smart
+    Plug detects a power failure, disables devices
+    Related
 
--   Groupe 7 – Activation sur retour de courant Lorsque la Smart Plug
-    détecte un retour du courant, elle active les appareils associés.
+-   Group 7 - Activation on current feedback When the Smart Plug
+    detects a return of the current, it activates the associated devices.
 
--   Groupe 8 – Désactivation sur retour de courant Lorsque la Smart Plug
-    détecte un retour du courant, elle désactive les appareils associés
+-   Group 8 - Disabling on current feedback When the Smart Plug
+    detects a return of the current, it deactivates the associated devices
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> A minima Jeedom devrait se retrouver dans les groupes 1 et 4  \
+> At least Jeedom should be in groups 1 and 4 \
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
--   Il est inutile de s’amuser à brancher/débrancher la prise pour
-    observer l’alarme. Celle ci ne marchera à peu près que 3 fois. Au
-    delà la prise doit rester alimentée un petit moment pour recharger
-    la pile interne.
+-   It's useless to have fun plugging / unplugging the plug for
+    observe the alarm. This one will only work about 3 times. the
+    beyond the socket must stay powered a little while to recharge
+    the internal battery.
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Vous ne deviez pas avoir l’option télécharger les widgets auto
-d’activée. Vous pouvez récupérer les widgets mobile et dashboard sur le
-market : alarme\_prise.
+You do not have to have the option to download auto widgets
+of activated. You can grab the mobile widgets and dashboard on the
+market: alarm \ _prise.
 
- \
+\
 
-Avez-vous bien paramétré le paramètre 2 ? Avez-vous bien Jeedom au moins
-dans les groupes 1 et 4 ? Avez-vous laisser le temps à la pile pour se
-charger ?
+Have you set parameter 2 correctly? Do you have well Jeedom at least
+in groups 1 and 4? Do you leave time to the pile to get
+to charge?
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

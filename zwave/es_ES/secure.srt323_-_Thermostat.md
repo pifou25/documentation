@@ -1,304 +1,304 @@
-Secure SRT 323 "Thermostat" 
+SRT seguro 323 "Termostato"
 ===========================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/secure.srt323/module.jpg)
 
- \
+\
 
--   **Le visuel jeedom**
+-   ** El jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/secure.srt323/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le SRT323 est un thermostat mural fonctionnant sur batterie. Il dispose
-d’un bouton rotatif permettant à l’utilisateur de régler la température
-de consigne dans la pièce. Ce thermostat intègre un relais de commande
-de charge. Il n’est donc pas nécessaire d’installer un actionneur près
-de la chaudière.
+El SRT323 es una batería termostato de pared operado. Tiene
+un botón giratorio que permite al usuario ajustar la temperatura
+establecido en la habitación. Este termostato incorpora un relé de control
+carga. Por lo tanto, no es necesario instalar una cerca actuador
+caldera.
 
-En vérifiant la température de consigne avec la température réelle
-mesurée, le thermostat décide d’actionner la chaudière. De plus ce
-thermostat intègre un algorythme TPI (time-proportionnal integral),
-permettant une optimisation et un réglage plus juste de la température
-de votre environnement.
+Al marcar la temperatura programada con la temperatura real
+medido, el termostato decide operar la caldera. también este
+termostato incorpora un TPI algoritmo (Tiempo proporcional-integral)
+lo que permite la optimización y una más justa regulación de la temperatura
+su entorno.
 
-Le thermostat peut recevoir la température de consigne depuis un autre
-contrôleur Z-Wave, et peut être également utilisé comme un capteur de
-température. Le thermostat lui-même n’a pas de timer intégré mais
-exécute les commandes Z-Wave et les commandes locales.
+El termostato puede recibir la temperatura fijada de otro
+controlador Z-Wave, y también puede ser utilizado como un sensor
+temperatura. El termostato en sí no tiene un temporizador incorporado, pero
+realiza la Z-Wave comandos y comandos locales.
 
-Il peut être utilisé comme un remplaçant direct pour les thermostats
-existants, sans devoir effectuer de changements de câblage. L’algorythme
-TPI va permettre d’optimiser l’allumage et l’extinction de la chaudière
-afin de maintenir au mieux la température de consigne, sans
-"dépassement" de celle-ci. Il à été démontré que les contrôleurs TPI
-peuvent fournir des économies d’énergie considérables par rapport aux
-régulateurs de chauffage traditionnels.
+Puede ser utilizado como un reemplazo directo para los termostatos
+existente, sin necesidad de cambios en el cableado. el algoritmo
+TPI optimizará el encendido y apagado de la caldera
+a fin de mantener mejor la temperatura establecida sin
+"Sobreimpulso" de la misma. Se ha demostrado que los controladores de TPI
+puede proporcionar un importante ahorro energético en comparación con
+controladores de calefacción tradicionales.
 
-Le SRT323 est un partenaire idéal pour une utilisation avec passerelle
-domotique, vous permettant de contrôler à distance votre système de
-chauffage. Vous n’aurez plus à vous soucier de rentrer chez vous dans
-une maison froide, tant que vous avez un smartphone, une tablette ou un
-PC à portée de main et connecté à internet.
+El SRT323 es un socio ideal para su uso con puerta de enlace
+domótica, que le permite controlar de forma remota el sistema de
+calefacción. Usted no tendrá que preocuparse de ir a casa de
+una casa fría, siempre y cuando usted tiene un teléfono inteligente, tableta o
+PC práctico y conectado a Internet.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Thermostat pour application domestique
+-   Termostato para aplicaciones domésticas
 
--   Remplace un thermostat existant
+-   Sustituye a un termostato existente
 
--   Technologie sans fil Z-Wave
+-   Inalámbrica Z-Wave
 
--   Ecran LCD rétroéclairé
+-   Pantalla LCD con retroiluminación
 
--   Simple d’utilisation
+-   Fácil de usar
 
--   Compatible avec d’autres produits Z-Wave
+-   Compatible con otros productos Z-Wave
 
--   Un seul bouton
+-   Un botón
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Contrôleur Z-Wave
+-   Tipo de módulo: Z-Wave Controlador
 
--   Algorythme TPI intégré
+-   Algorythme integrado TPI
 
--   Relai: 3(1)A 230V AC
+-   Relé: 3 (1) A 230V AC
 
--   Plage de température réglable: 5°C à 30°C
+-   temperatura ajustable rango de 5 ° C a 30 ° C
 
--   Alimentation : 2x piles AAA (LR3)
+-   Potencia: 2 pilas AAA (LR3)
 
--   Durée de vie des piles : 2 ans
+-   Duración de la batería: 2 años
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Portée : jusqu’à 50 m en champ libre
+-   Rango: hasta 50 m en campo abierto
 
--   Indice de protection : IP30
+-   Protección: IP30
 
--   Température de fonctionnement : 0°C à 40°C
+-   Temperatura de funcionamiento: 0 ° C a 40 ° C
 
--   Dimensions : 86 x 86 x 36,25 mm
+-   Dimensiones: 86 x 86 x 36,25 mm
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Horstmann
+-   Marca: Horstmann
 
--   Nom : SRT 323 Electronic Room Thermostat and Temperature
+-   Nombre: SRT 323 Electronic termostato de ambiente y temperatura
 
--   Fabricant ID : 89
+-   Identificación del fabricante: 89
 
--   Type Produit : 1
+-   Tipo de producto: 1
 
--   Produit ID : 4
+-   Identificación del producto: 4
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut mettre le switch 1 en
-> position ON puis avec la molette afficher L et appuyer sur la molette,
-> conformément à sa documentation papier.
+> Para poner esto inclusión modo de módulo debe poner el interruptor 1
+> ON y el dial para visualizar L y pulsarlo,
+> Acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/secure.srt323/inclusion.jpg)
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Ce module est capricieux à l’inclusion. Lors d’une première inclusion
-> réveillez toujours le module juste après l’inclusion. Pour ce faire
-> laisser le switch 1 en position ON puis avec la molette mettez vous en
-> position "n" et appuyez sur le bouton. Appuyez une seconde fois apres
-> 10 secondes pour être sûr. Une fois fait, cliquez sur le bouton
-> Synchroniser (visible en vue expert) à côté des boutons
-> Inclusion/Exclusion. Ensuite sur la page de votre module cliquez sur
-> la loupe en haut à droite.
+> Este módulo es caprichosa al inicio del estudio. Durante una primera inclusión
+> Siempre despertar en el módulo justo después de la inclusión. para hacer
+> Que el interruptor 1 en la posición ON y luego con el dial Fijarte
+> Posición "N" y pulse el botón. Presione de nuevo después de
+> 10 segundos para estar seguro. Una vez hecho esto, haga clic en el botón
+> Sincronizar (visibles para expertos) junto a los botones
+> Inclusión / exclusión. A continuación, en la página de módulo de clic
+> La lente superior derecha.
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/secure.srt323/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/secure.srt323/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Température : c’est la commande de mesure de la température
+-   Temperatura: el control de la temperatura de medición
 
--   ConsigneEtat : c’est la commande qui donne la consigne en cours
+-   ConsigneEtat: el orden da el conjunto actual
 
--   Consigne : c’est la commande qui permet de régler la consigne
+-   Instrucciones: Este es el comando para ajustar el valor de consigna
 
--   Etat Chauffe : c’est la commande qui permet de savoir si le
-    thermostat est en mode chauffe ou non
+-   calentador de Estado: el comando de si el
+    termostato está en modo de calefacción o no
 
--   Batterie : c’est la commande batterie
+-   Batería: el control de la batería
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Ensuite il est nécessaire d’effectuer la configuration du module en
-fonction de votre installation. Il faut pour cela passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+A continuación, es necesario la configuración del módulo
+Dependiendo de su configuración. Para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/secure.srt323/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: permet d’activer ou non le capteur de température interne
+-   1: habilitar o no el sensor de temperatura interno
 
--   2: permet de choisir l’unité de la température
+-   2: Elija la unidad de temperatura
 
--   3: permet de définir le palier de variation de la température pour
-    que le module la remonte (par unité de 0.1°C)
+-   3: Establecer la variación de la temperatura de cojinete para
+    el módulo de la parte posterior (en unidades de 0,1 ° C)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Pour un fonctionnement optimum de votre module il faut que Jeedom soit
-associé aux 5 groupes
+Para un funcionamiento óptimo de su módulo debe ser Jeedom
+asociado con 5 grupos
 
- \
+\
 
 ![Groupe](../images/secure.srt323/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Ce module est sur batterie. Donc il est important de noter qu’un
-> changement de consigne sera uniquement pris en compte au reveil. Par
-> défaut le wake up est à 86400 secondes. Il est vivement recommandé de
-> le diminuer à 10 minutes environ. Ainsi un changement de consigne sera
-> pris en compte par le module au maximum après 10 minutes
+> Este módulo se alimenta de la batería. Por eso es importante tener en cuenta que
+> Cambio de consigna sólo se considerará estela. por
+> Raíz por defecto es de hasta 86.400 segundos. Se recomienda encarecidamente
+> Disminución de unos 10 minutos. Así, un cambio de consigna se
+> Dirigido por el módulo hasta después de 10 minutos
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il faut mettre le switch 1 en position ON et
-avec la molette choisir n et appuyer sur la molette.
+Para despertar este módulo es necesario para cambiar 1 ON y
+con el mando seleccione No y pulse el dial.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wake up.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración en la próxima activación.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

@@ -1,170 +1,170 @@
--   **Le module**
+-   ** ** El módulo
 
 ![eos200.module](../images/eos200/eos200.module.jpg)
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
 ![eos200.vue defaut](../images/eos200/eos200.vue-defaut.jpg)
 
-Résumé 
+resumen
 ======
 
-Placé sur une porte, fenêtre, porte de garage, tiroir, tous ouvrants, ce
-capteur compact et discret vous permettra de connaitre l’état
-d’ouverture ou de fermeture de ce dernier.
+Colocado en una puerta, ventana, puerta del garaje, cajón, toda abrirlo
+sensor compacto y discreto le permitirá saber el estado
+apertura o el cierre de este último.
 
-Suivant l’état, le capteur contrôle l’allumage ou l’extinction de vos
-éclairages, fermeture ou ouverture des volets, ou encore le
-déclenchement d’une alarme via un scénario.
+Dependiendo de la condición, el sensor de control de la ignición o la extinción de su
+luces, apertura o cierre de las aletas, o la
+una alarma a través de un script.
 
-Le signal est uniquement envoyé à la séparation du capteur de son
-élément magnétique. L’indicateur LED intégré signale tous changements
-d’état. Niveau de batterie faible signalé par 3 "bip" sonores sur le
-récepteur
+La señal es enviada sólo a la separación del sensor de sonido
+elemento magnético. El indicador LED integrado muestra todos los cambios
+Estado. bajo nivel de la batería se indica por 3 "bip" sonido en
+receptor
 
-Fonctions 
+funciones
 =========
 
--   Capteur magnétique sans fil alimenté par piles
+-   sensor magnético inalámbrico alimentado por baterías
 
--   Détecte les ouvertures/fermetures
+-   Detecta la apertura / cierre
 
--   Ultra compact
+-   ultracompacta
 
--   Installation facile et en toute liberté
+-   De fácil instalación y la libertad
 
--   Signal transmis instantanément lors d’une ouverture/fermeture
+-   La señal es transmitida instantáneamente durante una apertura / cierre
 
--   Auto-protection à l’arrachage
+-   tamper arranque
 
--   Informations sur le niveau de la batterie
+-   La información sobre el nivel de la batería
 
--   Montage au mur par des vis ou par un adhésif double face
+-   El montaje en pared mediante tornillos o cinta de doble cara
 
-Caractéristiques Techniques 
+Características técnicas
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Tipo de módulo: Transmisor Edisio
 
--   Alimentation : 3VDC (Pile Lithium ER14250)
+-   Alimentación: 3VDC (batería de litio ER14250)
 
--   Fréquence : 868,3 MHz
+-   Frecuencia: 868,3 MHz
 
--   Température de fonctionnement : 0°C +45°C
+-   Temperatura de funcionamiento: 0 ° C + 45 ° C
 
--   Portée en champs libre : 100M
+-   Rango en campo libre: 100M
 
--   Dimensions : 25x79x19mm
+-   Tamaño: 25x79x19mm
 
--   Degré de protection : IP20
+-   Protección: IP20
 
--   Utilisation : En intérieur
+-   Uso: en la residencia
 
-Données du module 
+datos de los módulos
 =================
 
--   Marque : Edisio Smart Home
+-   Marca: Smart Home Edisio
 
--   Nom : EOS-200
+-   Nombre: EOS-200
 
-Configuration générale 
+configuración general
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+Para configurar Edisio plugin y asociar un módulo de Jeedom,
+referirse a este
+[Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Importante **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> Para Jeedom crea automáticamente los módulos de transmisión, recuerde
+> No hay que activar la opción en la configuración del plugin.
 
-Bouton "E" 
+Botón "E"
 ----------
 
-Vous trouverez dessous le bouton "E" qui est le bouton d’association du
-capteur de température.
+A continuación, encontrará el botón "E" es la combinación de botones de
+sensor de temperatura.
 
 ![eos200.bouton e](../images/eos200/eos200.bouton-e.jpg)
 
-Configuration 
+configuración
 -------------
 
-Par défaut, le capteur est configuré en NO (Normalement Ouvert)
+De manera predeterminada, el sensor está configurado NO (normalmente abierto)
 
 ![eos200.nf no](../images/eos200/eos200.nf-no.jpg)
 
-> **Note**
+> ** Nota **
 >
-> Il faudra donc configurer votre capteur, si vous souhaitez avoir un
-> widget avec une porte fermée lorsque celle-ci l’est.
+> Debemos, por tanto, establecer su sensor si desea una
+> Widget con una puerta cerrada cuando lo es.
 
 ![eos200.mode](../images/eos200/eos200.mode.jpg)
 
-Association du capteur à Jeedom 
+Asociar el sensor a Jeedom
 ===============================
 
-L’association du capteur de mouvement est simple comme bonjour. Il
-suffit d’appuyer sur le bouton "E", situé sous le capteur. Celui-ci sera
-reconnu automatiquement par Jeedom. Il suffira de se rendre dans le
-plugin Edisio. Vous pourrez ainsi le placer dans un objet, lui donner un
-nom et sauvegarder.
+La combinación del sensor de movimiento es simple. lo
+Sólo tiene que pulsar el botón "E" que se encuentra debajo del sensor. Esto será
+automáticamente reconocido por Jeedom. Es suficiente para visitar el
+Plugin de Edisio. Así que se puede colocar en un objeto, darle una
+un nombre y guardar.
 
-Une fois votre équipement associé, vous devriez obtenir ceci :
+Una vez que su equipo pareja, usted debe conseguir esto:
 
 ![eos200.general](../images/eos200/eos200.general.jpg)
 
-> **Tip**
+> ** Tip **
 >
-> Afin que le widget soit présent sur le dashboard, pensez à placer
-> votre équipement dans un objet.
+> Para que el widget para estar presente en el salpicadero, considere colocar
+> Su equipo en un objeto.
 
-Commandes 
+comandos
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Una vez creada su equipo, debe obtener órdenes
+asociado con el módulo:
 
 ![Commandes](../images/eos200/eos200.commandes.jpg)
 
-Voici la liste des commandes :
+Estos son los comandos:
 
--   Porte : C’est la commande qui indique si la porte est ouverte ou
-    fermée
+-   Puerta: Este es el comando que indica si la puerta está abierta o
+    cerrado
 
--   Batterie : Indique l’état de la batterie
+-   Batería: Indica el estado de la batería
 
-Informations 
+información
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Una vez que su equipo asociado con Jeedom, diversa información se
+disponibles:
 
 ![Commandes](../images/eos200/eos200.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à été créé
+-   Creación: Muestra la fecha en que se creó el equipo
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le module
+-   Comunicación: Indica la última comunicación registrada entre
+    Jeedom y el módulo
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Batería: Indica el estado de la batería de módulos de batería
 
--   Status : Retourne le status du module
+-   Estado: Devuelve el estado del módulo
 
-Visuel alternatif 
+alternativa visual
 =================
 
 ![eos200.vue alternative](../images/eos200/eos200.vue-alternative.jpg)
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment piloter un récepteur Z-Wave?
+Cómo conducir un receptor Z-Wave?
 
-:   Avec le plugin Scénario de Jeedom.
+: Con el plugin Escenario Jeedom.
 
-Comment puis-je avoir le même visuel ?
+¿Cómo puedo tener la misma visual?
 
-:   Avec le plugin Widgets de Jeedom.
+: Con el plugin widgets de Jeedom.
 
-**@Jamsta**
+** ** @ Jamsta

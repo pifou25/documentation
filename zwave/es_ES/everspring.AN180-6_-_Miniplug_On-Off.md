@@ -1,253 +1,253 @@
-Everspring Miniplug On/Off - AN180-6 
+Everspring Minienchufe de encendido / apagado - AN180-6
 ====================================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/everspring.AN180-6/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/everspring.AN180-6/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-La Mini Prise On/Off est conçue pour contrôler l’allumage et
-l’extinction des luminaires et des équipements électriques de votre
-maison. Avec une tension de 220 - 240 V, cette Prise peut supporter une
-charge jusqu’à 1500W (résistance), 800W (incandescence), 200W (moteur,
-fluorescent, Led).
+Mini jack de encendido / apagado está diseñado para controlar el encendido y
+la extinción de las luces y los aparatos eléctricos en su
+casa. Con una tensión de 220 - 240 V, este zócalo puede soportar una
+cargar hasta 1500W (resistencia), 800W (incandescente), 200W (motor,
+fluorescente, LED).
 
-La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné
-pour fonctionner avec tous les réseaux compatibles Z-Wave™. Elle peut
-être contrôlée par une télécommande, un logiciel PC, ou n’importe quel
-contrôleur Z-Wave de votre réseau.
+Mini jack On / Off es un dispositivo compatible con Z-Wave ™ que se pretende
+para trabajar con todas las redes compatibles con Z-Wave ™. Ella puede
+ser controlado por un mando a distancia, software PC o cualquier
+controlador Z-Wave en su red.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commander une lampe ou un appareil à distance
+-   Control de una lámpara o un dispositivo remoto
 
--   Module prise s’intégrant directement entre une prise électrique et
-    la charge à commander
+-   Módulo tomada para ser incorporado directamente entre una toma eléctrica y
+    la carga a ser controlado
 
--   Fonction ON / OFF pour piloter des lampes ou des appareils (pas
-    de variation)
+-   ON / OFF función a la luz piloto o dispositivos (no
+    de variación)
 
--   Contrôle de la charge en local via le bouton intégré
+-   El control de apoyo local a través del botón integrado
 
--   Technologie Z-Wave Plus
+-   La tecnología Z-Wave Más
 
--   Dimensions réduites pour passer presque inaperçu
+-   Dimensiones reducidas para pasar casi desapercibida
 
--   LED de statut sur le bouton intégré
+-   LED de estado en el botón integrado
 
--   Fonction répéteur Z-Wave
+-   función de repetidor Z-Wave
 
- \
+\
 
-Caractéristiques Techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Alimentation : 230 V, 50 Hz
+-   Fuente de alimentación: 230 V, 50 Hz
 
--   Consommation : 0.6W
+-   Consumo: 0.6W
 
--   Puissance maximum : Charge résistive : 1500W, Ampoule à incandesence
-    : 800W, Ampoule Fluocompacte : 200W, Ampoule Led (non dimmable) :
+-   Potencia máxima: carga resistiva: 1500W bombilla de incandescencia
+    : 800W, fluorescente: bombilla LED 200W (no regulable):
     200W
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Portée : jusqu’à 70 m à l’extérieur, jusqu’à 30 m dans les bâtiments
+-   Rango: hasta 70 m en el exterior, hasta 30 m en edificios
 
--   Affichage: LED sur le bouton
+-   Pantalla: LED en el botón
 
--   Dimensions : Longueur (prise incluse) : 74mm Diamètre : 52mm
+-   Dimensiones: Longitud (incluyendo socket): Diámetro 74 mm: 52 mm
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Everspring
+-   Marca: Everspring
 
--   Nom : Miniplug On/Off
+-   Nombre: Minienchufe de encendido / apagado
 
--   Fabricant ID : 96
+-   Identificación del fabricante: 96
 
--   Type Produit : 4
+-   Tipo de producto: 4
 
--   Produit ID : 7
+-   Identificación del producto: 7
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur son
-> bouton, conformément à sa documentation papier. Il est important de
-> noter que ce module se met directement en inclusion lorsqu’il
-> n’appartient à aucun réseau et qu’il est alimenté
+> Para poner este modo la inclusión del módulo se debe presionar tres veces en su
+> Button, de acuerdo con su documentación en papel. Es importante
+> Tenga en cuenta que este módulo se procederá directamente a la inclusión cuando
+> No pertenece a ninguna red y es alimentado
 
- \
+\
 
 ![inclusion](../images/everspring.AN180-6/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/everspring.AN180-6/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées aux modules seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados a los módulos
+disponible.
 
- \
+\
 
 ![Commandes](../images/everspring.AN180-6/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    prise (Allumée/éteinte)
+-   Estado: Este es el comando que permite conocer el estado de la
+    socket (on / off)
 
--   On : C’est la commande qui permet d’allumer la prise
+-   Uno: Este es el comando para activar el plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Apagado: Este es el comando para apagar el tapón
 
- \
+\
 
-A noter que sur le dashboard, les infos Etat, ON/OFF se retrouvent sur
-la même icône.
+Una nota sobre el tablero de instrumentos, la información de estado, ON / OFF se puede encontrar en
+el mismo icono.
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/everspring.AN180-6/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1 : Ce paramètre déﬁnit la commande de valeur d’état, il n’est pas
-    conseillé de changer cette valeur.
+-   1: Este parámetro define el valor de estado de control, no es
+    recomendadas para cambiar este valor.
 
--   2 : Ce paramètre définit le délai d’envoit du changement d’état au
-    groupe 1 (valeur comprise entre 3 et 25 secondes)
+-   2: Este parámetro define el retardo envía el cambio de estado
+    Grupo 1 (entre 3 y 25 segundos)
 
--   3 : Ce paramètre permet de définir si la prise reprendra son statut
-    (ON ou OFF) après une reprise de courant.
+-   3: Este ajuste determina si la ingesta de recuperar su condición
+    (ON u OFF) después de una recuperación de energía.
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède 2 groupes d’association.
+Este módulo tiene 2 grupos de asociación.
 
- \
+\
 
 ![Groupe](../images/everspring.AN180-6/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> A minima Jeedom devrait se retrouver dans le groupe 1  \
+> Una Jeedom mínimo debería reflejarse en el grupo 1 \
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
--   Le retour d’état ne peut pas être configuré en dessous de 3
-    secondes.  \
+-   La realimentación de estado no puede ser inferior a 3
+    segundos. \
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Oui c’est le paramètre 2 et il ne peut pas être réglé en dessous de 3
-secondes.
+Sí este es el parámetro 2 y no se puede ajustar por debajo de 3
+segundos.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

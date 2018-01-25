@@ -1,226 +1,226 @@
-MCO MH-S412 Double 
+MCO MH-S412 Doble
 ==================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/mco.mhs412/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/mco.mhs412/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
-L’interrupteur MH-S412-EU permet de commuter les 2 charges connectées,
-soit manuellement comme un interrupteur classique, ou à distance via le
-protocole sans fil Z-Wave.
+\
+MH-S412-EU interruptor para cambiar las dos cargas conectadas,
+ya sea manualmente como un interruptor convencional, o de forma remota a través de la
+protocolo Z-Wave sin alambre.
 
-Sa finition en verre et son design apporte un style moderne.
+Su acabado de vidrio y diseño aporta un estilo moderno.
 
-L’interrupteur MH-S412-EU peut contrôler n’importe quel type de charge,
-un éclairage ou un appareil électrique.
+El interruptor MH-S412-EU puede controlar cualquier tipo de carga,
+iluminación o un aparato eléctrico.
 
-L’interrupteur est également équipé d’un voyant LED qui indique son
-état.  \
+El interruptor también tiene un LED que indica su
+Estado. \
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commander deux lampes ou appareils à distance
+-   Pedir dos lámparas o dispositivos de forma remota
 
--   S’installe à la place d’un interrupteur existant (s’insère
-    parfaitement dans une boite d’encastrement de 40mm)
+-   Se instala en lugar de un interruptor existente (ataques
+    perfectamente en una caja de instalación de 40 mm)
 
--   Fonction ON / OFF
+-   Encendido / apagado
 
--   Supporte les commandes d’association (Groupe 1 et Groupe 2)
+-   Soporta los controles de asociación (Grupo 1 y Grupo 2)
 
--   Contrôle des deux charges en local
+-   El control de dos cargos a nivel local
 
--   LED de statut
+-   LED de estado
 
--   Finition en verre, design moderne
+-   vidriado, diseño moderno
 
--   Boutons tactiles
+-   botones táctiles
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Couleur : Blanc
+-   Color: Blanco
 
--   Alimentation : 230 V, 50 Hz
+-   Fuente de alimentación: 230 V, 50 Hz
 
--   Câblage : 3 fils, neutre nécessaire
+-   Cableado: 3 hijo, Neutro necesaria
 
--   Puissance maximum : 5A (1100W) pour chaque canal
+-   la potencia máxima: 5A (1100W) para cada canal
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Portée : jusqu’à 30 m
+-   Alcance: hasta 30 metros
 
--   Dimensions : 86 x 86 x 43 mm
+-   Dimensiones: 86 x 86 x 43 mm
 
--   Affichage: LED bleue/rouge
+-   Pantalla: azul / rojo
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : MC HOME
+-   Marca: INICIO MC
 
--   Nom : MH-S412 Double
+-   Nombre: MH-S412 Doble
 
--   Fabricant ID : 351
+-   Identificación del fabricante: 351
 
--   Type Produit : 16642
+-   Tipo de producto: 16642
 
--   Produit ID : 514
+-   Identificación del producto: 514
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur un seul
-> des 2 boutons en face avant pendant 3 sec, conformément à sa
-> documentation papier.
+> Para poner este modo la inclusión del módulo tiene que pulsar uno
+> 2 botones en el panel frontal durante 3 segundos, en consonancia con su
+> Documentación en papel.
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/mco.mhs412/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/mco.mhs412/commandes.jpg)
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/mco.mhs412/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: Saving state before power failure : enable ( permet de retrouver
-    le dernier état des interrupteurs juste avant la coupure secteur )
-    diseable (les interrupteurs seront a l’état OFF au retour secteur )
+-   1: Almacenamiento de estado antes de fallo de alimentación: activar (recupera
+    el último estado se enciende justo antes del corte de energía)
+    diseable (interruptores tendrán el estado OFF para el sector de retorno)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède 3 groupes d’association. Seul le troisieme est
-indispensable.
+Este módulo tiene tres grupos de asociación. Sólo la tercera es
+esencial.
 
- \
+\
 
 ![Groupe](../images/mco.mhs412/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
-1\) les boutons tactiles ont un halo de couleur bleu lorsque la charge
-est pilotée
+1 \) botones táctiles tienen un halo de color azul cuando la carga
+está controlado
 
-2\) les boutons tactiles ont un halo de couleur orangé lorsque la charge
-est non pilotée
+2 \) botones táctiles tienen un halo de color naranja de color cuando la carga
+no se controla
 
-3\) le touché est plutôt agréable et les commandes réactives
+3 \) es el afectado controles en lugar agradable y atento
 
-4\) cet interrupteur peut piloter sa charge en mode autonome (non
-rattaché à un contrôleur z-wave)
+4 \) este interruptor puede controlar su carga en modo autónomo (no
+unido a un controlador de onda z)
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Ce module étant raccordé au secteur (220v) , le reveil est instantanné
-et ne necessite donc pas d’action particulière lors d’un changement de
-paramètres
+Este módulo está conectado a la red (220), la alarma es instantánea
+y por lo tanto no requiere acción particular en un cambio de
+configuraciones
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Pour exclure ce modèle, mettre Openzwave en mode exclusion et appuyer
-sur un seul des 2 boutons en face avant pendant 3 sec, conformément à sa
-documentation papier.
+Para excluir este modelo, puesto Openzwave exclusión por el modo y el apoyo
+en uno de los dos botones en el panel frontal para 3 sec, en consonancia con su
+documentación en papel.
 
-Pour restaurer les paramètres usine, appuyer sur un seul des 2 boutons
-en face avant pendant 10 sec, conformément à sa documentation papier.
+Para restaurar la configuración de fábrica, pulse uno de los 2 botones
+panel frontal durante 10 s, de acuerdo con su documentación en papel.
 
- \
+\
 

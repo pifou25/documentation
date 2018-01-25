@@ -1,14 +1,14 @@
-Symptôme 
+Symptom
 ========
 
-Analyse 
+Analysis
 =======
 
-Résolution 
+Resolution
 ==========
 
-Version applicable 
+Applicable version
 ==================
 
-Voir aussi 
+See as well
 ==========

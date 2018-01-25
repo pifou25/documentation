@@ -1,237 +1,237 @@
-Philio PST02 A - 4 en 1 
+Philio PST02 A - 4 1
 =======================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/philio.pst02a/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/philio.pst02a/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le détecteur ZIP-PSM02-EU propose 4 fonctions différentes : détection de
-mouvement, détection d’ouverture, capteur de température et détecteur de
-luminosité. Il se compose de deux parties : un détecteur et un aimant.
-Ils sont conçus pour être placés sur une porte ou une fenêtre avec
-l’aimant fixé sur la partie qui s’ouvre et le détecteur sur la partie
-fixe.
+El detector postal-PSM02-UE ofrece 4 funciones diferentes: la detección
+movimiento, detección de apertura, sensor de temperatura y sensor
+brillo. Se compone de dos partes: un sensor y un imán.
+Están diseñados para ser colocado en una puerta o ventana
+el imán fijado a la porción de abertura y el sensor en la parte
+Fijo.
 
-L’ouverture de la porte ou de la fenêtre éloignera l’aimant du
-détecteur, ce qui enclenchera le détecteur qui enverra un signal Z-Wave
-d’alarme, si le système est armé (ce signal peut être exploité par une
-sirène ou par une box domotique par exemple). Ce détecteur peut être
-utilisé pour la sécurité ou pour l’automatisation. Quand le détecteur
-est associé avec des appareils de sécurité, il sert comme déclencheur
-d’alertes en détectant des changements dans les niveaux de radiation
-infrarouge ou d’ouverture de porte/fenêtre. Si une personne bouge dans
-le champ de vision du détecteur ou ouvre une porte/fenêtre, un signal
-radio est transmis, ce qui déclenche une alarme afin de dissuader les
-intrus.
+La apertura de la puerta o ventana se apartan del imán
+detector, que activará el detector enviará una señal Z-Wave
+alarma si el sistema está armado (esta señal puede ser operado por una
+sirena o una caja de automatización, por ejemplo). Este detector puede ser
+utilizado para la seguridad o la automatización. Cuando el detector
+está asociado con los dispositivos de seguridad, sirve como un disparador
+Alerta detectando cambios en los niveles de radiación
+apertura de infrarrojos o de la puerta / ventana. Si una persona se mueve en
+campo del sensor de vista o abrir una puerta / ventana, una señal
+de radio se transmite, lo que desencadena una alarma para desalentar
+intruso.
 
-Le détecteur peut également être utilisé en association avec un
-contrôleur Z-Wave pour des usages domotiques, en détectant à la fois les
-changements dans les niveaux de radiation infrarouge (présence) ou
-d’ouverture de porte/fenêtre et les modifications dans le niveau de
-luminosité. Ainsi, on peut déclencher un éclairage lors d’une détection
-de mouvement ou d’ouverture de porte dans l’obscurité.
+El sensor también puede ser usado en combinación con una
+controlador Z-Wave para fines de automatización, mediante la detección tanto
+cambios en los niveles de radiación infrarroja (presencia) o
+la apertura de la puerta / ventana y cambios en el nivel de
+brillo. Por lo tanto, se puede desencadenar una luz después de la detección
+el movimiento o la puerta de apertura en la oscuridad.
 
-Le détecteur remontera aussi la luminosité et la température, soit en
-cas de changement important, et à chaque fois qu’un mouvement ou
-ouverture/fermeture sont détectés. Un contrôleur Z-Wave (télécommande,
-dongle …​) est nécessaire afin d’intégrer ce détecteur dans votre réseau
-si vous avez déjà un réseau existant.  \
+El detector también ascender el brillo y la temperatura, ya sea
+Si cambio significativo, y cada vez que un movimiento o
+se detecta la apertura / cierre. Un controlador Z-Wave (control remoto,
+dongle ...) es necesario para integrar el detector en su red
+si ya dispone de una red existente. \
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Détecteur 4 en 1: mouvement, ouverture, température, lumière
+-   Detector 4 en 1: el movimiento, la apertura, la temperatura, la luz
 
--   Adopte la récente puce Z-Wave 400series pour supporter les
-    opérations multicanaux et un débit de données plus
-    élevé (9.6/40/100kbps)
+-   Adopta el último chip Z-Wave para apoyar 400series
+    operaciones multicanal y una velocidad de datos
+    alta (9,6 / 40/100 kbps)
 
--   Utilise le SDK Z-Wave 6.02
+-   Utilizar el Z-Wave SDK 6.02
 
--   Portée de l’antenne optimisée
+-   Ámbito de aplicación de la antena optimizado
 
--   Utilisation pour des applications domotique ou de sécurité
+-   El uso para la automatización del hogar o aplicaciones de seguridad
 
--   Bouton pour inclure/exclure le détecteur
+-   Botón para incluir / excluir el detector
 
--   Autoprotection
+-   manosear
 
--   Indication de batterie faible
+-   Indicador de batería baja
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Emetteur Z-Wave
+-   Tipo de módulo: Transmisor Z-Wave
 
--   Alimentation : 1 pile 3V CR123A
+-   Fuente de alimentación: 1 CR123A 3V
 
--   Durée de vie des piles : 2 ans
+-   Duración de la batería: 2 años
 
--   Fréquence : 868.42 MHz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 30m en intérieur
+-   Distancia de transmisión: 30m cubierta
 
--   Capteur de température : -10 à 70° C
+-   Sensor de temperatura: -10 a 70 ° C
 
--   Capteur de luminosité : 0 à 500 lux
+-   sensor de luminosidad: 0 a 500 lux
 
--   Angle de détection PIR : 90°
+-   PIR ángulo de detección: 90 °
 
--   Portée de détection PIR : 8 à 10m
+-   PIR rango de detección: 8 a 10m
 
--   Dimensions :
+-   dimensiones:
 
--   Détecteur : 28 x 96 x 23 mm
+-   Detector: 28 x 96 x 23 mm
 
--   Aimant : 10 x 50 x 12 mm
+-   Imán: 10 x 50 x 12 mm
 
--   Poids : 52g
+-   Peso: 52g
 
--   Température de fonctionnement : -10 à 40° C
+-   Rango de temperatura de funcionamiento: -10 a 40 ° C
 
--   Humidité de fonctionnement : 85%RH max
+-   Humedad de funcionamiento: 85% HR max
 
--   Norme CE : EN300 220-1
+-   CE: EN300 220-1
 
--   Certification Z-Wave : ZC08-13050003
+-   La certificación Z-Wave: ZC08-13050003
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Philio Technology Corporation
+-   Marca: Philio Technology Corporation
 
--   Nom : PST02-A 4 in 1 Multi-Sensor
+-   Nombre: PST02-A 4 en 1 Multi-Sensor
 
--   Fabricant ID : 316
+-   Identificación del fabricante: 316
 
--   Type Produit : 2
+-   Tipo de producto: 2
 
--   Produit ID : 12
+-   Identificación del producto: 12
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/philio.pst02a/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/philio.pst02a/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/philio.pst02a/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Présence : c’est la commande qui remontera une détection de présence
+-   Presencia: es el comando que ascienden detección de presencia
 
--   Ouverture : c’est la commande qui remontera une détection
-    d’ouverture
+-   Apertura: este es el comando que se elevará la detección
+    apertura
 
--   Température : c’est la commande qui permet de remonter la
-    température
+-   Temperatura: la orden de copia de seguridad del
+    temperatura
 
--   Luminosité : c’est la commande qui permet de remonter la luminosité
+-   Brillo: el comando para aumentar el brillo
 
--   Sabotage : c’est la commande sabotage (elle est déclenchée en
-    cas d’arrachement)
+-   Sabotaje: el comando de sabotaje (que se dispara
+    Si lagrimeo)
 
--   Batterie : c’est la commande batterie
+-   Batería: el control de la batería
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/philio.pst02a/config1.jpg)
 
@@ -239,123 +239,123 @@ paramètres)
 
 ![Config3](../images/philio.pst02a/config3.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   2: permet de régler le signal envoyé aux modules dans le groupe
-    d’association 2
+-   2 ajusta la señal enviada a los módulos del grupo
+    Asociación 2
 
--   3: permet de régler la sensibilité du capteur de présence (0 :
-    désactivé 99: sensibilité max)
+-   3: Ajuste de la sensibilidad del sensor de presencia (0:
+    99 desactivado: sensibilidad máxima)
 
--   4: permet de régler le niveau de luminosité à partir duquel le
-    signal défini en paramètre 2 sera envoyé aux modules associés au
-    groupe 2
+-   4: se utiliza para ajustar el nivel de brillo a la que la
+    señal especificada por el parámetro 2 será enviado a los módulos asociados con el
+    el grupo 2
 
--   5: mode de fonctionnement (se reporter sur la
-    documentation constructeur) Valeur recommandée : 8
+-   5: modo de funcionamiento (consulte la
+    Valor documentación del fabricante) Recomendado: 8
 
--   6: mode de fonctionnement du multi-sensor (se reporter sur la
-    documentation constructeur) Valeur recommandée : 4
+-   6: operación de multi-sensor (véase la
+    Valor documentación del fabricante) Recomendado: 4
 
--   7: mode de fonctionnement personnalisée du multi-sensor (se reporter
-    sur la documentation constructeur) Valeur recommandée : 6 (pour
-    avoir un retour sur OFF de la présence)
+-   7: Modo personalizado del multisensor (véase
+    en la documentación del fabricante) Valor recomendado: 6 (para
+    obtener información sobre la presencia OFF)
 
--   8: permet de définir la durée par pas de 8 secondes de redétection
-    de mouvement
+-   8: Establecer la duración en intervalos de 8 segundos Redetección
+    movimiento
 
--   9: permet de définir au bout de combien de temps le signal OFF sera
-    envoyé aux modules associés au groupe 2
+-   9: juego después de cuánto tiempo la señal estará apagado
+    enviado a los módulos asociados con el grupo 2
 
--   10: permet de définir la durée entre deux rapports de batterie (une
-    unité = parametre 20)
+-   10: ajusta el tiempo entre los informes de la batería (una
+    parámetro individual = 20)
 
--   11: permet de définir la durée entre deux rapports auto d’ouverture
-    (une unité = parametre 20)
+-   11: Ajuste el tiempo entre dos informes de apertura automática
+    (A parámetro de unidad = 20)
 
--   12: permet de définir la durée entre deux rapports auto de
-    luminosité (une unité = parametre 20) Valeur recommandée : 3
+-   12: Establecer la duración entre dos informes de auto
+    brillo (unidad = parámetro 20) Recomendado valor 3
 
--   13: permet de définir la durée entre deux rapports auto de
-    température (une unité = parametre 20) Valeur recommandée : 2
+-   13: Establecer la duración entre dos informes de auto
+    temperatura (unidad = 20 parámetros) Valor recomendado: 2
 
--   20: durée d’un intervalle pour les paramètres 10 à 13 Valeur
-    recommandée : 10
+-   20: duración de un intervalo de parámetros 10-13 Valor
+    recomendada: 10
 
--   21: valeur de variation en °F de température pour déclencher un
-    rapport
+-   21: cantidad de cambio en la temperatura ° F para desencadenar una
+    relación
 
--   22: valeur en % de variation de luminosité pour déclencher un
-    rapport Valeur recommandée : 10
+-   22: Valor de% de variación de brillo para desencadenar una
+    reportar el valor recomendado: 10
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association, seul le premier est
-indispensable.
+Este módulo tiene dos grupos de asociación, sólo la primera es
+esencial.
 
- \
+\
 
 ![Groupe](../images/philio.pst02a/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/philio.pst02a/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+Para despertar este módulo hay una sola manera de hacer esto:
 
--   relachez le bouton tamper et réappuyez dessus
+-   manipular suelte el botón y pulse de nuevo
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant sur son bouton tamper.
+Este módulo se despierta pulsando el tamper botón.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wakeup.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración en la próxima despertador.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> La configuración, después de un cambio de wakeup después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

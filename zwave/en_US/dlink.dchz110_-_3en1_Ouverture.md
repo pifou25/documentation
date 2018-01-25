@@ -1,328 +1,328 @@
-D-Link DCH-Z110 - "3 en 1 Ouverture" 
+D-Link DCH-Z110 - "3 in 1 Opening"
 ====================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/dlink.dchz110/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/dlink.dchz110/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le détecteur DCH-Z110 propose 3 fonctions différentes : détection
-d’ouverture, capteur de température et détecteur de luminosité. Il se
-compose de deux parties : un détecteur et un aimant. Ils sont conçus
-pour être placés sur une porte ou une fenêtre avec l’aimant fixé sur la
-partie qui s’ouvre et le détecteur sur la partie fixe.
+The DCH-Z110 detector offers 3 different functions: detection
+opening, temperature sensor and brightness sensor. He is
+consists of two parts: a detector and a magnet. They are designed
+to be placed on a door or window with the magnet attached to the
+part that opens and the detector on the fixed part.
 
-L’ouverture de la porte ou de la fenêtre éloignera l’aimant du
-détecteur, ce qui enclenchera le détecteur qui enverra un signal Z-Wave
-d’alarme, si le système est armé (ce signal peut être exploité par une
-sirène ou par une box domotique par exemple). Le capteur peut également
-être utilisé pour le contrôle automatique de l’éclairage, en fonction du
-niveau de luminosité. Par exemple, le capteur enverra un signal à
-l’interrupteur Z-Wave pour allumer la lumière lorsque la porte s’ouvre
-et que la pièce est sombre.
+Opening the door or window will move the magnet away from
+detector, which will trigger the detector that will send a Z-Wave signal
+if the system is armed (this signal can be operated by a
+siren or by a home automation box for example). The sensor can also
+be used for automatic lighting control, depending on the
+brightness level. For example, the sensor will send a signal to
+the Z-Wave switch to turn on the light when the door opens
+and that the room is dark.
 
-Le détecteur remontera aussi la luminosité et la température, soit en
-cas de changement important, et à chaque fois que l’ouverture/fermeture
-est détectée. Un contrôleur Z-Wave (télécommande, dongle …?) est
-nécessaire afin d’intégrer ce détecteur dans votre réseau si vous avez
-déjà un réseau existant.
+The detector will also go up the brightness and the temperature, either in
+case of significant change, and each time the opening / closing
+is detected. A Z-Wave controller (remote control, dongle ...?) Is
+necessary to integrate this detector into your network if you have
+already an existing network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Détecteur 3 en 1: Ouverture, température, lumière
+-   3-in-1 detector: Opening, temperature, light
 
--   Portée de l’antenne optimisée
+-   Optimized antenna range
 
--   Utilisation pour des applications domotiques ou de sécurité
+-   Use for home automation or security applications
 
--   Bouton pour inclure/exclure le détecteur
+-   Button to include / exclude the detector
 
--   Autoprotection
+-   tamper
 
--   Indication de batterie faible
+-   Low battery indication
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
-Site officiel :
-<http://www.dlink.com/-/media/Consumer_Products/DCH/DCH%20Z110/Datasheet/DCH_Z110_Datasheet_FR.pdf>
+Official site :
+<Http://www.dlink.com/-/media/Consumer_Products/DCH/DCH%20Z110/Datasheet/DCH_Z110_Datasheet_FR.pdf>
 
-Autre lien technique :
-<http://www.kafkas.gr/uploads/Pdf/182732/DCH-Z120_183010381_01_Z02.PDF>
+Other technical link:
+<Http://www.kafkas.gr/uploads/Pdf/182732/DCH-Z120_183010381_01_Z02.PDF>
 
 ![caracteristiques
 techniques](../images/dlink.dchz110/caracteristiques_techniques.jpg)
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : D-Link
+-   Brand: D-Link
 
--   Modèle : DCH-Z110 Détecteur d’ouverture de porte et de fenêtre
-    mydlink™ Home
+-   Model: DCH-Z110 Door and Window Opening Detector
+    mydlink ™ Home
 
--   Fabricant : FIBARO System
+-   Manufacturer: FIBARO System
 
--   Fabricant ID : 264 \[0x0108\]
+-   Manufacturer ID: 264 \ [0x0108 \]
 
--   Type Produit : 2 \[0x0002\]
+-   Product Type: 2 \ [0x0002 \]
 
--   Produit ID : 14 \[0x000e\]
+-   Product ID: 14 ​​\ [0x000e \]
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Ne pas installer le module sur la fenêtre/porte avant de l’avoir
-> correctement configuré, et bien faire attention à l’alignement de
-> l’aimant lors des essais sur surface plane et lors de la pose.
-> (Utiliser des cales si nécessaire) Pour mettre ce module en mode
-> inclusion il faut appuyer 3 fois sur le bouton d’association en 1.5
-> seconde, conformément à sa documentation. (clignotement rouge constant
-> en mode association)
+> Do not install the module on the window / door before having it
+> properly configured, and pay attention to the alignment of
+> the magnet during tests on a flat surface and during installation.
+> (Use shims if necessary) To put this module in mode
+> inclusion must be pressed 3 times on the association button in 1.5
+> second, according to his documentation. (constant red flashing
+> in association mode
 
- \
+\
 
 ![config inclusion](../images/dlink.dchz110/config-inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/dlink.dchz110/apres_inclusion.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/dlink.dchz110/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Ouverture : c’est la commande qui remontera une détection
-    d’ouverture
+-   Opening: it is the command that will remount a detection
+    opening
 
--   Température : c’est la commande qui permet de remonter la
-    température
+-   Temperature: it is the command which allows to go up the
+    temperature
 
--   Luminosité : c’est la commande qui permet de remonter la luminosité
+-   Brightness: it is the command which makes it possible to raise the luminosity
 
--   Sabotage : c’est la commande sabotage (elle est déclenchée en
-    cas d’arrachement)
+-   Sabotage: it is the sabotage command (it is triggered in
+    case of tearing)
 
--   Batterie : c’est la commande batterie
+-   Battery: it's the battery control
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Lors d’une première inclusion, ou d’une modification, sauvegarder puis
-> réveillez toujours le module en appuyant sur le bouton d’association.
-> Il devrait clignoter rouge et changer de statut.
+> When first included, or a modification, save and then
+> always wake up the module by pressing the association button.
+> It should blink red and change status.
 
- \
+\
 
-Ensuite il est nécessaire d’effectuer la configuration du module en
-fonction de votre installation. Il faut pour cela passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then it is necessary to perform the configuration of the module in
+depending on your installation. You have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/dlink.dchz110/config1.jpg)
 
 ![Config2](../images/dlink.dchz110/config2.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   2: permet de régler le signal envoyé aux modules dans le groupe
-    d’association 2
+-   2: Adjusts the signal sent to the modules in the group
+    association 2
 
--   4: permet de régler le niveau de luminosité à partir duquel le
-    signal défini en paramètre 2 sera envoyé aux modules associés au
-    groupe 2
+-   4: Adjusts the brightness level from which the
+    signal defined in parameter 2 will be sent to the modules associated with the
+    group 2
 
--   5: mode de fonctionnement (se reporter sur la
-    documentation constructeur)
+-   5: operating mode (refer to the
+    manufacturer's documentation)
 
--   6: mode de fonctionnement du multi-sensor (se reporter sur la
-    documentation constructeur). Valeur recommandée : 7
+-   6: multi-sensor operating mode (refer to the
+    manufacturer's documentation). Recommended value: 7
 
--   7: mode de fonctionnement personnalisé du multi-sensor (se reporter
-    sur la documentation constructeur). Valeur recommandée : 20 (pour
-    avoir l’ouverture fonctionnelle)
+-   7: Custom operating mode of the multi-sensor (refer to
+    on the manufacturer's documentation). Recommended value: 20 (for
+    have functional opening)
 
--   9: permet de définir au bout de combien de temps le signal OFF sera
-    envoyé aux modules associés au groupe 2
+-   9: Set how long the OFF signal will be
+    sent to modules associated with group 2
 
--   10: permet de définir la durée entre deux rapports de batterie (une
-    unité = parametre 20)
+-   10: Sets the duration between two battery reports (one
+    unit = parameter 20)
 
--   11: permet de définir la durée entre deux rapports auto d’ouverture
-    (une unité = parametre 20)
+-   11: Sets the duration between two opening auto reports
+    (one unit = parameter 20)
 
--   12: permet de définir la durée entre deux rapports auto de
-    luminosité (une unité = parametre 20). Valeur recommandée : 6
+-   12: Sets the duration between two auto reports of
+    brightness (one unit = parameter 20). Recommended value: 6
 
--   13: permet de définir la durée entre deux rapports auto de
-    température (une unité = parametre 20). Valeur recommandée : 2
+-   13: allows to define the duration between two auto reports of
+    temperature (one unit = parameter 20). Recommended value: 2
 
--   20: durée d’un intervalle pour les paramètres 10 à 13. Valeur
-    recommandée : 10
+-   20: duration of an interval for parameters 10 to 13. Value
+    recommended: 10
 
--   21: valeur de variation en °F de température pour déclencher un
-    rapport
+-   21: value of variation in ° F of temperature to trigger a
+    report
 
--   22: valeur en % de variation de luminosité pour déclencher
-    un rapport. Valeur recommandée : 10
+-   22: value in% of brightness variation to trigger
+    a report. Recommended value: 10
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède deux groupes d’association, seul le premier est
-indispensable.
+This module has two association groups, only the first is
+essential.
 
- \
+\
 
 ![Groupe](../images/dlink.dchz110/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
-Association/Notification possible avec d’autres modules (exemple: Sirène
-DCH-Z510 notification carillon sur ouverture porte/fenêtre)
+Association / Notification possible with other modules (example: Siren
+DCH-Z510 notification chime on opening door / window)
 
- \
+\
 
-Visuel alternatif 
+Alternative visual
 -----------------
 
- \
+\
 
 ![Groupe](../images/dlink.dchz110/autre_visuel_jeedom.jpg)
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a une seule et unique façon de procéder :
+To wake up this module there is only one way to proceed:
 
--   Relâchez le bouton association et réappuyez dessus
+-   Release the association button and press it again
 
--   Baissez le wake-up interval dans la configuration/système du module
-    (en secondes)
+-   Lower the wake-up interval in the configuration / system of the module
+    (in seconds)
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant sur son bouton association.
+This module wakes up by pressing its association button.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wakeup. (bouton d’association pour le
-forcer, d’où l’interêt de ne pas mettre en place le module avant sa
-bonne configuration)
+This module is a battery module, the new configuration will be
+taken into account at the next wakeup. (association button for the
+force, hence the interest of not setting up the module before its
+good configuration)
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 

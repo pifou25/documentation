@@ -1,67 +1,67 @@
-Description 
+descripción
 ===========
 
 ![dev.plugin simple.01](../images/dev.plugin-simple.01.jpg)
 
-Cette documentation vous permettra d’appréhender le système de
-documentation intégré dans jeedom : AsciiDoc
+Esta documentación le ayudará a entender el sistema de
+integrada jeedom documentación: AsciiDoc
 
-Objectifs :
+objetivos:
 
--   présenter le fonctionnement de l’AsciiDoc
+-   la operación actual de la AsciiDoc
 
--   présenter la structure des différents documents nécessaires
+-   presentar la estructura de los diversos documentos requeridos
 
--   fournir un minimum de règles pour harmoniser l’ensemble des
-    documents Jeedom
+-   proporcionar un mínimo de normas para armonizar todo
+    documento Jeedom
 
-Fonctionnement de l’AsciiDoc 
+Cómo el AsciiDoc
 ============================
 
-A documenter
+Un documento
 
-Généralité 
+generalidad
 ----------
 
-Asciidoc est un langage de balisage léger. C’est aussi le nom de la
-suite logicielle qui permet de transformer les fichiers "texte source"
-en documents publiables.
+Asciidoc es un lenguaje de marcado ligero. También es el nombre de la
+suite de software que puede convertir los archivos "fuente"
+en los documentos publicables.
 
--   Le programme de conversion asciidoc permet de transformer le
-    document source au format XHTML, DocBook ou HTML.
+-   El programa de conversión transforma el asciidoc
+    documento de origen como XHTML, DocBook o HTML.
 
--   Le programme a2x permet d’obtenir d’autres formats tels que PDF,
-    TeX, Unix manpages ou Epub.
+-   El programa proporciona a2x otros formatos como PDF,
+    TeX, páginas de manual Unix o Epub.
 
-Site officiel : <http://www.methods.co.nz/asciidoc/>
+sitio web oficial: <http://www.methods.co.nz/asciidoc/>
 
-AsciiDoc & Jeedom 
+AsciiDoc y Jeedom
 -----------------
 
-La documentation Jeedom s’appuie sur l’AsciiDoc et sur l’adjonction du
-bootstap de Laurent Laville :
-<http://laurent-laville.org/asciidoc/bootstrap/>
+La documentación Jeedom se basa en AsciiDoc y la adición de
+bootstap Laurent Laville:
+<Http://laurent-laville.org/asciidoc/bootstrap/>
 
-Cette particularité permet d’ajouter des fonctions supplémentaires aux
-fonctions présentes dans l’AsciiDoc. Mais nécessite aussi une
-compilation particulière pour avoir une visibilité sur le rendu final.
- \
-Nous détaillerons dans ce document, comment générer vos pages en local
-pour valider la mise en forme.
+Esta característica le permite añadir funciones adicionales a
+funciones presentes en el AsciiDoc. Pero también requiere
+compilación especial para tener visibilidad en el renderizado final.
+\
+Detallamos en este artículo, cómo generar sus páginas locales
+para validar el formato.
 
-Un peu de syntaxe 
+algunos de sintaxis
 -----------------
 
-Ce lien est un pense bête des syntaxes asciidoc :
-<http://powerman.name/doc/asciidoc>
+Este enlace es un recordatorio de sintaxis AsciiDoc:
+<Http://powerman.name/doc/asciidoc>
 
-Structure des fichiers AsciiDoc 
+Estructura archivos AsciiDoc
 ===============================
 
-Plusieurs fichiers asciidoc (extension de vos fichiers) permettent de
-structurer votre documentation.
+Varios archivos AsciiDoc (extensión de los archivos) permiten
+la estructura de su documentación.
 
-Vous devez au minimum avoir les fichiers asciidoc suivants :
+Al menos debe tener los siguientes archivos AsciiDoc:
 
 -   index.asciidoc
 
@@ -71,37 +71,37 @@ Vous devez au minimum avoir les fichiers asciidoc suivants :
 
 -   configuration.asciidoc
 
-index.asciidoc 
+index.asciidoc
 --------------
 
-Le fichier index.asciidoc est, comme son nom l’indique, la racine de
-votre documentation.
+El archivo index.asciidoc es, como su nombre indica, la raíz de
+la documentación.
 
-Ce fichier ne doit contenir que des pointeurs sur l’ensemble des autres
-fichiers et non directement du contenu.
+Este archivo sólo debe contener punteros a todos los demás
+presentar y no directamente el contenido.
 
-Exemple de fichier **index.asciidoc** :
+Ejemplo index.asciidoc ** ** archivo:
 
-    :imagesdir: ../images
-    :icons:
+    : ImagesDir: ../images
+    : Iconos:
 
-    == Greenmomit
-    image:greenmomit_icon.png[]
+    == Greenmomit
+    Image: greenmomit_icon.png []
 
-    {nbsp} +
+    {} + Nbsp
 
-    === Description
-    Unresolved directive in doc.plugin.asciidoc - include::description.asciidoc[]
+    === Descripción
+    Directiva sin resolver en doc.plugin.asciidoc - incluir :: description.asciidoc []
 
-    '''
-    === Configuration
-    Unresolved directive in doc.plugin.asciidoc - include::configuration.asciidoc[]
+    '' '
+    === Configuración
+    Directiva sin resolver en doc.plugin.asciidoc - incluir :: configuration.asciidoc []
 
-    '''
-    === FAQ
-    Unresolved directive in doc.plugin.asciidoc - include::faq.asciidoc[]
+    '' '
+    === FAQ
+    Directiva sin resolver en doc.plugin.asciidoc - incluir :: faq.asciidoc []
 
-Les fichiers asciidoc inclus sont
+Los archivos incluidos son asciidoc
 
 -   description.asciidoc
 
@@ -111,102 +111,102 @@ Les fichiers asciidoc inclus sont
 
 -   faq.asciidoc
 
-Ces fichiers correspondent à la base de la structure de la documentation
-Jeedom. Il est possible d’inclure d’autres fichiers AsciiDoc.
+Estos archivos se corresponden con la base de la estructura de la documentación
+Jeedom. Es posible incluir otros archivos AsciiDoc.
 
-description.asciidoc 
+description.asciidoc
 --------------------
 
-Le fichier **description.asciidoc** vous permet de présenter votre
+El description.asciidoc ** ** Archivo le permite presentar su
 plugin.
 
-### Plugin simple 
+### simple plugin
 
-Si votre plugin est relativement simple, n’a pas de dépendance avec un
-équipement particulier à présenter, vous pouvez vous limiter à une
-description de l’objectif du plugin.
+Si el plugin es bastante simple, en el brazo con una
+equipo especial para presentar, puede limitarse a
+Descripción de la finalidad del plugin.
 
-Exemple de fichier **description.asciidoc** simple :
+Ejemplo de archivos ** ** description.asciidoc simple:
 
-    :imagesdir: ../images
-    :icons:
+    : ImagesDir: ../images
+    : Iconos:
 
-    ==== Générale
+    ==== general
 
-    Ce Plugin à pour objectif de BLABLABLA.
+    Este objetivo plug-in para BLABLABLA.
 
-    Une petite copie d'écran du rendu du widget du plugin :
+    Una pequeña pantalla de mostrar el widget plugin:
 
-    image:nomduplugin_widget.png[]
+    Image: nomduplugin_widget.png []
 
-### Plugin complexe 
+### Plugin complejo
 
-Si votre plugin est :
+Si el plugin:
 
--   dépendant d’un équipement tiers
+-   depende de equipos de terceros
 
--   nécessite quelques prérequis
+-   requiere algunos requisitos previos
 
--   nécessite une explication sur le principe de fonctionnement.
+-   requiere una explicación del principio de funcionamiento.
 
-Il est conseillé de créer plusieurs sous-chapitres.
+Es recomendable crear varios subcapítulos.
 
--   **Desciption générale**\
+-   ** ** Descipción general \
 
--   **Description marketing :)**
+-   ** ** Descripción de Marketing :)
 
--   **Les prérequis**
+-   **Prerrequisitos**
 
--   **Principe de fonctionnement**
+-   **Principio de funcionamiento**
 
-Exemple de fichier **description.asciidoc** complexe :
+Ejemplo ** ** archivo complejo description.asciidoc:
 
-    :imagesdir: ../images
-    :icons:
+    : ImagesDir: ../images
+    : Iconos:
 
-    ==== Générale
+    ==== general
 
-    Ce Plugin a pour objectif de BLABLABLA.
+    Este plugin tiene como objetivo BLABLABLA.
 
-    Une petite copie d'écran du rendu du widget du plugin :
+    Una pequeña pantalla de mostrar el widget plugin:
 
-    image:nomduplugin_widget.png[]
+    Image: nomduplugin_widget.png []
 
-    // Si le plugin est dépendant d'un équipement ou solution logicielle tiers, le présenter
-    ==== Présentation de l'équipement ou application XXX
-    //ajouter une image de l'équipement
-    image:nomduplugin_equipementXXX.png[]
+    // Si el plugin depende de una solución de hardware o software En tercer lugar, presentar el
+    ==== presentación del equipo o aplicación XXX
+    // añadir una imagen de dispositivo
+    Image: nomduplugin_equipementXXX.png []
 
-    Décrire l'équipement, ajouter des liens vers le consructeur ou sites de référence.
-    Décrire le niveau d'intégration de l'équipement dans Jeedom (complète, incomplète et quelles fonctionnalités ne sont pas implémentées)
+    Describir el equipo, añadir enlaces a los sitios consructeur o de referencia.
+    Describir el nivel de integración de los equipos en Jeedom (completa, incompleta y qué características no se aplican)
 
-    // S'il est nécessaire de présenter le principe de fonctionnement :
-    ==== Principe de fonctionnement
-    Décrire l'architecture et la philosophie du plugin.
+    // Si es necesario presentar el principio de funcionamiento:
+    ==== Principio de funcionamiento
+    Describir la arquitectura y la filosofía del plugin.
 
-    ==== Prérequis
-    Lister et décrire les prérequis à l'installation et l'utilisation du plugin
-    * ex : une clé API à demander
+    ==== Requisitos previos
+    Enumerar y describir los requisitos previos para instalar y utilizar el plugin
+    * Por ejemplo, una solicitud de clave de API
 
-installation.asciidoc 
+installation.asciidoc
 ---------------------
 
-Si votre plugin n’a aucune spécification sur son installation, ajouter
-juste un pointeur vers la procédure d’installation d’un plugin décrite
-dans la documentation du core Jeedom :
+Si el plugin no tiene las especificaciones de la instalación, añadir
+sólo un puntero al procedimiento de instalación de un plugin se describe
+en la documentación de Jeedom núcleo:
 
-[**Installation d’un
-plugin**](https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html)
-<span class="keycombo">Ctrl+mouse clic</span> (pour ouvrir dans un
-nouvel onglet)
+[** La instalación de una
+Plugin **] (https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html)
+<SPAN CLASS = "keycombo"> Ctrl + clic del ratón </ span> (para abrir una
+nueva pestaña)
 
-configuration.asciidoc 
+configuration.asciidoc
 ----------------------
 
-Règles 
+normas
 ======
 
-Les images 
+Las imágenes
 ----------
 
-A compléter
+Para completar

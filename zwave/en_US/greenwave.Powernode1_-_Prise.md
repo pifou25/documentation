@@ -1,309 +1,309 @@
-Greenwave PowerNode - 1 prise 
+Greenwave PowerNode - 1 socket
 =============================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/greenwave.Powernode1/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/greenwave.Powernode1/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le module prise PowerNode de GreenWave est un appareil intelligent qui
-se connecte à un de vos appareils électroménagers et électroniques pour
-vous permettre de surveiller et contrôler la consommation électrique à
-distance via un navigateur Web ou un smartphone.
+The PowerNode plug-in module from GreenWave is a smart device that
+connects to one of your household appliances and electronics for
+allow you to monitor and control power consumption at
+distance via a web browser or smartphone.
 
-Utilisant la technologie Z-Wave, la prise commandée PowerNode est
-compatible avec la plupart des box domotiques du marché comme Fibaro
-Home Center 2, eedomus ou Zipabox.
+Using Z-Wave technology, the PowerNode controlled outlet is
+compatible with most domotic market boxes like Fibaro
+Home Center 2, eedomus or Zipabox.
 
-La module prise PowerNode recueille des données sur la consommation
-d’énergie de l’appareil connecté et les transmet à la box domotique.
-Cette prise commandée vous permet également d’activer ou désactiver
-l’appareil à distance via un navigateur Web ou smartphone ou de définir
-un calendrier pour activer ou désactiver automatiquement votre appareil
-à des heures prédéfinies.
+PowerNode plug-in module collects consumption data
+connected device and transmits them to the home automation box.
+This controlled outlet also allows you to enable or disable
+the device remotely via a web browser or smartphone or set
+a calendar to automatically enable or disable your device
+at predefined times.
 
-Une petite molette sur le côté de la prise permet de choisir une couleur
-qui représentera la pièce à laquelle elle est affectée. Par exemple "
-bleu pour la chambre ". Cette astuce vous permettra de différencier vos
-différentes prises et multiprises PowerNode. On peut également régler
-cette molette sur un cadenas. Cette fonction permet de verrouiller la
-prise afin d’éviter de l’éteindre par accident, mais le contrôle depuis
-la boxe domotique ne sera plus possible.
+A small thumbwheel on the side of the socket allows you to choose a color
+which will represent the room to which it is assigned. For example "
+blue for the room. "This trick will allow you to differentiate your
+different PowerNode plugs and sockets. We can also adjust
+this wheel on a padlock. This function allows you to lock the
+taken in order to avoid turning it off by accident but the control since
+home boxing will no longer be possible.
 
-La prise commandée PowerNode dispose aussi d’un indicateur d’état
-lumineux qui donne différentes informations en fonction de sa couleur :
-prises allumées ou éteintes, portée radio limitée, mode inclusion et
+The PowerNode controlled outlet also has a status indicator
+bright which gives different information according to its color:
+switched on or off, limited radio range, inclusion mode and
 exclusion.
 
-Le module prise PowerNode est équipé d’une protection contre les
-surintensités pour protéger l’appareil connecté. La prise PowerNode sera
-désactivée en cas du dysfonctionnement d’un appareil défectueux ou d’un
-court-circuit. Une protection supplémentaire est assurée par le fusible
-interne situé dans la prise.
+The PowerNode plug-in module is equipped with a protection against
+overcurrent to protect the connected device. The PowerNode plug will be
+deactivated in case of malfunction of a defective device or
+short circuit. Additional protection is provided by the fuse
+internal located in the socket.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Commander une lampe ou un appareil à distance
+-   Order a lamp or a device remotely
 
--   Module prise s’intégrant directement entre une prise électrique et
-    la charge à commander
+-   Plug module integrating directly between an electrical outlet and
+    the charge to order
 
--   Permet le suivi de consommation de l’appareil branché
+-   Allows consumption tracking of the connected device
 
--   Fonction ON/OFF
+-   ON / OFF function
 
--   Possibilité de lui affecter un numéro et une couleur afin de
-    différencier les différentes PowerNode d’une même installation
+-   Ability to assign a number and a color to it in order to
+    differentiate the different PowerNode from the same installation
 
--   Bouton On/Off directement sur la prise
+-   On / Off button directly on the socket
 
--   Protection contre les surintensités
+-   Overcurrent protection
 
--   Indicateur d’état lumineux
+-   Light status indicator
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
 -   Alimentation : 250V \~ AC, 50Hz
 
--   Courant de charge maximum : 10A
+-   Maximum charging current: 10A
 
--   Puissance de charge maximale : 2400W (@ 240V)
+-   Maximum load power: 2400W (@ 240V)
 
--   Consommation en veille : 0,4 W
+-   Standby power consumption: 0.4 W
 
--   Précision de mesure : ± 0.1W
+-   Measurement accuracy: ± 0.1W
 
--   Protection contre les surintensités : 10A fusible interne
+-   Overcurrent protection: 10A internal fuse
 
--   Type de prise : DIN49440 / CEE 7/7 (Schuko)
+-   Plug type: DIN49440 / CEE 7/7 (Schuko)
 
--   Radio Fréquence Z-Wave : 868.42MHz
+-   Z-Wave Frequency Radio: 868.42MHz
 
--   Portée maximale Z-Wave : 30m
+-   Z-Wave maximum range: 30m
 
--   Température de fonctionnement : 0 ° C à + 25 ° C
+-   Operating temperature: 0 ° C to + 25 ° C
 
--   Température de stockage : -20 ° C à + 60 ° C
+-   Storage temperature: -20 ° C to + 60 ° C
 
--   Humidité maximale : 5% à 90%
+-   Maximum humidity: 5% to 90%
 
--   Classe IP (Tolérance d’humidité) : IP20
+-   IP Rating (Humidity Tolerance): IP20
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : GreenWave
+-   Brand: GreenWave
 
--   Nom : GreenWave\[1 x prise\]
+-   Name: GreenWave \ [1 x taken \]
 
--   Fabricant ID : 153
+-   Manufacturer ID: 153
 
--   Type Produit : 2
+-   Product type: 2
 
--   Produit ID : 2
+-   Product ID: 2
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> inclusion présent sous la prise.
+> To put this module in inclusion mode, press the button
+> present inclusion under the catch.
 
- \
+\
 
 ![inclusion](../images/greenwave.Powernode1/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/greenwave.Powernode1/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/greenwave.Powernode1/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    prise
+-   Status: This is the command that allows to know the status of the
+    taking
 
--   On : C’est la commande qui permet d’allumer la prise
+-   On: This is the command that turns on the plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Off: This is the command that turns off the plug
 
--   Puissance : C’est la commande qui remonte la puissance instantanée
-    consommée
+-   Power: It's the command that goes back the instantaneous power
+    consumed
 
--   Conso : C’est la commande qui remonte la consommation totale
+-   Conso: This is the order that goes back the total consumption
 
- \
+\
 
-A noter que sur le dashboard les commandes ON/OFF/ETAT sont regroupées
-en un seul bouton.
+Note that on the dashboard the ON / OFF / STATUS commands are grouped together
+in one button.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/greenwave.Powernode1/config1.jpg)
 
- \
+\
 
-Comme vous pourrez le constater il n’y a pas beaucoup de configuration
-pour ce module.
+As you can see there is not a lot of configuration
+for this module.
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1 : Délai avant le clignotement du bouton : nombres de secondes
-    minimum entre deux communications (si ce délai est dépassé le bouton
-    de la prise clignotera)
+-   1: Delay before the blinking of the button: number of seconds
+    minimum between two calls (if this time is exceeded the button
+    the socket will flash)
 
--   2 : Couleur selectionnée de la molette (détectée automatiquement)
+-   2: Selected color of the wheel (detected automatically)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède quatre groupes d’association, seul le 3ème groupe est
-indispensable.
+This module has four association groups, only the 3rd group is
+essential.
 
- \
+\
 
 ![Groupe](../images/greenwave.Powernode1/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-Contrairement à sa grande soeur multiprise, cette prise ne nécessite pas
-de polling pour remonter la consommation.
+Unlike its big sister power strip, this jack does not require
+polling to boost consumption.
 
- \
+\
 
-### Reset 
+### reset
 
- \
+\
 
 ![Config2](../images/greenwave.Powernode1/config2.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système. Il faut choisir
-PressButton.
+You can reset your consumption meter by clicking
+on this button available in the System tab. It's necessary to choose
+Pressbutton.
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Avez-vous associé le groupe 3 du module à Jeedom ?
+Did you associate group 3 of the module with Jeedom?
 
- \
+\
 
-Non. Le module ne le permet pas. Mettez dessus un petit morceau de ruban
-adhésif noir.
+No. The module does not allow it. Put on a small piece of ribbon
+black adhesive.
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

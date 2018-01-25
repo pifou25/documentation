@@ -1,369 +1,369 @@
--   **Le module**
+-   ** ** El módulo
 
 ![module](../images/emv.400/module.jpg)
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
 ![vue default](../images/emv.400/vue_default.jpg)
 
-Résumé 
+resumen
 ======
 
-Le micromodule EMV-400 va vous permettre de gérer un moteur
-bidirectionnel ou des appareillages électriques. Il permet le contrôle
-de 2 sorties Marche/Arrêt ou d’un volet roulant Ouvrir/Stop/Fermer.
+El módulo de micro-EMV-400 le permitirá gestionar un motor
+equipos bidireccional o eléctrica. Permite el control
+2 salidas de encendido / apagado o obturador abierto / Stop / Cerrar.
 
-De plus, l’interaction avec d’autres protocoles est possible, il est
-contrôlable par des interrupteurs et/ou télécommandes de la marque
-Edisio, directement depuis Jeedom, mais aussi par n’importe quel
-émetteur Z-Wave de votre réseau.
+Por otra parte, la interacción con otros protocolos es posible, es
+controlable por los interruptores y / o de la marca de control remoto
+Edisio directamente de Jeedom sino por cualquier
+Z-Wave red de transmisores.
 
-Chaque module Edisio sur réseau électrique, à la possibilité de
-fonctionner comme un répéteur sans fil avec les autres modules, afin
-d’assurer une couverture totale de votre habitation.
+Cada módulo Edisio red eléctrica, la posibilidad de
+función como un repetidor inalámbrico con otros módulos a
+para asegurar una cobertura completa de su hogar.
 
-Pour finir, chaque module peut être utilisé en mode déporté, c’est très
-pratique car cela permet d’associer un émetteur sans devoir accéder au
-récepteur.
+Por último, cada módulo se puede utilizar en modo remoto, que es muy
+la práctica ya que permite la asociación de un transmisor sin tener que acceder a la
+receptor.
 
-> **Important**
+> ** Importante **
 >
-> Le neutre est nécessaire que pour le mode "Volet"
+> El neutro es necesaria para el "disparador" modo de
 
-Fonctions 
+funciones
 =========
 
--   2 sorties par relais alimentées
+-   2 salidas suministrada por el relé
 
--   S’installe dans une boite d’encastrement de 55mm ou directement dans
-    les caissons des ouvrants
+-   Se mueve en una caja de montaje o directamente en 55mm
+    los pocillos de la abertura
 
--   Mode d’usage: Marche/Arrêt, Ouvrir/Stop/Fermer
+-   Modo de uso: On / Off, Open / Stop / Cerrar
 
--   Compatible avec les moteurs à fin de course électronique et
-    mécanique
+-   Compatible con motores y de carrera electrónico
+    mecánico
 
--   Mode déporté
+-   modo remoto
 
--   Fonction minuterie: Mode Marche/Arrêt: 30min ou 60min
+-   La función del temporizador: Modo de encendido / apagado: 30min o 60min
 
--   Réplique du signal (répéteur)
+-   Réplica de la señal (repetidor)
 
--   Micromodule bidirectionnel
+-   micromódulo bidireccional
 
--   Niveau de batterie faible de l’émetteur
+-   Nivel de batería baja del transmisor
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
-Caractéristiques techniques 
+Características técnicas
 ===========================
 
--   Type de module: Récepteur Edisio
+-   Tipo de módulo: Receptor Edisio
 
--   Alimentation: 230VAC, 50Hz
+-   Fuente de alimentación: 230 V CA, 50 Hz
 
--   Câblage: 4 fils, 2 pour les commandes et 2 pour l’alimentation
+-   Cableado: 4 hijo, 2 órdenes y 2 para los alimentos
 
--   Fréquence: 868,3 MHz
+-   Frecuencia: 868,3 MHz
 
--   Sorties alimentées: 2 relais
+-   salidas de suministro de corriente: 2 relé
 
--   Puissance maximum: 2A par sortie
+-   la potencia máxima: 2A por salida
 
--   Charge résistive: 460W
+-   Carga resistiva: 460W
 
--   Autres charges: 100W
+-   Otros gastos: 100W
 
--   Température de fonctionnement: -10°C +45°C
+-   Temperatura de funcionamiento: -10 ° C + 45 ° C
 
--   Dimensions: 48x46x26mm
+-   Tamaño: 48x46x26mm
 
--   Degré de protection: IP20
+-   Protección: IP20
 
-Données du module 
+datos de los módulos
 =================
 
--   Marque : Edisio Smart Home
+-   Marca: Smart Home Edisio
 
--   Nom : EMV-400
+-   Nombre: EMV-400
 
-Configuration générale 
+configuración general
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+Para configurar Edisio plugin y asociar un módulo de Jeedom,
+referirse a este
+[Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Importante **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> Para Jeedom crea automáticamente los módulos de transmisión, recuerde
+> No hay que activar la opción en la configuración del plugin.
 
-> **Important**
+> ** Importante **
 >
-> A l’inverse, les récepteurs Edisio sont à créer manuellement dans
+> A la inversa, los receptores son Edisio para crear manualmente
 > Jeedom.
 
-DIP Switch et bouton "R" : 
+Interruptor DIP y el botón "R":
 --------------------------
 
 ![bouton association](../images/emv.400/bouton_association.jpg)
 
--   Le DIP Switch va vous permettre de régler les paramètres
-    (Répéteur/Mode volet/éclairage/Minuterie) du module:
+-   El interruptor DIP le permite ajustar la configuración
+    (/ Manual de obturador / luz / Temporizador Repetidor) módulo:
 
 ![dip switch](../images/emv.400/dip_switch.jpg)
 
-> **Note**
+> ** Nota **
 >
-> Afin d’éviter des redondances inutiles, ne jamais activer le mode
-> "Répéteur" sur tous les récepteurs, 5 récepteurs au maximum par
-> installation.
+> Para evitar la duplicación innecesaria, nunca se activará el modo de
+> "Repetidor" en todos los receptores, los receptores 5 máximo por
+> Instalación.
 
--   Le bouton "R", va permettre d’associer un émetteur au récepteur,
-    d’activer ou désactiver la fonction minuterie et d’activer le mode
-    déporté :
+-   El botón "R" permitirá asociar un emisor y un receptor,
+    para activar o desactivar el temporizador y activar el modo de
+    remoto:
 
 ![bouton r](../images/emv.400/bouton_r.jpg)
 
-> **Note**
+> ** Nota **
 >
-> Appuyer R 3x permet d’activer le mode déporté.
+> 3x Pulse R para activar el modo remoto.
 
-Diagramme de fonctionnement 
+Diagrama de operación
 ---------------------------
 
-Suivant si votre émetteur est configuré en mode "1 touche" ou "2
-touches", voici le fonctionnement du module:
+A continuación, si el transmisor está configurado en "clave 1" o "2
+llaves", aquí está el funcionamiento del módulo:
 
-> **Note**
+> ** Nota **
 >
-> Référez-vous à la documentation du fabricant, afin de pouvoir
-> configurer votre émetteur.
+> Consulte la documentación del fabricante, con el fin de
+> Establecer su transmisor.
 
 ![diagramme](../images/emv.400/diagramme.jpg)
 
-Fonction minuterie 
+función de temporizador
 ------------------
 
-La fonction minuterie permet l’extinction automatique des relais au bout
-de 30 ou 60 minutes.
+La función de temporizador permite el apagado automático después de los relés
+30 o 60 minutos.
 
-> **Note**
+> ** Nota **
 >
-> Cette fonction ne sert qu’en mode "Eclairage"
+> Esta función se utiliza sólo en la moda "Iluminación"
 
-Le mode "Volet" 
+El modo "disparador"
 ===============
 
-Le mode "Volet" permet de piloter un moteur bidirectionnel à fin de
-course électronique et mécanique à distance.
+El modo "persiana" permite controlar un extremo del motor bidireccional
+carrera electrónico y mecánico a distancia.
 
-> **Important**
+> ** Importante **
 >
-> Le neutre est nécessaire
+> El neutro es necesario
 
-Configuration et raccordements électriques : 
+Configuración y conexiones eléctricas:
 --------------------------------------------
 
 ![mode moteur](../images/emv.400/mode_moteur.jpg)
 
-> **Important**
+> ** Importante **
 >
-> Afin que le module soit en mode "Volet" le DIP Switch 2 doit être en
-> bas
+> Para el módulo está en "Shutter 'modo de interruptor DIP 2 es la
+> baja
 
-> **Important**
+> ** Importante **
 >
-> NE JAMAIS BRANCHER SOUS TENSION
+> NUNCA ENCIENDA
 
-Création du module dans Jeedom 
+Creación módulo en Jeedom
 ------------------------------
 
-Pour associer un module récepteur Edisio à Jeedom, il faut créer
-manuellement un équipement.
+Para asociar un módulo receptor Jeedom Edisio, crear
+equipos de mano.
 
 ![ajout equip](../images/emv.400/ajout_equip.jpg)
 
-Une fois, votre équipement créé, vous devriez obtenir ceci :
+Una vez que haya creado su equipo, usted debe conseguir esto:
 
 ![crea equip](../images/emv.400/crea_equip.jpg)
 
-> **Note**
+> ** Nota **
 >
-> Pensez à activer votre nouvel équipement.
+> Recuerde que debe activar la opción.
 
-Dans la liste d’équipements, à droite, sélectionner "Micro-module volet
-roulant" :
+En la lista de equipos, a la derecha, seleccione "panel Micro módulo
+rodante ":
 
 ![infos equip](../images/emv.400/infos_equip.jpg)
 
-Commandes 
+comandos
 ---------
 
-Une fois votre équipement sauvegardé, vous devriez obtenir les commandes
-associées au module :
+Una vez guardado el equipo, debe obtener órdenes
+asociado con el módulo:
 
 ![Commandes](../images/emv.400/commande.jpg)
 
-Voici la liste des commandes :
+Estos son los comandos:
 
--   Etat : C’est la commande qui permet de simuler le retour d’état
+-   Estado: Este es el comando que simule la realimentación de estado
 
--   Monter : C’est la commande qui permet d’ouvrir le volet
+-   Ajuste: Este es el comando para abrir la puerta
 
--   Stop : C’est la commande qui permet de stopper le mouvement du volet
+-   Stop: Este es el comando para detener el movimiento de la aleta
 
--   Descendre : C’est la commande qui permet de fermer le volet
+-   Abajo: Este es el comando para cerrar el obturador
 
--   E : C’est la commande qui permet de se servir du mode déporté
+-   E: Este es el comando para utilizar el modo remoto
 
-> **Important**
+> ** Importante **
 >
-> Le retour d’état est simulé par Jeedom. Par conséquent, si vous
-> utilisez un autre émetteur, Jeedom ne pourra pas mettre à jour l’état
-> du récepteur.
+> El regreso de estado se simula mediante Jeedom. Por lo tanto, si
+> Uso de otro transmisor, Jeedom no actualizará el estado
+> Receptor.
 
-Informations 
+información
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Una vez que su equipo asociado con Jeedom, diversa información se
+disponibles:
 
 ![Commandes](../images/emv.400/infos_moteur.jpg)
 
--   Création : Indique la date à laquelle l’équipement à était créé
+-   Creación: Muestra la fecha en que se creó el equipo
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Comunicación: Indica la última comunicación registrada entre
+    Jeedom y el micrófono del módulo
 
--   Batterie : Indique l’état de la batterie pour les modules à piles
+-   Batería: Indica el estado de la batería de los módulos de batería
 
--   Status : Retourne le status du module
+-   Estado: Devuelve el estado del módulo
 
-Association du micromodule à Jeedom 
+Asociación micromódulo Jeedom
 ===================================
 
-Afin que vous puissiez interagir avec Jeedom, comme si c’était un
-émetteur Edisio.
+Para que pueda interactuar con Jeedom, como si se tratara de una
+transmisor Edisio.
 
-> **Note**
+> ** Nota **
 >
-> Un des gros avantages d’Edisio, c’est qu’un récepteur peut avoir
-> plusieurs émetteurs associés
+> Una gran ventaja de Edisio es que un receptor puede tener
+> Más transmisores asociados
 
-Méthode standard 
+método estándar
 ----------------
 
-Chaque sortie est à associer à une commande Jeedom:
+Cada salida está asociado con un comando Jeedom:
 
--   Associer la sortie 1 :
+-   Asociar la salida 1:
 
-    -   Appuyez 1x sur le "R" du récepteur, simple bip sonore (court
-        en répétition) signale la programmation de la sortie 1 activée.
+    -   1x prensa sobre el "R" del receptor, solo pitido (corto
+        repetición) dijo la programación de la salida 1 activado.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "Ouvrir"
-        dans Jeedom, un bip sonore en continu signale l’association de
-        la sortie 1 à Jeedom.
+    -   Dentro de 10 segundos, pulse el botón "Test" en el "abierto"
+        en Jeedom, un pitido continuo indica la combinación de
+        salida 1 a Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "R" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Dentro de 10 seg, pulse de nuevo "R" del receptor, para
+        validar la asociación, el pitido se detiene.
 
--   Associer la sortie 2 :
+-   Asociar la salida 2:
 
-    -   Appuyez 2x sur le "R" du récepteur, double bip sonore (court
-        en répétition) signale la programmation de la sortie 2 activée.
+    -   2x prensa sobre el "R" del receptor, dos pitidos (corto
+        repetición) dijo la programación de la salida 2 activado.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "Fermer"
-        dans Jeedom, un bip sonore en continu signale l’association de
-        la sortie 2 à Jeedom.
+    -   Dentro de 10 segundos, presione comando "Test" "Cerca"
+        en Jeedom, un pitido continuo indica la combinación de
+        salida 2 a Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "R" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Dentro de 10 seg, pulse de nuevo "R" del receptor, para
+        validar la asociación, el pitido se detiene.
 
-> **Note**
+> ** Nota **
 >
-> Il n’y a pas besoin d’associer la commande "Stop", celle-ci se fait
-> automatiquement.
+> No hay necesidad de asociar el comando "Stop", se
+> Automáticamente.
 
-Méthode déportée 
+método remoto
 ----------------
 
-Nous en avons parlé au début de cette documentation, dans le cas de
-modules déjà encastrés dans les faux-plafonds ou même les combles. Cette
-méthode permet l’ajout d’un nouvel émetteur sans accéder au "R" du
-récepteur.
+Hablamos al principio de esta documentación, en el caso de
+módulo ya incrustado en falsos techos o incluso el ático. Este
+método permite la adición de un nuevo transmisor sin acceso a la "R"
+receptor.
 
--   Associer le bouton "R" :
+-   Vincular el botón "R":
 
-    -   Appuyez 3x sur "R" du récepteur, triple bip sonore (court
-        en répétition) signale le mode de programmation activé.
+    -   Pulsar 3 veces "R" del receptor, el triple pitido (corto
+        Repetición) indica el modo de programación activado.
 
-    -   Dans les 10 sec, appuyez sur "Tester" de la commande "E" dans
-        Jeedom, un bip sonore en continu signale l’association à Jeedom.
+    -   Dentro de 10 segundos, pulse el botón "Test" del comando "E" en
+        Jeedom, un pitido continuo indica la asociación Jeedom.
 
-    -   Dans les 10 sec, appuyez à nouveau sur "E" du récepteur, pour
-        valider l’association, le bip sonore s’arrête.
+    -   Dentro de 10 segundos, pulse de nuevo "E" del receptor, por
+        validar la asociación, el pitido se detiene.
 
-C’est fait, votre Jeedom est à présent associé et sa commande "E"
-remplace désormais le bouton "R" du récepteur.
+Está hecho, su Jeedom se asocia con esto y el orden "E"
+reemplaza el botón "R" en el receptor.
 
--   Associer un nouvel émetteur à un récepteur avec Jeedom déjà associé
+-   Asociar un nuevo transmisor a un receptor con Jeedom ya asociado
     :
 
-    -   Sortie 1 :
+    -   Salida 1:
 
-        -   Appuyez 1x sur "Tester" la commande "E" dans Jeedom, simple
-            bip sonore (court en répétition) signale la programmation de
-            la sortie 1 activée.
+        -   1x Prensa "de prueba" comando "E" en Jeedom sencilla
+            pitido (a corto repetición) dijo programación
+            salida 1 activado.
 
-        -   Dans les 10 sec, appuyez sur une des touches "C" du nouvel
-            émetteur à associer, un bip sonore en continu signale
-            l’association de la sortie 1.
+        -   En 10 segundos, pulse cualquier tecla "C" de la nueva
+            transmisor para asociar una señales de pitido continuo
+            la combinación de la salida 1.
 
-        -   Dans les 10 sec, appuyez à nouveau sur "Tester" de la
-            commande "E" dans Jeedom, pour valider l’association, le bip
-            sonore s’arrête.
+        -   Dentro de 10 segundos, pulse de nuevo "prueba" de la
+            comando "E" en Jeedom para validar la asociación, el pitido
+            paradas de sonido.
 
-    -   Sortie 2 :
+    -   Salida 2:
 
-        -   Appuyez 2x sur "Tester" de la commande "E" dans Jeedom,
-            double bip sonore (court en répétition) signale la
-            programmation de la sortie 2 activée.
+        -   Pulsar 2 veces "prueba" de la orden "E" en Jeedom,
+            tono doble (a corto repetición) señala el
+            Salida de la programación 2 activado.
 
-        -   Dans les 10 sec, appuyez sur une des touches "C" du nouvel
-            émetteur à associer, un bip sonore en continu signale
-            l’association de la sortie 2.
+        -   En 10 segundos, pulse cualquier tecla "C" de la nueva
+            transmisor para asociar una señales de pitido continuo
+            la combinación de la salida 2.
 
-        -   Dans les 10 sec, appuyez à nouveau sur "Tester" de la
-            commande "E" dans Jeedom, pour valider l’association, le bip
-            sonore s’arrête.
+        -   Dentro de 10 segundos, pulse de nuevo "prueba" de la
+            comando "E" en Jeedom para validar la asociación, el pitido
+            paradas de sonido.
 
-> **Note**
+> ** Nota **
 >
-> Vous pouvez recommencer autant de fois que vous voulez associer
-> d’émetteurs au récepteur
+> Se puede repetir tantas veces como se desee asociar
+> Transmisor al receptor
 
-Visuel alternatif 
+alternativa visual
 =================
 
 ![vue alt moteur](../images/emv.400/vue_alt_moteur.jpg)
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment effacer la mémoire du récepteur ?
+Cómo borrar la memoria del receptor?
 
-:   Appuyez et maintenez 10 sec sur le "R", jusqu’au bip sonore continu.
+: 10 sec presionado el "R" para el pitido continuo.
 
-Comment piloter le récepteur via un émetteur Z-Wave?
+Cómo controlar el receptor a través de un transmisor de Z-Wave?
 
-:   Avec le plugin Scénario de Jeedom.
+: Con el plugin Escenario Jeedom.
 
-Comment puis-je avoir le même visuel ?
+¿Cómo puedo tener la misma visual?
 
-:   Avec le plugin Widgets de Jeedom.
+: Con el plugin widgets de Jeedom.
 
-**@Jamsta**
+** ** @ Jamsta

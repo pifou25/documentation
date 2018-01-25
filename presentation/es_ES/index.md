@@ -1,120 +1,120 @@
-Présentation
+Presentación
 ===
 
-Jeedom est composé d’une partie centrale (appelée core) qui se charge
-des fonctions de base.
+Jeedom se compone de una parte central (denominado núcleo), que es responsable
+funciones básicas.
 
--   *Scénario,*
+-   * * Escenario
 
 ![Page Scénario](../images/doc-presentation-scenario.png)
 
--   *Historisation,*
+-   * Registro *
 
 ![Page Historique](../images/doc-presentation-historique.png)
 
--   *Affichage,*
+-   * Pantalla *
 
 ![Page Dashboard](../images/doc-presentation-affichage.png)
 
--   *Interaction,*
+-   * Interacción *
 
 ![Page Interaction](../images/doc-presentation-interaction.png)
 
--   *Mise à jour et sauvegarde.*
+-   * Actualización y copia de seguridad. *
 
 ![Page Mise à jour](../images/doc-presentation-maj.png)
 
 ![Page Sauvegarde](../images/doc-presentation-sauvegarde.png)
 
-Autour de ce noyau viennent se greffer des plugins qui peuvent être de
-toutes sortes :
+Alrededor de este núcleo son plugins injertados que pueden ser
+todo tipo :
 
--   protocole domotique (Z-Wave, RFXcom, EnOcean…​),
+-   Automation Protocol (Z-Wave, RFXCOM, EnOcean ...)
 
--   protocole IP (KNX,xPL…​),
+-   IP (KNX xPL ...)
 
--   objet communiquant (Nest, Netatmo…​),
+-   objeto comunicativo (Nest Netatmo ...),
 
--   haut niveau (alarme, thermostat…​),
+-   alto nivel (alarma, termostato ...)
 
--   interface (widget),
+-   interfaz (Widget)
 
--   organisation (agenda, Google agenda),
+-   organización (calendario, el calendario de Google)
 
--   développement (script).
+-   desarrollo (script).
 
-Ces plugins peuvent être récupérés via Market et permettent d’étendre
-les possibilités de Jeedom.
+Estos complementos pueden ser recuperados a través del mercado y se pueden extender
+Jeedom oportunidades.
 
 ![Page Market](../images/doc-presentation-market.png)
 
-Jeedom permet à n’importe quel plugin de discuter avec un autre sur une
-base normalisée. Cela permet par exemple d’utiliser les plugins
-thermostat ou alarme avec n’importe quel protocole domotique ou même un
-plugin IP ou objet communiquant…​
+Jeedom permite a cualquier plugin para hablar uno a uno
+base normalizada. Esto permite por ejemplo utilizar plugins
+termostato o de alarma con cualquier protocolo de automatización del hogar o incluso una
+Plugin de IP o el objeto comunicativo ...
 
-Principe
-=== 
-
-Jeedom a la particularité d’être sans abonnement et sans cloud, ce qui
-permet de garantir le fonctionnement de votre domotique même si vous
-n’avez plus internet. Ceci garantit aussi la sécurité de vos données
-(évite les risques de piratage en masse des comptes).
-
-Le projet étant ouvert et open source cela lui garantit aussi un fort
-taux d’évolution grâce aux nombreux développeurs qui participent.
-
-Liens
+principio
 ===
 
-Plusieurs tutoriels vidéo ont été réalisés afin de montrer les
-fonctionnalités importantes de Jeedom, faciliter son utilisation et
-familiariser l’utilisateur avec le logiciel.
+Jeedom tiene la distinción de ser ninguna suscripción y ninguna nube, que
+garantiza el funcionamiento de la automatización del hogar, incluso si
+ya no en línea. Esto también garantiza la seguridad de sus datos
+(Evita el riesgo de piratería en la masa de las cuentas).
 
-Cependant depuis la réalisation de ces tutoriels, l’interface de Jeedom
-a pu évoluer et des fonctionnalités ajoutées. La documention reste donc
-la référence à consulter en cas de besoins, questions, etc.
+El proyecto está abierto y de código abierto que también garantiza un alto
+Cambios en los tipos gracias a los muchos desarrolladores que participan.
 
-Voici la liste des tutoriels disponibles :
+Vínculos
+===
 
--   [Tuto Jeedom \#1 : Premier
-    démarrage](https://www.youtube.com/watch?v=UTECRBGEUtI)
+Se han hecho varios tutoriales en vídeo para mostrar
+características importantes Jeedom, facilidad de uso y
+familiarizar al usuario con el software.
 
--   [Tuto Jeedom \#2 : Débuter avec Jeedom (Objet, Market, Plugin
-    , Module)](https://www.youtube.com/watch?v=2LU1neNvbus)
+Sin embargo, puesto que la aplicación de estos tutoriales, interfaz Jeedom
+tienen características evolucionadas y agregados. Los restos documention
+la referencia a consultar en caso de necesidades, preguntas, etc.
 
--   [Tuto Jeedom \#3 : Jeedom, les Widget, Mails et
-    Scénarios](https://www.youtube.com/watch?v=OJn33XbpiH8)
+Esta es la lista de tutoriales disponibles:
 
--   [Tuto Jeedom \#4 : Jeedom, Utilisation du plugin
-    Agenda](https://www.youtube.com/watch?v=EBuvIabg3Cc)
+-   [TUT Jeedom \ # 1: Primera
+    Inicio] (https://www.youtube.com/watch?v=UTECRBGEUtI)
 
--   [Tuto Jeedom \#5 : Les scripts dans Jeedom à l’aide du plugin
-    Script](https://www.youtube.com/watch?v=FRbQILAogX0)
+-   [TUT Jeedom \ # 2: Comenzar con Jeedom (Object, Mercado, Plugin
+    , Módulo)] (https://www.youtube.com/watch?v=2LU1neNvbus)
 
--   [Tuto Jeedom \#6 : Les scénarios dans Jeedom avec le plugin
-    Météo](https://www.youtube.com/watch?v=w0ErP3wyEoA)
+-   [TUT Jeedom \ # 3: Jeedom el widget, y Correos
+    Escenarios] (https://www.youtube.com/watch?v=OJn33XbpiH8)
 
--   [Tuto Jeedom \#7 : Présentation du plugin
-    Energie](https://www.youtube.com/watch?v=DZfA_DxqbNs)
+-   [TUT Jeedom \ # 4: Jeedom, plugin de Uso
+    Agenda] (https://www.youtube.com/watch?v=EBuvIabg3Cc)
 
--   [Tuto Jeedom \#8 : Découverte du Mode
-    Plan](https://www.youtube.com/watch?v=2IkXF6CBCAE)
+-   [TUT Jeedom \ # 5: Los scripts en Jeedom usando el plugin
+    Script] (https://www.youtube.com/watch?v=FRbQILAogX0)
 
--   [Tuto Jeedom \#9 : Plugin DataTransfert, les Backups Auto et
-    Dropbox](https://www.youtube.com/watch?v=wLOfJygFc8k)
+-   [TUT Jeedom \ # 6: Los escenarios en Jeedom con el plugin
+    Tiempo] (https://www.youtube.com/watch?v=w0ErP3wyEoA)
 
--   [Tuto Jeedom \#10 : Faire parler
-    Jeedom (Android)](https://www.youtube.com/watch?v=3Pc3VJFWHo4)
+-   [TUT Jeedom \ # 7: Presentación plug-in
+    Energía] (https://www.youtube.com/watch?v=DZfA_DxqbNs)
 
--   [Tuto Jeedom \#11 : Vitrine découverte d’une installation
-    standard](https://www.youtube.com/watch?v=hW1d1FvkmSs)
+-   [TUT Jeedom \ # 8: Modo de descubrimiento
+    Mapa] (https://www.youtube.com/watch?v=2IkXF6CBCAE)
 
--   [Tuto Jeedom \#12 : Découverte du plugin
-    Thermostat](https://www.youtube.com/watch?v=T21gqp1SQK0)
+-   [TUT Jeedom \ # 9: Plugin DataTransfert el auto y copias de seguridad
+    Dropbox] (https://www.youtube.com/watch?v=wLOfJygFc8k)
 
--   [Tuto Jeedom \#13 : Découverte du plugin
-    Alarme](https://www.youtube.com/watch?v=JjnWeU614gc)
+-   [TUT Jeedom \ # 10: Dar sentido
+    Jeedom (Android)] (https://www.youtube.com/watch?v=3Pc3VJFWHo4)
 
--   [Tuto Jeedom \#14 : Découverte des
-    Interactions](https://www.youtube.com/watch?v=Z8SHo_Xwk0Q) 
+-   [TUT Jeedom \ # 11: Escaparate descubrimiento de una planta
+    estándar] (https://www.youtube.com/watch?v=hW1d1FvkmSs)
+
+-   [TUT Jeedom \ # 12: Plugin Descubrimiento
+    Termostato] (https://www.youtube.com/watch?v=T21gqp1SQK0)
+
+-   [TUT Jeedom \ # 13: Plugin Descubrimiento
+    Alarma] (https://www.youtube.com/watch?v=JjnWeU614gc)
+
+-   [TUT Jeedom \ # 14: Descubrimiento
+    Interacciones] (https://www.youtube.com/watch?v=Z8SHo_Xwk0Q)

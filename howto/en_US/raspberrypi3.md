@@ -1,136 +1,136 @@
-Objectif 
+Goal
 ========
 
-Vous trouverez ici la documentation pour installer Jeedom sur un
-raspberry PI 3 **sans carte microSD.**
+You will find here the documentation to install Jeedom on a
+raspberry PI 3 ** without microSD card. **
 
-Le PI3 offre en effet la possibilité de booter directement sur un
-périphérique USB et donc de vous affranchir de la carte microSD parfois
-génératrice de problèmes (corruption).
+The PI3 offers the possibility to boot directly on a
+USB device and thus free yourself from the microSD card sometimes
+generating problems (corruption).
 
-**La procédure d’installation est strictement identique à celle sur une
-carte microSD, mais il faudra s’assurer de posséder un firmware à
-jour.**
+** The installation procedure is strictly identical to that on a
+microSD card, but it will make sure to own a firmware to
+day.**
 
-Pour cela ouvrez une connexion SSH. (si vous ne savez pas comment faire,
-regarder l’installation sur microSD :
-[Ici](https://jeedom.github.io/documentation/installation/fr_FR/index.html)
+For this, open an SSH connection. (if you do not know how,
+watch the installation on microSD:
+[Here] (https://jeedom.github.io/documentation/installation/fr_FR/index.html)
 )
 
-    vcgencmd otp_dump | grep 17:
+    vcgencmd otp_dump | grep 17:
 
-Vous devez obtenir en retour :
+You must get back:
 
-    17:3020000a
+    17: 3020000a
 
-Si c’est le cas, votre PI3 est correctement configuré pour booter sur
-l’USB. Si il ne trouve rien, il démarrera normalement sur une carte
+If so, your PI3 is correctly configured to boot on
+USB. If he can not find anything, he will normally start on a map
 microSD.
 
-Si le retour est différent, vous devez simplement effectuer une mise à
-jour.
+If the return is different, you should simply make a change
+day.
 
-    sudo apt-get update; sudo apt-get install rpi-update
+    sudo apt-get update; sudo apt-get install rpi-update
 
-puis
+then
 
-    sudo rpi-update
+    sudo rpi-update
 
-Puis redémarrage du PI3
+Then restart the PI3
 
-    sudo reboot
+    sudo reboot
 
-> **Important**
+> ** Important **
 >
-> Pour éviter les problèmes de puissance, optez pour un disque SSD mSATA
-> à faible consommation.
+> To avoid power problems, opt for a mSATA SSD drive
+> low consumption.
 
-> **Tip**
+> ** Tip **
 >
-> Vous pouvez désormais installer Jeedom en suivant exactement la même
-> procédure qu’avec une carte SD.
-> [Ici](https://jeedom.github.io/documentation/installation/fr_FR/index.html)
+> You can now install Jeedom by following exactly the same
+> procedure with an SD card.
+> [Here] (https://jeedom.github.io/documentation/installation/en_US/index.html)
 
-Ajustements possibles 
+Possible adjustments
 =====================
 
-**Il faut ensuite prendre en compte les remarques suivantes :**
+** The following remarks must be taken into account: **
 
-> **Important**
+> ** Important **
 >
-> Les modifications suivantes sont le fruit de problèmes rencontrés par
-> les utilisateurs. Vous devez les adapter à votre cas. Le support
-> Jeedom n’intervient pas pour des problèmes liés à votre configuration.
+> The following changes are the result of problems encountered by
+> users. You must adapt them to your case. The support
+> Jeedom does not intervene for problems related to your configuration.
 
--   **Si vous rencontrez des problèmes de swap, il faut la modifier.**
+-   ** If you have swap problems, you need to change it. **
 
-    -   **Augmenter sa taille** :
+    -   ** Increase its size **:
 
-        -   Changez la taille de la swap en ouvrant ce fichier :
+        -   Change the size of the swap by opening this file:
 
-<!-- -->
+<! - ->
 
-    sudo nano /etc/dphys-swapfile
+    sudo nano / etc / dphys-swapfile
 
--   Trouvez le bon paramètre :
+-   Find the right parameter:
 
-<!-- -->
+<! - ->
 
-    CONF_SWAPSIZE=100
+    CONF_SWAPSIZE = 100
 
--   Changez la valeur de CONF\_SWAPSIZE à 1024, par exemple, puis
-    redémarrez :
+-   Change the value of CONF \ _SWAPSIZE to 1024, for example, and then
+    restart:
 
-<!-- -->
+<! - ->
 
-    sudo reboot
+    sudo reboot
 
--   **Changez la valeur d’appel au swap.**
+-   ** Change the call value to the swap. **
 
-Par défaut, le système appelle le swap lorsqu’il reste moins de 40% de
+By default, the system calls the swap when there is less than 40% of
 Ram.
 
--   Ouvrez le fichier pour changer ce paramètre :
+-   Open the file to change this setting:
 
-<!-- -->
+<! - ->
 
-    sudo nano /etc/sysctl.conf
+    sudo nano /etc/sysctl.conf
 
--   Ajoutez cette ligne, pour demander au Pi3 de n’utiliser la swap que
-    lorsqu’il lui reste 10% de mémoire disponible (soit 100 Mo de
-    Ram disponible) :
+-   Add this line, to ask the Pi3 to use the swap only
+    when 10% of available memory remains (100 MB of
+    Ram available):
 
-<!-- -->
+<! - ->
 
-    vm.swappiness = 10
+    vm.swappiness = 10
 
--   Puis redémarrez :
+-   Then restart:
 
-<!-- -->
+<! - ->
 
-    sudo reboot
+    sudo reboot
 
--   **Désactiver le bluetooth intégré car incompatible avec la carte
-    GPIO zwave.me**
+-   ** Disable bluetooth built-in as incompatible with the card
+    GPIO zwave.me **
 
-    -   Ouvrez le fichier concerné :
+    -   Open the file concerned:
 
-<!-- -->
+<! - ->
 
-    sudo nano /boot/config.txt
+    sudo nano /boot/config.txt
 
--   ajouter la ligne :
+-   add the line:
 
-<!-- -->
+<! - ->
 
-    dtoverlay=pi3-disable-bt
+    dtoverlay = ft3-disable-bt
 
--   Faire un arrêt propre
+-   Make a clean stop
 
-<!-- -->
+<! - ->
 
-    sudo halt
+    sudo halt
 
--   Débrancher rebrancher (pas de sudo reboot !).
+-   Unplug reconnect (no sudo reboot!).
 
 

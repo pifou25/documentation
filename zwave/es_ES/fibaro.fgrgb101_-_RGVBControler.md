@@ -1,274 +1,274 @@
-Fibaro RGVB Controler - FGRGB-101 
+Fibaro RGVB Controler - FGRGB-101
 =================================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/fibaro.fgrgb101/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![Visuel jeedom](../images/fibaro.fgrgb101/Visuel_jeedom.png)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
-Le micromodule Z-Wave Fibaro FGRGB-101 permet, au choix, de commander
-des éclairages basse tension 12/24V (halogène ou LED), un ruban LED RVB
-ou RVB+blanc ou bien encore de relier des sondes analogiques utilisant
-la norme 0-10V.
+El micro-módulo Z-Wave Fibaro FGRGB-101 permite una selección de pedidos
+iluminación de baja tensión 12 / 24V (halógeno o LED), una RGB cinta LED
+o RGBW o bien para conectar sensores analógicos utilizando
+estándar 0-10.
 
--   4 entrées analogiques 0 à 10V à connecter à de nombreux capteurs
-    compatibles, des potentiomètres, des boutons-poussoirs (monostables)
-    ou des commutateurs (bistables).
+-   4 entradas analógicas de 0 a 10V a ser conectados a muchos sensores
+    compatibles, potenciómetros, pulsadores (un solo solenoide)
+    o interruptores (flip).
 
--   4 sorties variateur (PWM) pour contrôler :
+-   4 salidas de inversor (PWM) para controlar:
 
--   \* soit 1 canal de LED RVB + Blanc (RGBW) 12/24V
+-   \ * Es un canal LED RGBW (RGBW) 12 / 24V
 
--   \* ou 4 canaux de LED blanches 12/24V
+-   \ * O cuatro canales de LED blanco 12 / 24V
 
--   \* ou 4 canaux de lampes halogènes 12/24V (144W 12V / 288W 24V max.)
+-   \ * 4 canales o halógenas 12 / 24V (12V 144W / 288W 24V máx.)
 
--   \* ou des ventilateurs 12 / 24V.
+-   \ * O ventiladores 12 / 24V.
 
--   Nécessite une alimentation 12/24V séparée.
+-   Requiere una fuente de alimentación 12 / 24V separados.
 
--   Mesure de consommation globale ou par canal instantanée ou cumulée.
+-   Medición del consumo global o canal instantánea o acumulativa.
 
--   Fonction répéteur (routeur) pour étendre le réseau Z-Wave.
+-   Función repetidor (enrutador) para extender la red Z-Wave.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
--   Commander des éclairages basse tension 12/24V (halogène ou LED)
+-   Pide baja tensión enciende 12 / 24V (halógeno o LED)
 
--   S’installe derrière un interrupteur existant
+-   Se instala detrás de un interruptor existente
 
--   Simulation lumineuse précédemment programmée
+-   luz simulación previamente programado
 
--   Fonction ON/OFF et Variation
+-   ON / OFF función y el Cambio
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
--   Alimentation : 12 V ou 24 V continu
+-   Fuente de alimentación: 12 V o 24 V DC
 
--   Puissance maximale de sortie :
+-   potencia de salida máxima:
 
--   \* 12A au total (addition de l’ensemble des canaux),
+-   \ * 12A en total (suma de todos los canales),
 
--   \* 6A max. par canal
+-   \ * 6A máx. por canal
 
--   Puissance maximale avec lampes halogènes :
+-   La potencia máxima con lámparas halógenas:
 
--   \* 12V - 144W total (tous canaux),
+-   \ * 12V - 144W totales (todos los canales),
 
--   \* 24V - 288W total (tous canaux)
+-   \ * 24V - 288W totales (todos los canales)
 
--   Fréquence de modulation PWM : 244 Hz
+-   frecuencia de modulación PWM: 244 Hz
 
--   Consommation : 0,3W
+-   Consumo: 0.3W
 
--   Protocole radio : Z-Wave à 868,4 MHz (EU)
+-   protocolo de radio: Z-Wave a 868,4 MHz (UE)
 
--   Puissance d’émission Z-Wave : 1mW
+-   Poder de Z-Wave de emisión: 1 mW
 
--   Température de fonctionnement : 0 - 40 C
+-   Temperatura de funcionamiento 0 - 40 C
 
--   Pour installation dans des boites : Ø≥50 mm
+-   Para la instalación en latas: Ø≥50 mm
 
--   Dimensions : 42 x 37 x 17 mm
+-   Dimensiones: 42 x 37 x 17 mm
 
--   Normes Européenes : EMC 2004/108/EC R&TTE 199/5/WE
+-   normas europeas: EMC 2004/108 / CE R & TTE 199/5 / WE
 
--   Ce module nécessite un contrôleur Z-Wave pour fonctionner.
+-   Este módulo requiere un controlador Z-Wave de operar.
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
--   Marque : Fibar Group
+-   Marca: Grupo Fibar
 
--   Nom : Fibaro FGRGB-101 RGBW
+-   Nombre: Fibaro FGRGB-101 RGBW
 
--   Fabricant ID : 271
+-   Identificación del fabricante: 271
 
--   Type Produit : 2304
+-   Tipo de producto: 2304
 
--   Produit ID : 4096
+-   Identificación del producto: 4096
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![vue bp inclusion](../images/fibaro.fgrgb101/vue_bp_inclusion.png)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgrgb101/configuration.png)
 
- \
+\
 
-### Commandes 
+### comandos
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgrgb101/commande_1.png)
 
 ![Commandes](../images/fibaro.fgrgb101/commande_2.png)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
--   Couleur : C’est la commande qui permet de régler le code couleur à
-    afficher
+-   Color: Este es el comando para establecer el código de color
+    visualización
 
--   Cheminée : C’est la commande qui permet de simuler une ambiance de
-    cheminée
+-   Chimenea: Este es el comando para simular un ambiente de
+    hogar
 
--   Orage : C’est la commande qui permet de simuler une ambiance d’Orage
+-   Tormenta: Este es el comando para simular un ambiente de tormenta
 
--   Aube : C’est la commande qui permet de simuler une ambiance d’aude
-    (levée progressive du soleil)
+-   Alba: Este es el comando que simule una atmósfera de Aude
+    (Amanecer gradual)
 
--   Fading : C’est la commande qui permet de simuler l’ensemble du
-    spectre de couleur
+-   Desvaneciendo: Este es el comando para simular el conjunto
+    espectro de color
 
--   RBB : C’est la commande qui permet de simuler une ambiance de flic
+-   RBB: Este es el comando que simula un ambiente poli
 
--   Blanc Froid : C’est la commande qui permet de simuler d’avoir une
-    couleur type blanc froid, si le bandeau de couleur le permet. (cette
-    commande est non visible par défaut)
+-   Blanco frío: Este es el comando que simule tener una
+    fresco tipo de color blanco si la banda de color permite. (este
+    comando no es visible por defecto)
 
--   Blanc Chaud : C’est la commande qui permet de simuler d’avoir une
-    couleur type blanc chaud, si le bandeau de couleur le permet. (cette
-    commande est non visible par défaut)
+-   Blanco caliente: Este es el comando que simule tener una
+    tipo de color blanco cálido si la banda de color permite. (este
+    comando no es visible por defecto)
 
--   On : C’est la commande qui permet d’allumer le bandeau sur la
-    dernière couleur choisit auparavant
+-   Uno: Este es el comando para activar la banda para la cabeza en
+    último color seleccionado antes de
 
--   Off : C’est la commande qui permet d’éteindre le bandeau
+-   Apagado: Este es el comando para apagar la venda de los ojos
 
--   Intensité : C’est la commande qui permet de régler l’intensité
-    lumineuse
+-   Intensidad: Este es el comando para ajustar la intensidad
+    luz
 
-A noter que sur le dashboard toutes les infos se retrouvent sur le même
-icone
+Tenga en cuenta que la información completa salpicadero se puede encontrar en la misma
+icono
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/fibaro.fgrgb101/parametres.png)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
-Merci de vous rapporter à la capture d’écran précédente, les paramètres
-étant traduit en francais.
+Gracias a traer a la pantalla anterior, los ajustes
+siendo traducido al francés.
 
- \
+\
 
-### Groupes 
+### grupos
 
-Ce module possède cinq groupes d’association, seul le cinquième est
-indispensable.
+Este módulo cuenta con cinco grupos de asociación, el quinto es
+esencial.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgrgb101/groupes.png)
 
-Bon à savoir 
+Bueno saber
 ------------
 
-### Spécificités 
+### detalles específicos
 
-Utilisation des capteurs 0-10V.
+Usando 0-10V sensores.
 
- \
+\
 
-> **Caution**
+> ** Atención **
 >
-> Pour l’instant, la configuration par défaut de jeedom ne le permet
-> pas, mais une configuration spécifique peut être envisagée.
+> En la actualidad, la configuración por defecto permite la jeedom
+> No, pero una configuración específica puede ser considerado.
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![Visuel alternatif](../images/fibaro.fgrgb101/Visuel_alternatif.png)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
-Pour l’instant, la configuration par défaut de jeedom ne le permet pas,
-mais une configuration spécifique peut être envisagée.
+Por ahora, la configuración por defecto no permite jeedom,
+pero una configuración específica puede ser considerado.
 
- \
+\
 

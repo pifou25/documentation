@@ -1,20 +1,20 @@
-| Nom                     | Remarque                | Lien                     |
+| Name                     | Note                | Link                     |
 |-------------------------|-------------------------|--------------------------|
 | Android IP webcam       |                         |                          |
-| Alcatel portier vidéo   |                         |                          |
+| Alcatel video door entry system   |                         |                          |
 | Axis 207W               |                         |                          |
-| Bluestork               | Tous les modèles (validé sur BS-IPCAM/TP,BS-IPCAM-W, BS-CAM-IND) |                          |
+| Bluestork               | All models (validated on BS-IPCAM / TP, BS-IPCAM-W, BS-CAM-IND) |                          |
 | D-link DCS              |                         |                          |
 | D-Link DCS-5020L        |                         |                          |
 | D-Link EyeOn baby       |                         |                          |
 | Monitor                 |                         |                          |
-| Ebode exterieure        |                         |                          |
-| Ebode motrisée          |                         |                          |
-| Ebode HD motorisée      |                         |                          |
+| Outdoor Ebode        |                         |                          |
+| Motivated Ebode          |                         |                          |
+| Motorized HD Ebode      |                         |                          |
 | Foscam C1               |                         |                          |
-| Foscam HD motorisée     |                         |                          |
-| Foscam motorisée        |                         |                          |
-| Foscam FI9803EP/FI9803P | Attention il faut mettre [ce patch](:https://drive.google.com/file/d/0B9gdDNCtvjAITEs0UjduRV9zSG8/view?usp=sharing) pour que la caméra fonctionne
+| Foscam HD motorized     |                         |                          |
+| Motorized Foscam        |                         |                          |
+| Foscam FI9803EP / FI9803P | Warning, you must put [this patch] (: https: //drive.google.com/file/d/0B9gdDNCtvjAITEs0UjduRV9zSG8/view?usp=c sharing) for the camera to work
 | Heden CAMHED05IPWN      |                         |                          |
 | (V5.5)                  |                         |                          |
 | Heden Visioncam 22      |                         |                          |
@@ -26,11 +26,11 @@
 | Hikvision               |                         |                          |
 | DS-2CD2732F-IS          |                         |                          |
 | Hikvision.DS-7216HWI-SH |                         |                          |
-| -A                      |                         |                          |
-| IP\_Linkcom portier     |                         |                          |
-| vidéo                   |                         |                          |
-| Konx portier vidéo      |                         |                          |
-| Mustcam HD motorisée    |                         |                          |
+| -AT                      |                         |                          |
+| IP \ _Linkcom gatekeeper     |                         |                          |
+| video                   |                         |                          |
+| Konx video doorman      |                         |                          |
+| Motorized HD Mustcam    |                         |                          |
 | Panasonic BL-C121       |                         |                          |
 | RPI Cam                 |                         |                          |
 | Tenvis                  |                         |                          |
@@ -41,12 +41,12 @@
 | Vivotek 7xxx            |                         |                          |
 | Vivotek 8xxx            |                         |                          |
 | Wanscam HW00XX          |                         |                          |
-| Wanscam motorisée       |                         |                          |
+| Motorized Wanscam       |                         |                          |
 | Y-Cam                   |                         |                          |
 | Zavio F3115             |                         |                          |
 
-> **Note**
+> ** Note **
 >
-> Cette liste est dressée grâce aux retours utilisateurs, l’équipe
-> Jeedom ne peut donc garantir que toutes les caméras de cette liste
-> sont 100% fonctionnelles.
+> This list is drawn up thanks to the user feedback, the team
+> Jeedom can not guarantee that all cameras in this list
+> are 100% functional.

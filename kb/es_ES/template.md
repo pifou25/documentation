@@ -1,14 +1,14 @@
-Symptôme 
+síntoma
 ========
 
-Analyse 
+análisis
 =======
 
-Résolution 
+resolución
 ==========
 
-Version applicable 
+versión aplicable
 ==================
 
-Voir aussi 
+Ver también
 ==========

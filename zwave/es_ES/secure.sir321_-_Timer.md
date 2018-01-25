@@ -1,214 +1,214 @@
-Secure SIR 321 "Timer" 
+Asegure SIR 321 "temporizador"
 ======================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/secure.sir321/module.jpg)
 
- \
+\
 
--   **Le visuel jeedom**
+-   ** El jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/secure.sir321/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le minuteur numérique SIR321 est un simple interrupteur à
-bouton-poussoir qui se souvient d’éteindre, à votre place, vos appareils
-électriques. De grosses économies d’énergie sont possibles en ajoutant
-ce dispositif simple sur tout appareil électrique de grande puissance,
-avec des charges allants jusqu’à 3kW (résistif).
+El SIR321 temporizador digital es un simple interruptor de
+pulsador que recuerda a apagar, para usted, sus dispositivos
+eléctrica. son posibles grandes ahorros de energía mediante la adición
+este sencillo dispositivo en cualquier dispositivo eléctrico de alta potencia,
+Ir con cargas de hasta 3 kW (resistiva).
 
-Ces unités sont parfaites pour être utilisées sur les panneaux
-chauffants, thermoplongeurs, sèche-serviettes et radiateurs d’huile. Le
-boost va de 30 à 120 minutes.
+Estas unidades son ideales para su uso en los signos
+de calentamiento, calentadores de inmersión, toalla y enfriadores de aceite. la
+impulso es de 30 a 120 minutos.
 
-Le SIR 321 prend en charge les capteurs de température externe SES001,
-SES002 et SES003.
+SIR 321 soporta sensores de temperatura externa SES001,
+SES002 y SES003.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Booster pour thermoplongeur, radiateur panneau, sèche-serviettes,
-    radiateur à bain d’huile
+-   calentador de refuerzo, el panel radiador, toalla,
+    baño de aceite radiador
 
--   Minuterie pour chaudière
+-   Temporizador para la caldera
 
--   Ventilation forcée dans les salles de conférence
+-   La ventilación forzada en salas de conferencias
 
--   Mesure de la température de chauffage au sol (avec sondes en option)
+-   Medición de la temperatura de calentamiento de suelo (con sensores opcionales)
 
--   Simple à utiliser et fiable
+-   Fácil de usar y fiable
 
--   Réalise des économies d’énergie
+-   Darse cuenta de ahorro de energía
 
- \
+\
 
-Caractéristiques Techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type: Minuteur électronique
+-   Tipo: Temporizador electrónico
 
--   Relais: 13(3)A, 230V AC, approprié pour des charges allants jusqu’à
-    3kW
+-   RELAIS 13 (3) A, 230V AC, idóneo para cargas de hasta llegados
+    3 kW
 
--   Alimentation: 230V AC, 50Hz
+-   Fuente de alimentación: 230 V CA, 50 Hz
 
--   Dimensions 85x85x44mm
+-   dimensiones 85x85x44mm
 
--   Indice de protection : IP30
+-   Protección: IP30
 
--   Température de fonctionnement: 0°C à 35°C
+-   Temperatura de funcionamiento: 0 ° C a 35 ° C
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Horstmann
+-   Marca: Horstmann
 
--   Nom : SIR 321 RF Countdown Timer
+-   Nombre: SIR 321 temporizador de cuenta regresiva de RF
 
--   Fabricant ID : 89
+-   Identificación del fabricante: 89
 
--   Type Produit : 1/2 (en fonction de si il est inclus avec une sonde
-    de température ou non)
+-   Tipo de producto: 1/2 (dependiendo de si se incluye con una sonda
+    temperatura o no)
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 1 seconde sur
-> le bouton (jusqu’au clignotement rapide) et relacher, conformément à
-> sa documentation papier.
+> Para poner este modo la inclusión del módulo hay que pulsar 1 segundo
+> Botón (a parpadeo rápido) y la liberación de conformidad con
+> Su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/secure.sir321/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/secure.sir321/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/secure.sir321/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   On : c’est la commande permettant d’allumer le relais
+-   Uno: la orden de entregar
 
--   Off : c’est la commande permettant d’éteindre le relais
+-   Apagado: este es el comando para apagar el relé
 
--   Température : c’est la commande de mesure de la température si une
-    sonde externe est présente
+-   Temperatura: la medición de la temperatura de control si una
+    sonda externa está presente
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Si vous voulez configurer le module il faut passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Si desea configurar el módulo que tiene que utilizar el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/secure.sir321/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: Permet d’activer ou non la fonction fail safe timer (se référer à
-    la documentation du module)
+-   1: Habilitar o no la función de temporizador a prueba de fallos (véase
+    la documentación del módulo)
 
--   2: Permet de régler l’unité de la température
+-   2: Ajuste la unidad de temperatura
 
--   3: Permet de régler l’intervalle de temps d’envoi de la température
-    à Jeedom (en secondes)
+-   3: Establecer el intervalo de enviar el tiempo de la temperatura
+    a Jeedom (en segundos)
 
--   4: Permet de régler de combien doit varier la température pour que
-    le module l’envoie à Jeedom (par pas de 0.1 10-→0.1)
+-   4: ajustar la cantidad debe variar la temperatura para ese
+    el módulo envía a Jeedom (en 0,1 10- → 0.1)
 
--   5: Permet de régler une température de cut off au delà de laquelle
-    le module coupera le relais
+-   5: Ajuste una temperatura de corte más allá del cual
+    el módulo de relé
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association. Si le premier est
-indispensable, le deuxième est actif et est indispensable si une sonde
-de température est reliée.
+Este módulo tiene dos grupos de asociación. Si el primero es
+esencial, el segundo es activa y es esencial si una sonda
+temperatura está conectado.
 
- \
+\
 
 ![Groupe](../images/secure.sir321/groupe.jpg)
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

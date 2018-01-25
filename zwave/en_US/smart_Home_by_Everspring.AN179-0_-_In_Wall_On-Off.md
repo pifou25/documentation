@@ -1,275 +1,275 @@
-SmartHome by Everspring In Wall On Off - AN179-0 
+SmartHome by Everspring In Wall On Off - AN179-0
 ================================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/smarthomebyeverspring.AN179-0/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/smarthomebyeverspring.AN179-0/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-Le Micromodule Mural ON/OFF de la marque SmartHome Europe by Everspring,
-est conçu pour contrôler l’allumage et l’extinction des luminaires et
-des appareils électriques de votre maison. Deux jeux de contacts secs
-permettent le raccordement de deux interrupteurs.
+The ON / OFF Wall Micromodule from SmartHome Europe by Everspring,
+is designed to control the switching on and off of luminaires and
+electrical appliances in your home. Two sets of dry contacts
+allow the connection of two switches.
 
-À des fins de sécurité, l’unité peut détecter la surchauffe et éteindra
-directement le relais afin d’éviter tout dommage. À une tension de 230
-V, ce module peut supporter jusqu’à 11 A en charge résistive, 1200 Watts
-en incandescence, 700 Watts de moteur, ou 320 Watts (8 x 40 Watts) de
-charge fluorescente.
+For security purposes, the unit can detect overheating and extinguish
+directly relay to avoid any damage. At a voltage of 230
+V, this module can support up to 11A resistive load, 1200 Watts
+incandescent, 700 Watts of motor, or 320 Watts (8 x 40 Watts) of
+fluorescent charge.
 
-Le Micromodule Mural ON/OFF est un appareil compatible Z-Wave™ qui est
-destiné pour fonctionner avec tous les réseaux compatibles Z-Wave™. Il
-peut être contrôlé par une télécommande, un logiciel PC, ou n’importe
-quel contrôleur Z-Wave de votre réseau.
+The ON / OFF Wall Micromodule is a Z-Wave ™ compatible device that is
+designed to work with all Z-Wave ™ compatible networks. he
+can be controlled by remote control, PC software, or any
+which Z-Wave controller on your network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Commandez un éclairage/appareil à distance
+-   Control lighting / device remotely
 
--   S’installe derrière un interrupteur existant
+-   Installs behind an existing switch
 
--   Fonction ON/OFF
+-   ON / OFF function
 
--   Faible consommation d’énergie
+-   Low energy consumption
 
--   Très petit, dimensions réduites
+-   Very small, small dimensions
 
--   Antenne longue portée
+-   Long range antenna
 
--   Technologie Z-Wave Plus
+-   Z-Wave Plus Technology
 
--   S’installe facilement dans une boîte d’encastrement standard
+-   Easily installs in a standard flush-mounting box
 
--   Bouton pour inclure/exclure/associer le module
+-   Button to include / exclude / associate module
 
--   Fonction répéteur Z-Wave
+-   Z-Wave repeater function
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Module Type: Z-Wave Receiver
 
--   Alimentation : 230 V, 50 Hz
+-   Power supply: 230 V, 50 Hz
 
--   Consommation : 0.5W
+-   Consumption: 0.5W
 
--   Puissance maximum : Charge résistive : 2500W Ampoule à incandesence
-    : 1200W Ampoule Fluocompacte : 320W
+-   Maximum power: Resistive load: 2500W Incandescent bulb
+    : 1200W Compact Fluorescent Light Bulb: 320W
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Portée : jusqu’à 70 m à l’extérieur, jusqu’à 30 m dans les bâtiments
+-   Range: up to 70 m outdoors, up to 30 m in buildings
 
--   Affichage: LED sur le bouton
+-   Display: LED on the button
 
--   Dimensions : 42mm x 43mm x 16mm
+-   Dimensions: 42mm x 43mm x 16mm
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : SmartHome by Everspring
+-   Brand: SmartHome by Everspring
 
--   Nom : In Wall On Off
+-   Name: In Wall On Off
 
--   Fabricant ID : 96
+-   Manufacturer ID: 96
 
--   Type Produit : 4
+-   Product Type: 4
 
--   Produit ID : 8
+-   Product ID: 8
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur son
-> bouton, conformément à sa documentation papier. Il est important de
-> noter que ce module se met directement en inclusion lorsqu’il
-> n’appartient à aucun réseau et qu’il est alimenté
+> To put this module in inclusion mode you have to press 3 times on its
+> button, according to its paper documentation. It's important to
+> note that this module is directly included when
+> does not belong to any network and is powered
 
- \
+\
 
 ![inclusion](../images/smarthomebyeverspring.AN179-0/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/smarthomebyeverspring.AN179-0/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/smarthomebyeverspring.AN179-0/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   On : C’est la commande qui permet d’allumer la lumière
+-   On: This is the command that turns on the light
 
--   Off : C’est la commande qui permet d’éteindre la lumière
+-   Off: This is the command that turns off the light
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    lumière
+-   Status: This is the order that allows to know the status of the
+    light
 
- \
+\
 
-A noter que sur le dashboard, les infos Etat, ON/OFF se retrouvent sur
-le même icone.
+Note that on the dashboard, state, ON / OFF information is found on
+the same icon.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/smarthomebyeverspring.AN179-0/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1 : Ce paramètre déﬁnit la commande de valeur d’état, il n’est pas
-    conseillé de changer cette valeur.
+-   1: This parameter sets the status value command, it is not
+    advised to change this value.
 
--   2 : Ce paramètre définit le délai d’envoi du changement d’état au
-    groupe 1 (valeur comprise entre 3 et 25 secondes)
+-   2: This parameter sets the delay for sending the state change to
+    group 1 (value between 3 and 25 seconds)
 
--   3 : Ce paramètre permet de définir si l’interrupteur reprendra son
-    statut (ON ou OFF) après une reprise de courant.
+-   3: This parameter defines whether the switch will resume its
+    status (ON or OFF) after a power recovery.
 
--   4 : Ce paramètre permet de définir le type
-    d’interrupteur (poussoir/bistable)
+-   4: This parameter defines the type
+    switch (push / bistable)
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 2 groupes d’association.
+This module has 2 association groups.
 
- \
+\
 
 ![Groupe](../images/smarthomebyeverspring.AN179-0/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> A minima Jeedom devrait se retrouver dans le groupe 1  \
+> At least Jeedom should be in group 1 \
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
--   Le retour d’état ne peut pas être configuré en dessous de 3
-    secondes.  \
+-   Status feedback can not be set below 3
+    seconds. \
 
-### Visuel alternatif 
+### Alternative visual
 
- \
+\
 
 ![vuewidget](../images//smarthomebyeverspring.AN179-0/vuewidget.jpg)
 
- \
+\
 
-Wake up 
+Wake up
 -------
 
- \
+\
 
-Pas de notion de wake up sur ce module.
+No concept of wake up on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Oui c’est le paramètre 2 et il ne peut pas être réglé en dessous de 3
-secondes.
+Yes it is parameter 2 and it can not be set below 3
+seconds.
 
- \
+\
 
-Non. ce module peut s’inclure ou s’exclure en appuyant plusieurs fois
-sur l’interrupteur.
+No. this module can be included or excluded by pressing several times
+on the switch.
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

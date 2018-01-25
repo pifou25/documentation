@@ -1,39 +1,39 @@
-Shellinabox est une console accessible depuis un navigateur.
+Shellinabox is a console accessible from a browser.
 
-Cela se présente sous la forme d’un service écoutant sur le port 4200 en
-https. On va décrire son installation et ensuite les configurations de
+This comes in the form of a service listening on port 4200 in
+https. We will describe its installation and then the configurations of
 reverse proxy
 
-Installation de Shellinabox 
+Shellinabox installation
 ===========================
 
-Voici la commande à lancer pour installer Shellinabox :
+Here is the command to launch to install Shellinabox:
 
-    sudo apt-get -y shellinabox
+    sudo apt-get -y shellinabox
 
-Reverse Proxy Apache 
+Reverse Proxy Apache
 ====================
 
-Il faut créer un fichier dans
-/etc/apache2/sites-enabled/shellinabox.conf avec le contenu ci-dessous
-et ensuite redémarrer Apache
+You have to create a file in
+/etc/apache2/sites-enabled/shellinabox.conf with the content below
+and then restart Apache
 
-    <Location /jeedom/shellinabox>
-    Proxypass  http://localhost:4200/
-    #ProxyPassReverse  http://localhost:4200/
-    Allow from all
-    </Location>
+    <Location / jeedom / shellinabox>
+    Proxypass http: // localhost: 4200 /
+    #ProxyPassReverse http: // localhost: 4200 /
+    Allow from all
+    </ Location>
 
-Reverse Proxy Nginx 
+Reverse Proxy Nginx
 ===================
 
-Il faut créer un fichier dans /etc/nginx/sites-enabled/shellinabox.conf
-avec le contenu ci-dessous et ensuite redémarrer Nginx
+You need to create a file in /etc/nginx/sites-enabled/shellinabox.conf
+with the content below and then restart Nginx
 
-    location /jeedom/shellinabox/ {
-    proxy_pass http://127.0.0.1:4200;
-    proxy_set_header Host $host;
-    proxy_buffering off;
-    tcp_nodelay on;
-    access_log off;
-    }
+    location / jeedom / shellinabox / {
+    proxy_pass http://127.0.0.1:4200;
+    proxy_set_header Host $ host;
+    proxy_buffering off;
+    tcp_nodelay on;
+    access_log off;
+    }

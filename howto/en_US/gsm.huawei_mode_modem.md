@@ -1,63 +1,63 @@
-Dans 90% des cas il n’est pas nécessaire de forcer les clefs GSM en mode
-GSM seulement (au lieu de GSM + cdrom + lecteur de carte), le seul cas
-où c’est obligatoire c’est si vous voulez utiliser la clef dans un
-Jeedom sur une VM (VMware ESXi). En effet si vous ne la passez pas en
-mode GSM seulement la clef n’apparaîtra pas dans la liste des
-périphériques USB que vous pouvez faire passer à la VM.
+In 90% of cases it is not necessary to force the GSM keys into
+GSM only (instead of GSM + CDROM + card reader), the only case
+where it's mandatory is if you want to use the key in a
+Jeedom on a VM (VMware ESXi). Indeed if you do not pass it in
+GSM mode only the key will not appear in the list of
+USB devices that you can pass to the VM.
 
-> **Important**
+> ** Important **
 >
-> Ce tuto a été fait sur un Windows 10
+> This tutorial was done on a Windows 10
 
-Installation des drivers 
+Installing drivers
 ========================
 
-Une fois la clef connectée à un PC Windows 10 vous devez avoir un
-nouveau lecteur CD-ROM. Il faut double-cliquer dessus et installer le
-logiciel proposé (il n’y a rien à changer faîtes juste suivant tout le
+Once the key connected to a Windows 10 PC you must have a
+new CD-ROM drive. You have to double click on it and install the
+software proposed (there is nothing to change do just following the whole
 long).
 
 ![gsmonly](../images/gsmonly.PNG)
 
-Récupération du port COM 
+COM port recovery
 ========================
 
-Ensuite il faut récupérer le numéro du port de communication. Allez sur
-le menu "Démarrer" et recherchez "Gestionnaire de périphériques", lancer
-celui-ci puis dépliez la partie "Ports (COM et LPT)", vous devriez avoir
-un item contenant "HUAWEI", il faut ensuite juste retenir le numéro du
-port COM :
+Then you have to get the number of the communication port. Go to
+the "Start" menu and search for "Device Manager", launch
+this one and then unfold the part "Ports (COM and LPT)" you should have
+an item containing "HUAWEI", then just remember the number of the
+COM port:
 
 ![gsmonly2](../images/gsmonly2.PNG)
 
-Téléchargement de Putty 
+Download Putty
 =======================
 
-Téléchargez ensuite putty
-[ici](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe) et
-lancez le fichier téléchargé
+Then download putty
+[here] (https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe) and
+launch the downloaded file
 
-Configuration de putty et passage en mode GSM seulement 
-=======================================================
+Putty configuration and switching to GSM mode only
+================================================== =====
 
-Une fois lancé configurez putty comme cela (en mettant bien votre numéro
-de port COM à vous, voir étape au-dessus) :
+Once launched configure putty like this (putting your number correctly
+COM port to you, see step above):
 
 ![gsmonly3](../images/gsmonly3.PNG)
 
-Une fenêtre noire va apparaître (il peut de temps en temps y avoir un
-message "boot…​", c’est normal, cela veut dire que vous êtes bien
-connecté à la clef GSM). Dans cette fenêtre il faut taper puis appuyez
-sur la touche "Entrée" :
+A black window will appear (from time to time there may be a
+"boot ..." message, that's normal, that means you're fine
+connected to the GSM key). In this window you must type and press
+on the "Enter" key:
 
-    AT^u2diag=0
+    AT ^ u2diag = 0
 
-> **Important**
+> ** Important **
 >
-> Attention quand vous allez taper le texte vous n’allez rien voir à
-> l’écran, c’est normal, le texte est quand même bien pris en compte.
+> Be careful when you go to type the text you will not see anything at
+> the screen is normal, the text is still well taken into account.
 
-Normalement en retour vous devez avoir un OK.
+Normally in return you must have an OK.
 
-Voilà c’est terminé. Votre clef est bien en mode GSM seulement et vous
-pouvez vous en servir à travers un VMware maintenant.
+That's it. Your key is in GSM mode only and you
+can you use it through a VMware now.

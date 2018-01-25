@@ -1,171 +1,171 @@
--   **Le module**
+-   **The module**
 
 ![ems200.module](../images/ems200/ems200.module.jpg)
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
 ![ems200.vue defaut](../images/ems200/ems200.vue-defaut.jpg)
 
-Résumé 
+summary
 ======
 
-Placé dans un couloir, le salon, le garage de votre maison par exemple,
-le capteur de mouvement détecte une présence, le changement d’état est
-instantané.
+Placed in a corridor, the living room, the garage of your house for example,
+the motion sensor detects a presence, the change of state is
+instantaneous.
 
-Grâce à son angle de vision étendu et sa portée, il permet de sécuriser
-un large périmètre. L’indicateur LED intégré signale tout changement
-d’état.
+Thanks to its wide viewing angle and range, it helps to secure
+a wide perimeter. Built-in LED indicator signals any changes
+state.
 
-Fonctions 
+functions
 =========
 
--   Détecte les mouvements, même dans le noir complet
+-   Detects movements, even in complete darkness
 
 -   Ultra compact
 
--   Signal transmis instantanément lors d’une détection
+-   Signal transmitted instantly during a detection
 
--   Auto-protection à l’arrachage
+-   Self-protection on pulling out
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
--   Montage au mur par des vis ou par double face
+-   Wall mounting with screws or double-sided
 
--   Informations sur le niveau de la batterie
+-   Battery level information
 
-Caractéristiques techniques 
+Technical characteristics
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Module type: Edisio transmitter
 
--   Alimentation : 3VDC (Pile Lithium ER14250)
+-   Power Supply: 3VDC (ER14250 Lithium Battery)
 
--   Fréquence : 868,3 MHz
+-   Frequency: 868.3 MHz
 
--   Température de fonctionnement : 0°C +45°C
+-   Operating temperature: 0 ° C + 45 ° C
 
--   Portée en champs libre : 100M
+-   Free field range: 100M
 
--   Portée de détection : 6M
+-   Range of detection: 6M
 
--   Dimensions : 25x79x19mm
+-   Dimensions: 25x79x19mm
 
--   Degré de protection : IP20
+-   Degree of protection: IP20
 
--   Utilisation : En intérieur
+-   Use: Indoor
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : EMS-200
+-   Name: EMS-200
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Important **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
-> **Tip**
+> ** Tip **
 >
-> Le placement est conseillé à une hauteur de 150 cm et à proximité de
-> la température ressentie voulue.
+> The placement is recommended at a height of 150 cm and close to
+> the desired temperature.
 
-Bouton "E" 
+Button "E"
 ----------
 
-Vous trouverez le bouton "E" qui est le bouton d’association du capteur
-de température.
+You will find the "E" button which is the sensor association button
+temperature.
 
 ![ems200.bouton e](../images/ems200/ems200.bouton-e.jpg)
 
-Détection 
+Detection
 ---------
 
-Le capteur détecte le moindre mouvement dans un rayon d’environ 6m
+The sensor detects the slightest movement in a radius of about 6m
 
 ![ems200.detection](../images/ems200/ems200.detection.jpg)
 
-Réglage de la minuterie 
+Setting the timer
 -----------------------
 
-Par défaut, la minuterie est désactivée. Ce paramètre sert à configurer
-le délai :
+By default, the timer is disabled. This parameter is used to configure
+the delay:
 
 ![ems200.minuterie](../images/ems200/ems200.minuterie.jpg)
 
-Association du capteur à Jeedom 
+Association of the sensor at Jeedom
 ===============================
 
-L’association du capteur de mouvement, est simple comme bonjour. Il
-suffit d’appuyer sur le bouton "E", situé sous le capteur. Celui-ci sera
-reconnu automatiquement par Jeedom. Il suffira de se rendre dans le
-plugin Edisio. Vous pourrez ainsi le placer dans un objet, lui donner un
-nom et sauvegarder.
+The association of the motion sensor, is simple as hello. he
+just press the "E" button, located under the sensor. This one will be
+automatically recognized by Jeedom. It will be enough to go to
+Edisio plugin. So you can place it in an object, give it a
+name and save.
 
-Une fois votre équipement associé, vous devriez obtenir ceci :
+Once your equipment is associated, you should get this:
 
 ![ems200.general](../images/ems200/ems200.general.jpg)
 
-> **Tip**
+> ** Tip **
 >
-> Afin que le widget soit présent sur le dashboard, pensez à placer
-> votre équipement dans un objet.
+> In order for the widget to be present on the dashboard, consider placing
+> your equipment in an object.
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is created, you should get the orders
+associated with the module:
 
 ![Commandes](../images/ems200/ems200.commande.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   Présence : C’est la commande qui indique si une présence est
-    détectée
+-   Presence: This is the command that indicates if a presence is
+    detected
 
--   Batterie : Indique l’état de la batterie
+-   Battery: Indicates the status of the battery
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/ems200/ems200.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à était créé
+-   Creation: Indicates the date the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the module
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Battery: Indicates battery status of battery modules
 
--   Status : Retourne le status du module
+-   Status: Returns the status of the module
 
-Visuel alternatif 
+Alternative visual
 =================
 
 ![ems200.vue alternative](../images/ems200/ems200.vue-alternative.jpg)
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment piloter un récepteur Z-Wave?
+How to pilot a Z-Wave receiver?
 
-:   Avec le plugin Scénario de Jeedom.
+: With the Jeedom script plugin.
 
-Comment puis-je avoir le même visuel ?
+How can I have the same visual?
 
-:   Avec le plugin Widgets de Jeedom.
+: With the Jeedom Widgets plugin.
 
-**@Jamsta**
+** @ ** Jamsta

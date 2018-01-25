@@ -1,185 +1,185 @@
-Ce tutorial vous présente :
+This tutorial presents:
 
--   Création d’un compte GitHub
+-   Creating a GitHub account
 
--   Fork de Jeedom Core ou de la documentation
+-   Jeedom Core Fork or Documentation
 
--   Modification d’un ou plusieurs fichiers
+-   Editing one or more files
 
--   Soumettre une modification
+-   Submit a change
 
--   La mise à jour de votre fork
+-   Updating your fork
 
-Pour vous permettre de contribuer à Jeedom, il vous sera nécessaire de
-proposer les modifications (PR : Pull Request).
+To enable you to contribute to Jeedom, you will need to
+propose the modifications (PR: Pull Request).
 
-Création d’un compte GitHub 
+Creating a GitHub account
 ===========================
 
-Nous allons aborder dans ce tuto la manière de créer un compte GitHub,
-afin de pouvoir remonter des bugs (issue dans le langage GitHub), voire
-même proposer des corrections (Pull Request ou PR en langage github)
-pour l’ensemble du projet Jeedom, incluant ses plugins gratuits ou la
-documentation, ou encore tout autre projet github auxquels vous
-souhaiteriez participer.
+We will discuss in this tutorial how to create a GitHub account,
+in order to be able to trace bugs (issue in the language GitHub) or
+even propose corrections (Pull Request or PR in github language)
+for the entire Jeedom project, including its free plugins or the
+documentation, or any other github project that you
+would like to participate.
 
-Se rendre sur <https://github.com> et cliquer sur le bouton sign up.
-Vous devriez donc être sur une page ressemblant à celle ci-dessous et
-devez donc renseigner un pseudo, un email et un mot de passe et ensuite
-cliquer sur **Create an account**
+Go to <https://github.com> and click on the sign up button.
+So you should be on a page similar to the one below and
+must fill in a username, an email and a password and then
+click on ** Create an account **
 
 ![tuto.github1](../images/tuto.github1.png)
 
-Vous arrivez donc sur une 2eme page comme ci-dessous et vous ne changez
-rien, vous cliquez sur **Continue**
+So you arrive on a 2nd page as below and you do not change
+nothing, you click ** Continue **
 
 ![tuto.github2](../images/tuto.github2.png)
 
-Vous voilà inscrit et sur la page de configuration des options de votre
-compte. Je vous conseille de vérifier l’adresse email afin de pouvoir
-récupérer votre compte en cas d’oubli de mot de passe par exemple mais
-aussi afin de pouvoir soumettre des modifications. Je vous laisse
-également découvrir les autres options si vous êtes curieux.
+Here you are registered and on the options configuration page of your
+account. I advise you to check the email address in order to be able to
+recover your account in case of forgotten password for example but
+also in order to be able to submit changes. I leave you
+also discover the other options if you are curious.
 
 ![tuto.github3](../images/tuto.github3.png)
 
-Fork de Jeedom Core ou de la documentation 
+Jeedom Core Fork or Documentation
 ==========================================
 
-**Fork - Pourquoi - Comment**
+** Fork - Why - How **
 
-Fork c’est copier un projet dans votre espace github, afin de pouvoir
-modifier les fichiers de code, de documentation pour ensuite soumettre
-un Pull Request au projet d’origine, qui sera alors étudié par le ou les
-développeur(s) du dit projet
+Fork is copying a project into your github space, so you can
+edit code files, documentation and then submit
+a Pull Request to the original project, which will then be studied by the
+developer (s) of the said project
 
-Maintenant que vous avez un compte Github et que vous êtes identifiez
-avec votre adresse email vérifiée, si vous vous rendez ici
-<https://github.com/jeedom/core> vous êtes sur le projet jeedom, à
-droite il y a un bouton fork vous permettant de le copier dans votre
-espace github.
+Now that you have a Github account and you are identifying
+with your verified email address, if you go here
+<https://github.com/jeedom/core> you are on the jeedom project, at
+right there is a fork button allowing you to copy it into your
+github space.
 
 ![tuto.github4](../images/tuto.github4.png)
 
-Modification d’un ou plusieurs fichiers 
+Editing one or more files
 ---------------------------------------
 
-Dans mon cas, je souhaite donc pousser une modification sur le fichier
-*history.class.php* Ce fichier se situe dans le core de jeedom et plus
-précisément ici : core/class/
+In my case, I want to push a modification on the file
+* history.class.php * This file is located in the core of jeedom and more
+precisely here: core / class /
 
-1.  On est donc sur mon dépôt (TaGGoU91 / core) qui est indiqué comme
-    étant un fork de Jeedom/core
+1.  So we are on my repository (TaGGoU91 / core) which is indicated as
+    being a fork of Jeedom / core
 
-2.  On se rend donc dans /core/class (le premier core est en gras, c’est
-    le dépôt ou je suis (core, cf Petit 1)
+2.  So we go to / core / class (the first core is in bold, it's
+    the deposit where I am (core, cf Petit 1)
 
-3.  On a donc notre fichier *history.class.php* - On clique sur le
-    fichier
+3.  So we have our file * history.class.php * - We click on the
+    file
 
 ![tuto.github5](../images/tuto.github5.png)
 
-1.  On est donc bien dans notre fichier
+1.  So we are in our file
 
-2.  On clique sur le crayon pour entrer en modification
+2.  Click on the pencil to enter a modification
 
 ![tuto.github6](../images/tuto.github6.png)
 
-Afin de faire une recherche dans le fichier, se positionner dans le bloc
-texte du fichier qu’on vient d’ouvrir en mode édition avec le crayon et
-on fait un "Ctrl + F" pour activer la recherche. Vous coller ou
-spécifier le texte que vous cherchez (un élément significatif et une
-ligne seulement, pas tout un bloc d’un coup). Valider avec "Entrée" pour
-lancer la recherche.
+In order to search the file, position yourself in the block
+text of the file that we just opened in edit mode with the pencil and
+we do a "Ctrl + F" to activate the search. You stick or
+specify the text you are looking for (a significant element and a
+line only, not a whole block at a time). Confirm with "Enter" for
+start a reseach.
 
-> **Tip**
+> ** Tip **
 >
-> Si vous ne cliquez pas dans la fenêtre contenant le texte ou le code
-> que vous cherchez, c’est la recherche du navigateur qui va s’ouvrir et
-> dans mon cas, sur Google chrome, ça ne sait pas faire la recherche
-> dans le code ou la documentation directement.
+> If you do not click in the window containing the text or code
+> what you are looking for is the browser search that will open and
+> in my case, on Google chrome, it does not know how to do research
+> in the code or documentation directly.
 
-1.  Le champ de recherche, oui c’est assez mince comme information, la
-    ligne copié est bien plus grande ;).
+1.  The field of research, yes it's pretty thin as information, the
+    copied line is much larger;).
 
 ![tuto.github7](../images/tuto.github7.png)
 
-1.  En jaune, c’est le résultat de la recherche
+1.  In yellow, it is the result of research
 
-2.  En bleu, ce que je viens de sélectionner et que je souhaite
-    modifier/remplacer par mon code. Ma modification
+2.  In blue, what I just selected and that I wish
+    edit / replace with my code. My modification
 
 ![tuto.github14](../images/tuto.github14.png)
 
-Je supprime donc le bloc puis je le remplace.
+I delete the block then I replace it.
 
-Ensuite, sur la partie basse on trouve ceci : 1. On indique un titre
-explicite si possible 2. On entre une description un peu plus précise
-(dans mon cas, ça serait trop long, le lien vers le forum sera plus
-parlant) 3. On s’assure que ça soit bien coché comme ceci 4. On commit =
-Soumettre la modification
+Then, on the bottom part we find this: 1. We indicate a title
+explicit if possible 2. Enter a more specific description
+(in my case, it would be too long, the link to the forum will be more
+speaking) 3. Make sure it's checked like this 4. On commit =
+Submit the change
 
 ![tuto.github8](../images/tuto.github8.png)
 
-Soumettre une modification 
+Submit a change
 --------------------------
 
-Le **commit** fait au-dessus ne concerne que le fork du projet dans
-votre espace GitHub. Pour soumettre au projet d’origine les changements,
-il faut effecter un PR (Pull Request)
+The ** commit ** done above only concerns the project fork in
+your GitHub space. To submit to the original project the changes,
+you have to make a PR (Pull Request)
 
-1.  On clique sur l’onglet Pull Request
+1.  Click on Pull Request tab
 
-2.  New Pull Request (PR pour les intimes)
+2.  New Pull Request (PR for intimates)
 
 ![tuto.github9](../images/tuto.github9.png)
 
-1.  Le PR va lancer une coparaison entre la base de jeedom avec votre
-    repository (le fork).
+1.  The PR will launch a copreship between the jeedom base with your
+    repository (the fork).
 
-2.  Celà indique les modifications (le premier c’est parce que je me
-    suis remis à jour depuis jeedom, le second concernant justement le
-    changement de la fonction lastchangestateduration, parfait !!!)
+2.  This indicates the changes (the first is because I am
+    have been updated since jeedom, the second one about
+    lastchangestateduration function change, perfect !!!)
 
-3.  L’ancien code
+3.  The old code
 
-4.  Le nouveau code
+4.  The new code
 
-5.  On crée le Pull Request (PR)
+5.  We create the Pull Request (PR)
 
 ![tuto.github10](../images/tuto.github10.png)
 
-Il est important de bien expiiquer les changements soumis pour que le(s)
-développeur(s) du projet d’origine comprennent et puissent valider votre
-demande.
+It is important to explain the changes submitted so that the (s)
+developer (s) of the original project understand and can validate your
+request.
 
-1.  On clique sur les trois petits points
+1.  We click on the three small dots
 
-2.  On recopie les informations que l’on a saisi précédemment
+2.  We copy the information that we previously entered
 
-3.  Idem, on recopie (d’où l’utilisation des …​ à l’étape 1 pour
-    s’éviter une réécriture)
+3.  Ditto, we copy (hence the use of ... in step 1 to
+    avoid a rewrite)
 
-4.  On clique sur Create Pull Request
+4.  We click on Create Pull Request
 
 ![tuto.github11](../images/tuto.github11.png)
 
-**C’est terminé.** Il faut attendre que votre PR soit validé.
+** It's finished. ** You have to wait for your PR to be validated.
 
-NB: Il n’y a que les utilisateurs ayant un droit de push sur jeedom qui
-peuvent valider le PR.
+NB: Only users with a push right on jeedom who
+can validate the PR.
 
-Pour vous assurez que votre modification est bien dans la liste, vous
-pouvez cliquer sur Pull Requests
+To make sure your change is in the list, you
+can click on Pull Requests
 
 ![tuto.github12](../images/tuto.github12.png)
 
-On obtient la liste des PR en attentes de validation On voit bien le
-notre
+We obtain the list of the PRs in expectation of validation One sees well the
+our
 
 ![tuto.github13](../images/tuto.github13.png)
 
-La mise à jour de votre fork 
+Updating your fork
 ============================
 
-A compléter
+To complete

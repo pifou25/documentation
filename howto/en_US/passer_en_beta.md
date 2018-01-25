@@ -1,90 +1,90 @@
-> **Important**
+> ** Important **
 >
-> L’activation des bêtas des plugins est très très risquée et vous
-> **INTERDIT TOUT ACCES AU SUPPORT**. Il faut aussi, obligatoirement,
-> passer Jeedom en bêta et faire des mises à jour fréquentes même s’il
-> n’y a pas de nouvelles mises à jour proposées.
+> Activation of beta plugins is very risky and you
+> ** PROHIBITS ALL ACCESS TO SUPPORT **. It must also, obligatorily,
+> pass Jeedom in beta and make frequent updates even if
+> There are no new updates available.
 
-> **Important**
+> ** Important **
 >
-> Les versions bêtas sont souvent instables et peuvent causer de
-> nombreux soucis, il ne faut surtout pas les mettre sur un système de
-> production. EN CAS DE SOUCIS, L’EQUIPE JEEDOM NE SERA PAS ET NE POURRA
-> PAS ETRE TENUE POUR RESPONSABLE.
+> Beta versions are often unstable and can cause
+> many worries, it is important not to put them on a system of
+> production. IN CASE OF CONCERN, THE TEAM JEEDOM WILL NOT AND WILL NOT
+> NOT BE HELD RESPONSIBLE.
 
-> **Note**
+> ** Note **
 >
-> Cette documentation est volontairement peu detaillée pour que
-> l’opération ne soit pas facile. En effet, être en bêta nécessite des
-> compétences aussi bien en informatique qu’en déchiffrage de logs ou
+> This documentation is intentionally not detailed enough for
+> the operation is not easy. Indeed, being in beta requires
+> skills in both computer science and decryption of logs or
 > documentation.
 
-Passer le core en bêta 
+Skip the core to beta
 ======================
 
-Il faut d’abord passer Jeedom en version bêta. Pour cela, vérifiez que
-vous êtes bien en mode expert, puis Adminitration→Configuration→Mises à
-jour. Dans l’onglet **URL**, cliquez sur **Activer URL** :
+We must first pass Jeedom in beta. For that, check that
+you are in expert mode, then Adminitration → Configuration → Mises à
+day. In the ** URL ** tab, click ** Enable URL **:
 
--   URL core Jeedom : <https://github.com/jeedom/core/archive/beta.zip>
+-   Jeedom core URL: <https://github.com/jeedom/core/archive/beta.zip>
 
--   URL version core Jeedom :
-    <https://raw.githubusercontent.com/jeedom/core/beta/core/config/version>
+-   Jeedom core version URL:
+    <Https://raw.githubusercontent.com/jeedom/core/beta/core/config/version>
 
-Sauvegardez puis réactualisez la page. Toujours dans la partie **Mises à
-jour**, dans **Source de mise à jour** sélectionnez **URL**. Il ne vous
-reste plus qu’à forcer une mise à jour du core pour passer sur la
-version bêta de Jeedom.
+Save and refresh the page. Still in the ** Mises à
+day **, in ** Source of update ** select ** URL **. He does not
+remains to force an update of the core to pass on the
+beta version of Jeedom.
 
-> **Important**
+> ** Important **
 >
-> Jeedom ne signale en bêta que les mises à jour importantes, il vous
-> faudra donc souvent forcer la mise à jour de Jeedom pour avoir la
-> dernière version, même si le centre de mise à jour ne vous propose
-> rien.
+> Jeedom only reports important beta updates in beta
+> will often force the update of Jeedom to have the
+> latest version, even if the update center does not offer you
+> nothing.
 
-> **Important**
+> ** Important **
 >
-> Une mise à jour en bêta peut complètement casser votre Jeedom et le
-> rendre irrécupérable. En cas de soucis vous n’aurez AUCUN SUPPORT, il
-> faudra vous débrouiller par vos propres moyens.
+> An update in beta can completely break your Jeedom and the
+> make it irrecoverable. In case of trouble you will have NO SUPPORT, it
+> will have to make your own way.
 
-> **Important**
+> ** Important **
 >
-> Le passage d’une version stable à une version bêta est risqué (nous ne
-> garantissons jamais que votre Jeedom continue de fonctionner
-> correctement). Le passage d’une version bêta à une version stable est
-> INTERDIT, en effet, lors d’une telle opération, il est sûr à 100% que
-> votre Jeedom sera cassé. Il n’est pas possible de faire un retour
-> arrière en restaurant une sauvegarde d’une version stable. En cas de
-> soucis, vous ne bénéficierez d’AUCUN SUPPORT.
+> The transition from a stable version to a beta version is risky (we do not
+> never guarantee that your Jeedom will continue to work
+> correctly). The transition from a beta to a stable version is
+> PROHIBITED, in fact, during such an operation, it is 100% sure that
+> your Jeedom will be broken. It is not possible to make a return
+> back by restoring a backup of a stable version. In case of
+> worries, you will not benefit from ANY SUPPORT.
 
-Passer les plugins en bêta 
+Skip plugins in beta
 ==========================
 
-Pour cela, il faut vous rendre sur le Market Jeedom, puis dans votre
-profil, partie **Mon Profil**, cochez la case pour avoir accès aux
-plugins en version bêta.
+For that, you have to go to Market Jeedom and then to your
+profile, part ** My Profile **, check the box to access
+plugins in beta.
 
-Ensuite, dans votre Jeedom, sur les fiches des plugins, vous devriez
-voir un bouton "installer bêta".
+Then, in your Jeedom, on plugin plugs, you should
+see a button "install beta".
 
-> **Important**
+> ** Important **
 >
-> Tout plugin installé en version bêta interdit l’accès complet au
-> support, même si votre problème ne concerne pas ce plugin.
+> Any plugin installed in beta prohibits full access to
+> support, even if your problem does not concern this plugin.
 
-> **Important**
+> ** Important **
 >
-> Un plugin en version stable peut ne pas marcher sur un Jeedom bêta.
+> A stable version plugin may not work on a Jeedom beta.
 
-> **Important**
+> ** Important **
 >
-> Un plugin en version bêta NE FONCTIONNE PAS sur un Jeedom stable.
+> A beta plugin DOES NOT work on a stable Jeedom.
 
-> **Important**
+> ** Important **
 >
-> Toute demande de support portant sur le passage en bêta, ou un souci
-> avec un composant en bêta, ou sur un système ayant déjà eu un core ou
-> un plugin en bêta, sera immediatement fermé sans aucune réponse de
-> notre part.
+> Any request for beta support, or a concern
+> with a component in beta, or on a system that already had a core or
+> a plugin in beta, will be immediately closed without any response from
+> our part.

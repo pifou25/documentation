@@ -1,153 +1,153 @@
-Hardware 
+Hardware
 ========
 
-Hardware | Etat | Remarques
+Hardware | State | Remarks
 --- | --- | ---
 Jeedomboard             | Stable                  |
 Hummingboard            | Stable                  |
 Odroid C2               | Stable                  |                          
 Smart                   | Stable                  |                          
 RPI1                    | Stable                  |                          
-RPI2                    | Non officiel/Stable     |                          
-RPI3                    | Non officiel/Stable     | Attention si vous utilisez un Razberry le wifi/bluetooth ne pourra marcher
+RPI2                    | Unofficial / Stable     |                          
+RPI3                    | Unofficial / Stable     | Attention if you use a Razberry the wifi / bluetooth will not work
 64 bits                 | Stable                  |                          
-32 bits                 | Non supporté            |                          
-Vmware                  | Stable                  | Pas de support pour VMware, seulement pour Jeedom. ATTENTION VmWare 6.5 nécessite l’installation d’un correctif VMWare pour le support des Zwave.         
+32 bits                 | Unsupported            |                          
+vmware                  | Stable                  | No support for VMware, only for Jeedom. CAUTION VmWare 6.5 requires the installation of a VMWare patch for Zwave support.
 
-Images 
+imagery
 ======
 
-Vous pouvez retrouver toutes les images Jeedom
-[ici](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog),
-puis dans le dossier Images
+You can find all Jeedom images
+[Here] (https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
+then in the Pictures folder
 
-> **Note**
+> ** Note **
 >
-> Une image netinstall va lors du premier démarrage installer la
-> dernière version stable de Jeedom, ce démarrage est donc un peu plus
-> long et nécessite d’avoir accès à internet. Vous pouvez suivre
-> l’avancement de celui-ci en allant sur l’IP de votre Jeedom avec votre
-> navigateur
+> A netinstall image goes on the first boot to install the
+> last stable version of Jeedom, this startup is a bit more
+> long and requires access to the internet. You can follow
+> the progress of it by going to the IP of your Jeedom with your
+> browser
 
-| Images         | Hardware       | Etat           | Accès SSH      | Remarques      |
+| imagery         | Hardware       | State           | SSH access      | Remarks      |
 |----------------|----------------|----------------|----------------|----------------|
-| Jeedomboard    | jeedomboard et | Beta           | root/Mjeedom96 |                |
+| Jeedomboard    | jeedomboard and | Beta           | root / Mjeedom96 |                |
 | netinstall     | hummingboard   |                |                |                |
-| Jeedomboard    | jeedomboard et | Stable         | root/Mjeedom96 |                |
+| Jeedomboard    | jeedomboard and | Stable         | root / Mjeedom96 |                |
 |                | hummingboard   |                |                |                |
-| Docker         |                | Beta           | root/Mjeedom96 |                |
+| Docker         |                | Beta           | root / Mjeedom96 |                |
 
 
-Toutes les autres images téléchargeables précédemment ne sont plus
-maintenues, il vaut mieux passer par l’installation manuelle de Jeedom
-[Doc](https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
-après avoir installé une distribution linux correspondant à votre
-matériel : Debian (vm, pc,…​), Raspbian Lite (Raspberry pi), Armbian
-(Ordoid,…​), …​
+All other previously downloadable images are no longer
+maintained, it is better to go through the manual installation of Jeedom
+[Doc] (https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
+after installing a linux distribution corresponding to your
+Hardware: Debian (vm, pc, ...), Raspbian Lite (Raspberry pi), Armbian
+(Ordoid, ...), ...
 
-Logiciel 
+Software
 ========
 
-> **Important**
+> ** Important **
 >
-> Jeedom ne supporte que Debian Jessie (stable) et Stretch (stable).
-> Toute autre version (Wheezy…​) ou distribution (Ubuntu…​) n’est pas
-> supportée par Jeedom.
+> Jeedom only supports Debian Jessie (stable) and Stretch (stable).
+> Any other version (Wheezy ...) or distribution (Ubuntu ...) is not
+> supported by Jeedom.
 
 
-| Nom                     | Etat                    | Remarques                |
+| Name                     | State                    | Remarks                |
 |-------------------------|-------------------------|--------------------------|
-| PHP 5.5 ou moins        | Non supporté            |                          |
+| PHP 5.5 or less        | Unsupported            |                          |
 | PHP 5.6                 | Stable                  |                          |
 | PHP 7.X                 | Stable                  |                          |
-| Mysql 5.5/5.6           | Stable                  |                          |
+| Mysql 5.5 / 5.6           | Stable                  |                          |
 | Mysql 5.7               | Beta                    |                          |
 | MariaBD                 | Stable                  |                          |
 
-Autre
+Other
 =====
 
-Clef USB/Module d’extension 
+USB Key / Expansion Module
 ---------------------------
 
-Contrôleur ENOCEAN :
+ENOCEAN controller:
 
--   Clef USB EnOcean USB300
+-   EnOcean USB300 USB Key
 
--   Clef USB EnOcean USB310 (Recommandé)
+-   EnOcean USB310 USB Key (Recommended)
 
-Interface RFXCOM :
+RFXCOM interface:
 
 -   RFXtrx433 USB
 
--   RFXtrx433E USB (Recommandé)
+-   RFXtrx433E USB (Recommended)
 
-Passerelle EDISIO :
+EDISIO gateway:
 
--   Dongle Edisio (Recommandé)
+-   Dongle Edisio (Recommended)
 
-Indicateur Led :
+Led indicator:
 
--   blink(1) mk2 (Recommandé)
+-   blink (1) mk2 (Recommended)
 
-Dongle GSM :
+GSM Dongle:
 
--   HUAWEI E220 (Recommandé)
+-   HUAWEI E220 (Recommended)
 
 -   Alcatel one touch X220L
 
 -   HSDPA 7.2MBPS 3G Wireless
 
-Contrôleur Z-WAVE :
+Z-WAVE controller:
 
--   SIGMA DESIGNS Contrôleur Z-Wave Plus USB
+-   SIGMA DESIGNS USB Z-Wave Plus Controller
 
--   Z-WAVE.ME - Mini contrôleur USB Z-Wave Plus UZB1
+-   Z-WAVE.ME - UZB1 Z-Wave Plus USB Mini Controller
 
--   AEON LABS Contrôleur Z-Wave Aeon Labs Z-Stick S2
+-   AEON LABS Z-Wave Controller Aeon Labs Z-Stick S2
 
--   AEON LABS - Contrôleur USB Z-Wave Plus Z-Stick GEN5 (Recommandé)
+-   AEON LABS - Z-Wave USB Controller Z-Wave Plus GEN5 (Recommended)
 
-Modules Zwave 
+Zwave modules
 -------------
 
-Vous trouverez la liste
-[ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
+You will find the list
+[Here] (https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-Modules EnOcean 
+EnOcean modules
 ---------------
 
-Vous trouverez la liste
-[ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
+You will find the list
+[Here] (https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-Modules Edisio 
+Edisio modules
 --------------
 
-Vous trouverez la liste
-[ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
+You will find the list
+[Here] (https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-Modules RFXcom 
+RFXcom modules
 --------------
 
-Vous trouverez la liste
-[ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
+You will find the list
+[Here] (https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-Caméras 
+cameras
 -------
 
-Vous trouverez la liste
-[ici](https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
+You will find the list
+[Here] (https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
 
-Plateforme matérielle recommandée 
+Recommended hardware platform
 ---------------------------------
 
-L’équipe jeedom vous recommande (en fonction de votre budget) :
+The jeedom team recommends (depending on your budget):
 
--   Jeedom Smart (tout est préinstallé, vous n’avez rien à faire)
+-   Jeedom Smart (everything is preinstalled, you have nothing to do)
 
--   Odroid C2 (meilleur rapport performance/prix)
+-   Odroid C2 (best price / performance ratio)
 
--   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
-    pour le choix dans les differents modèles et l’installation)
+-   Intel Nuc gen6 (extreme performance, see category tutorial
+    for choice in different models and installation)
 
 

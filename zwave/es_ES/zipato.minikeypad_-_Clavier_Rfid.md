@@ -1,369 +1,369 @@
-Zipato miniKeypad RFID 
+RFID Zipato miniKeypad
 ======================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/zipato.minikeypad/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/zipato.minikeypad/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Contrôlez votre système de sécurité grâce à ce mini clavier mural Zipato
+Controlar su sistema de seguridad a través de este mini teclado pared Zipato
 !
 
-Avec ce clavier RFID compatible Z-Wave, vous allez pouvoir activer ou
-désactiver facilement votre système d’alarme. Les touches "Home" et
-"Away" vous permettent d’armer/désarmer le système de sécurité et/ou
-exécuter des scénarios domotiques rapidement. En plus d’utiliser le
-clavier numérique, vous pouvez aussi passer un badge RFID devant le
-clavier pour armer/désarmer le système. Le clavier transmet à votre
-contrôleur domotique l’identifiant du badge qui a été reconnu. Vous
-pouvez ainsi facilement créer des scénarios en fonction de la personne
-qui a utilisé son badge.
+Con este teclado RFID compatibles con Z-Wave, puede activar o
+desactivar fácilmente su sistema de alarma. Los botones "Inicio"
+"Lejos" permitirá armar / desarmar el sistema de seguridad y / o
+ejecutar secuencias de comandos de automatización rápidamente. Además de utilizar la
+teclado numérico, también puede pasar una etiqueta RFID en frente de la
+teclado para armar / desarmar el sistema. El teclado transmite su
+domótica Controller el identificador de la tarjeta de identificación, que ha sido reconocido. Usted
+puede crear fácilmente escenarios basados ​​en la persona
+que utilizó su tarjeta de identificación.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Clavier à code et RFID
+-   código de la llave y RFID
 
--   Supporte la technologie Z-Wave
+-   Compatible con la tecnología Z-Wave
 
--   Armer/désarmer votre système de sécurité
+-   Active / desactive su sistema de seguridad
 
--   Contrôle d’accès par lecture de badges RFID
+-   insignias RFID de control de acceso de lectura
 
--   Contrôle d’accès par clavier à codes
+-   teclado de código para el control de acceso
 
--   Protection anti-sabotage
+-   protección contra la manipulación
 
--   Indicateur LED pour confirmer chaque action
+-   indicador LED para confirmar cada acción
 
--   Buzzer intégré pour indication sonore de l’armement/désarmement de
-    l’alarme par exemple
+-   zumbador integrado para la indicación audible de armado / desarmado
+    por ejemplo alarma
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type : Esclave Z-Wave
+-   Tipo: esclavo Z-Wave
 
--   Alimentation : 2x AA 1,5V batteries
+-   Fuente de alimentación: 2 pilas AA de 1,5 V
 
--   Fréquence : 868.42 MHz
+-   Frecuencia: 868.42 MHz
 
--   Portée radio : 30m en champ libre
+-   Radio Rango: 30m en campo abierto
 
--   Protocole RFID : ISO15693, ISO18000-3, Tag-it™, RFID
+-   Protocolo de RFID: ISO15693, ISO18000-3, Tag-it ™, la tecnología RFID
 
--   Buzzer : 60dBa à 10 cm de distance
+-   Zumbador: 60dBA a 10 cm de distancia
 
--   Température de stockage : -5°C à +65°C
+-   Temperatura de almacenamiento: -5 ° C a + 65 ° C
 
--   Humidité pour stockage : 10% à 70%
+-   Humedad de almacenamiento: 10% a 70%
 
--   Température de fonctionnement : 10°C à 40°C
+-   Temperatura de funcionamiento: 10 ° C a 40 ° C
 
--   Humidité en fonctionnement : 30% à 80%
+-   Humedad de funcionamiento: 30% a 80%
 
--   Dimensions : 62 x 62 x 20 mm
+-   Dimensiones: 62 x 62 x 20 mm
 
--   Certifications : Sécurité : UL EMC : FCC, CE RoHS
+-   Certificaciones: Seguridad: UL EMC: FCC, CE RoHS
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Zipato
+-   Marca: Zipato
 
--   Nom : Zipato Mini Keypad RFID
+-   Nombre: Zipato Mini teclado RFID
 
--   Fabricant ID : 151
+-   Identificación del fabricante: 151
 
--   Type Produit : 24881
+-   Tipo de producto: 24881
 
--   Produit ID : 17665
+-   Identificación del producto: 17665
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il suffit d’appuyer deux
-> secondes sur la languette métallique (la led rouge de la face avant
-> doit clignoter deux fois) et relâcher la languette pour que
-> l’inclusion s’opère.
+> Para poner este modo la inclusión del módulo sólo tiene que pulsar dos
+> segundos en la lengua de metal (el LED rojo en el panel frontal
+> Debe parpadear dos veces) y suelte la lengüeta de manera que
+> Inclusión ocurre.
 
- \
+\
 
 ![inclusion](../images/zipato.minikeypad//inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![information](../images/zipato.minikeypad/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![commandes](../images/zipato.minikeypad/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Action : c’est la commande qui remontera le home/away (5 pour away 6
-    pour home)
+-   Acción: Este es el comando para ascender el hogar / lejos (de 5 a 6 de distancia
+    para el hogar)
 
--   Sabotage : c’est la commande sabotage (elle est déclenchée en
-    cas d’arrachement)
+-   Sabotaje: el comando de sabotaje (que se dispara
+    Si lagrimeo)
 
--   Code : affiche le code du badge ou du clavier lorsque le code saisi
-    n’est pas dans une des mémoires
+-   Código: Muestra el código de la tarjeta de identificación o el teclado cuando el código introducido
+    no está en una de las memorias
 
--   Batterie : c’est la commande batterie
+-   Batería: el control de la batería
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> Cuando inclusión por primera vez todavía despierta en el módulo justo después de
+> Inclusión.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par le bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![bouton configuration](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![config1](../images/zipato.minikeypad/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: permet de remettre la config par défaut (déconseillé)
+-   1: restablece la configuración por defecto (no se recomienda)
 
--   2: durée d’annulation (à ne pas modifier)
+-   2: Duración Cancelado (no cambiar)
 
--   3: retour par bip : permet d’activer ou non une série de 8 bips
-    après reconnaissance d’un badge/code
+-   3: el retorno de los pitidos: habilita o no una serie de pitidos 8
+    tras el reconocimiento de una tarjeta de identificación / código
 
--   4: nombre de bips par seconde (ne pas modifier n’a pas d’effet)
+-   4: número de pitidos por segundo (sin cambio no tiene ningún efecto)
 
--   5: mode de fonctionnement : normal ou mode toujours reveillé
-    (déconseillé car très très consommateur de piles)
+-   5: Modo de funcionamiento: normal o la moda todavía está despierto
+    (No se recomienda para las baterías de consumo muy muy)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède deux groupes d’association.
+Este módulo tiene dos grupos de asociación.
 
- \
+\
 
 ![groupe](../images/zipato.minikeypad/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour un fonctionnement optimum de votre module. Il faut que Jeedom
-> soit associé à minima au groupe 1.
+> Para un funcionamiento óptimo del módulo. debe Jeedom
+> Se asocia con un mínimo o el grupo 1.
 
-### Les badges /codes 
+### Las insignias / códigos
 
- \
+\
 
-Dans la page de l’équipement il y a un onglet Assistant.
+En el equipo hay una pestaña Asistente.
 
- \
+\
 
 ![bouton assistant](../images/plugin/bouton_assistant.jpg)
 
- \
+\
 
-Celui-ci permet de rajouter des codes. Vous y verrez un tableau.
+Esto le permite añadir código. Verá una imagen.
 
- \
+\
 
 ![config2](../images/zipato.minikeypad/config2.jpg)
 
- \
+\
 
--   Ce tableau vous permet de visualiser les mémoires occupées sur votre
-    clavier
+-   Esta tabla le permite ver sus recuerdos ocupados
+    teclado
 
--   Pour enregistrer un nouveau code cliquez sur le bouton vert sur la
-    mémoire désirée et suivez les étapes
+-   Para guardar un nuevo código haga clic en el botón verde del
+    deseada memoria y siga los pasos
 
--   Pour supprimer un code il suffit de cliquer sur le bouton rouge.
+-   Para borrar un código, simplemente haga clic en el botón rojo.
 
--   Il est impossible d’enregistrer le même code/badge sur deux mémoires
-    différentes
+-   Es imposible grabar el mismo código / tarjeta de identificación en dos memorias
+    diferente
 
--   Il est impossible (par mesure de sécurité) de lire la valeur d’un
-    code enregistré
+-   Es imposible (por razones de seguridad) para leer el valor de una
+    código grabado
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pensez à réveiller le module après l’ajout d’un code ou badge.
+> Piense en despertar el módulo con la adición de un código o tarjeta de identificación.
 
- \
+\
 
-Exemples d’utilisation 
+Ejemplos de uso
 ----------------------
 
- \
+\
 
 ![exemple](../images/zipato.minikeypad/exemple.jpg)
 
- \
+\
 
-L’élément déclencheur est la commande évènement, en effet celle-ci est
-mise à jour uniquement lorsqu’un code/badge valide à été présenté. Si la
-valeur est 6 (home) on désactive l’alarme (par exemple), ou allume la
-multiprise, on allume la lumière en fonction de la luminosité, on envoie
-une notification pour signaler que quelqu’un est rentré, on lance une
-synhtèse vocale pour faire un bilan météo par exemple. Sinon (forcément
-5) on active l’alarme, on coupe la multiprise, on envoie une
-notification pour signaler que la maison est vide.
+El evento de disparo es el control, de hecho, es
+actualiza sólo cuando se presenta un código válido / insignia. Si la
+valor es 6 (home) la desactivación de la alarma (por ejemplo), o se enciende el
+tira, se enciende la luz de acuerdo con el brillo, envía
+notificación para indicar que alguien está en casa, lanzamos una
+synhtèse voz a un informe del tiempo, por ejemplo. Si no (necesariamente
+5) la activación de la alarma, se corta la tira, se alimenta una
+notificación que indica que la casa está vacía.
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-Le keypad lit les codes/badges de deux manières :
+El teclado lee códigos / insignias de dos maneras:
 
- \
+\
 
--   lorsque vous appuyez sur home/away pendant les 1 à 2 premières
-    secondes si vous commencez à taper un code, il lira ce code
+-   cuando se pulsa el hogar / lejos durante la primera del 1 al 2
+    segundos si comienza a escribir un código, se leerá el código
 
--   si rien n’est fait dans les 1 à 2 premières secondes, il se met en
-    mode lecture de badge RFID (lumière rouge allumée). A ce moment là
-    il peut lire un badge, pas avant.
+-   si no se hace nada en los primeros 1 a 2 segundos, se inicia
+    el modo de reproducción insignia RFID (luz roja). En ese momento
+    se puede leer una tarjeta de identificación, no antes.
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il y a deux façons de procéder :
+Para despertar este módulo hay dos maneras de proceder:
 
- \
+\
 
--   appuyer sur le bouton tamper puis relâcher au bout de 1 à 2 secondes
+-   pulse el botón de manipulación y liberación después de 1 a 2 segundos
 
--   appuyer sur Home, un chiffre au hasard et Enter
+-   pulse Inicio, un número aleatorio y Enter
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module se réveille en appuyant sur le bouton tamper et en le
-relachant. Il peut aussi se réveiller en appuyant sur Home puis 1 puis
+Este módulo se despierta pulsando el botón y el tamper
+la liberación. También puede despertar pulsando Inicio y luego 1
 Enter.
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration sera
-prise en compte au prochain wake up.
+Este módulo es un módulo de batería, la nueva configuración se
+consideración en la próxima activación.
 
- \
+\
 
-Note importante 
+Nota importante
 ---------------
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wake up, après un
-> changement des groupes d’association
+> Hay que despertar el módulo después de su inclusión, después de un cambio
+> Configuración, después de un cambio de despertar después de una
+> Asociación cambiar de grupo
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

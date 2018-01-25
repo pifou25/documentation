@@ -1,86 +1,86 @@
-Tout d’abord merci pour l’achat de la Jeedom Mini+. Vous trouverez ici,
-la documentation détaillée expliquant comment mettre en service cette
-box, et ainsi découvrir la domotique avec Jeedom.
+First of all thank you for buying the Jeedom Mini +. Here you will find
+the detailed documentation on how to put this
+box, and discover home automation with Jeedom.
 
-Le carton de la Jeedom Mini+ que vous avez reçu doit contenir :
+The Jeedom Mini + box you received must contain:
 
--   Une box Jeedom Mini+ (Carte JeedomBoard Mono - ARM Cortex A9 1.2Ghz
-    & 512 Mo de RAM)
+-   Jeedom Mini + Box (JeedomBoard Mono Card - ARM Cortex A9 1.2Ghz
+    & 512 MB of RAM)
 
--   Un chargeur secteur 5V 2A.
+-   A 5V 2A mains charger.
 
--   Une carte micro SD avec le logiciel Jeedom pré-installé. (Cette
-    carte est normalement déjà insérée dans la box)
+-   A micro SD card with Jeedom software pre-installed. (This
+    card is normally already inserted in the box)
 
--   Un adaptateur de carte MicroSD/SD Card.
+-   A MicroSD / SD Card adapter.
 
--   Un autocollant Jeedom.
+-   A Jeedom sticker.
 
--   *Un module RFXcom 433E avec son câble USB.* (Seulement si vous avez
-    acheté le pack de démarrage avec interface RFXcom).
+-   * An RFXcom 433E module with its USB cable. * (Only if you have
+    bought the starter pack with RFXcom interface).
 
--   *Une carte RaZberry Z-Wave+.* (Seulement si vous avez acheté le pack
-    de démarrage compatible Z-Wave+) (Cette carte est normalement déjà
-    installée dans la box)
+-   * A Z-Wave + RaZberry card. * (Only if you purchased the pack
+    Z-Wave + compatible start-up card) (This card is normally already
+    installed in the box)
 
 ![mini.demarrage01](../images/mini.demarrage01.png)
 
-Avant de pouvoir l’utiliser, vous devez brancher votre box Jeedom Mini+
-sur votre réseau local (sur routeur, switch ou votre box internet…​), et
-sur le secteur.
+Before you can use it, you need to plug in your Jeedom Mini + box
+on your local network (on router, switch or your internet box ...), and
+on the sector.
 
 ![mini.demarrage02](../images/mini.demarrage02.png)
 
 ![mini.demarrage03](../images/mini.demarrage03.png)
 
-Avant de commencer, veuillez noter que Jeedom fonctionne à l’aide de
-plugins. Plusieurs plugins sont préinstallés sur votre Jeedom Mini+ :
+Before you begin, please note that Jeedom works with the help of
+plugins. Several plugins are preinstalled on your Jeedom Mini +:
 
 ![mini.demarrage04](../images/mini.demarrage04.png)
 
-Le plugin Z-Wave qui sert à configurer son réseau Z-Wave et à ajouter de
-nouveaux modules Z-Wave.
+The Z-Wave plugin used to configure your Z-Wave network and add
+new Z-Wave modules.
 
 ![mini.demarrage05](../images/mini.demarrage05.png)
 
-Le plugin Mail.
+The Mail plugin.
 
 ![mini.demarrage06](../images/mini.demarrage06.png)
 
-Les plugins Widget et Script.
+The Widget and Script plugins.
 
 ![mini.demarrage07](../images/mini.demarrage07.png)
 
-Le plugin Météo.
+The weather plugin.
 
 ![mini.demarrage08](../images/mini.demarrage08.png)
 
-Vous trouverez encore de nombreux autres plugins directement via
-l’interface Jeedom sur le Market Jeedom.
+You will find many more plugins directly via
+the Jeedom interface on the Jeedom Market.
 
-Par ailleurs, n’oubliez pas que vous disposez de 2 bons de réduction
-(envoyés par courriel), vous permettant d’installer 2 plugins payants
-gratuitement (RFXCOM et Alarme). Pour s’en servir vous devez créer un
-compte sur le Market Jeedom, voir la documentation : [Doc
-Market](https://jeedom.fr/doc_market.php).
+In addition, do not forget that you have 2 coupons
+(sent by email), allowing you to install 2 paid plugins
+free (RFXCOM and Alarm). To use it you have to create a
+account on the Jeedom Market, see the documentation: [Doc
+Market] (https://jeedom.fr/doc_market.php).
 
-Dans le courriel que vous avez reçu, figure aussi le numéro du Service
-Pack associé à la Jeedom Mini+. Vous pouvez le renseigner sur votre
-profil du Market, cela vous permettra entre autre d’accéder aux
-différents services correpondants à votre Service Pack.
+In the e-mail you received, you will also find the Service number
+Pack associated with Jeedom Mini +. You can inform him about your
+Market profile, this will allow you, among other things, access to
+different services that correspond to your service pack.
 
 ![mini.demarrage09](../images/mini.demarrage09.png)
 
-Vous pouvez maintenant suivre la documentation : [Premiers pas avec
-Jeedom](https://www.jeedom.fr/doc/documentation/premiers-pas/fr_FR/doc-premiers-pas.html)
-Qui vous permettra de trouver l’adresse IP de votre Jeedom Mini+ et de
-vous y connecter afin de commencer à la paramètrer et à l’utiliser.
+You can now follow the documentation: [First steps with
+Jeedom] (https://www.jeedom.fr/doc/documentation/premiers-pas/fr_FR/doc-premiers-pas.html)
+That will allow you to find the IP address of your Jeedom Mini + and
+you connect to it to start setting up and using it.
 
-Pour approfondir la découverte et l’utilisation de Jeedom, vous disposez
-d’une documentation complète : [Documentation
-Jeedom](https://jeedom.fr/doc) et également d’une section répertoriant
-les tutoriels vidéos : [Tutos vidéos](https://jeedom.fr/video.php).
-N’hésitez pas à vous rendre sur le Forum de Jeedom pour toute autre
-question : [Forum Jeedom](https://forum.jeedom.fr/).
+To deepen the discovery and use of Jeedom, you have
+complete documentation: [Documentation
+Jeedom] (https://jeedom.fr/doc) and also a section listing
+the video tutorials: [Video tutorials] (https://jeedom.fr/video.php).
+Feel free to visit the Jeedom Forum for any other
+question: [Forum Jeedom] (https://forum.jeedom.fr/).
 
-Merci, et bonne découverte de la domotique avec Jeedom.
+Thank you, and good discovery of home automation with Jeedom.

@@ -1,291 +1,291 @@
-SmartHome by Everspring In Wall Dimmer - AD146-0 
+SmartHome por Everspring En Wall Dimmer - AD146-0
 ================================================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/smarthomebyeverspring.AD146-0/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/smarthomebyeverspring.AD146-0/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Ce Micromodule Variateur Mural de la marque SmartHome Europe by
-Everspring, est conçu pour contrôler l’allumage et l’extinction des
-luminaires et des équipements électriques de votre maison. Il peut
-également fournir une fonction de variateur qui est uniquement
-compatible avec les ampoules. À une tension de 230V, ce module peut
-supporter jusqu’à 300 Watts en charge résistive ou incandescente, ou 200
-Watts de charge fluorescente.
+Esta marca MicroMódulo Wall Dimmer SmartHome Europa
+Everspring, está diseñado para controlar el encendido y extinción de
+iluminación y equipos eléctricos en su hogar. Puede
+también proporcionan una función de atenuación que sólo está
+compatible con las bombillas. Con una tensión de 230 V, este módulo puede
+apoyo de hasta 300 vatios o carga incandescente resistiva, o 200
+Watt fluorescente carga.
 
-Il peut être utilisé en mode 2 fils (sans neutre), en remplacement d’un
-interrupteur existant, ou trois fils avec une alimentation classique du
-module (Phase + Neutre).
+Se puede utilizar en el modo 2 hijo (sin neutro), para reemplazar una
+interruptor existente, o de tres hilos con una alimentación convencional
+módulo (Fase + Neutro).
 
-Le Module Variateur Mural est un appareil compatible Z-Wave™ qui est
-destiné pour fonctionner avec tous les réseaux compatibles Z-Wave™. Il
-peut être contrôlé par une télécommande, un logiciel PC, ou n’importe
-quel contrôleur Z-Wave de votre réseau.
+Wall Dimmer módulo es un dispositivo compatible con Z-Wave ™ es
+diseñado para funcionar con todas las redes compatibles con Z-Wave ™. lo
+puede ser controlado por un mando a distancia, software PC o cualquier
+lo Z-Wave controlador de la red.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commandez un éclairage/appareil à distance
+-   Pide una unidad de iluminación / remoto
 
--   S’installe derrière un interrupteur existant
+-   Se instala detrás de un interruptor existente
 
--   Fonction ON/OFF et variation
+-   ON / OFF y regulación
 
--   Faible consommation d’énergie
+-   Bajo consumo de energía
 
--   Très petit, dimensions réduites
+-   Muy pequeña, de tamaño compacto
 
--   Antenne longue portée
+-   antena de largo alcance
 
--   Technologie Z-Wave Plus
+-   La tecnología Z-Wave Más
 
--   S’installe facilement dans une boîte d’encastrement standard
+-   Se instala fácilmente en una caja empotrada estándar
 
--   Utilisation en mode 2 fils (neutre pas nécessaire)
+-   Modo de uso 2 hijo (neutro no es obligatorio)
 
--   Compatible avec les ampoules Led Dimmable
+-   Compatible con bombillas LED regulable
 
--   Bouton pour inclure/exclure/associer le module
+-   Botón para incluir / excluir módulo / asociado
 
--   Fonction répéteur Z-Wave
+-   función de repetidor Z-Wave
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Alimentation : 230 V, 50 Hz
+-   Fuente de alimentación: 230 V, 50 Hz
 
--   Consommation : 0.5W
+-   Consumo: 0,5 W
 
--   Puissance maximum :
+-   Potencia máxima:
 
--   Charge résistive : 300W
+-   Carga resistiva: 300W
 
--   Ampoule à incandesence : 300W
+-   bombilla de incandescencia: 300W
 
--   Ampoule Fluocompacte : 200W
+-   CFL bombilla: 200W
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Portée : jusqu’à 70 m à l’extérieur, jusqu’à 30 m dans les bâtiments
+-   Rango: hasta 70 m en el exterior, hasta 30 m en edificios
 
--   Affichage: LED sur le bouton
+-   Pantalla: LED en el botón
 
--   Dimensions : 42mm x 43mm x 16mm
+-   Dimensiones: 42mm x 43mm x 16mm
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : SmartHome by Everspring
+-   Marca: SmartHome por Everspring
 
--   Nom : In Wall Dimmer
+-   Nombre: En Wall Dimmer
 
--   Fabricant ID : 96
+-   Identificación del fabricante: 96
 
--   Type Produit : 3
+-   Tipo de producto: 3
 
--   Produit ID : 2
+-   Identificación del producto: 2
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur son
-> bouton, conformément à sa documentation papier. Il est important de
-> noter que ce module se met directement en inclusion lorsqu’il
-> n’appartient à aucun réseau et qu’il est alimenté
+> Para poner este modo la inclusión del módulo se debe presionar tres veces en su
+> Button, de acuerdo con su documentación en papel. Es importante
+> Tenga en cuenta que este módulo se procederá directamente a la inclusión cuando
+> No pertenece a ninguna red y es alimentado
 
- \
+\
 
 ![inclusion](../images/smarthomebyeverspring.AD146-0/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/smarthomebyeverspring.AD146-0/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/smarthomebyeverspring.AD146-0/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Intensité : C’est la commande permettant de régler l’intensité de la
-    lumière
+-   Intensidad: Este es el comando para ajustar la intensidad de la
+    luz
 
--   On : C’est la commande qui permet d’allumer la lumière
+-   Uno: Este es el comando para encender la luz
 
--   Off : C’est la commande qui permet d’éteindre la lumière
+-   Apagado: Este es el comando para apagar la luz
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    lumière
+-   Estado: Este es el comando para conocer el estado de la
+    luz
 
- \
+\
 
-A noter que sur le dashboard, les infos Etat, ON/OFF, intensité se
-retrouvent sur le même icone.
+Una nota sobre el tablero de instrumentos, la información de estado, encendido / apagado, la intensidad
+encontrarse en el mismo icono.
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+configuraciones)
 
- \
+\
 
 ![Config1](../images/smarthomebyeverspring.AD146-0/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1 : Ce paramètre déﬁnit la commande de valeur d’état, il n’est pas
-    conseillé de changer cette valeur.
+-   1: Este parámetro define el valor de estado de control, no es
+    recomendadas para cambiar este valor.
 
--   2 : Ce paramètre définit le délai d’envoi du changement d’état au
-    groupe 1 (valeur comprise entre 3 et 25 secondes)
+-   2: Este parámetro define el plazo para enviar el cambio de estado
+    Grupo 1 (entre 3 y 25 segundos)
 
--   3 : Ce paramètre permet de définir si l’interrupteur reprendra son
-    statut (ON ou OFF) après une reprise de courant.
+-   3: Este ajuste determina si el interruptor se reanudará
+    estado (ON u OFF) después de una recuperación de energía.
 
--   4 : Ce paramètre permet de définir le type
-    d’interrupteur (poussoir/bistable)
+-   4: Este parámetro define el tipo
+    interruptor (push / biestable)
 
--   5 : Ce paramètre permet de définir si l’interrupteur fontionnera en
-    mode variation ou en mode on/off
+-   5: Este parámetro controla si el interruptor con los cortafuegos
+    moda o variación en modo encendido / apagado
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède 2 groupes d’association.
+Este módulo tiene 2 grupos de asociación.
 
- \
+\
 
 ![Groupe](../images/smarthomebyeverspring.AD146-0/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> A minima Jeedom devrait se retrouver dans le groupe 1  \
+> Una Jeedom mínimo debería reflejarse en el grupo 1 \
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
--   Le retour d’état ne peut pas être configuré en dessous de 3
-    secondes.  \
+-   La realimentación de estado no puede ser inferior a 3
+    segundos. \
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images//smarthomebyeverspring.AD146-0/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wake up sur ce module.
+Sin noción de despertador en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Oui c’est le paramètre 2 et il ne peut pas être réglé en dessous de 3
-secondes.
+Sí este es el parámetro 2 y no se puede ajustar por debajo de 3
+segundos.
 
- \
+\
 
-Non. ce module peut s’inclure ou s’exclure en appuyant plusieurs fois
-sur l’interrupteur.
+No. este módulo puede incluir o excluir en varias ocasiones
+en el interruptor.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

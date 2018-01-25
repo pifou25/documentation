@@ -1,124 +1,124 @@
-Recherche de l’ID de la télécommande 
+Finding the ID of the remote control
 ====================================
 
-Aller dans "Plugins", "Gestion des plugins", "RFX COM" 
-------------------------------------------------------
+Go to "Plugins", "Plugin Management", "RFX COM"
+-------------------------------------------------- ----
 
 ![image07](../images/volet.ematronic/image07.png)
 
-Dans "Gestion des protocoles RFXcom", 
+In "RFXcom protocol management",
 -------------------------------------
 
 ![image04](../images/volet.ematronic/image04.png)
 
-cocher le Protocole 8, BlindsT1, Enregistrer et sortir.
+check Protocol 8, BlindsT1, Save and exit.
 
 ![image08](../images/volet.ematronic/image08.png)
 
-Activer, "Lancer en mode debug" 
+Enable, "Start in debug mode"
 -------------------------------
 
 ![image03](../images/volet.ematronic/image03.png)
 
-Attendre l’ouverture de la fenêtre, puis appuyer sur la touche Ouvrir de
-votre télécommande Ematronic.
+Wait for the window to open, then press the Open button
+your Ematronic remote control.
 
-    MainThread - rfxcmd:2765 - DEBUG - Test message: 09 19 03 01 1F 84 B9 01 01 60
-    MainThread - rfxcmd:2805 - DEBUG - Message OK
-    MainThread - rfxcmd:328 - DEBUG - Verified OK
-    MainThread - rfxcmd:334 - DEBUG - PacketType: 19
-    MainThread - rfxcmd:338 - DEBUG - SubType: 03
-    MainThread - rfxcmd:342 - DEBUG - SeqNbr: 01
-    MainThread - rfxcmd:346 - DEBUG - Id1: 1F
-    MainThread - rfxcmd:350 - DEBUG - Id2: 84
-    MainThread - rfxcmd:359 - DEBUG - Verify correct packet length
-    MainThread - rfxcmd:556 - DEBUG - Save packet to log_msgfile
+    MainThread - rfxcmd: 2765 - DEBUG - Test message: 09 19 03 01 1F 84 B9 01 01 60
+    MainThread - rfxcmd: 2805 - DEBUG - Message OK
+    MainThread - rfxcmd: 328 - DEBUG - Verified OK
+    MainThread - rfxcmd: 334 - DEBUG - PacketType: 19
+    MainThread - rfxcmd: 338 - DEBUG - SubType: 03
+    MainThread - rfxcmd: 342 - DEBUG - SeqNbr: 01
+    MainThread - rfxcmd: 346 - DEBUG - Id1: 1F
+    MainThread - rfxcmd: 350 - DEBUG - Id2: 84
+    MainThread - rfxcmd: 359 - DEBUG - Verify correct package length
+    MainThread - rfxcmd: 556 - DEBUG - Save packet to log_msgfile
 
-Rechercher de l’ID de la télécommande 
+Find the ID of the remote control
 -------------------------------------
 
-Remarque: les télécommandes Ematronic commencent toujours par : 09 19 03
-donc la zone qui nous intéresse démarre de "Test message" : 09 19 03.
+Note: Ematronic remotes always start with: 09 19 03
+therefore the area we are interested in starts from "Test message": 09 19 03.
 
-Repérer : Id1 et Id2 et ajouter l’hexadecimal suivant : dans mon exemple
-Id1=1F et Id2=84. vous devez donc les repérer dans la ligne, "Test
-message" et en extraire l’Id3 , ici Id3=B9, Notre télécommande a donc
-comme ID ⇒ 1F84B9.
+Locate: Id1 and Id2 and add the following hexadecimal: in my example
+Id1 = 1F and Id2 = 84. so you have to spot them in the line, "Test
+message "and extract the Id3, here Id3 = B9, ​​Our remote has so
+as ID ⇒ 1F84B9.
 
-Arrêter le Mode Debug par le bouton "Arrêter/Redémarrer le démon" 
------------------------------------------------------------------
+Stop the Debug Mode by the "Stop / Restart daemon" button
+-------------------------------------------------- ---------------
 
 ![image06](../images/volet.ematronic/image06.png)
 
-Création de la télécommande sous JeeDom 
+Creation of the remote control under JeeDom
 =======================================
 
-Aller, dans Plugins, Protocole domtique, RFXcom.
+Go, in Plugins, Home Protocol, RFXcom.
 
 ![image10](../images/volet.ematronic/image10.png)
 
-Cliquer sur "Ajouter" et saisir un nom pour votre télécommande
-virtuelle.
+Click on "Add" and enter a name for your remote
+Virtual.
 
 ![image00](../images/volet.ematronic/image00.png)
 
-Choisir dans la liste des équipements le template : "Volet Ematronic -
-Défaut".
+Choose from the list of equipment the template: "Ematronic shutter -
+Default ".
 
-Remplacer l’ID automatique par celui que vous avez extrait précédemment
-et Cocher "Activer" et "Visible" :
+Replace the automatic ID with the one you previously extracted
+and check "Enable" and "Visible":
 
 ![image11](../images/volet.ematronic/image11.png)
 
-Cliquer sur "Sauvegarder" pour enregistrer votre configuration et
-charger le template "Volet Ematronic - Défaut".
+Click on "Save" to save your configuration and
+load the template "Ematronic shutter - Default".
 
 ![image02](../images/volet.ematronic/image02.png)
 
-Voilà votre télécommande est prête, elle doit ressembler à ça :
+That's your remote is ready, it must look like this:
 
 ![image05](../images/volet.ematronic/image05.png)
 
-Associer votre télécommande virtuelle JeeDom à votre moteur Ematronic: 
-======================================================================
+Associate your JeeDom virtual remote control with your Ematronic engine:
+================================================== ====================
 
-Réinitialisation du moteur: 
+Reset the engine:
 ---------------------------
 
--   Débrancher électriquement le moteur.
+-   Electrically disconnect the motor.
 
--   Sur la télécommande d’origine, laisser le bouton "Up" Appuyé 3 ou 4
-    secondes, la led devient rouge fixe.
+-   On the original remote, leave the "Up" button pressed 3 or 4
+    seconds, the led becomes red steady.
 
--   Brancher électriquement le moteur.
+-   Electrically connect the motor.
 
--   Relâcher le bouton de la télécommande.
+-   Release the button on the remote control.
 
--   Le moteur fera 5 bips.
+-   The engine will make 5 beeps.
 
--   Rapidement, appuyer avec un trombone sur le "micro bouton" a
-    l’arrière de la télécommande.
+-   Quickly, press with a trombone on the "micro button" a
+    the back of the remote control.
 
--   Le moteur fera 3 bips.
+-   The engine will make 3 beeps.
 
-Association de la télécommande virtuelle JeeDom au moteur Ematronic: 
-====================================================================
+Association of the JeeDom virtual remote control with the Ematronic engine:
+================================================== ==================
 
--   Débrancher électriquement le moteur.
+-   Electrically disconnect the motor.
 
--   Sur le télécommande d’origine, laisser le bouton "Up" Appuyer 3 ou 4
-    secondes, la led devient rouge fixe.
+-   On the original remote control, leave the "Up" button Press 3 or 4
+    seconds, the led becomes red steady.
 
--   Brancher électriquement le moteur.
+-   Electrically connect the motor.
 
--   Relâcher le bouton de la télécommande.
+-   Release the button on the remote control.
 
--   Le moteur fera 5 bips.
+-   The engine will make 5 beeps.
 
--   Appuyer sur la Commande "Monter" de la télécommande virtuelle de
-    JeeDom. image::../images/volet.ematronic/image09.png\[\]
+-   Press the "Up" command on the virtual remote control
+    JeeDom. Image :: ../ images / volet.ematronic / image09.png \ [\]
 
--   Le moteur fera 3 bips, pour annoncer que votre JeeDoom est associé
+-   The engine will make 3 beeps, to announce that your JeeDoom is associated
     !!
 
 

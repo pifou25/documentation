@@ -1,253 +1,253 @@
-Everspring Miniplug On/Off - AN180-6 
+Everspring Miniplug On / Off - AN180-6
 ====================================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/everspring.AN180-6/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/everspring.AN180-6/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-La Mini Prise On/Off est conçue pour contrôler l’allumage et
-l’extinction des luminaires et des équipements électriques de votre
-maison. Avec une tension de 220 - 240 V, cette Prise peut supporter une
-charge jusqu’à 1500W (résistance), 800W (incandescence), 200W (moteur,
+The Mini On / Off Jack is designed to control the ignition and
+extinguishing the luminaires and electrical equipment of your
+House. With a voltage of 220 - 240 V, this socket can support a
+charge up to 1500W (resistance), 800W (incandescent), 200W (motor,
 fluorescent, Led).
 
-La Mini Prise On/Off est un appareil compatible Z-Wave™ qui est destiné
-pour fonctionner avec tous les réseaux compatibles Z-Wave™. Elle peut
-être contrôlée par une télécommande, un logiciel PC, ou n’importe quel
-contrôleur Z-Wave de votre réseau.
+The Mini On / Off Jack is a Z-Wave ™ compatible device that is intended for
+to work with all Z-Wave ™ compatible networks. She can
+be controlled by a remote control, PC software, or any
+Z-Wave controller of your network.
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Commander une lampe ou un appareil à distance
+-   Order a lamp or a device remotely
 
--   Module prise s’intégrant directement entre une prise électrique et
-    la charge à commander
+-   Plug module integrating directly between an electrical outlet and
+    the charge to order
 
--   Fonction ON / OFF pour piloter des lampes ou des appareils (pas
-    de variation)
+-   ON / OFF function to control lamps or devices (not
+    of variation)
 
--   Contrôle de la charge en local via le bouton intégré
+-   Local load control via integrated button
 
--   Technologie Z-Wave Plus
+-   Z-Wave Plus Technology
 
--   Dimensions réduites pour passer presque inaperçu
+-   Reduced dimensions to go almost unnoticed
 
--   LED de statut sur le bouton intégré
+-   Status LED on integrated button
 
--   Fonction répéteur Z-Wave
+-   Z-Wave repeater function
 
- \
+\
 
-Caractéristiques Techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Module Type: Z-Wave Receiver
 
--   Alimentation : 230 V, 50 Hz
+-   Power supply: 230 V, 50 Hz
 
--   Consommation : 0.6W
+-   Consumption: 0.6W
 
--   Puissance maximum : Charge résistive : 1500W, Ampoule à incandesence
-    : 800W, Ampoule Fluocompacte : 200W, Ampoule Led (non dimmable) :
+-   Maximum power: Resistive load: 1500W, Incandescent bulb
+    : 800W, Compact fluorescent bulb: 200W, Led bulb (non dimmable):
     200W
 
--   Fréquence : 868,42 Mhz
+-   Frequency: 868.42 Mhz
 
--   Portée : jusqu’à 70 m à l’extérieur, jusqu’à 30 m dans les bâtiments
+-   Range: up to 70 m outdoors, up to 30 m in buildings
 
--   Affichage: LED sur le bouton
+-   Display: LED on the button
 
--   Dimensions : Longueur (prise incluse) : 74mm Diamètre : 52mm
+-   Dimensions: Length (socket included): 74mm Diameter: 52mm
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Everspring
+-   Brand: Everspring
 
--   Nom : Miniplug On/Off
+-   Name: Miniplug On / Off
 
--   Fabricant ID : 96
+-   Manufacturer ID: 96
 
--   Type Produit : 4
+-   Product Type: 4
 
--   Produit ID : 7
+-   Product ID: 7
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur son
-> bouton, conformément à sa documentation papier. Il est important de
-> noter que ce module se met directement en inclusion lorsqu’il
-> n’appartient à aucun réseau et qu’il est alimenté
+> To put this module in inclusion mode you have to press 3 times on its
+> button, according to its paper documentation. It's important to
+> note that this module is directly included when
+> does not belong to any network and is powered
 
- \
+\
 
 ![inclusion](../images/everspring.AN180-6/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/everspring.AN180-6/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées aux modules seront
-disponibles.
+Once the module is recognized, the commands associated with the modules will be
+available.
 
- \
+\
 
 ![Commandes](../images/everspring.AN180-6/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    prise (Allumée/éteinte)
+-   Status: This is the order that allows to know the status of the
+    socket (On / off)
 
--   On : C’est la commande qui permet d’allumer la prise
+-   On: This is the command that turns on the plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Off: This is the command that turns off the plug
 
- \
+\
 
-A noter que sur le dashboard, les infos Etat, ON/OFF se retrouvent sur
-la même icône.
+Note that on the dashboard, state, ON / OFF information is found on
+the same icon.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/everspring.AN180-6/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1 : Ce paramètre déﬁnit la commande de valeur d’état, il n’est pas
-    conseillé de changer cette valeur.
+-   1: This parameter sets the status value command, it is not
+    advised to change this value.
 
--   2 : Ce paramètre définit le délai d’envoit du changement d’état au
-    groupe 1 (valeur comprise entre 3 et 25 secondes)
+-   2: This parameter sets the delay time of the state change to
+    group 1 (value between 3 and 25 seconds)
 
--   3 : Ce paramètre permet de définir si la prise reprendra son statut
-    (ON ou OFF) après une reprise de courant.
+-   3: This parameter defines whether the socket will resume its status
+    (ON or OFF) after a power recovery.
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 2 groupes d’association.
+This module has 2 association groups.
 
- \
+\
 
 ![Groupe](../images/everspring.AN180-6/groupe.jpg)
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> A minima Jeedom devrait se retrouver dans le groupe 1  \
+> At least Jeedom should be in group 1 \
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
--   Le retour d’état ne peut pas être configuré en dessous de 3
-    secondes.  \
+-   Status feedback can not be set below 3
+    seconds. \
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Oui c’est le paramètre 2 et il ne peut pas être réglé en dessous de 3
-secondes.
+Yes it is parameter 2 and it can not be set below 3
+seconds.
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63

@@ -1,67 +1,67 @@
-Description 
+Description
 ===========
 
 ![dev.plugin simple.01](../images/dev.plugin-simple.01.jpg)
 
-Cette documentation vous permettra d’appréhender le système de
-documentation intégré dans jeedom : AsciiDoc
+This documentation will help you to understand the system of
+integrated documentation in jeedom: AsciiDoc
 
-Objectifs :
+Objectives:
 
--   présenter le fonctionnement de l’AsciiDoc
+-   present the functioning of AsciiDoc
 
--   présenter la structure des différents documents nécessaires
+-   present the structure of the different necessary documents
 
--   fournir un minimum de règles pour harmoniser l’ensemble des
-    documents Jeedom
+-   provide a minimum of rules to harmonize all
+    Jeedom documents
 
-Fonctionnement de l’AsciiDoc 
+How the AsciiDoc works
 ============================
 
-A documenter
+To document
 
-Généralité 
+Generality
 ----------
 
-Asciidoc est un langage de balisage léger. C’est aussi le nom de la
-suite logicielle qui permet de transformer les fichiers "texte source"
-en documents publiables.
+Asciidoc is a lightweight markup language. This is also the name of the
+software suite that transforms "source text" files
+in publishable documents.
 
--   Le programme de conversion asciidoc permet de transformer le
-    document source au format XHTML, DocBook ou HTML.
+-   The asciidoc conversion program makes it possible to transform the
+    source document in XHTML, DocBook or HTML format.
 
--   Le programme a2x permet d’obtenir d’autres formats tels que PDF,
-    TeX, Unix manpages ou Epub.
+-   The a2x program allows you to obtain other formats such as PDF,
+    TeX, Unix manpages or Epub.
 
-Site officiel : <http://www.methods.co.nz/asciidoc/>
+Official website: <http://www.methods.co.nz/asciidoc/>
 
-AsciiDoc & Jeedom 
+AsciiDoc & Jeedom
 -----------------
 
-La documentation Jeedom s’appuie sur l’AsciiDoc et sur l’adjonction du
-bootstap de Laurent Laville :
-<http://laurent-laville.org/asciidoc/bootstrap/>
+The Jeedom documentation is based on AsciiDoc and the addition of the
+Bootstap by Laurent Laville:
+<Http://laurent-laville.org/asciidoc/bootstrap/>
 
-Cette particularité permet d’ajouter des fonctions supplémentaires aux
-fonctions présentes dans l’AsciiDoc. Mais nécessite aussi une
-compilation particulière pour avoir une visibilité sur le rendu final.
- \
-Nous détaillerons dans ce document, comment générer vos pages en local
-pour valider la mise en forme.
+This feature allows additional functions to be added to
+functions present in AsciiDoc. But also requires
+special compilation to have visibility on the final rendering.
+\
+We will detail in this document, how to generate your pages locally
+to validate the formatting.
 
-Un peu de syntaxe 
+A little syntax
 -----------------
 
-Ce lien est un pense bête des syntaxes asciidoc :
-<http://powerman.name/doc/asciidoc>
+This link is a stupid thought of asciidoc syntax:
+<Http://powerman.name/doc/asciidoc>
 
-Structure des fichiers AsciiDoc 
+AsciiDoc file structure
 ===============================
 
-Plusieurs fichiers asciidoc (extension de vos fichiers) permettent de
-structurer votre documentation.
+Several asciidoc files (extension of your files) allow to
+structure your documentation.
 
-Vous devez au minimum avoir les fichiers asciidoc suivants :
+You must have at least the following asciidoc files:
 
 -   index.asciidoc
 
@@ -71,37 +71,37 @@ Vous devez au minimum avoir les fichiers asciidoc suivants :
 
 -   configuration.asciidoc
 
-index.asciidoc 
+index.asciidoc
 --------------
 
-Le fichier index.asciidoc est, comme son nom l’indique, la racine de
-votre documentation.
+The index.asciidoc file is, as its name suggests, the root of
+your documentation.
 
-Ce fichier ne doit contenir que des pointeurs sur l’ensemble des autres
-fichiers et non directement du contenu.
+This file should contain only pointers to all the others
+files and not directly content.
 
-Exemple de fichier **index.asciidoc** :
+Sample file ** index.asciidoc **:
 
-    :imagesdir: ../images
-    :icons:
+    : imagesdir: ../images
+    : Icons:
 
-    == Greenmomit
-    image:greenmomit_icon.png[]
+    == Greenmomit
+    Image: greenmomit_icon.png []
 
-    {nbsp} +
+    {nbsp} +
 
-    === Description
-    Unresolved directive in doc.plugin.asciidoc - include::description.asciidoc[]
+    === Description
+    Unresolved directive in doc.plugin.asciidoc - include :: description.asciidoc []
 
-    '''
-    === Configuration
-    Unresolved directive in doc.plugin.asciidoc - include::configuration.asciidoc[]
+    '' '
+    === Configuration
+    Unresolved directive in doc.plugin.asciidoc - include :: configuration.asciidoc []
 
-    '''
-    === FAQ
-    Unresolved directive in doc.plugin.asciidoc - include::faq.asciidoc[]
+    '' '
+    === FAQ
+    Unresolved directive in doc.plugin.asciidoc - include :: faq.asciidoc []
 
-Les fichiers asciidoc inclus sont
+Included asciidoc files are
 
 -   description.asciidoc
 
@@ -111,102 +111,102 @@ Les fichiers asciidoc inclus sont
 
 -   faq.asciidoc
 
-Ces fichiers correspondent à la base de la structure de la documentation
-Jeedom. Il est possible d’inclure d’autres fichiers AsciiDoc.
+These files correspond to the basic structure of the documentation
+Jeedom. It is possible to include other AsciiDoc files.
 
-description.asciidoc 
+description.asciidoc
 --------------------
 
-Le fichier **description.asciidoc** vous permet de présenter votre
+The ** description.asciidoc ** file allows you to present your
 plugin.
 
-### Plugin simple 
+### Simple plugin
 
-Si votre plugin est relativement simple, n’a pas de dépendance avec un
-équipement particulier à présenter, vous pouvez vous limiter à une
-description de l’objectif du plugin.
+If your plugin is relatively simple, does not have a dependency with a
+particular equipment to present, you can limit yourself to a
+description of the plugin's purpose.
 
-Exemple de fichier **description.asciidoc** simple :
+Sample file ** description.asciidoc ** simple:
 
-    :imagesdir: ../images
-    :icons:
+    : imagesdir: ../images
+    : Icons:
 
-    ==== Générale
+    ==== General
 
-    Ce Plugin à pour objectif de BLABLABLA.
+    This plugin with BLABLABLA lens.
 
-    Une petite copie d'écran du rendu du widget du plugin :
+    A small screenshot of the rendering of the plugin widget:
 
-    image:nomduplugin_widget.png[]
+    Image: nomduplugin_widget.png []
 
-### Plugin complexe 
+### Complex plugin
 
-Si votre plugin est :
+If your plugin is:
 
--   dépendant d’un équipement tiers
+-   dependent on third-party equipment
 
--   nécessite quelques prérequis
+-   requires some prerequisites
 
--   nécessite une explication sur le principe de fonctionnement.
+-   requires an explanation of the operating principle.
 
-Il est conseillé de créer plusieurs sous-chapitres.
+It is advisable to create several subchapters.
 
--   **Desciption générale**\
+-   ** General description ** \
 
--   **Description marketing :)**
+-   ** Marketing description:) **
 
--   **Les prérequis**
+-   **Prerequisites**
 
--   **Principe de fonctionnement**
+-   ** Operating principle **
 
-Exemple de fichier **description.asciidoc** complexe :
+Sample file ** description.asciidoc ** complex:
 
-    :imagesdir: ../images
-    :icons:
+    : imagesdir: ../images
+    : Icons:
 
-    ==== Générale
+    ==== General
 
-    Ce Plugin a pour objectif de BLABLABLA.
+    This plugin aims to BLABLABLA.
 
-    Une petite copie d'écran du rendu du widget du plugin :
+    A small screenshot of the rendering of the plugin widget:
 
-    image:nomduplugin_widget.png[]
+    Image: nomduplugin_widget.png []
 
-    // Si le plugin est dépendant d'un équipement ou solution logicielle tiers, le présenter
-    ==== Présentation de l'équipement ou application XXX
-    //ajouter une image de l'équipement
-    image:nomduplugin_equipementXXX.png[]
+    // If the plugin is dependent on a third-party device or software solution, submit it
+    ==== Presentation of the equipment or application XXX
+    // add an image of the equipment
+    Image: nomduplugin_equipementXXX.png []
 
-    Décrire l'équipement, ajouter des liens vers le consructeur ou sites de référence.
-    Décrire le niveau d'intégration de l'équipement dans Jeedom (complète, incomplète et quelles fonctionnalités ne sont pas implémentées)
+    Describe the equipment, add links to the manufacturer or reference sites.
+    Describe the level of integration of the equipment in Jeedom (complete, incomplete and what features are not implemented)
 
-    // S'il est nécessaire de présenter le principe de fonctionnement :
-    ==== Principe de fonctionnement
-    Décrire l'architecture et la philosophie du plugin.
+    // If it is necessary to present the principle of operation:
+    ==== Principle of operation
+    Describe the architecture and philosophy of the plugin.
 
-    ==== Prérequis
-    Lister et décrire les prérequis à l'installation et l'utilisation du plugin
-    * ex : une clé API à demander
+    ==== Prerequisites
+    List and describe the prerequisites for installing and using the plugin
+    * ex: an API key to request
 
-installation.asciidoc 
+installation.asciidoc
 ---------------------
 
-Si votre plugin n’a aucune spécification sur son installation, ajouter
-juste un pointeur vers la procédure d’installation d’un plugin décrite
-dans la documentation du core Jeedom :
+If your plugin has no specification on its installation, add
+just a pointer to the procedure for installing a plugin described
+in the Jeedom Core documentation:
 
-[**Installation d’un
-plugin**](https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html)
-<span class="keycombo">Ctrl+mouse clic</span> (pour ouvrir dans un
-nouvel onglet)
+[** Installation of a
+plugin **] (https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-plugin.html)
+<span class = "keycombo"> Ctrl + mouse click </ span> (to open in a
+new tab)
 
-configuration.asciidoc 
+configuration.asciidoc
 ----------------------
 
-Règles 
+Rules
 ======
 
-Les images 
+Images
 ----------
 
-A compléter
+To complete

@@ -1,227 +1,227 @@
-Fibaro FGR-222 "Volet roulant" 
+Fibaro FGR-222 "del obturador rodante"
 ==============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/fibaro.fgr222/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgrm222/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le micromodule FGR-222 va vous permettre de gérer les motorisations de
-volet à butée électronique, les stores vénitiens ou encore les portes de
-garage grâce au protocole Z-Wave tout en conservant votre interrupteur
-existant. Vous allez donc pouvoir actionner le moteur connecté en
-utilisant l’interrupteur existant, un émetteur Z-Wave ou directement
-depuis le bouton présent sur le micromodule.
+El micromódulo FGR-222 le permitirá gestionar del sistema de propulsión
+dejar de obturador electrónico, persianas o puertas venecianas
+Garaje con el protocolo Z-Wave, manteniendo su conmutador
+existente. Por lo que será capaz de hacer funcionar el motor conectado
+usando el interruptor existente, un transmisor Z-Wave o directamente
+ya que este botón en el micromódulo.
 
-De plus, ce micromodule est capable de transmettre la consommation
-électrique instantanée (W) et cumulée (KWh) de l’équipement qui lui est
-rattaché.
+Además, este micro-módulo es capaz de transmitir el consumo
+instantánea eléctrica (W) y acumulativo (kWh) del equipo que es
+adjunta.
 
-Un contrôleur Z-Wave (télécommande, dongle …​) est nécessaire afin
-d’intégrer ce module dans votre réseau si vous avez déjà un réseau
-existant.
+Se requiere un controlador Z-Wave (control remoto, dongle ...) para
+integrar este módulo en su red si ya dispone de una red
+existente.
 
-Chaque module Z-Wave fonctionne comme un répéteur sans fil avec les
-autres modules, afin d’assurer une couverture totale de votre
-habitation.
+Cada módulo Z-Wave actúa como un repetidor inalámbrico con
+otros módulos para asegurar una cobertura completa de su
+morada.
 
-Note : Ce module nécessite le neutre pour fonctionner.
+Nota: Este módulo requiere el neutro para operar.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commandez vos stores ou volets roulants à distance
+-   Ordenar sus persianas o contraventanas remoto
 
--   Compatible avec BSO et store vénitien avec positionnement des
-    lamelles
+-   Compatible con la BSO y venecianas persianas con posicionamiento
+    tiras
 
--   S’installe derrière un interrupteur existant
+-   Se instala detrás de un interruptor existente
 
--   Fonction montée/descente et positionnement
+-   Función arriba / abajo y posicionamiento
 
--   Compatible avec les moteurs à butée mécanique ou électronique
+-   Compatible con el tope mecánico o motores electrónicos
 
--   Mesure de la consommation instantanée et cumulée
+-   La medición del consumo instantáneo y acumulado
 
--   Mise à jour sans fil avec la box Fibaro Home Center 2
+-   Actualización inalámbrica con caja Fibaro Home Center 2
 
--   Fonction test de la couverture réseau Z-Wave
+-   Función de prueba de la cobertura de la red Z-Wave
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Alimentation : 230V, 50 Hz
+-   Fuente de alimentación: 230V, 50Hz
 
--   Consommation électrique : &lt; 0,8W
+-   Consumo de energía: 0,8 W &lt;
 
--   Câblage : 3 fils, neutre nécessaire
+-   Cableado: 3 hijo, Neutro necesaria
 
--   Charge maxi : 1000W
+-   Carga máxima: 1000W
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Puissance du signal : 1mW
+-   Intensidad de la señal: 1 mW
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Distancia de transmisión: campo libre 50m, 30m en interiores
 
--   Dimensions: 17 x 42 x 37 mm
+-   Dimensiones: 17 x 42 x 37 mm
 
--   Température de fonctionnement : 0-40°C
+-   Temperatura de funcionamiento: 0-40 ° C
 
--   Température limite : 105°C
+-   Límite de temperatura: 105 ° C
 
--   Normes : LVD (2006/95/EC), EMC (2004/10B/EC), R&TTE(1999/5/EC)
+-   Normas: LVD (2006/95 / CE), EMC (2004 / 10B / CE), R & TTE (1999/5 / CE)
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Marca: Grupo Fibar
 
--   Nom : Fibaro FGR-222
+-   Nombre: Fibaro FGR-222
 
--   Fabricant ID : 271
+-   Identificación del fabricante: 271
 
--   Type Produit : 770
+-   Tipo de producto: 770
 
--   Produit ID : 4096
+-   Identificación del producto: 4096
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgrm222/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgrm222/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgrm222/commandes.jpg)
 
 ![Commandes](../images/fibaro.fgrm222/commandes2.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître la position de
-    votre volet
+-   Estado: Este es el comando para conocer la posición de
+    su componente
 
--   Positionnement : C’est la commande qui permet de définir le
-    pourcentage d’ouverture
+-   Posicionamiento: Este es el comando para establecer el
+    porcentaje de apertura
 
--   Up : C’est la commande qui permet d’ouvrir complétement le volet
+-   Hasta: Este es el comando para abrir completamente el obturador
 
--   Down : C’est la commande qui permet de fermer complétement le volet
+-   Abajo: Este es el comando para cerrar completamente la puerta
 
--   Rafraîchir : C’est la commande qui permet de redemander la position
-    du volet
+-   Actualizar: Este es el comando para volver a aplicar la posición
+    solapa
 
--   Puissance : Commande permettant d’avoir la consommation du module
+-   Potencia: Comando para tener consumo de los módulos
 
--   Consommation : Commande permettant de connaître la puissance
-    instantanée utilisée par le module
+-   Consumo: Comando para saber el poder
+    Instantánea que utiliza el módulo
 
--   STOP : Commande pour stopper le mouvement du volet
+-   STOP: comando para detener el movimiento de la aleta
 
--   STOP BSO : Commande pour stopper le mouvement (en mode
-    lamelle orientable)
+-   BSO STOP: comando para detener el movimiento (Modo
+    lama orientable)
 
--   Incliner : Permet d’incliner les lamelles (mode lamelle orientable)
+-   Inclinación: Permite para inclinar los listones (modo de láminas ajustable)
 
--   Décliner : Permet de décliner les lamelles (mode lamelle orientable)
+-   Rechazar: Permite rechazar las laminillas (modo de láminas ajustable)
 
--   Pas : Permet de définir le pas pour un appui sur Décliner ou
-    Incliner
+-   No: marcar el ritmo de prensado o Rechazar
+    inclinación
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Entonces, si desea configurar el módulo de acuerdo
+su instalación, para ello es necesario pasar por el botón
+"Configuración" plug-in OpenZwave Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/fibaro.fgrm222/config1.jpg)
 
@@ -231,124 +231,124 @@ Paramètres)
 
 ![Config4](../images/fibaro.fgrm222/config4.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: permet de bloquer le module (pour figer un volet) (dasn le cas
-    d’appui sur un interrupteur)
+-   1: se utiliza para bloquear el módulo (para congelar un panel) (abogados en el caso
+    el apoyo a un interruptor)
 
--   2: idem mais pour les commandes zwave
+-   2: igual, pero para los pedidos Zwave
 
--   3: type de rapports (classique ou fibar)
+-   3 tipos de informes (clásicos o Fibar)
 
--   10: mode de fonctionnement (store venitien, volet etc…​)
+-   10: modo de funcionamiento (celosía, persiana etc ...)
 
--   12: durée d’un tour complet (en mode store venitien)
+-   12: duración de una vuelta completa (en venitien forma ciega)
 
--   13: permet de choisir quand les lamelles doivent revenir à leur
-    précédente position
+-   13: Elija cuando las lamas están a regresar a su
+    posición anterior
 
--   14: permet de choisir le type d’interrupteur
+-   14: Se utiliza para seleccionar el tipo de interruptor
 
--   17: permet de choisir combien de temps après la limite définit en 18
-    le volet s’arrête
+-   17: permite elegir el tiempo después de la fecha límite definido en 18
+    la solapa se detiene
 
--   18: puissance de sécurité pour le moteur
+-   potencia la seguridad al motor: 18
 
 -   22: NA
 
--   29: permet de calibrer le volet
+-   29: calibra la solapa
 
--   30 à 35: permet de définir le comportement du module face aux
-    différentes alarmes zwave
+-   30-35: ajustar la sensibilidad del módulo de
+    alarmas Zwave diferentes
 
--   40: delta de puissance pour déclencher une remontée d’infos (même en
-    dehors de la période définie en 42)
+-   40: delta de potencia para desencadenar una recuperación de información (incluso
+    Fuera del periodo de tiempo definido en 42)
 
--   42: période de remontée d’infos
+-   42: ascenso información del período
 
--   43: delta d’énergie pour déclencher une remontée d’infos (même en
-    dehors de la période définie en 42)
+-   43: Energía delta para desencadenar una recuperación de información (incluso
+    Fuera del periodo de tiempo definido en 42)
 
--   44: permet de choisir si oui ou non la consommation et la puissance
-    doivent inclure celle du module lui même
+-   44: Elija si desea o no el consumo y el poder
+    debe incluir la del propio módulo
 
--   50: permet de choisir si le module doit envoyer les infos aux noeuds
-    en association en mode scene ou en mode association
+-   50: selecciona si el módulo enviará información a los nodos
+    en el modo de escena en asociación o en combinación de la moda
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède 3 groupes d’association, seul le troisième est
-indispensable.
+El módulo tiene tres grupos de asociación, sólo el tercero es
+esencial.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgrm222/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Reset 
+### reajustar
 
- \
+\
 
 ![Config5](../images/fibaro.fgrm222/config5.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système.
+Usted puede configurar su medidor de consumo haciendo clic
+este botón disponible en la ficha Sistema.
 
- \
+\
 
-### Important 
+### importante
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour que le retour d’état fonctionne dans Jeedom, il est nécessaire de
-> forcer l’étalonnage de l’équipement (paramètre 29 à "Oui") et le
-> positionnement doit être actif (paramètre 10 aux valeurs "Active
-> direct", "Active vénitien" ou "Active porte").
+> Para la realimentación del estado trabaja en Jeedom, es necesario
+> Forzar la calibración de los equipos (parámetro 29 a "Sí") y
+> Posicionamiento debe estar activa (10 valores del parámetro "Activo
+> Live "" veneciana Activo "o" puerta activa ").
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgrm222/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Lire la section Reset de cette doc.
+Lea la sección Restablecer este documento.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

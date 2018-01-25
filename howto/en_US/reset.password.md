@@ -1,33 +1,33 @@
-Nous allons voir ici comment changer votre mot de passe Jeedom, si vous
-l’avez oublié, directement en modifiant celui-ci dans la base de
-données.
+We will see here how to change your password Jeedom, if you
+have forgotten, directly by modifying this one in the base of
+data.
 
-La première chose à faire est de se connecter en SSH à Jeedom (avec un
-logiciel type kitty ou putty).
+The first thing to do is to connect in SSH to Jeedom (with a
+software type kitty or putty).
 
-Une fois connecté, il vous faut récupérer les identifiants de la base de
-données :
+Once logged in, you need to recover the credentials of the database.
+data:
 
-``` {.bash}
+`` `{.bash}
 cat /var/www/html/core/config/common.config.php
-```
+`` `
 
-Ici, vous trouverez le mot de passe pour accéder à la base de données
-jeedom, il faut ensuite faire :
+Here you will find the password to access the database
+jeedom, then you have to do:
 
-``` {.bash}
+`` `{.bash}
 mysql -ujeedom -p
-```
+`` `
 
-Là il vous demande le mot de passe récupéré plus haut (le mot de passe
-ne s’affiche pas : c’est normal). Tapez ensuite (ou mieux,
-copier/coller. Il faut faire "clic-droit" sous Putty pour "coller") :
+There he asks you for the password recovered above (the password
+is not displayed: it is normal). Then type (or better,
+copy paste. You have to make "right-click" under Putty to "paste"):
 
-``` {.bash}
+`` `{.bash}
 use jeedom;
-REPLACE INTO user SET `login`='admin',password='c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec',profils='admin', enable='1';
-```
+REPLACE INTO user SET `login` = 'admin', password = 'c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec', profiles = 'admin', enable = '1';
+`` `
 
-Voilà. Vous pouvez vous déconnecter/reconnecter à votre Jeedom avec les
-identifiants admin/admin ce qui vous permettra de modifier le mot de
-passe des autres comptes également.
+Here. You can disconnect / reconnect to your Jeedom with the
+admin / admin identifiers which will allow you to change the word of
+passes from other accounts as well.

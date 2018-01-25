@@ -1,221 +1,221 @@
-Fibaro Dimmer - FGD-211 
+Fibaro Dimmer - FGD-211
 =======================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/fibaro.fgd211/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/fibaro.fgd211/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le micromodule variateur FGD-211 va vous permettre de contrôler une
-lampe ou plafonnier à distance grâce au protocole Z-Wave tout en
-conservant votre interrupteur existant.
+El controlador micromódulo FGD-211 le permitirá controlar una
+lámpara o la distancia hasta el techo con el protocolo Z-Wave mientras
+conservando su interruptor existente.
 
-Vous allez donc pouvoir actionner la lampe connectée et faire varier son
-intensité en utilisant l’interrupteur existant, un émetteur Z-Wave ou
-directement depuis le bouton présent sur le micromodule. Il est
-compatible avec tout type de lampe supportant la variation
-(incandescence, fluo-compact, LED, …​). Le micromodule variateur Fibaro
-est un concentré de technologie, il détecte automatiquement le type de
-charge connectée et est protégé contre les surtensions.
+Por lo tanto, usted será capaz de operar la lámpara conectada y variar su
+la intensidad con el interruptor existente, un emisor o Z-Wave
+directamente desde este botón en el micromódulo. El es
+compatible con cualquier tipo de lámpara de apoyo a la variación
+(Incandescente, fluorescente compacta, LED, ...). La unidad micromódulo Fibaro
+es un concentrado de tecnología, que detecta automáticamente el tipo de
+carga conectada y está protegido contra sobretensiones.
 
-Pour les ampoules fluorescentes qui ne supportent pas la variation, le
-module agit alors automatiquement en tant que module commutateur (ON/OFF
-uniquement).
+Para bombillas fluorescentes que no son compatibles con el cambio, el
+módulo actúa automáticamente como un módulo de conmutación (ON / OFF
+solamente).
 
-Il peut être utilisé en mode 2 fils (sans neutre), en remplacement d’un
-interrupteur existant, ou trois fils avec une alimentation classique du
-module (Phase + Neutre).
+Se puede utilizar en el modo 2 hijo (sin neutro), para reemplazar una
+interruptor existente, o de tres hilos con una alimentación convencional
+módulo (Fase + Neutro).
 
-Pour des lampes ayant une très faible consommation (lampe LED par
-exemple), vous pourrez utiliser la charge (bypass) FGB-001 qui permet un
-fonctionnement correct du module. Un contrôleur Z-Wave (télécommande,
-dongle …​) est nécessaire afin d’intégrer ce détecteur dans votre réseau
-si vous avez déjà un réseau existant. Chaque module Z-Wave fonctionne
-comme un répéteur sans fil avec les autres modules, afin d’assurer une
-couverture totale de votre habitation.
+Para lámparas con muy bajo consumo de energía (lámpara de LED
+), Puede utilizar la carga (bypass) FGB-001 que permite a una
+el funcionamiento correcto del módulo. Un controlador Z-Wave (control remoto,
+dongle ...) es necesario para integrar el detector en su red
+si ya dispone de una red existente. Cada uno funciona el módulo Z-Wave
+como un repetidor inalámbrico con otros módulos para asegurar
+La cobertura total de su hogar.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commander un éclairage à distance
+-   Ordenar la iluminación a distancia
 
--   S’installe derrière un interrupteur existant
+-   Se instala detrás de un interruptor existente
 
--   Fonction ON/OFF et Variation
+-   ON / OFF función y el Cambio
 
--   Utilisation en mode 2 fils (neutre pas nécessaire)
+-   Modo de uso 2 hijo (neutro no es obligatorio)
 
--   Détection automatique de la charge
+-   Detección automática de carga
 
--   Protégé contre les surcharges
+-   Protegido contra sobrecarga
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Type de module : Récepteur Z-Wave
+-   Tipo de módulo: el receptor Z-Wave
 
--   Alimentation : 230V, 50 Hz
+-   Fuente de alimentación: 230V, 50Hz
 
--   Câblage : neutre pas nécessaire
+-   Cableado: neutral no requiere
 
--   Charge maxi : 25-500W (charge résistive) ou 1.5A (charge inductive)
+-   Carga máxima: 25-500W (carga resistiva) o 1.5A (carga inductiva)
 
--   Type de lampe compatible (dimmable) : Incandescente, Fluocompacte,
-    Halogène (230VAC et 12VDC avec tranformateur électronique), LED
+-   Tipo de Lámpara Apoyado (regulable): incandescente, CFL,
+    Halógeno (230VAC y 12VDC con transformador electrónico), LEDs
 
--   Type de lampe compatible (non dimmable) : Fluocompacte, LED
+-   soportes de tipo lámpara (no regulable): CFL, LED
 
--   Fusible : 2.5A
+-   Fusible: 2.5A
 
--   Fréquence : 868,42 Mhz
+-   Frecuencia: 868.42 MHz
 
--   Distance de transmission : 50m champ libre, 30m en intérieur
+-   Distancia de transmisión: campo libre 50m, 30m en interiores
 
--   Dimensions: 15 x 42 x 36 mm
+-   Dimensiones: 15 x 42 x 36 mm
 
--   Température de fonctionnement : 0-40°C
+-   Temperatura de funcionamiento: 0-40 ° C
 
--   Température limite : 105°C
+-   Límite de temperatura: 105 ° C
 
--   Normes : EN 55015 et EN 60669-2-1
+-   Normas: EN 55015 y EN 60669-2-1
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : Fibar Group
+-   Marca: Grupo Fibar
 
--   Nom : Fibaro FGMS-001 \[Motion Sensor\]
+-   Nombre: Fibaro GSMF-001 \ [sensor de movimiento \]
 
--   Fabricant ID : 271
+-   Identificación del fabricante: 271
 
--   Type Produit : 256
+-   Tipo de producto: 256
 
--   Produit ID : 4106
+-   Identificación del producto: 4106
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer 3 fois sur le
-> bouton d’inclusion, conformément à sa documentation papier.
+> Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
+> Botón de inclusión, de acuerdo con su documentación en papel.
 
- \
+\
 
 ![inclusion](../images/fibaro.fgd211/inclusion.jpg)
 
- \
+\
 
-> **Tip**
+> ** Tip **
 >
-> Si vous avez déjà intégré votre module au mur, vous pouvez l’inclure
-> en faisant de nombreux aller retour sur l’interrupteur ou de nombreux
-> appuis si vous avez un interrupteur sur bouton poussoir.
+> Si ya ha integrado el módulo a la pared, puede incluir
+> Por muchos a volver en el interruptor o muchos
+> Soporte si tiene un botón interruptor.
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/fibaro.fgd211/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/fibaro.fgd211/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Intensité : C’est la commande qui permet de régler l’intensité de la
-    lumière
+-   Intensidad: Este es el comando para ajustar la intensidad de la
+    luz
 
--   On : C’est la commande qui permet d’allumer la lumière
+-   Uno: Este es el comando para encender la luz
 
--   Off : C’est la commande qui permet d’éteindre la lumière
+-   Apagado: Este es el comando para apagar la luz
 
--   Etat : C’est la commande qui permet de connaitre le statut de la
-    lumière
+-   Estado: Este es el comando que permite conocer el estado de la
+    luz
 
-A noter que sur le dashboard toutes les infos se retrouvent sur le même
-icone
+Tenga en cuenta que la información completa salpicadero se puede encontrar en la misma
+icono
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/fibaro.fgd211/config1.jpg)
 
@@ -223,122 +223,122 @@ Paramètres)
 
 ![Config3](../images/fibaro.fgd211/config3.jpg)
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1: Fonctions ALL ON / ALL OFF : utilisé que si vous avez associé le
-    FGD-211 à un autre module
+-   1: Funciones ALL ON / OFF ALL: utilizar si se han asociado la
+    DGC-211 a otro módulo
 
--   6: permet de dire comment les informations sont envoyées au groupe
-    d’association 1
+-   6: a decir cómo se envía la información al grupo
+    asociación 1
 
--   7: permet de vérifier ou non le statut du module associé avant
-    d’envoyer une commande
+-   7: Puede comprobar si el estado del módulo asociado antes
+    el envío de un comando
 
--   8: permet de définir le pourcentage de variation (auto)
+-   8 establece el porcentaje de cambio (automático)
 
--   9: durée de la variation entre les deux extrêmes (manuel)
+-   9: longitud de la variación entre los dos extremos (manual)
 
--   10: durée de la variation entre les deux extrêmes (auto)
+-   10: duración de la variación entre los dos extremos (auto)
 
--   11: permet de définir le pourcentage de variation (manuel)
+-   11: ajusta el porcentaje de cambio (manual)
 
--   12: permet de définir le niveau maximal autorisé
+-   12: Establece el nivel máximo permitido
 
--   13: permet de définir le niveau minimal autorisé
+-   13: Establece el nivel mínimo permitido
 
--   14: REGLAGE IMPORTANT : permet de choisir entre interrupteur
-    BISTABLE ou MONOSTABLE (bouton poussoir)
+-   14: AJUSTE NOTA: se utiliza para seleccionar el interruptor
+    BIESTABLE o MONOSTABLE (botón pulsador)
 
--   15: active l’option permettant de mettre la luminosité au maximum
-    sur double appui (ou aller retour sur bistable)
+-   15: activa la opción de traer el brillo al máximo
+    en doble apoyo (o retorno de la biestable)
 
--   16: option permettant d’activer la mémorisation du dernier état
+-   16: opción para activar el almacenamiento del último estado
 
--   17: permet de choisir entre le mode va et vient et le mode
-    télérupteur
+-   17: elegir entre la moda va y viene y el modo de
+    contactor
 
--   18: permet de synchroniser le niveau de variation aux autres
-    variateurs associés
+-   18: Sincronizar la variación de nivel a la otra
+    unidades asociadas
 
--   19: mode fonctionnement de l’interrupteur bistable (inversion
-    ou non)
+-   19: operación de usuario del conmutador biestable (inversión
+    o no)
 
--   20: permet d’ajuster le niveau minimum pour des ampoules LEDS
-    dimmables par exemple
+-   20: Ajuste el nivel mínimo para bombillas LED
+    por ejemplo regulable
 
--   30: permet de définir le mode de fonctionnement du module en cas de
-    réception d’un signal broadcast Alarm
+-   30: Ajuste el modo de funcionamiento del módulo en el caso
+    recibir una señal de emisión de alarma
 
--   39: durée de l’alarme défini en paramètre 30
+-   duración de la alarma definido parámetro 30: 39
 
--   41: permet d’activer ou non la fonction d’Activations des scènes
+-   41: activar o no la función de activaciones escenas
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède trois groupes d’association, seul le troisième est
-indispensable.
+Este módulo tiene tres grupos de asociación, sólo el tercero es
+esencial.
 
- \
+\
 
 ![Groupe](../images/fibaro.fgd211/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-> **Caution**
+> ** Atención **
 >
-> Le paramètre le plus important de la configuration est le 14. Il
-> permet de choisir le type d’interrupteur utilisé. Par défaut le type
-> est défini sur monostable.
+> La configuración de parámetro más importante es 14.
+> Selecciona el tipo de interruptor utilizado. El tipo de defecto
+> Está establecido en tiro.
 
- \
+\
 
-Si vous voulez exclure/inclure le module sans démonter votre
-interrupteur, vous pouvez appuyer plusieurs fois sur votre interrupteur
-(ou faire des allers retours en cas d’interrupteur bi stable)
+Si desea excluir / incluir el módulo sin necesidad de retirar su
+cambiar puede pulsar repetidamente el conmutador
+(O ir y venir en el interruptor de lado bi)
 
- \
+\
 
-### Visuel alternatif 
+### alternativa visual
 
- \
+\
 
 ![vuewidget](../images/fibaro.fgd211/vuewidget.jpg)
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Non. ce module peut s’inclure ou s’exclure en appuyant plusieurs fois
-sur l’interrupteur.
+No. este módulo puede incluir o excluir en varias ocasiones
+en el interruptor.
 
- \
-**@sarakha63**
+\
+** ** @ sarakha63

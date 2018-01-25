@@ -1,178 +1,178 @@
-Greenwave PowerNode - 6 prises 
+Greenwave PowerNode - 6 outlets
 ==============================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/greenwave.powernode/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/greenwave.powernode/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-La multiprise PowerNode de GreenWave est un appareil intelligent qui se
-connecte à vos appareils électroménagers et électroniques pour vous
-permettre de surveiller et contrôler la consommation électrique de vos
-appareils à distance via un navigateur Web ou un smartphone. Utilisant
-la technologie Z-Wave, la multiprise PowerNode est compatible avec la
-plupart des box domotiques du marché comme Fibaro Home Center 2, eedomus
-ou Zipabox. Equipée de 6 ports, elle pourra contrôler indépendamment 6
-appareils électriques différents d’une puissance totale de 10A.
+The PowerNode Power Strip from GreenWave is a smart device that
+connect to your appliances and electronics for you
+allow you to monitor and control the power consumption of your
+devices remotely via a web browser or smartphone. using
+Z-Wave technology, the PowerNode power strip is compatible with the
+most home automation boxes on the market like Fibaro Home Center 2, eedomus
+or Zipabox. Equipped with 6 ports, it can control independently 6
+different electrical appliances with a total power of 10A.
 
-La multiprise PowerNode recueille des données sur la consommation
-d’énergie des appareils connectés et les transmet à la box domotique.
-Vous pouvez alors contrôler la consommation d’énergie de chaque appareil
-connecté. Cette multiprise vous permet également d’activer ou désactiver
-des périphériques à distance via un navigateur Web ou smartphone ou de
-définir un calendrier pour activer ou désactiver automatiquement vos
-appareils à des heures prédéfinies. Une petite molette sur le côté de la
-multiprise permet de choisir une couleur qui représentera la pièce à
-laquelle est affectée la multiprise. Par exemple " bleu pour la chambre
-". Cette astuce vous permettra de différencier vos différentes
-multiprises PowerNode. On peut également régler cette molette sur un
-cadenas. Cette fonction permet de verrouiller la multiprise afin
-d’éviter de l’éteindre par accident, mais le contrôle depuis la box
-domotique ne sera plus possible.
+PowerNode Power Strip Collects Consumer Data
+connected devices and transmits them to the home automation box.
+You can then control the power consumption of each device
+logged. This power strip also allows you to enable or disable
+devices remotely via a web browser or smartphone or
+set a calendar to automatically enable or disable your
+devices at predefined times. A small wheel on the side of the
+power strip allows to choose a color that will represent the piece to
+which is assigned the power strip. For example "blue for the room
+This tip will allow you to differentiate your different
+PowerNode power strips. It can also be set on a wheel
+padlock. This function allows you to lock the power strip
+to avoid extinguishing by accident, but control from the box
+home automation will no longer be possible.
 
-La multiprise PowerNode dispose aussi d’un indicateur d’état lumineux
-qui donne différentes informations en fonction de sa couleur : prises
-allumées ou éteintes, portée radio limitée, mode inclusion et exclusion.
+The PowerNode Power Strip also has a light status indicator
+which gives different information according to its color: taken
+on or off, limited radio range, include and exclude mode.
 
-La multiprise PowerNode est équipée d’une protection contre les
-surintensités pour protéger les appareils connectés. La PowerNode
-désactivera les ports en cas du dysfonctionnement d’un appareil
-défectueux ou d’un court-circuit. Une protection supplémentaire est
-assurée par le fusible interne situé dans la multiprise.
+The PowerNode power strip is equipped with a protection against
+overcurrent to protect connected devices. The PowerNode
+disable ports in the event of a device malfunction
+defective or short circuit. Additional protection is
+ensured by the internal fuse located in the power strip.
 
-Cette multiprise est idéale pour contrôler des appareils multimédia dans
-un meuble de télévision ou pour piloter du matériel informatique situé
-dans un bureau et ainsi éviter d’avoir à utiliser 6 prises Z-Wave
-individuelles.  \
+This power strip is ideal for controlling multimedia devices in
+a TV stand or to control computer equipment located
+in an office and avoid having to use 6 Z-Wave sockets
+individual. \
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Multiprise Z-Wave 6 ports
+-   6-port Z-Wave power strip
 
--   Permet le suivi des consommations des appareils branchés
+-   Tracks the consumption of connected devices
 
--   Fonction ON/OFF
+-   ON / OFF function
 
--   Possibilité de lui affecter un numéro et une couleur afin de
-    différencier les différentes PowerNode d’une même installation.
+-   Ability to assign a number and a color to it in order to
+    differentiate the different PowerNode from the same installation.
 
--   Bouton On/Off directement sur la multiprise
+-   On / Off button directly on the power strip
 
--   Protection contre les surintensités
+-   Overcurrent protection
 
--   Indicateur d’état lumineux
+-   Light status indicator
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
 -   Alimentation : 250V \~ AC, 50Hz
 
--   Courant de charge maximum : 10A
+-   Maximum charging current: 10A
 
--   Puissance de charge maximale : 2400W (@ 240V)
+-   Maximum load power: 2400W (@ 240V)
 
--   Consommation en veille : 0,4 W
+-   Standby power consumption: 0.4 W
 
--   Précision de mesure : ± 0.1W
+-   Measurement accuracy: ± 0.1W
 
--   Protection contre les surintensités : 10A fusible interne
+-   Overcurrent protection: 10A internal fuse
 
--   Type de prise : DIN49440 / CEE 7/7 (Schuko)
+-   Plug type: DIN49440 / CEE 7/7 (Schuko)
 
--   Radio Fréquence Z-Wave : 868.42MHz
+-   Z-Wave Frequency Radio: 868.42MHz
 
--   Portée maximale Z-Wave : 30m
+-   Z-Wave maximum range: 30m
 
--   Température de fonctionnement : 0 ° C à + 25 ° C
+-   Operating temperature: 0 ° C to + 25 ° C
 
--   Température de stockage : -20 ° C à + 60 ° C
+-   Storage temperature: -20 ° C to + 60 ° C
 
--   Humidité maximale : 5% à 90%
+-   Maximum humidity: 5% to 90%
 
--   Classe IP (Tolérance d’humidité) : IP20
+-   IP Rating (Humidity Tolerance): IP20
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : GreenWave
+-   Brand: GreenWave
 
--   Nom : GreenWave\[6 x prises\]
+-   Name: GreenWave \ [6 x catches \]
 
--   Fabricant ID : 153
+-   Manufacturer ID: 153
 
--   Type Produit : 3
+-   Product type: 3
 
--   Produit ID : 4
+-   Product ID: 4
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> inclusion présent sur la prise.
+> To put this module in inclusion mode, press the button
+> inclusion present on the catch.
 
- \
+\
 
 ![inclusion](../images/greenwave.powernode/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/greenwave.powernode/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/greenwave.powernode/commandes.jpg)
 
@@ -184,224 +184,224 @@ disponibles.
 
 ![Commandes](../images/greenwave.powernode/commandes5.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Etat-1 : C’est la commande qui permet de connaître le statut de la
-    prise 1
+-   State-1: This is the command that allows to know the status of the
+    socket 1
 
--   On-1 : C’est la commande qui permet d’allumer la prise 1
+-   On-1: This is the command that turns on the plug 1
 
--   Off-1 : C’est la commande qui permet d’éteindre la prise 1
+-   Off-1: This is the command that turns off the plug 1
 
--   Puissance-1 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 1
+-   Power-1: This is the command that raises the instantaneous power
+    consumed from the socket 1
 
--   Conso-1 : C’est la commande qui remonte la consommation totale de la
-    prise 1
+-   Conso-1: This is the order that goes back the total consumption of the
+    socket 1
 
--   Etat-2 : C’est la commande qui permet de connaître le statut de la
-    prise 2
+-   State-2: This is the command that allows to know the status of the
+    taken 2
 
--   On-2 : C’est la commande qui permet d’allumer la prise 2
+-   On-2: This is the command that turns on the socket 2
 
--   Off-2 : C’est la commande qui permet d’éteindre la prise 2
+-   Off-2: This is the command that turns off the plug 2
 
--   Puissance-2 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 2
+-   Power-2: This is the command that raises the instantaneous power
+    consumed from the socket 2
 
--   Conso-2 : C’est la commande qui remonte la consommation totale de la
-    prise 2
+-   Conso-2: This is the order that goes back the total consumption of the
+    taken 2
 
--   Etat-3 : C’est la commande qui permet de connaître le statut de la
-    prise 3
+-   State-3: This is the command that allows to know the status of the
+    socket 3
 
--   On-3 : C’est la commande qui permet d’allumer la prise 3
+-   On-3: This is the command that turns on the plug 3
 
--   Off-3 : C’est la commande qui permet d’éteindre la prise 3
+-   Off-3: This is the command that turns off the plug 3
 
--   Puissance-3 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 3
+-   Power-3: This is the command that raises the power instatanée
+    consumed from the socket 3
 
--   Conso-3 : C’est la commande qui remonte la consommation totale de la
-    prise 3
+-   Conso-3: This is the order that goes back the total consumption of the
+    socket 3
 
--   Etat-4 : C’est la commande qui permet de connaître le statut de la
-    prise 4
+-   State-4: This is the command that allows to know the status of the
+    socket 4
 
--   On-4 : C’est la commande qui permet d’allumer la prise 4
+-   On-4: This is the command that turns on the 4
 
--   Off-4 : C’est la commande qui permet d’éteindre la prise 4
+-   Off-4: This is the command that turns off the jack 4
 
--   Puissance-4 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 4
+-   Power-4: This is the command that raises the power instatanée
+    consumed from the socket 4
 
--   Conso-4 : C’est la commande qui remonte la consommation totale de la
-    prise 4
+-   Conso-4: This is the order that goes back the total consumption of the
+    socket 4
 
--   Etat-5 : C’est la commande qui permet de connaître le statut de la
-    prise 5
+-   State-5: This is the command that allows to know the status of the
+    socket 5
 
--   On-5 : C’est la commande qui permet d’allumer la prise 5
+-   On-5: This is the command that turns on the plug 5
 
--   Off-5 : C’est la commande qui permet d’éteindre la prise 5
+-   Off-5: This is the command that turns off the plug 5
 
--   Puissance-5 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 5
+-   Power-5: This is the command that raises the instantaneous power
+    consumed from the socket 5
 
--   Conso-5 : C’est la commande qui remonte la consommation totale de la
-    prise 5
+-   Conso-5: This is the order that goes back the total consumption of the
+    socket 5
 
--   Etat-6 : C’est la commande qui permet de connaître le statut de la
-    prise 6
+-   State-6: This is the command that allows to know the status of the
+    socket 6
 
--   On-6 : C’est la commande qui permet d’allumer la prise 6
+-   On-6: This is the command that turns on the jack 6
 
--   Off-6 : C’est la commande qui permet d’éteindre la prise 6
+-   Off-6: This is the command that turns off the plug 6
 
--   Puissance-6 : C’est la commande qui remonte la puissance instatanée
-    consommée de la prise 6
+-   Power-6: This is the command that raises the instantaneous power
+    consumed from the socket 6
 
--   Conso-6 : C’est la commande qui remonte la consommation totale de la
-    prise 6
+-   Conso-6: This is the command that goes back the total consumption of the
+    socket 6
 
- \
+\
 
-A noter que sur le dashboard les commandes ON/OFF/ETAT sont regroupées
-en un seul bouton.
+Note that on the dashboard the ON / OFF / STATUS commands are grouped together
+in one button.
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+You can configure the module according to your
+installation. To do this, go through the "Configuration" button on the
+OpenZwave plugin from Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+You will arrive on this page (after clicking on the tab
+Settings)
 
- \
+\
 
 ![Config1](../images/greenwave.powernode/config1.jpg)
 
- \
+\
 
-Comme vous pourrez le constater il n’y a pas beaucoup de configuration
-pour ce module.
+As you can see there is not a lot of configuration
+for this module.
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1 : Délais avant le clignotement du bouton : nombres de secondes
-    minimum entre deux communications (si ce délai est dépassé le bouton
-    de la prise clignotera)
+-   1: Delays before the blinking of the button: number of seconds
+    minimum between two calls (if this time is exceeded the button
+    the socket will flash)
 
--   2 : Couleur selectionnée de la molette (détectée automatiquement)
+-   2: Selected color of the wheel (detected automatically)
 
- \
+\
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède quatre groupes d’association, seul le 1er groupe est
-indispensable.
+This module has four association groups, only the 1st group is
+essential.
 
- \
+\
 
 ![Groupe](../images/greenwave.powernode/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités / Polling 
+### Specificities / Polling
 
- \
+\
 
-Contrairement à sa petite soeur "Une prise", cette multiprise nécessite
-un polling pour remonter la consommation.
+Unlike her little sister "A catch", this power strip requires
+polling to boost consumption.
 
- \
+\
 
 ![Config2](../images/greenwave.powernode/config2.jpg)
 
- \
+\
 
-Il est juste nécessaire de l’activer pour la commande Power de chaque
-prise. Cela aura pour effet de remonter les deux (conso et puissance)
+It is just necessary to activate it for the Power command of each
+outlet. This will have the effect of raising both (conso and power)
 
- \
+\
 
-### Consommation Globale 
+### Global Consumption
 
- \
+\
 
 ![consocumul](../images/greenwave.powernode/consocumul.jpg)
 
- \
+\
 
-Vous pouvez à l’aide d’un virtuel vous créer un cumul de consommation
-des 6 prises.
+You can using a virtual you create a cumulative consumption
+6 shots.
 
- \
+\
 
 ![consocumul2](../images/greenwave.powernode/consocumul2.jpg)
 
- \
+\
 
-### Reset 
+### reset
 
- \
+\
 
 ![Config3](../images/greenwave.powernode/config3.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système. (Il y a un reset par
-prise). Il faut choisir PressButton.
+You can reset your consumption meter by clicking
+on this button available in the System tab. (There is a reset by
+socket). You have to choose PressButton.
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+No notion of wakeup on this module.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Avez vous réglé un CRON.
+Have you paid a CRON.
 
- \
+\
 
-Non. Le module ne le permet pas. Mettez un morceau de ruban adhésif noir
-dessus.
+No. The module does not allow it. Put a piece of black tape
+above.
 
- \
-**@sarakha63**
+\
+** @ ** sarakha63

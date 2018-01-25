@@ -1,123 +1,123 @@
-Pourquoi ? 
+Why ?
 ==========
 
--   Apache va devenir petit à petit la norme avec Jeedom
+-   Apache will gradually become the norm with Jeedom
 
--   Permet d’avoir les dernières mises à jour de sécurité au niveau de
-    l’accès aux fichiers (grâce au .htaccess) lors des mises à jour de
+-   Allows you to have the latest security updates at
+    access to files (thanks to .htaccess) during updates of
     Jeedom
 
--   Corrige certains soucis d’accès et de stabilité (notamment pour ceux
-    qui ont beaucoup de caméras)
+-   Corrects some issues of access and stability (especially for those
+    who have a lot of cameras)
 
--   Améliore les performances globales de Jeedom.
+-   Improves the overall performance of Jeedom.
 
-Prérequis 
+Prerequisites
 =========
 
--   Savoir se connecter en SSH sur la box (vous trouverez les
-    identifiants sur la documentation d’installation)
+-   Know how to connect in SSH on the box (you will find the
+    identifiers on the installation documentation)
 
--   Etre connecté à internet.
+-   Being connected to the internet.
 
-> **Important**
+> ** Important **
 >
-> En cas de soucis l’équipe Jeedom ne pourra être tenue responsable et
-> pourra refuser toute demande de support. La manipulation est à vos
-> risques et périls.
+> In case of concern the Jeedom team can not be held responsible and
+> may refuse any request for support. Handling is yours
+> risks and perils.
 
-> **Important**
+> ** Important **
 >
-> Attention certains plugins non officiels ne sont pas compatibles
-> Apache, renseignez-vous bien avant.
+> Warning some unofficial plugins are not compatible
+> Apache, find out well before.
 
-Comment faire 
+How to do
 =============
 
-Désactivation des services Jeedom et nginx 
+Disabling Jeedom and nginx services
 ------------------------------------------
 
-Dans Jeedom, il faut aller sur chaque plugin ayant un démon, puis
-désactiver la gestion automatique du démon et couper celui-ci. Il faut
-ensuite, dans le moteur de tâches, désactiver toutes les tâches (il y un
-bouton de désactivation générale) et dans les scénarios, désactiver tous
-les scénarios (il y un bouton de désactivation générale).
+In Jeedom, you have to go to each plugin with a daemon, then
+disable the automatic management of the daemon and cut it. It is necessary
+Then, in the task engine, disable all tasks (there is a
+general deactivation button) and in the scenarios, disable all
+the scenarios (there is a general deactivation button).
 
-    systemctl stop cron
-    systemctl stop nginx
-    systemctl stop mysql
+    systemctl stop cron
+    systemctl stop nginx
+    systemctl stop mysql
 
-Installation et configuration d’Apache 
+Apache installation and configuration
 --------------------------------------
 
-    mkdir -p /var/www/html/log
-    apt-get -y install ntp ca-certificates unzip curl sudo
-    apt-get -y install apache2 php5 mysql-client mysql-server libapache2-mod-php5
-    apt-get -y install php5-cli php5-common php5-curl php5-fpm php5-json php5-mysql php5-gd
-    wget https://raw.githubusercontent.com/jeedom/core/stable/install/apache_security -O /etc/apache2/conf-available/security.conf
-    rm /etc/apache2/conf-enabled/security.conf
-    ln -s /etc/apache2/conf-available/security.conf /etc/apache2/conf-enabled/
-    rm /etc/apache2/conf-available/other-vhosts-access-log.conf
-    rm /etc/apache2/conf-enabled/other-vhosts-access-log.conf
-    systemctl restart apache2
-    rm /var/www/html/index.html
+    mkdir -p / var / www / html / log
+    apt-get -y install ntp ca-certificates unzip curl sudo
+    apt-get -y install apache2 php5 mysql-client mysql-server libapache2-mod-php5
+    apt-get -y php5-php5-php5-php5-php5-php5-php5-php5
+    wget https://raw.githubusercontent.com/jeedom/core/stable/install/apache_security -O /etc/apache2/conf-available/security.conf
+    rm /etc/apache2/conf-enabled/security.conf
+    ln -s /etc/apache2/conf-available/security.conf / etc / apache2 / conf-enabled /
+    rm /etc/apache2/conf-available/other-vhosts-access-log.conf
+    rm /etc/apache2/conf-enabled/other-vhosts-access-log.conf
+    systemctl restart apache2
+    rm /var/www/html/index.html
 
-> **Note**
+> ** Note **
 >
-> Si lors de l’installation le système vous demande si vous voulez ou
-> non garder une version modifiée d’un fichier, faites : "Keep the local
-> version currently installed".
+> If during the installation the system asks you if you want or
+> do not keep a modified version of a file, do: "Keep the local
+> currently installed version ".
 
-Copie de Jeedom 
+Copy of Jeedom
 ---------------
 
-    cp -R /usr/share/nginx/www/jeedom/* /var/www/html/
-    rm /var/www/html/log/nginx.error
-    chmod 775 -R /var/www/html
-    chown www-data:www-data -R /var/www/html
+    cp -R / usr / share / nginx / www / jeedom / * / var / www / html /
+    rm /var/www/html/log/nginx.error
+    chmod 775 -R / var / www / html
+    chown www-data: www-data-R / var / www / html
 
-Test d’accès 
+Access test
 ------------
 
-    systemctl start mysql
+    systemctl start mysql
 
-Vous devriez maintenant pouvoir accéder à Jeedom depuis la même URL
-qu’avant. Si c’est bon vous pouvez continuer SINON IL NE FAUT SURTOUT
-PAS FAIRE LA SUITE.
+You should now be able to access Jeedom from the same URL
+before. If it's good you can continue ELSE IT NEEDS ESPECIALLY
+NOT DO MORE.
 
-Mise à jour de la crontab 
+Update of the crontab
 -------------------------
 
-Faire :
+Make :
 
-    crontab -e
+    crontab -e
 
-Puis mettre à jour le chemin d’accès à Jeedom, remplacer :
+Then update the path to Jeedom, replace:
 
-    * * * * * su --shell=/bin/bash - www-data -c '/usr/bin/php /usr/share/nginx/www/jeedom/core/php/jeeCron.php' >> /dev/null 2>&1
+    * * * * * su --shell = / bin / bash - www -data -c '/ usr / bin / php /usr/share/nginx/www/jeedom/core/php/jeeCron.php' >> / dev / null 2> & 1
 
-Par :
+By :
 
-    * * * * * su --shell=/bin/bash - www-data -c '/usr/bin/php /var/www/html/core/php/jeeCron.php' >> /dev/null 2>&1
+    * * * * * su --shell = / bin / bash - www -data -c '/ usr / bin / php /var/www/html/core/php/jeeCron.php' >> / dev / null 2> & 1
 
-Nettoyage et suppression de nginx 
+Cleaning and removal of nginx
 ---------------------------------
 
-    apt-get remove nginx*
-    rm -rf cp -R /usr/share/nginx
-    apt-get autoremove
-    systemctl disable nginx
+    apt-get remove nginx *
+    rm -rf cp -r / usr / share / nginx
+    apt-get autoremove
+    systemctl disable nginx
 
-Redémarrage des services 
+Restarting services
 ------------------------
 
-    systemctl enable apache2
-    systemctl start cron
+    systemctl enable apache2
+    systemctl start cron
 
-Ensuite connectez-vous à votre Jeedom et réactivez le moteur de tâches
-et les scénarios. Vous pouvez aussi relancer les démons.
+Then connect to your Jeedom and reactivate the task engine
+and scenarios. You can also restart the demons.
 
-> **Important**
+> ** Important **
 >
-> Il est conseillé après la migration de lancer une mise à jour de
-> Jeedom (même s’il ne vous propose rien).
+> It is recommended after the migration to launch an update of
+> Jeedom (even if he does not offer you anything).

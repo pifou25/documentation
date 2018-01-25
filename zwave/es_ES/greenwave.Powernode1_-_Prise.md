@@ -1,309 +1,309 @@
-Greenwave PowerNode - 1 prise 
+Greenwave nodo de poder - 1 tomada
 =============================
 
- \
+\
 
--   **Le module**
+-   ** ** El módulo
 
- \
+\
 
 ![module](../images/greenwave.Powernode1/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
- \
+\
 
 ![vuedefaut1](../images/greenwave.Powernode1/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+resumen
 ------
 
- \
+\
 
-Le module prise PowerNode de GreenWave est un appareil intelligent qui
-se connecte à un de vos appareils électroménagers et électroniques pour
-vous permettre de surveiller et contrôler la consommation électrique à
-distance via un navigateur Web ou un smartphone.
+El módulo de nodo de poder GreenWave tomada es un dispositivo inteligente que
+se conecta a uno de sus electrodomésticos y electrónica para
+le permiten supervisar y controlar el consumo de energía a
+remota a través de un navegador web o un teléfono inteligente.
 
-Utilisant la technologie Z-Wave, la prise commandée PowerNode est
-compatible avec la plupart des box domotiques du marché comme Fibaro
-Home Center 2, eedomus ou Zipabox.
+Utilizando la tecnología de Z-Wave, zócalo controlado nodo de poder es
+compatible con la mayoría del mercado de automatización del hogar como caja de Fibaro
+Home Center 2, o eedomus Zipabox.
 
-La module prise PowerNode recueille des données sur la consommation
-d’énergie de l’appareil connecté et les transmet à la box domotique.
-Cette prise commandée vous permet également d’activer ou désactiver
-l’appareil à distance via un navigateur Web ou smartphone ou de définir
-un calendrier pour activer ou désactiver automatiquement votre appareil
-à des heures prédéfinies.
+Nodo de poder de la unidad de receptáculo recopila datos sobre el consumo
+la energía dispositivo conectado y transmitirlas a dicho cuadro de automatización del hogar.
+Este zócalo controlado también le permite activar o desactivar
+el dispositivo de forma remota a través de un navegador web o un teléfono inteligente o un conjunto
+un calendario para activar o desactivar el dispositivo automáticamente
+a horas preestablecidas.
 
-Une petite molette sur le côté de la prise permet de choisir une couleur
-qui représentera la pièce à laquelle elle est affectée. Par exemple "
-bleu pour la chambre ". Cette astuce vous permettra de différencier vos
-différentes prises et multiprises PowerNode. On peut également régler
-cette molette sur un cadenas. Cette fonction permet de verrouiller la
-prise afin d’éviter de l’éteindre par accident, mais le contrôle depuis
-la boxe domotique ne sera plus possible.
+Un pequeño dial en el lado del conector para elegir un color
+que representa la parte a la que se le asigna. Por ejemplo "
+azul para la habitación. "Este truco le ayudará a diferenciar su
+diferentes tomas y tiras de nodo de poder. También se puede ajustar
+este dial para un candado. Esta función bloquea la
+tomar para evitar que por accidente, pero el control desde
+domótica boxeo no será posible.
 
-La prise commandée PowerNode dispose aussi d’un indicateur d’état
-lumineux qui donne différentes informations en fonction de sa couleur :
-prises allumées ou éteintes, portée radio limitée, mode inclusion et
-exclusion.
+La toma de corriente controlada nodo de poder también cuenta con un indicador de estado
+luz que da información diferente dependiendo de su color:
+tomado encendido o apagado, radio limitado rango, la moda y la inclusión
+la exclusión.
 
-Le module prise PowerNode est équipé d’une protection contre les
-surintensités pour protéger l’appareil connecté. La prise PowerNode sera
-désactivée en cas du dysfonctionnement d’un appareil défectueux ou d’un
-court-circuit. Une protection supplémentaire est assurée par le fusible
-interne situé dans la prise.
+Nodo de poder de la unidad de receptáculo está equipado con una protección contra
+sobrecorriente para proteger el dispositivo conectado. La decisión nodo de poder
+desactiva cuando el mal funcionamiento de un aparato defectuoso o una
+cortocircuito. protección adicional es proporcionado por el fusible
+internamente en el enchufe.
 
- \
+\
 
-Fonctions 
+funciones
 ---------
 
- \
+\
 
--   Commander une lampe ou un appareil à distance
+-   Control de una lámpara o un dispositivo remoto
 
--   Module prise s’intégrant directement entre une prise électrique et
-    la charge à commander
+-   Módulo tomada para ser incorporado directamente entre una toma eléctrica y
+    la carga a ser controlado
 
--   Permet le suivi de consommation de l’appareil branché
+-   Permite que el dispositivo de control del consumo conectado
 
--   Fonction ON/OFF
+-   Encendido / apagado
 
--   Possibilité de lui affecter un numéro et une couleur afin de
-    différencier les différentes PowerNode d’une même installation
+-   Posibilidad de asignar un número y un color de
+    diferenciar la misma instalación diferentes nodo de poder
 
--   Bouton On/Off directement sur la prise
+-   Botón de encendido / apagado directamente en espera
 
--   Protection contre les surintensités
+-   Protección contra sobrecorriente
 
--   Indicateur d’état lumineux
+-   condición de la luz indicadora
 
- \
+\
 
-Caractéristiques techniques 
+Características técnicas
 ---------------------------
 
- \
+\
 
--   Alimentation : 250V \~ AC, 50Hz
+-   Fuente de alimentación: 250 V \ ~ CA, 50Hz
 
--   Courant de charge maximum : 10A
+-   corriente de carga máxima: 10A
 
--   Puissance de charge maximale : 2400W (@ 240V)
+-   potencia de carga máxima: 2400W (@ 240 V)
 
--   Consommation en veille : 0,4 W
+-   Consumo de energía: 0,4 W
 
--   Précision de mesure : ± 0.1W
+-   Precisión de la medición: ± 0,1 W
 
--   Protection contre les surintensités : 10A fusible interne
+-   La protección contra la sobretensión: fusible interno 10A
 
--   Type de prise : DIN49440 / CEE 7/7 (Schuko)
+-   Tipo de enchufe: DIN49440 / CEE 7/7 (Schuko)
 
--   Radio Fréquence Z-Wave : 868.42MHz
+-   Radio Frecuencia Z-Wave: 868.42MHz
 
--   Portée maximale Z-Wave : 30m
+-   Máximo Z-Wave Rango: 30m
 
--   Température de fonctionnement : 0 ° C à + 25 ° C
+-   Temperatura de funcionamiento: 0 ° C a + 25 ° C
 
--   Température de stockage : -20 ° C à + 60 ° C
+-   Temperatura de almacenamiento: -20 ° C a + 60 ° C
 
--   Humidité maximale : 5% à 90%
+-   máximo de humedad: 5% a 90%
 
--   Classe IP (Tolérance d’humidité) : IP20
+-   Valoración de IP (tolerancia de humedad): IP20
 
- \
+\
 
-Données du module 
+datos de los módulos
 -----------------
 
- \
+\
 
--   Marque : GreenWave
+-   Marca: GreenWave
 
--   Nom : GreenWave\[1 x prise\]
+-   Nombre: GreenWave \ [1 socket \]
 
--   Fabricant ID : 153
+-   Identificación del fabricante: 153
 
--   Type Produit : 2
+-   Tipo de producto: 2
 
--   Produit ID : 2
+-   Identificación del producto: 2
 
- \
+\
 
-Configuration 
+configuración
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+Para configurar OpenZwave plugin y cómo poner en Jeedom
+inclusión se refiere a este
+[Documentación] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Importante **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur le bouton
-> inclusion présent sous la prise.
+> Para poner este modo la inclusión del módulo tiene que pulsar el botón
+> La inclusión en esta decisión.
 
- \
+\
 
 ![inclusion](../images/greenwave.Powernode1/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Una vez incluido usted debe conseguir esto:
 
- \
+\
 
 ![Plugin Zwave](../images/greenwave.Powernode1/information.jpg)
 
- \
+\
 
-### Commandes 
+### comandos
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Una vez reconocido el módulo, los comandos asociados con el módulo serán
+disponible.
 
- \
+\
 
 ![Commandes](../images/greenwave.Powernode1/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Estos son los comandos:
 
- \
+\
 
--   Etat : C’est la commande qui permet de connaître le statut de la
-    prise
+-   Estado: Este es el comando para conocer el estado de la
+    toma
 
--   On : C’est la commande qui permet d’allumer la prise
+-   Uno: Este es el comando para activar el plug
 
--   Off : C’est la commande qui permet d’éteindre la prise
+-   Apagado: Este es el comando para apagar el tapón
 
--   Puissance : C’est la commande qui remonte la puissance instantanée
-    consommée
+-   Potencia: Este es el comando que era la potencia instantánea
+    consumida
 
--   Conso : C’est la commande qui remonte la consommation totale
+-   Contras: Este es el comando que fue el consumo total
 
- \
+\
 
-A noter que sur le dashboard les commandes ON/OFF/ETAT sont regroupées
-en un seul bouton.
+Tenga en cuenta que el salpicadero controla el interruptor ON / OFF / STATUS se agrupan
+en un solo botón.
 
- \
+\
 
-### Configuration du module 
+### Configuración del módulo
 
- \
+\
 
-Vous pouvez effectuer la configuration du module en fonction de votre
-installation. Il faut pour cela passer par le bouton "Configuration" du
-plugin OpenZwave de Jeedom.
+Se puede configurar la función de su módulo
+instalación. Para ello es necesario pasar por el botón "Configuración"
+OpenZwave plug-in Jeedom.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-Paramètres)
+Se llega en esta página (después de hacer clic en la pestaña
+Configuraciones)
 
- \
+\
 
 ![Config1](../images/greenwave.Powernode1/config1.jpg)
 
- \
+\
 
-Comme vous pourrez le constater il n’y a pas beaucoup de configuration
-pour ce module.
+Como se puede ver que no hay muchos de configuración
+para este módulo.
 
- \
+\
 
-Détails des paramètres :
+Detalles de los parámetros:
 
- \
+\
 
--   1 : Délai avant le clignotement du bouton : nombres de secondes
-    minimum entre deux communications (si ce délai est dépassé le bouton
-    de la prise clignotera)
+-   1: Retardo antes de que el botón parpadeante: número de segundos
+    mínima entre dos comunicaciones (si se supera el botón de este período
+    teniendo flash)
 
--   2 : Couleur selectionnée de la molette (détectée automatiquement)
+-   2 seleccionada del color de línea (detectado automáticamente)
 
- \
+\
 
-### Groupes 
+### grupos
 
- \
+\
 
-Ce module possède quatre groupes d’association, seul le 3ème groupe est
-indispensable.
+Este módulo tiene cuatro grupos de asociación, sólo el tercer grupo
+esencial.
 
- \
+\
 
 ![Groupe](../images/greenwave.Powernode1/groupe.jpg)
 
- \
+\
 
-Bon à savoir 
+Bueno saber
 ------------
 
- \
+\
 
-Contrairement à sa grande soeur multiprise, cette prise ne nécessite pas
-de polling pour remonter la consommation.
+A diferencia de su gran franja hermana, esta decisión no requiere
+Sondeo de hasta el consumo.
 
- \
+\
 
-### Reset 
+### reajustar
 
- \
+\
 
 ![Config2](../images/greenwave.Powernode1/config2.jpg)
 
- \
+\
 
-Vous pouvez remettre à zéro votre compteur de consommation en cliquant
-sur ce bouton disponible dans l’onglet Système. Il faut choisir
-PressButton.
+Usted puede configurar su medidor de consumo haciendo clic
+este botón disponible en la ficha Sistema. Hay que elegir
+Botón de control.
 
- \
+\
 
-### Spécificités 
+### detalles específicos
 
- \
+\
 
-Wakeup 
+wakeup
 ------
 
- \
+\
 
-Pas de notion de wakeup sur ce module.
+Sin noción de despertar en este módulo.
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Avez-vous associé le groupe 3 du module à Jeedom ?
+Cómo se asocia el grupo 3 del módulo Jeedom?
 
- \
+\
 
-Non. Le module ne le permet pas. Mettez dessus un petit morceau de ruban
-adhésif noir.
+No. El módulo no lo permite. Poner en un pequeño trozo de cinta
+adhesivo negro.
 
- \
+\
 
-**@sarakha63**
+** ** @ sarakha63

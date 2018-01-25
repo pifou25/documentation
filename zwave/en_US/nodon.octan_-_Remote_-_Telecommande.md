@@ -1,285 +1,285 @@
-Nodon Télécommande - Octan 
+Nodon Remote Control - Octan
 ==========================
 
- \
+\
 
--   **Le module**
+-   **The module**
 
- \
+\
 
 ![module](../images/nodon.octan/module.jpg)
 
- \
+\
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
- \
+\
 
 ![vuedefaut1](../images/nodon.octan/vuedefaut1.jpg)
 
- \
+\
 
-Résumé 
+summary
 ------
 
- \
+\
 
-La Octan Remote NodOn® permet de contrôler n’importe quels récepteurs
-compatibles Z- Wave® ou Z-Wave Plus® tels que la prise télécommandée
-NodOn® (mode Contrôleur Principal - Standalone), ou encore déclencher
-des scènes / actions via une centrale domotique compatible (mode
+The Octan Remote NodOn® can control any receiver
+Z-Wave® or Z-Wave Plus® compatible such as remote control jack
+NodOn® (Main Controller Mode - Standalone), or trigger
+scenes / actions via a compatible home automation system (mode
 Gateway)
 
-Son aimant intégré permet de la fixer partout, du radiateur à la porte
-de réfrigérateur, en passant par son support mural. Entre télécommande
-et interrupteur, la Octan Remote révolutionne le contrôle des objets
-domestiques
+Its integrated magnet allows it to be fixed everywhere, from the radiator to the door
+refrigerator, through its wall bracket. Between remote control
+and switch, the Octan Remote revolutionizes the control of objects
+household
 
- \
+\
 
-Fonctions 
+functions
 ---------
 
- \
+\
 
--   Contrôle seul ou avec une centrale domotique
+-   Control alone or with a home automation system
 
--   Aimant intégré
+-   Built-in magnet
 
--   Led de couleur
+-   Led of color
 
--   Platine Murale
+-   Wall Plate
 
--   2 ans de batterie
+-   2 years of battery
 
- \
+\
 
-Caractéristiques techniques 
+Technical characteristics
 ---------------------------
 
- \
+\
 
--   Alimentation : Pile CR2032 – Autonomie 1,5 - 2ans
+-   Power supply: CR2032 battery - Autonomy 1,5 - 2 years
 
--   4 boutons
+-   4 buttons
 
--   Support mural fixé par adhésif double face (inclus) ou vis
-    (non incluses)
+-   Double-sided adhesive wall mount (included) or screws
+    (not included)
 
--   Aimant intégré pour fixation sur surface métallique
+-   Integrated magnet for fixing on metal surface
 
--   Température de fonctionnement : 0°C à 40°C - Altitude : 2000m
+-   Operating temperature: 0 ° C to 40 ° C - Altitude: 2000m
 
--   Protocole radio Z-Wave® : 868.4MHz – 500 Series – Compatible Z-Wave
-    Plus® SDK 06.51.01 Portée: 40m indoor / 80m outdoor
+-   Z-Wave® Radio Protocol: 868.4MHz - 500 Series - Z-Wave Compatible
+    SDK 06.51.01 Range: 40m indoor / 80m outdoor
 
--   Dimensions : 80\*80\*15mm
+-   Dimensions: 80 \ * 80 \ * 15mm
 
--   Garantie 2 ans
+-   2 years warranty
 
- \
+\
 
-Données du module 
+Module data
 -----------------
 
- \
+\
 
--   Marque : Nodon
+-   Brand: Nodon
 
--   Nom : CRC-3-1-00 Octan Remote
+-   Name: CRC-3-1-00 Octan Remote
 
--   Fabricant ID : 357
+-   Manufacturer ID: 357
 
--   Type Produit : 2
+-   Product type: 2
 
--   Produit ID : 1
+-   Product ID: 1
 
- \
+\
 
-Configuration 
+Configuration
 -------------
 
- \
+\
 
-Pour configurer le plugin OpenZwave et savoir comment mettre Jeedom en
-inclusion référez-vous à cette
-[documentation](https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
+To configure the OpenZwave plugin and know how to put Jeedom in
+inclusion refer to this
+[Documentation] (https://jeedom.fr/doc/documentation/plugins/openzwave/fr_FR/openzwave.html).
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Pour mettre ce module en mode inclusion il faut appuyer sur les deux
-> bouton (1 et 2) jusqu’à que la lumière devienne rose puis appuyer sur
-> le bouton 1, conformément à sa documentation papier.
+> To put this module in inclusion mode you have to press both
+> button (1 and 2) until the light turns pink then press
+> Button 1, in accordance with its paper documentation.
 
- \
+\
 
 ![inclusion](../images/nodon.octan/inclusion.jpg)
 
- \
+\
 
-Une fois inclus vous devriez obtenir ceci :
+Once included you should get this:
 
- \
+\
 
 ![Plugin Zwave](../images/nodon.octan/information.jpg)
 
- \
+\
 
-### Commandes 
+### Orders
 
- \
+\
 
-Une fois le module reconnu, les commandes associées au module seront
-disponibles.
+Once the module is recognized, the commands associated with the module will be
+available.
 
- \
+\
 
 ![Commandes](../images/nodon.octan/commandes.jpg)
 
- \
+\
 
-Voici la liste des commandes :
+Here is the list of orders:
 
- \
+\
 
--   Boutons : c’est la commande qui remontera le bouton appuyé
+-   Buttons: this is the command that will move up the button
 
-+----------------+----------------+----------------+----------------+----------------+
-| Boutons        | Appui          | Appui Long     | Relâchement    | Double appui   |
-+================+================+================+================+================+
-| **1**          | 10             | 12             | 11             | 13             |
-+----------------+----------------+----------------+----------------+----------------+
-| **2**          | 20             | 22             | 21             | 23             |
-+----------------+----------------+----------------+----------------+----------------+
-| **3**          | 30             | 32             | 31             | 33             |
-+----------------+----------------+----------------+----------------+----------------+
-| **4**          | 40             | 42             | 41             | 43             |
-+----------------+----------------+----------------+----------------+----------------+
++ ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
+| Buttons | Support | Long Support | Relaxation | Double support |
+================ ================ + + + =============== = + + ================ ================ +
+| ** 1 ** | 10 | 12 | 11 | 13 |
++ ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
+| ** 2 ** | 20 | 22 | 21 | 23 |
++ ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
+| ** 3 ** | 30 | 32 | 31 | 33 |
++ ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
+| ** 4 ** | 40 | 42 | 41 | 43 |
++ ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
 
- \
+\
 
-### Configuration du module 
+### Module configuration
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Lors d’une première inclusion réveillez toujours le module juste après
-> l’inclusion.
+> During a first inclusion always wake up the module just after
+> inclusion.
 
- \
+\
 
-Ensuite si vous voulez effectuer la configuration du module en fonction
-de votre installation, il faut pour cela passer par la bouton
-"Configuration" du plugin OpenZwave de Jeedom.
+Then if you want to configure the module accordingly
+of your installation, you have to go through the button
+"Configuration" of Jeedom's OpenZwave plugin.
 
- \
+\
 
 ![Configuration plugin Zwave](../images/plugin/bouton_configuration.jpg)
 
- \
+\
 
-Vous arriverez sur cette page (après avoir cliqué sur l’onglet
-paramètres)
+You will arrive on this page (after clicking on the tab
+settings)
 
- \
+\
 
 ![Config1](../images/nodon.octan/config1.jpg)
 
- \
+\
 
-Détails des paramètres :
+Parameter details:
 
- \
+\
 
--   1-2 : Permet de choisir le profils des boutons en cas d’usage en
-    central (inutile pour un usage dans Jeedom)
+-   1-2: Allows to choose the profiles of the buttons in case of use in
+    central (useless for use in Jeedom)
 
--   3 : Paramètre important pour dire si l’interrupteur doit fonctionner
-    en mode Scene ou Central Scene (Absolument mettre Scene)
+-   3: Important parameter to tell if the switch should work
+    in Scene or Central Scene mode (Absolutely Scene)
 
--   4-7 : Choisir le mode de fonctionnement des boutons (en cas
-    d’associations groupes)
+-   4-7: Select the operating mode of the buttons (in case
+    group associations)
 
--   8 : Permet de choisir le mode de fonctionnement de la LED
+-   8: Allows to choose the operating mode of the LED
 
-### Groupes 
+### Groups
 
- \
+\
 
-Ce module possède 7 groupes d’association.
+This module has 7 association groups.
 
- \
+\
 
 ![Groupe](../images/nodon.octan/groupe.jpg)
 
 ![Groupe](../images/nodon.octan/groupe2.jpg)
 
- \
+\
 
--   Groupe 1 – Lifeline : Ce groupe est généralement utilisé pour
-    reporter des informations de la Smart Plug au contrôleur principal
-    du réseau.
+-   Group 1 - Lifeline: This group is generally used to
+    report information from the Smart Plug to the main controller
+    network.
 
--   Groupe 2 à 5 – Les appareils dans ces groupes sont contrôlés par le
-    bouton correspondant selon le profil MONO
+-   Group 2 to 5 - Devices in these groups are controlled by the
+    corresponding button according to MONO profile
 
--   Groupe 6 à 7 – Les appareils dans ces groupes sont contrôlés par le
-    bouton correspondant selon le profil DUO
+-   Group 6 to 7 - Devices in these groups are controlled by the
+    corresponding button according to DUO profile
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> A minima Jeedom devrait se retrouver dans le groupe 1  \
+> At least Jeedom should be in group 1 \
 
-Bon à savoir 
+Good to know
 ------------
 
- \
+\
 
-### Spécificités 
+### Specificities
 
- \
+\
 
--   Ce module peut être capricieux à l’inclusion. Ne pas hésiter à le
-    réveiller 1 ou 2 fois après l’inclusion, et bien vérifier le
-    groupe d’association.
+-   This module can be capricious on inclusion. Do not hesitate to
+    wake up 1 or 2 times after inclusion, and check the
+    association group.
 
- \
+\
 
-Wakeup 
+Wakeup
 ------
 
- \
+\
 
-Pour réveiller ce module il suffit d’appuyer sur un des boutons
+To wake up this module just press one of the buttons
 
- \
+\
 
-F.A.Q. 
+F.A.Q.
 ------
 
- \
+\
 
-Ce module est un module sur batterie, la nouvelle configuration ne sera
-prise en compte que si vous réveillez la télécommande.
+This module is a module on battery, the new configuration will be
+take into account only if you wake up the remote control.
 
- \
+\
 
-Note importante 
+Important note
 ---------------
 
- \
+\
 
-> **Important**
+> ** Important **
 >
-> Il faut réveiller le module : après son inclusion, après un changement
-> de la configuration , après un changement de wakeup, après un
-> changement des groupes d’association
+> You have to wake up the module: after its inclusion, after a change
+> of the configuration, after a wakeup change, after a
+> change of association groups
 
- \
+\
 
-**@sarakha63**
+** @ ** sarakha63
