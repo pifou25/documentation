@@ -207,13 +207,9 @@ crear el canje por defecto). Siga el procedimiento.
 
     sudo ./install.sh
 
-<Clase Div = "informalexample">
-
-** El tiempo de instalación varía de 60 a 120 minutos **. Usted no debe
-interrumpir este procedimiento. De lo contrario debe empezar de nuevo. El es
-recomiendo vivamente que reiniciar al final de la instalación.
-
-</ Div>
+**La durée d’installation varie de 60 à 120 minutes**. Vous ne devez pas
+interrompre cette procédure. A défaut il faut tout reprendre. Il est
+vivement conseiller de rebooter à la fin de l’installation.
 
 Los siguientes argumentos pueden ser utilizados:
 

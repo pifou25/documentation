@@ -207,13 +207,9 @@ creating the default swap). Follow the procedure.
 
     sudo ./install.sh
 
-<div class = "informalexample">
-
-** Installation time varies from 60 to 120 minutes **. You must not
-interrupt this procedure. If not, we must start all over again. It is
-strongly advise to reboot at the end of the installation.
-
-</Div>
+**La durée d’installation varie de 60 à 120 minutes**. Vous ne devez pas
+interrompre cette procédure. A défaut il faut tout reprendre. Il est
+vivement conseiller de rebooter à la fin de l’installation.
 
 The following arguments are usable:
 
