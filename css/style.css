@@ -6,8 +6,7 @@
  * Made By MaterializeCSS.com
  */
 
- nav ul a,
- nav {
+ nav ul a, nav {
   color: #444;
   background-color: #fff;
 }
@@ -31,12 +30,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
 }
 .waves-effect.waves-jeedom .waves-ripple {
-     /* The alpha value allows the text and background color
-     of the button to still show through. */
-      background-color: rgba(149, 193, 43, 0.65);
-    }
+ background-color: rgba(149, 193, 43, 0.65);
+}
 
-/* footer */
 body {
   display: flex;
   min-height: 100vh;
@@ -46,46 +42,6 @@ body {
 main {
   flex: 1 0 auto;
 }
-
-
-/*
-.button-collapse {
-  color: rgb(0,0,0);
+.gsc-input{
+  box-sizing : unset !important;
 }
-
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
-}
-
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
-}
-
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
-}
-
-footer.page-footer {
-  margin: 0;
-}*/
