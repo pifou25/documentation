@@ -350,7 +350,7 @@ Il vous suffit ensuite d’aller sur IP\_MACHINE\_JEEDOM
     ./install.sh -w /var/www/html -z -m Jeedom
 
 Ensuite vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc)
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
 VM
 ==
@@ -484,7 +484,7 @@ la saisir dans votre navigateur.
 > réseau en Pont réseau comme indiquée au départ.
 
 Ensuite vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc)
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
 Docker
 ======
@@ -572,7 +572,7 @@ entrer les informations de connexion vers mysql :
 ![install other](../images/install_other.PNG)
 
 Pour la suite vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc)
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
 > **Important**
 >
@@ -759,7 +759,7 @@ du docker mysql installé précédemment) et validez.
 > voulu.
 
 Ensuite, vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc)
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
 Autres
 ======
@@ -802,4 +802,4 @@ navigateur Internet.
     ./install.sh -w /var/www/html -z -m Jeedom
 
 Ensuite vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://github.com/jeedom/documentation/blob/master/premiers-pas/fr_FR/index.asciidoc).
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index).
