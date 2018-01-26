@@ -42,9 +42,6 @@ body {
 main {
   flex: 1 0 auto;
 }
-.gsc-input:before{
-  box-sizing : unset !important;
-}
-.gsc-input:after{
-  box-sizing : unset !important;
+#div_googleSearch, #div_googleSearch:before, #div_googleSearch:after {
+    box-sizing : unset !important;
 }
