@@ -1,12 +1,7 @@
 | Nom                     | Remarque                | Lien                     |
 |-------------------------|-------------------------|--------------------------|
-| DIO2 - Module pour Luminaire     |                         | [Acheter](http://www.dom |
-|                |                         | adoo.fr/fr/peripheriques/3161-dio2-module-sans-fil-pour-luminaire-5411478001423.html)            |
-| DIO2 - Module pour Volet Roulant     |                         | [Acheter](http://www.dom |
-|            |                         | adoo.fr/fr/home/3165-dio |
-|                         |                         | 2-module-sans-fil-pour-v |
-|                         |                         | olet-roulant-54114780014 |
-|                         |                         | 16.html)                 |
+| DIO2 - Module pour Luminaire     |                         | [Acheter](http://www.domadoo.fr/fr/peripheriques/3161-dio2-module-sans-fil-pour-luminaire-5411478001423.html)            |
+| DIO2 - Module pour Volet Roulant     |                         | [Acheter](http://www.domadoo.fr/fr/home/3165-dio2-module-sans-fil-pour-volet-roulant-5411478001416.html)                 |
 | Edisio - EMM-230 - Émetteur micromodule (230V) - 2 canaux     |                         | [Acheter](http://www.domadoo.fr/fr/peripheriques/2777-edisio-emetteur-8683-mhz-micromodule-230v-2-canaux-5420074900702.html)                     |
 | Edisio - ETS-200 - Capteur de température     |                         | [Documentation](https://jeedom.fr/doc/documentation/edisio-modules/fr_FR/doc-edisio-modules-edisio.ETS-200_-_Capteur_de_température.html) [Acheter](http://www.domadoo.fr/fr/peripheriques/2788-edisio-capteur-de-temperature-8683mhz-5420074900825.html)          |
 | Edisio - ETC1 - Émetteur "Smile" - 1 canal        | Tous les "Smile" sont compatible   | [Documentation](https://jeedom.fr/doc/documentation/edisio-modules/fr_FR/doc-edisio-modules-edisio.ETC1_-_Télécommande_Smile.html) [Acheter](http://www.domadoo.fr/fr/peripheriques/2782-edisio-emetteur-8683-mhz-smile-bleu-1-canal-5420074900757.html)    |
