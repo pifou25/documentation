@@ -18,10 +18,10 @@ imágenes
 ======
 
 Usted puede encontrar todas las imágenes Jeedom
-[Aquí] (https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
+[Aquí](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
 a continuación, en la carpeta Imágenes
 
-> ** Nota **
+> **Nota**
 >
 > Una imagen se NetInstall cuando se empieza la instalación
 > La última versión estable de Jeedom, esta bota es un poco más
@@ -40,7 +40,7 @@ a continuación, en la carpeta Imágenes
 
 Todas las demás imágenes descargables anteriores no son
 mantenido, es mejor ir a través de la instalación manual de Jeedom
-[Doc] (https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
+[Doc](https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
 Después de instalar una distribución Linux para su
 Hardware: Debian (vm, PC, ...), Raspbian Lite (Frambuesa Pi), Armbian
 (Ordoid, ...), ...
@@ -48,7 +48,7 @@ Hardware: Debian (vm, PC, ...), Raspbian Lite (Frambuesa Pi), Armbian
 software
 ========
 
-> ** Importante **
+> **Importante**
 >
 > Jeedom sólo es compatible con Debian Jessie (estable) y estiramiento (estable).
 > Cualquier otra versión (sibilante ...) o la distribución (Ubuntu ...) no es
@@ -112,31 +112,31 @@ módulos Zwave
 -------------
 
 Una lista
-[Aquí] (https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
+[Aquí](https://jeedom.github.io/documentation/zwave/es_ES/equipement.compatible)
 
 módulos EnOcean
 ---------------
 
 Una lista
-[Aquí] (https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
+[Aquí](https://jeedom.github.io/documentation/enocean/es_ES/equipement.compatible)
 
 módulos Edisio
 --------------
 
 Una lista
-[Aquí] (https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
+[Aquí](https://jeedom.github.io/documentation/edisio/es_ES/equipement.compatible)
 
 módulos RFXCOM
 --------------
 
 Una lista
-[Aquí] (https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
+[Aquí](https://jeedom.github.io/documentation/rfxcom/es_ES/equipement.compatible)
 
 cámaras
 -------
 
 Una lista
-[Aquí] (https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
+[Aquí](https://jeedom.github.io/documentation/camera/es_ES/equipement.compatible)
 
 Plataforma de hardware recomendados
 ---------------------------------

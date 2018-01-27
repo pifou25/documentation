@@ -1,149 +1,149 @@
--   **Le module**
+-   ** ** El módulo
 
 ![etc1.module 1](../images/etc1/etc1.module-1.jpg)
 
 ![etc1.module 2](../images/etc1/etc1.module-2.png)
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
 ![etc1.vue default](../images/etc1/etc1.vue-default.jpg)
 
-Résumé 
+resumen
 ======
 
-Les télécommandes “Smile” ont un canal, elles sont idéales pour la table
-de chevet, salle de bain et surtout pour les enfants, car celles-ci sont
-très robustes grâce au matériau utilisé. Ultra simples et à la fois
-“fun” elles ont pour but d’être pratiques dans l’habitat. Elles existent
-en trois coloris différents.
+Los mandos a distancia "sonrisa" de tener un canal, que son ideales para la mesa
+cama, baño y especialmente para los niños, ya que son
+muy resistente gracias al material. Ultra sencilla y ambos
+"Diversión" que están destinados a ser prácticos en el hogar. existen
+en tres colores diferentes.
 
-Elles se relient facilement aux différents récepteurs et peuvent donc
-contrôler les éclairages Marche/Arrêt, les éclairages variables, les
-volets, portails, portes de garage. Disponibles en 3 coloris.
+Ellos pueden trabajar fácilmente con diferentes receptores y por lo tanto puede
+la iluminación de control de encendido / apagado, de iluminación variable,
+persianas, puertas, puertas de garaje. Disponible en 3 colores.
 
-De plus, l’interaction avec d’autres protocoles est possible, il peut
-interagir avec les récepteurs de la marque Edisio, avec Jeedom, mais
-aussi par n’importe quel récepteur Z-Wave de votre réseau.
+Por otra parte, la interacción con otros protocolos es posible, lo que puede
+interactuar con los receptores de marca Edisio con Jeedom pero
+También por cualquier receptor Z-Wave en su red.
 
-Fonctions 
+funciones
 =========
 
--   Mode d’usage : Eclairage, Variateur
+-   Modo de uso: Iluminación Dimmer
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
-Caractéristiques techniques 
+Características técnicas
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Tipo de módulo: Transmisor Edisio
 
--   Alimentation : 3VDC (Pile Lithium CR2032)
+-   Alimentación: 3VDC (batería de litio CR2032)
 
--   Canaux : 1
+-   Canales: 1
 
--   Protocole radio : 868,3 MHz
+-   protocolo de radio: 868.3 MHz
 
--   Portée en champs libre : 100 M
+-   Rango en campo libre: 100 M
 
--   Température de fonctionnement : -10°C +50°C
+-   Temperatura de funcionamiento: -10 ° C + 50 ° C
 
--   Dimensions : 65x18mm
+-   Dimensiones: 65x18mm
 
--   Degré de protection : IP64
+-   Protección: IP64
 
 ![etc1.dimmension](../images/etc1/etc1.dimmension.png)
 
-Données du module 
+datos de los módulos
 =================
 
--   Marque : Edisio Smart Home
+-   Marca: Smart Home Edisio
 
--   Nom : ETC1
+-   Nombre: etc1
 
--   Référence : P01 / Y01 / L01
+-   Referencia: P01 / Y01 / L01
 
-Configuration générale 
+configuración general
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+Para configurar Edisio plugin y asociar un módulo de Jeedom,
+referirse a este
+[Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Importante **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> Para Jeedom crea automáticamente los módulos de transmisión, recuerde
+> No hay que activar la opción en la configuración del plugin.
 
-Diagramme de fonctionnement 
+Diagrama de operación
 ---------------------------
 
-Voici le fonctionnement de la télécommande :
+Aquí el funcionamiento del mando a distancia:
 
 ![etc1.diagramme](../images/etc1/etc1.diagramme.jpg)
 
-Remplacement de la pile 
+reemplazo de la batería
 -----------------------
 
-Pour remplacer la pile de votre télécommande, voici la démarche à suivre
+Para cambiar la pila del mando a distancia, aquí están los pasos a seguir
 :
 
 ![etc1.remplacement pile](../images/etc1/etc1.remplacement-pile.jpg)
 
-Association de la télécommande à Jeedom 
+Jeedom remota Asociación
 =======================================
 
-L’association d’un émetteur Edisio, se fait simplement et
-automatiquement. Il suffit juste d’appuyer sur la touche de votre
-télécommande.
+La combinación de transmisor Edisio se hace simplemente y
+de forma automática. Simplemente basta con pulsar su
+mando a distancia.
 
 ![Commandes](../images/etc1/etc1.touche-c.jpg)
 
-Une fois, votre équipement associé, vous devriez obtenir ceci :
+Una vez que su equipo pareja, usted debe conseguir esto:
 
 ![etc1.general](../images/etc1/etc1.general.jpg)
 
-Commandes 
+comandos
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Una vez creada su equipo, debe obtener órdenes
+asociado con el módulo:
 
 ![Commandes](../images/etc1/etc1.commandes.jpg)
 
-Voici la liste des commandes :
+Estos son los comandos:
 
--   bt01 : C’est la commande qui permet d’interagir avec le bouton 1
+-   BT01: Este es el comando para interactuar con el botón 1
 
--   Batterie : Indique l’état de la batterie
+-   Batería: Indica el estado de la batería
 
-Informations 
+información
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Una vez que su equipo asociado con Jeedom, diversa información se
+disponibles:
 
 ![Commandes](../images/etc1/etc1.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à était créé
+-   Creación: Muestra la fecha en que se creó el equipo
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Comunicación: Indica la última comunicación registrada entre
+    Jeedom y el micrófono del módulo
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Batería: Indica el estado de la batería de módulos de batería
 
--   Status : Retourne le status du module
+-   Estado: Devuelve el estado del módulo
 
-Utilisation 
+uso
 -----------
 
-Une fois que votre télécommande est configurée, vous pouvez avec le
-plugin Scénario de Jeedom, interagir avec votre télécommande sur Jeedom
-et ses équipements.
+Una vez que el mando está configurado, se puede con la
+Plugin escenario Jeedom, interactuar con el mando a distancia en Jeedom
+y equipo.
 
-> **Note**
+> ** Nota **
 >
-> La télécommande à un retour d’état binaire.
+> El mando a distancia para volver al estado binario.
 
-**@Jamsta**
+** ** @ Jamsta

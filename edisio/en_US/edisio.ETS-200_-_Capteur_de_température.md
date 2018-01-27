@@ -1,146 +1,146 @@
--   **Le module**
+-   **The module**
 
 ![ets200.module](../images/ets200/ets200.module.jpg)
 
--   **Le visuel Jeedom**
+-   **The Jeedom**
 
 ![ets200.vue defaut](../images/ets200/ets200.vue-defaut.jpg)
 
-Résumé 
+summary
 ======
 
-Placé dans une pièce, la température de la pièce voulue remontera
-automatiquement. De plus, associé à un récepteur de type EMR-2000 ou
-EDR-B4 (4 sorties) vous aurez un thermostat connecté et contrôlable
-depuis n’importe ou dans le monde à travers internet.
+Placed in a room, the temperature of the desired room will go up
+automatically. In addition, associated with a receiver type EMR-2000 or
+EDR-B4 (4 outputs) you will have a connected and controllable thermostat
+from anywhere in the world through the internet.
 
-Le signal est uniquement envoyé après avoir détecté une différence de
-température de o,5°C ou 1°C ou toutes les 5 minutes. De plus, le capteur
-est compact et discret.
+The signal is only sent after detecting a difference in
+temperature of o, 5 ° C or 1 ° C or every 5 minutes. In addition, the sensor
+is compact and discreet.
 
-L’indicateur LED intégré signal tout changement d’état.
+The integrated LED indicator signals any change of state.
 
-Fonctions 
+functions
 =========
 
--   Capteur de température sans fil alimenté par piles
+-   Battery powered wireless temperature sensor
 
 -   Ultra compact
 
--   Signal transmis instantanément lors d’une augmentation ou diminution
-    de la température
+-   Signal transmitted instantly when an increase or decrease
+    of the temperature
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
--   Montage au mur par des vis ou par double face
+-   Wall mounting with screws or double-sided
 
--   Informations sur le niveau de la batterie
+-   Battery level information
 
-Caractéristiques techniques 
+Technical characteristics
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Module type: Edisio transmitter
 
--   Utilisation : En intérieur
+-   Use: Indoor
 
--   Alimentation : 3VDC (Pile Lithium ER14250)
+-   Power Supply: 3VDC (ER14250 Lithium Battery)
 
--   Autonomie : Jusqu’à 3 ans
+-   Autonomy: Up to 3 years
 
--   Fréquence : 868,3 MHz
+-   Frequency: 868.3 MHz
 
--   Température de fonctionnement : 0°C +45°C
+-   Operating temperature: 0 ° C + 45 ° C
 
--   Portée en champs libre : 100M
+-   Free field range: 100M
 
--   Dimensions : 25x79x19mm
+-   Dimensions: 25x79x19mm
 
--   Degré de protection : IP20
+-   Degree of protection: IP20
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : ETS-200
+-   Name: ETS-200
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
 > **Important**
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
 > **Tip**
 >
-> Le placement est conseillé à une hauteur de 150 cm et à proximité de
-> la température ressentie voulue.
+> The placement is recommended at a height of 150 cm and close to
+> the desired temperature.
 
-Bouton "E" 
+Button "E"
 ----------
 
-Vous trouverez dessous le bouton "E" qui est le bouton d’association du
-capteur de température.
+You will find below the button "E" which is the button of association of the
+temperature sensor.
 
 ![ets200.bouton e](../images/ets200/ets200.bouton-e.jpg)
 
-Réglage du delta de température 
+Adjusting the temperature delta
 -------------------------------
 
-Par défaut, le delta de température est programmé à 1°C (+/-10%) afin
-d’optimiser l’autonomie de la batterie. Vous avez la possibilité de
-régler ce paramètre:
+By default, the temperature delta is programmed at 1 ° C (+/- 10%) in order to
+optimize the battery life. You have the opportunity to
+set this parameter:
 
 ![ets200.delta](../images/ets200/ets200.delta.jpg)
 
-Association du capteur à Jeedom 
+Association of the sensor at Jeedom
 ===============================
 
-L’association du capteur de température, est un jeu d’enfant. Il suffit
-d’appuyer sur le bouton "E", situé sous le capteur. Celui-ci sera
-reconnu automatiquement. Placez-le dans un objet, donner lui un nom et
-sauvegarder.
+The combination of the temperature sensor is a breeze. It is enough
+press the "E" button, located under the sensor. This one will be
+recognized automatically. Put it in an object, give it a name and
+save.
 
 ![ets200.association](../images/ets200/ets200.association.jpg)
 
-Une fois, votre équipement associé, vous devriez obtenir ceci :
+Once your equipment is associated, you should get this:
 
 ![ets200.general](../images/ets200/ets200.general.jpg)
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is created, you should get the orders
+associated with the module:
 
 ![Commandes](../images/ets200/ets200.commandes.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   Température : C’est la commande qui indique la température relevée
+-   Temperature: This is the command that indicates the temperature read
 
--   Batterie : Indique l’état de la batterie
+-   Battery: Indicates the status of the battery
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/ets200/ets200.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à été créé
+-   Creation: Indicates the date on which the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the micro-module
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Battery: Indicates battery status of battery modules
 
--   Status : Retourne le status du module
+-   Status: Returns the status of the module
 
 **@Jamsta**

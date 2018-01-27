@@ -1,183 +1,183 @@
--   **Le module**
+-   ** ** El módulo
 
 ![module](../images/etc4/module.jpg)
 
--   **Le visuel Jeedom**
+-   ** El Jeedom visual **
 
 ![vue default](../images/etc4/vue_default.jpg)
 
-Résumé 
+resumen
 ======
 
-La mini télécommande e-Trendy de 4 canaux est simple, robuste et design,
-elle a été crée pour plaire. Elle se relie facilement aux récepteurs et
-peut contrôler vos éclairages Marche/Arrêt et dimmables, motorisations,
-stores, volets, portails, portes de garage. Elle comporte deux modes de
-programmation.
+El mini e-moda de 4 canales a distancia es simple y robusto diseño,
+que fue creado para complacer. Se conecta fácilmente a los receptores y
+puede controlar las luces de encendido / apagado y regulable, motores,
+persianas, persianas, puertas, puertas de garaje. Tiene dos modos
+la programación.
 
-De plus, l’interaction avec d’autres protocoles est possible, elle peut
-interagir avec les récepteurs de la marque Edisio, avec Jeedom, mais
-aussi par n’importe quel récepteur Z-Wave de votre réseau.
+Por otra parte, la interacción con otros protocolos es posible, lo que puede
+interactuar con los receptores de marca Edisio con Jeedom pero
+También por cualquier receptor Z-Wave en su red.
 
-Fonctions 
+funciones
 =========
 
--   Mode d’usage : Marche/Arrêt, Ouvrir/Stop/Fermer, Variateur,
-    Motorisation, Stores, Volets, Portails, Portes de garage
+-   Modo de uso: On / Off, Open / Stop / Cerrar, Drive,
+    Motor, estores, persianas, puertas, puertas de garaje
 
--   2 modes de programmation
+-   2 modos de programación
 
--   Petit, discret et esthétique
+-   Pequeña, discreta y estética
 
--   Facilité d’utilisation et d’installation
+-   Facilidad de uso e instalación
 
-Caractéristiques techniques 
+Características técnicas
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Tipo de módulo: Transmisor Edisio
 
--   Alimentation : 3VDC (Pile Lithium CR2430)
+-   Alimentación: 3VDC (CR2430 batería de litio)
 
--   Canaux : 4
+-   Canales: 4
 
--   Fréquence : 868,3 MHz
+-   Frecuencia: 868,3 MHz
 
--   Température de fonctionnement : -10°C +50°C
+-   Temperatura de funcionamiento: -10 ° C + 50 ° C
 
--   Dimensions : 52x28x12mm
+-   Tamaño: 52x28x12mm
 
--   Degré de protection : IP40
+-   Protección: IP40
 
-Données du module 
+datos de los módulos
 =================
 
--   Marque : Edisio Smart Home
+-   Marca: Smart Home Edisio
 
--   Nom : ETC4
+-   Nombre: etc4
 
-Configuration générale 
+configuración general
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+Para configurar Edisio plugin y asociar un módulo de Jeedom,
+referirse a este
+[Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Importante **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> Para Jeedom crea automáticamente los módulos de transmisión, recuerde
+> No hay que activar la opción en la configuración del plugin.
 
-Les modes 
+Las modas
 ---------
 
-Contrôler et centraliser vos éclairages Marche/Arrêt et variateurs,
-ouvrants, moteurs, sur la même touche ou sur 2 boutons séparés. Les
-télécommandes e-Trendy ont 2 modes de fonctionnements, MODE 1 et MODE 2
+Comprobar y centralizar su iluminación de encendido / apagado y convertidores
+apertura, motores en el mismo botón o dos botones separados. la
+Moda e-controles remotos tienen dos modos de funcionamiento, el modo 1 y el modo 2
 :
 
--   MODE 1 : Contrôle sur 1 touche : Marche/Arrêt, Ouvrir/Fermer,
-    Variation+/Variation-, Impulsionnel
+-   MODO 1: Control de la tecla 1: encendido / apagado, abrir / cerrar,
+    Cambiar + / variación-, Pulsada
 
--   MODE 2 : Contrôle sur 2 touches :
+-   MODO 2: Control de 2 botones:
 
-    -   Touches du HAUT: Arrêt, Fermer, Variation-, Impulsionnel
+    -   Claves: Detener, Cerrar, variación-, Pulsada
 
-    -   Touches du bas: Marche, Ouvrir, Variation+, Impulsionnel
+    -   Llaves bajas: Caminar, abierto, Variación, Pulsada
 
-Diagramme de fonctionnement 
+Diagrama de operación
 ===========================
 
-Selon que votre émetteur est configuré en mode "1 touche" ou "2
-touches", voici le fonctionnement de la télécommande :
+Dependiendo de si el transmisor está configurado en "clave 1" o "2
+llaves", aquí está el funcionamiento del mando a distancia:
 
 ![diagramme](../images/etc4/diagramme.jpg)
 
-Changer le mode 
+Cambiar el modo de
 ===============
 
--   MODE 1 :
+-   MODO 1:
 
-    -   Appuyez et maintenez la touche "C4"
+    -   Mantenga pulsado el "C4"
 
-    -   Appuyez 1x la touche "C1", toujours en maintenant la touche
-        "C4", la LED clignotera 1 fois
+    -   1x Pulsar el botón "C1" sigue manteniendo pulsado
+        "C4", el LED parpadeará 1 vez
 
 ![mode1](../images/etc4/mode1.jpg)
 
--   MODE 2 :
+-   MODO 2:
 
-    -   Appuyez et maintenez la touche "C4"
+    -   Mantenga pulsado el "C4"
 
-    -   Appuyez 2x la touche "C1", toujours en maintenant la touche
-        "C4", la LED clignotera 2 fois
+    -   2x Pulse el "C1", sigue manteniendo pulsado
+        "C4", el LED parpadeará 2 veces
 
 ![mode2](../images/etc4/mode2.jpg)
 
-Association de la télécommande à Jeedom 
+Jeedom remota Asociación
 =======================================
 
-L’association d’un émetteur Edisio se fait simplement et
-automatiquement. Il suffit juste d’appuyer sur chaque touche que vous
-souhaitez avoir dans votre Jeedom.
+La combinación de transmisor Edisio se hace simplemente y
+de forma automática. Sólo tienes que pulsar cada tecla que
+quiere tener en su Jeedom.
 
-Une fois, votre équipement associé, vous devriez obtenir ceci :
+Una vez que su equipo pareja, usted debe conseguir esto:
 
 ![asso equip](../images/etc4/asso_equip.jpg)
 
-Commandes 
+comandos
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Una vez creada su equipo, debe obtener órdenes
+asociado con el módulo:
 
 ![Commandes](../images/etc4/commandes.jpg)
 
-Voici la liste des commandes :
+Estos son los comandos:
 
--   bt01 : C’est la commande qui permet d’interagir avec le bouton 1
+-   BT01: Este es el comando para interactuar con el botón 1
 
--   bt02 : C’est la commande qui permet d’interagir avec le bouton 2
+-   BT02: Este es el comando para interactuar con el botón 2
 
--   bt03 : C’est la commande qui permet d’interagir avec le bouton 3
+-   BT03: Este es el comando para interactuar con el botón 3
 
--   bt04 : C’est la commande qui permet d’interagir avec le bouton 4
+-   bt04: Este es el comando para interactuar con el botón 4
 
--   Batterie : Indique l’état de la batterie
+-   Batería: Indica el estado de la batería
 
-Informations 
+información
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Una vez que su equipo asociado con Jeedom, diversa información se
+disponibles:
 
 ![Commandes](../images/etc4/infos.jpg)
 
--   Création : Indique la date à laquelle l’équipement à été créé
+-   Creación: Muestra la fecha en que se creó el equipo
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Comunicación: Indica la última comunicación registrada entre
+    Jeedom y el micrófono del módulo
 
--   Batterie : Indique l’état de la batterie pour les modules à piles
+-   Batería: Indica el estado de la batería de los módulos de batería
 
--   Status : Retourne le status du module
+-   Estado: Devuelve el estado del módulo
 
-Utilisation 
+uso
 -----------
 
-Une fois que votre télécommande est configurée, vous pouvez avec le
-plugin Scénario de Jeedom interagir avec votre télécommande sur Jeedom.
+Una vez que el mando está configurado, se puede con la
+escenario Jeedom plugin de interactuar con el mando a distancia en Jeedom.
 
-> **Note**
+> ** Nota **
 >
-> Chaque touche à un retour d’état binaire.
+> Cada botón para volver al estado binario.
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment effacer l’association d’une touche à un récepteur ?
+Cómo eliminar la asociación de una clave a un receptor?
 
-:   Appuyez 5 sec sur le "R" du récepteur, un simple bip sonore signale
-    le mode déprogrammation activé. Appuyez sur la touche "C" à effacer.
-    Recommencez cette opération pour toutes les touches à effacer.
+: Pulse 5 seg en la "R" del receptor, un simple pitidos
+    activar el modo de desprogramación. Pulse la tecla "C" para borrar.
+    Repita este procedimiento para todas las teclas de borrar.
 
-**@Jamsta**
+** ** @ Jamsta

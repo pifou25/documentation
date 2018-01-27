@@ -18,10 +18,10 @@ imagery
 ======
 
 You can find all Jeedom images
-[Here] (https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
+[Here](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
 then in the Pictures folder
 
-> ** Note **
+> **Note**
 >
 > A netinstall image goes on the first boot to install the
 > last stable version of Jeedom, this startup is a bit more
@@ -40,7 +40,7 @@ then in the Pictures folder
 
 All other previously downloadable images are no longer
 maintained, it is better to go through the manual installation of Jeedom
-[Doc] (https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
+[Doc](https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc)
 after installing a linux distribution corresponding to your
 Hardware: Debian (vm, pc, ...), Raspbian Lite (Raspberry pi), Armbian
 (Ordoid, ...), ...
@@ -48,7 +48,7 @@ Hardware: Debian (vm, pc, ...), Raspbian Lite (Raspberry pi), Armbian
 Software
 ========
 
-> ** Important **
+> **Important**
 >
 > Jeedom only supports Debian Jessie (stable) and Stretch (stable).
 > Any other version (Wheezy ...) or distribution (Ubuntu ...) is not
@@ -112,31 +112,31 @@ Zwave modules
 -------------
 
 You will find the list
-[Here] (https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
+[Here](https://jeedom.github.io/documentation/zwave/en_US/equipement.compatible)
 
 EnOcean modules
 ---------------
 
 You will find the list
-[Here] (https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
+[Here](https://jeedom.github.io/documentation/enocean/en_US/equipement.compatible)
 
 Edisio modules
 --------------
 
 You will find the list
-[Here] (https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
+[Here](https://jeedom.github.io/documentation/edisio/en_US/equipement.compatible)
 
 RFXcom modules
 --------------
 
 You will find the list
-[Here] (https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
+[Here](https://jeedom.github.io/documentation/rfxcom/en_US/equipement.compatible)
 
 cameras
 -------
 
 You will find the list
-[Here] (https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
+[Here](https://jeedom.github.io/documentation/camera/en_US/equipement.compatible)
 
 Recommended hardware platform
 ---------------------------------

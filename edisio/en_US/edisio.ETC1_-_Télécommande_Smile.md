@@ -1,149 +1,149 @@
--   **Le module**
+-   **The module**
 
 ![etc1.module 1](../images/etc1/etc1.module-1.jpg)
 
 ![etc1.module 2](../images/etc1/etc1.module-2.png)
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
 ![etc1.vue default](../images/etc1/etc1.vue-default.jpg)
 
-Résumé 
+summary
 ======
 
-Les télécommandes “Smile” ont un canal, elles sont idéales pour la table
-de chevet, salle de bain et surtout pour les enfants, car celles-ci sont
-très robustes grâce au matériau utilisé. Ultra simples et à la fois
-“fun” elles ont pour but d’être pratiques dans l’habitat. Elles existent
-en trois coloris différents.
+"Smile" remotes have a channel, they are ideal for the table
+bedside, bathroom and especially for children, because these are
+very robust thanks to the material used. Ultra simple and at once
+"Fun" they aim to be practical in the habitat. They exist
+in three different colors.
 
-Elles se relient facilement aux différents récepteurs et peuvent donc
-contrôler les éclairages Marche/Arrêt, les éclairages variables, les
-volets, portails, portes de garage. Disponibles en 3 coloris.
+They connect easily to different receivers and can therefore
+control on / off lighting, variable lighting,
+shutters, gates, garage doors. Available in 3 colors.
 
-De plus, l’interaction avec d’autres protocoles est possible, il peut
-interagir avec les récepteurs de la marque Edisio, avec Jeedom, mais
-aussi par n’importe quel récepteur Z-Wave de votre réseau.
+Moreover, the interaction with other protocols is possible, it can
+interact with Edisio brand receivers, with Jeedom, but
+also by any Z-Wave receiver on your network.
 
-Fonctions 
+functions
 =========
 
--   Mode d’usage : Eclairage, Variateur
+-   Usage: Lighting, Dimmer
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
-Caractéristiques techniques 
+Technical characteristics
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Module type: Edisio transmitter
 
--   Alimentation : 3VDC (Pile Lithium CR2032)
+-   Power Supply: 3VDC (CR2032 Lithium Battery)
 
--   Canaux : 1
+-   Channels: 1
 
--   Protocole radio : 868,3 MHz
+-   Radio protocol: 868.3 MHz
 
--   Portée en champs libre : 100 M
+-   Free field range: 100 M
 
--   Température de fonctionnement : -10°C +50°C
+-   Operating temperature: -10 ° C + 50 ° C
 
--   Dimensions : 65x18mm
+-   Dimensions: 65x18mm
 
--   Degré de protection : IP64
+-   Degree of protection: IP64
 
 ![etc1.dimmension](../images/etc1/etc1.dimmension.png)
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : ETC1
+-   Name: ETC1
 
--   Référence : P01 / Y01 / L01
+-   Reference: P01 / Y01 / L01
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Important **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
-Diagramme de fonctionnement 
+Operating diagram
 ---------------------------
 
-Voici le fonctionnement de la télécommande :
+Here is the operation of the remote control:
 
 ![etc1.diagramme](../images/etc1/etc1.diagramme.jpg)
 
-Remplacement de la pile 
+Replacing the battery
 -----------------------
 
-Pour remplacer la pile de votre télécommande, voici la démarche à suivre
+To replace the battery of your remote control, here is the procedure to follow
 :
 
 ![etc1.remplacement pile](../images/etc1/etc1.remplacement-pile.jpg)
 
-Association de la télécommande à Jeedom 
+Remote control association in Jeedom
 =======================================
 
-L’association d’un émetteur Edisio, se fait simplement et
-automatiquement. Il suffit juste d’appuyer sur la touche de votre
-télécommande.
+The association of an Edisio transmitter, is done simply and
+automatically. Just press the key of your
+remote control.
 
 ![Commandes](../images/etc1/etc1.touche-c.jpg)
 
-Une fois, votre équipement associé, vous devriez obtenir ceci :
+Once your equipment is associated, you should get this:
 
 ![etc1.general](../images/etc1/etc1.general.jpg)
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is created, you should get the orders
+associated with the module:
 
 ![Commandes](../images/etc1/etc1.commandes.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   bt01 : C’est la commande qui permet d’interagir avec le bouton 1
+-   bt01: This is the command that allows to interact with the button 1
 
--   Batterie : Indique l’état de la batterie
+-   Battery: Indicates the status of the battery
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/etc1/etc1.informations.jpg)
 
--   Création : Indique la date à laquelle l’équipement à était créé
+-   Creation: Indicates the date the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the micro-module
 
--   Batterie : Indique l’état de la batterie des modules à piles
+-   Battery: Indicates battery status of battery modules
 
--   Status : Retourne le status du module
+-   Status: Returns the status of the module
 
-Utilisation 
+use
 -----------
 
-Une fois que votre télécommande est configurée, vous pouvez avec le
-plugin Scénario de Jeedom, interagir avec votre télécommande sur Jeedom
-et ses équipements.
+Once your remote is set up, you can with the
+Jeedom script plugin, interact with your remote control on Jeedom
+and its equipment.
 
-> **Note**
+> ** Note **
 >
-> La télécommande à un retour d’état binaire.
+> The remote control has a binary state return.
 
-**@Jamsta**
+** @ ** Jamsta

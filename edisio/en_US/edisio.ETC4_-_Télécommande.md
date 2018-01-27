@@ -1,183 +1,183 @@
--   **Le module**
+-   **The module**
 
 ![module](../images/etc4/module.jpg)
 
--   **Le visuel Jeedom**
+-   ** The Jeedom **
 
 ![vue default](../images/etc4/vue_default.jpg)
 
-Résumé 
+summary
 ======
 
-La mini télécommande e-Trendy de 4 canaux est simple, robuste et design,
-elle a été crée pour plaire. Elle se relie facilement aux récepteurs et
-peut contrôler vos éclairages Marche/Arrêt et dimmables, motorisations,
-stores, volets, portails, portes de garage. Elle comporte deux modes de
-programmation.
+The 4-channel mini e-Trendy remote control is simple, robust and stylish
+it was created to please. It easily connects to receivers and
+can control your lighting on / off and dimmables, engines,
+blinds, shutters, gates, garage doors. It has two modes of
+programming.
 
-De plus, l’interaction avec d’autres protocoles est possible, elle peut
-interagir avec les récepteurs de la marque Edisio, avec Jeedom, mais
-aussi par n’importe quel récepteur Z-Wave de votre réseau.
+Moreover, the interaction with other protocols is possible, it can
+interact with Edisio brand receivers, with Jeedom, but
+also by any Z-Wave receiver on your network.
 
-Fonctions 
+functions
 =========
 
--   Mode d’usage : Marche/Arrêt, Ouvrir/Stop/Fermer, Variateur,
-    Motorisation, Stores, Volets, Portails, Portes de garage
+-   Usage mode: On / Off, Open / Stop / Close, Dimmer,
+    Motorization, Blinds, Shutters, Gates, Garage doors
 
--   2 modes de programmation
+-   2 programming modes
 
--   Petit, discret et esthétique
+-   Small, discreet and aesthetic
 
--   Facilité d’utilisation et d’installation
+-   Ease of use and installation
 
-Caractéristiques techniques 
+Technical characteristics
 ===========================
 
--   Type de module : Emetteur Edisio
+-   Module type: Edisio transmitter
 
--   Alimentation : 3VDC (Pile Lithium CR2430)
+-   Power supply: 3VDC (CR2430 Lithium Battery)
 
--   Canaux : 4
+-   Channels: 4
 
--   Fréquence : 868,3 MHz
+-   Frequency: 868.3 MHz
 
--   Température de fonctionnement : -10°C +50°C
+-   Operating temperature: -10 ° C + 50 ° C
 
--   Dimensions : 52x28x12mm
+-   Dimensions: 52x28x12mm
 
--   Degré de protection : IP40
+-   Degree of protection: IP40
 
-Données du module 
+Module data
 =================
 
--   Marque : Edisio Smart Home
+-   Brand: Edisio Smart Home
 
--   Nom : ETC4
+-   Name: ETC4
 
-Configuration générale 
+General configuration
 ======================
 
-Pour configurer le plugin Edisio et associer un module à Jeedom,
-référez-vous à cette
-[documentation](https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
+To configure the Edisio plugin and associate a module with Jeedom,
+refer to this
+[Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> **Important**
+> ** Important **
 >
-> Pour que Jeedom crée automatiquement vos modules émetteurs, n’oubliez
-> pas d’activer l’option dans la configuration du plugin.
+> So that Jeedom automatically creates your sending modules, do not forget
+> do not activate the option in the plugin configuration.
 
-Les modes 
+The trends
 ---------
 
-Contrôler et centraliser vos éclairages Marche/Arrêt et variateurs,
-ouvrants, moteurs, sur la même touche ou sur 2 boutons séparés. Les
-télécommandes e-Trendy ont 2 modes de fonctionnements, MODE 1 et MODE 2
+Control and centralize your on / off lights and dimmers,
+opening, motors, on the same key or on 2 separate buttons. The
+e-Trendy remote controls have 2 modes of operation, MODE 1 and MODE 2
 :
 
--   MODE 1 : Contrôle sur 1 touche : Marche/Arrêt, Ouvrir/Fermer,
-    Variation+/Variation-, Impulsionnel
+-   MODE 1: One-touch control: On / Off, Open / Close,
+    Variation + / Variation-, Impulsive
 
--   MODE 2 : Contrôle sur 2 touches :
+-   MODE 2: Control on 2 keys:
 
-    -   Touches du HAUT: Arrêt, Fermer, Variation-, Impulsionnel
+    -   UP keys: Off, Close, Variation-, Pulse
 
-    -   Touches du bas: Marche, Ouvrir, Variation+, Impulsionnel
+    -   Bottom Keys: On, Open, Variation +, Pulse
 
-Diagramme de fonctionnement 
+Operating diagram
 ===========================
 
-Selon que votre émetteur est configuré en mode "1 touche" ou "2
-touches", voici le fonctionnement de la télécommande :
+Depending on whether your transmitter is set to "1-touch" or "2-way"
+"keys", here is the operation of the remote control:
 
 ![diagramme](../images/etc4/diagramme.jpg)
 
-Changer le mode 
+Change the mode
 ===============
 
--   MODE 1 :
+-   MODE 1:
 
-    -   Appuyez et maintenez la touche "C4"
+    -   Press and hold the "C4" key
 
-    -   Appuyez 1x la touche "C1", toujours en maintenant la touche
-        "C4", la LED clignotera 1 fois
+    -   Press the "C1" key 1x, always holding the key
+        "C4", the LED will flash 1 time
 
 ![mode1](../images/etc4/mode1.jpg)
 
--   MODE 2 :
+-   MODE 2:
 
-    -   Appuyez et maintenez la touche "C4"
+    -   Press and hold the "C4" key
 
-    -   Appuyez 2x la touche "C1", toujours en maintenant la touche
-        "C4", la LED clignotera 2 fois
+    -   Press the "C1" key twice, always holding the key
+        "C4", the LED will flash 2 times
 
 ![mode2](../images/etc4/mode2.jpg)
 
-Association de la télécommande à Jeedom 
+Remote control association in Jeedom
 =======================================
 
-L’association d’un émetteur Edisio se fait simplement et
-automatiquement. Il suffit juste d’appuyer sur chaque touche que vous
-souhaitez avoir dans votre Jeedom.
+The association of an Edisio transmitter is simple and
+automatically. Just press each key you
+want to have in your Jeedom.
 
-Une fois, votre équipement associé, vous devriez obtenir ceci :
+Once your equipment is associated, you should get this:
 
 ![asso equip](../images/etc4/asso_equip.jpg)
 
-Commandes 
+Orders
 ---------
 
-Une fois votre équipement créé, vous devriez obtenir les commandes
-associées au module :
+Once your equipment is created, you should get the orders
+associated with the module:
 
 ![Commandes](../images/etc4/commandes.jpg)
 
-Voici la liste des commandes :
+Here is the list of orders:
 
--   bt01 : C’est la commande qui permet d’interagir avec le bouton 1
+-   bt01: This is the command that allows to interact with the button 1
 
--   bt02 : C’est la commande qui permet d’interagir avec le bouton 2
+-   bt02: This is the command that allows you to interact with the 2 button
 
--   bt03 : C’est la commande qui permet d’interagir avec le bouton 3
+-   bt03: This is the command to interact with button 3
 
--   bt04 : C’est la commande qui permet d’interagir avec le bouton 4
+-   bt04: This is the command that allows to interact with the 4 button
 
--   Batterie : Indique l’état de la batterie
+-   Battery: Indicates the status of the battery
 
-Informations 
+information
 ------------
 
-Une fois votre équipement associé à Jeedom, diverses informations seront
-disponibles :
+Once your equipment associated with Jeedom, various information will be
+available:
 
 ![Commandes](../images/etc4/infos.jpg)
 
--   Création : Indique la date à laquelle l’équipement à été créé
+-   Creation: Indicates the date on which the equipment was created
 
--   Communication : Indique la dernière communication enregistrée entre
-    Jeedom et le micro-module
+-   Communication: Indicates the last call recorded between
+    Jeedom and the micro-module
 
--   Batterie : Indique l’état de la batterie pour les modules à piles
+-   Battery: Indicates battery status for battery modules
 
--   Status : Retourne le status du module
+-   Status: Returns the status of the module
 
-Utilisation 
+use
 -----------
 
-Une fois que votre télécommande est configurée, vous pouvez avec le
-plugin Scénario de Jeedom interagir avec votre télécommande sur Jeedom.
+Once your remote is set up, you can with the
+Jeedom's scenario plugin interact with your remote on Jeedom.
 
-> **Note**
+> ** Note **
 >
-> Chaque touche à un retour d’état binaire.
+> Each key has a binary state return.
 
-F.A.Q. 
+F.A.Q.
 ======
 
-Comment effacer l’association d’une touche à un récepteur ?
+How to erase the association of a key with a receiver?
 
-:   Appuyez 5 sec sur le "R" du récepteur, un simple bip sonore signale
-    le mode déprogrammation activé. Appuyez sur la touche "C" à effacer.
-    Recommencez cette opération pour toutes les touches à effacer.
+: Press the "R" on the receiver for 5 seconds, a single beep signals
+    the deprogramming mode activated. Press the "C" key to be erased.
+    Repeat this operation for all the keys to be erased.
 
-**@Jamsta**
+** @ ** Jamsta

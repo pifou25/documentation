@@ -1,196 +1,196 @@
-Default
+defecto
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/default.jpg" width="60" />|Inconnu|desconocido|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / default.jpg" width = "60" />|desconocido|desconocido|defecto|Sólo para los equipos aún no añadido en el plugin, por un mínimo tiene la presencia y RSSI y datos en bruto|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / dotti.jpg" width = "60" />|Dotti|Dotti|visualización|Trabajar mucho mejor opción con el mantenimiento de la conexión|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Fitbit
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/fitbit.jpg" width="60" />|Fitbit|Badge|Bracelet|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / fitbit.jpg" width = "60" />|Fitbit|divisa|pulsera|Sólo la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Gigaset
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/gigaset.jpg" width="60" />|Gigaset|G-Tag|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / gigaset.jpg" width = "60" />|Gigaset|G-Tag|presencia|Sólo la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Hector
+Héctor
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/hector.jpg" width="60" />|Hector|Héctor|Capteurs|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / hector.jpg" width = "60" />|Héctor|Héctor|sensores|No debe permanecer conectado de forma permanente a su teléfono si desea que la interacción en Jeedom|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Itag
+itag
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Vert|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Bleu|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / itag.jpg" width = "60" />|itag|itag Negro|botones|Tenga en cuenta que funciona el botón deben mantener la caja de conexiones, desde el momento de la conexión se mantiene y el botón no es visible para otras antenas. La conexión se realiza tan pronto como el botón es visible dentro de los 20 segundos (esto es confirmado por el parpadeo se detiene) y luego sólo en la emisión de la antena seleccionada (en este caso se debe obviamente a elegir el mismo en recibir y transmitir)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / itag.jpg" width = "60" />|itag|itag blanca|botones|Tenga en cuenta que funciona el botón deben mantener la caja de conexiones, desde el momento de la conexión se mantiene y el botón no es visible para otras antenas. La conexión se realiza tan pronto como el botón es visible dentro de los 20 segundos (esto es confirmado por el parpadeo se detiene) y luego sólo en la emisión de la antena seleccionada (en este caso se debe obviamente a elegir el mismo en recibir y transmitir)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / itag.jpg" width = "60" />|itag|itag Rose|botones|Tenga en cuenta que funciona el botón deben mantener la caja de conexiones, desde el momento de la conexión se mantiene y el botón no es visible para otras antenas. La conexión se realiza tan pronto como el botón es visible dentro de los 20 segundos (esto es confirmado por el parpadeo se detiene) y luego sólo en la emisión de la antena seleccionada (en este caso se debe obviamente a elegir el mismo en recibir y transmitir)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / itag.jpg" width = "60" />|itag|itag verde|botones|Tenga en cuenta que funciona el botón deben mantener la caja de conexiones, desde el momento de la conexión se mantiene y el botón no es visible para otras antenas. La conexión se realiza tan pronto como el botón es visible dentro de los 20 segundos (esto es confirmado por el parpadeo se detiene) y luego sólo en la emisión de la antena seleccionada (en este caso se debe obviamente a elegir el mismo en recibir y transmitir)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / itag.jpg" width = "60" />|itag|azul Itag|botones|Tenga en cuenta que funciona el botón deben mantener la caja de conexiones, desde el momento de la conexión se mantiene y el botón no es visible para otras antenas. La conexión se realiza tan pronto como el botón es visible dentro de los 20 segundos (esto es confirmado por el parpadeo se detiene) y luego sólo en la emisión de la antena seleccionada (en este caso se debe obviamente a elegir el mismo en recibir y transmitir)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Jinlin
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / jinlin.jpg" width = "60" />|Lyl inteligente|Jinlin|luz|Sólo la presencia (el resto vendrá)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Logiswitch
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop vert|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop gris|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / logiswitch.jpg" width = "60" />|Logitech|Logitech Red Pop|botones|Por supuesto que no debe estar conectado a otro dispositivo|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / logiswitch.jpg" width = "60" />|Logitech|Logitech Pop Blanca|botones|Por supuesto que no debe estar conectado a otro dispositivo|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / logiswitch.jpg" width = "60" />|Logitech|Logitech Pop Green|botones|Por supuesto que no debe estar conectado a otro dispositivo|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / logiswitch.jpg" width = "60" />|Logitech|Logitech gris Pop|botones|Por supuesto que no debe estar conectado a otro dispositivo|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miband
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/miband1.jpg" width="60" />|Xiaomi|Miband|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / miband1.jpg" width = "60" />|Xiaomi|Miband|salud|Según el firmware ya no puede funcionar. Tenga cuidado si el brazalete está conectado a su teléfono inteligente es más visible del bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-|<img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / miband1s.jpg" width = "60" /> | Xiaomi | Miband1s | Salud | Según el firmware ya no puede funcionar. Tenga cuidado si el brazalete está conectado a su teléfono inteligente es más visible bluetooth | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/miband2.jpg" width="60" />|Xiaomi|Miband2|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / miband2.jpg" width = "60" /> | Xiaomi | Miband2 | Salud | Según el firmware ya no puede funcionar. Tenga cuidado si el brazalete está conectado a su teléfono inteligente es más visible bluetooth | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/mibandcolor.jpg" width="60" />|Xiaomi|Miband (avec led couleur)|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / mibandcolor.jpg" width = "60" /> | Xiaomi | Miband (con el color del LED) | Salud | Según el firmware ya no puede funcionar. Tenga cuidado si el brazalete está conectado a su teléfono inteligente es más visible bluetooth | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
 Miflora
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / miflora.jpg" width = "60" />|Xiaomi|Miflora|sensores|sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miscale
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / miscale.jpg" width = "60" />|Xiaomi|MiScale|escala|Gestión de perfiles integral|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Myfox
+MyFox
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/myfox.jpg" width="60" />|Myfox|Badge|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / myfox.jpg" width = "60" />|MyFox|divisa|presencia|Sólo la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Niu
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_wazabi.jpg" width = "60" />|Nodon|Niu Wazabi|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_cozygrey.jpg" width = "60" />|Nodon|Niu gris|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_lagoon.jpg" width = "60" />|Nodon|Niu Laguna|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_softberry.jpg" width = "60" />|Nodon|Niu Softberry|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_techblue.jpg" width = "60" />|Nodon|Niu Techblue|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / niu_white.jpg" width = "60" />|Nodon|Niu blanca|botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Noke
+noke
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/noke.jpg" width="60" />|Noke|Noke|Cadenas|Visible que sur appui du bouton (peut fonctionner via un hack des trames pour récupérer la clé) mais ne sera pas fait car illégal|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / noke.jpg" width = "60" />|noke|noke|candado|Visible en el botón (se puede manejar mediante un marcos de hackers para recuperar la clave), pero no se hará porque ilegal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Nut
+tuerca
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/nut.jpg" width="60" />|Nut|Nut|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / nut.jpg" width = "60" />|tuerca|tuerca|presencia|Sólo la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / nut.jpg" width = "60" />|tuerca|Tuerca mini azul|presencia||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Playbulb
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/bluelabel.jpg" width="60" />|Playbulb|BlueLabel|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / bluelabel.jpg" width = "60" />|Playbulb|BlueLabel|luces|Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-|<img src="../images/candle.jpg" width="60" />|Playbulb|Candle|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / candle.jpg" width = "60" /> | Playbulb | Vela | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/candle6.jpg" width="60" />|Playbulb|Candle|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / candle6.jpg" width = "60" /> | Playbulb | Vela | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/color.jpg" width="60" />|Playbulb|Color|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / color.jpg" width = "60" /> | Playbulb | color | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/garden.jpg" width="60" />|Playbulb|Garden|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / garden.jpg" width = "60" /> | Playbulb | Jardín | Luces | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/garden19.jpg" width="60" />|Playbulb|Garden v1.9|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / garden19.jpg" width = "60" /> | Playbulb | v1.9 Jardín | Luces | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/original.jpg" width="60" />|Playbulb|Original|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / original.jpg" width = "60" /> | Playbulb | original | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/rainbow.jpg" width="60" />|Playbulb|Rainbow|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / rainbow.jpg" width = "60" /> | Playbulb | arco iris | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/smart.jpg" width="60" />|Playbulb|Smart|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / smart.jpg" width = "60" /> | Playbulb | Inteligente | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/sphere.jpg" width="60" />|Playbulb|Sphere|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / sphere.jpg" width = "60" /> | Playbulb | Esfera | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
-|<img src="../images/sphere17.jpg" width="60" />|Playbulb|Sphère|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <Img src = "../ images / sphere17.jpg" width = "60" /> | Playbulb | Esfera | Ilustración | Ámbito caprichosa, lo que puede justificar las acciones de tratamiento un poco más largos. Puede ser detectada en lugar de otro playbulb si se cambia el menú desplegable | [Comprar] (http://www.domadoo.fr/fr/peripheriques/.html) |
 
 Ropot
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / ropot.jpg" width = "60" />|Xiaomi|Miflora|sensores|sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Smartplug
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Prises||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / smartplug.jpg" width = "60" />|AwoX|Smartplug|tomas||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Tb05
+TB05
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/tb05.jpg" width="60" />|E-Diffuser|Tb05|Diffuseur|Il est recommandé d'utiliser l'option garder la connection. Obligatoire pour tenter expérimentalement l'accès au couleur direct|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / tb05.jpg" width = "60" />|E-Stream|TB05|difusor|Se recomienda utilizar la opción de mantener la conexión. El requisito de probar experimentalmente color de acceso directo|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ticatag
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/ticatag.jpg" width="60" />|Tibe|Ticatag|Boutons|Le relachement est envoyé même après un appui simple ou appui double|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / ticatag.jpg" width = "60" />|tibe|Ticatag|botones|La holgura se envía incluso después de un soporte simple o doble cojinete|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Wistiki
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/wistiki.jpg" width="60" />|Wistiki|Wistiki|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / wistiki.jpg" width = "60" />|Wistiki|Wistiki|presencia|Sólo la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Yeelight
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Bed|Lumières|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<Img src = "../ images / yeelight_bed.jpg" width = "60" />|Yeelight|cama|luces|Se debe validar la sincronización, pulse el botón. Si hay que desactivar antes de seleccionar un color|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
 
-Cette liste est basee sur des retours utilisateurs, l'équipe Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionnels
+Esta lista se basa en la retroalimentación del usuario, el equipo Jeedom no puede garantizar que todos los módulos en esta lista son 100% funcional
