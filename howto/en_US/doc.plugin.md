@@ -80,7 +80,7 @@ your documentation.
 This file should contain only pointers to all the others
 files and not directly content.
 
-Sample file ** index.asciidoc **:
+Sample file **index.asciidoc**:
 
     : imagesdir: ../images
     : Icons:
@@ -117,7 +117,7 @@ Jeedom. It is possible to include other AsciiDoc files.
 description.asciidoc
 --------------------
 
-The ** description.asciidoc ** file allows you to present your
+The **description.asciidoc** file allows you to present your
 plugin.
 
 ### Simple plugin
@@ -126,7 +126,7 @@ If your plugin is relatively simple, does not have a dependency with a
 particular equipment to present, you can limit yourself to a
 description of the plugin's purpose.
 
-Sample file ** description.asciidoc ** simple:
+Sample file **description.asciidoc** simple:
 
     : imagesdir: ../images
     : Icons:
@@ -151,15 +151,15 @@ If your plugin is:
 
 It is advisable to create several subchapters.
 
--   ** General description ** \
+-   **General description** \
 
--   ** Marketing description:) **
+-   **Marketing description:)**
 
 -   **Prerequisites**
 
--   ** Operating principle **
+-   **Operating principle**
 
-Sample file ** description.asciidoc ** complex:
+Sample file **description.asciidoc** complex:
 
     : imagesdir: ../images
     : Icons:

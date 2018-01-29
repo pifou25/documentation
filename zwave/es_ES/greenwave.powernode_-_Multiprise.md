@@ -11,7 +11,7 @@ Greenwave nodo de poder - 6 puntos de venta
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -146,7 +146,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo tiene que pulsar el botón
 > La inclusión en esta decisión.

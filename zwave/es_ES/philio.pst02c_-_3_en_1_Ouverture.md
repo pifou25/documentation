@@ -11,7 +11,7 @@ Philio PST02 C - 3 en 1 Apertura
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -143,7 +143,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -195,7 +195,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -328,7 +328,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

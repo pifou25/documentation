@@ -11,7 +11,7 @@ Danalock V2 BTZE
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -50,7 +50,7 @@ is too weak
 The Danalock is an intelligent lock that mounts on almost
 all the doors in a few minutes.
 
-** Easy to install **
+**Easy to install**
 
 Install the Danalock app on your phone in a few seconds
 seconds. A wizard then guides you through the installation and
@@ -64,7 +64,7 @@ the Danalock lock automatically unlocks the door when you
 approach your house and lock it right after you are
 returns.
 
-** Long battery life **
+**Long battery life**
 
 The Danalock has an average battery life of up to one year, and
 does not require external power supply. Be informed that the use
@@ -73,14 +73,14 @@ battery. The state of the battery is easily visible in the App.
 When the battery reaches 30, 20, 15 and 10 percent, a notification
 is sent by SMS and email.
 
-** Limited or permanent access **
+**Limited or permanent access**
 
 No need to hide the keys under the doormat. Give your
 family quick and easy access with their smartphones. To your wife
 household or your guests, access limited in time or recurring and
 receive notifications when your lock is used and by whom.
 
-** Total control of the house **
+**Total control of the house**
 
 Develop control of your smart home with a Danalock,
 the perfect initiator for all your home orders. Danalock
@@ -88,7 +88,7 @@ works seamlessly with other devices in the home
 intelligent, and all communication is highly encrypted - nobody
 can not hack their way into your house.
 
-** Discreet, durable and Danish **
+**Discreet, durable and Danish**
 
 Danalock combines the elegance and minimalism of Scandinavian design - with
 an anodized solid aluminum bezel and advanced technologies
@@ -178,7 +178,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > You must include this module in secure mode.
 
@@ -201,7 +201,7 @@ SECURE (INCLUSION) "
 
 \
 
-> ** Important **
+> **Important**
 >
 > We assume that you have installed the application on
 > your smartphone or iphone and created an account. If it's not already
@@ -256,7 +256,7 @@ Here is the list of orders:
 
 \
 
-> ** Warning **
+> **Warning**
 >
 > Although this module is battery-powered, it uses Flirs technology.
 > That means he has no concept of wake up and wake up. he
@@ -353,7 +353,7 @@ Good to know
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Although this module is battery-powered, it uses Flirs technology.
 > That means he has no concept of wake up and wake up. he
@@ -362,7 +362,7 @@ Good to know
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > This module returns its status if you operate the lock by hand
 > the status will be updated. \
@@ -393,4 +393,4 @@ No concept of wake up on this module; read the section Specificities.
 
 \
 
-** @ ** noumea
+**@** noumea

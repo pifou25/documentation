@@ -11,7 +11,7 @@ Controlador de puerta de garaje Aeotec
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -130,7 +130,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo tiene que pulsar el botón
 > Z-Wave, de acuerdo con su documentación en papel.

@@ -11,7 +11,7 @@ Fibaro FGSD-002 "sensor de humo 2"
 
 \
 
--   ** El jeedom visual **
+-   **El jeedom visual**
 
 \
 
@@ -144,7 +144,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón central de la inclusión, de acuerdo con su documentación en papel.
@@ -202,7 +202,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -330,7 +330,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

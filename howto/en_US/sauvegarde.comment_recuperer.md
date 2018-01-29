@@ -4,7 +4,7 @@ Description
 The procedure will allow to connect in SFTP to your box so
 to go get daily backups made by it.
 
-> ** Tip **
+> **Tip**
 >
 > Attention, so that this procedure works, it is necessary that
 > the SSH server of the box is always functional.

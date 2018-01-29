@@ -50,7 +50,7 @@ Por tipo de plug-in, la selección de autovoz ** **.
 
 ![android.autovoice3](../images/android.autovoice3.png)
 
-En autovoz ** ** submenú, seleccionando Reconocido ** **.
+En autovoz **** submenú, seleccionando Reconocido** **.
 
 ![android.autovoice4](../images/android.autovoice4.png)
 
@@ -70,7 +70,7 @@ ejemplo, puede ser llamado "Jeedom API".
 
 ![android.autovoice6](../images/android.autovoice6.png)
 
-La tarea incluirá eventualmente dos acciones: llamada a la API ** ** ** y digamos
+La tarea incluirá eventualmente dos acciones: llamada a la API ****** y digamos
 ** retorno.
 
 ![android.autovoice7](../images/android.autovoice7.png)
@@ -113,14 +113,14 @@ interacciones Jeedom y nada le puede pedir que
 desee. De "¿cuál es la temperatura de la sala de estar" a "encender la luz
 viva ".
 
-> ** Tip **
+> **Tip**
 >
 > Si no funciona desde el principio, a menudo porque es autovoz
 > No está activo. Para este lanzamiento, haga clic en Google Now
 > Integración y la primera opción en la parte superior y permitir
 > Autovoz.
 
-> ** Tip **
+> **Tip**
 >
 > Por defecto, desactiva la búsqueda autovoz Google Now, se
 > Posibilidad de anular este comportamiento, ya que en Tasker clic

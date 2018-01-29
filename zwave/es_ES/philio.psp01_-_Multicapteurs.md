@@ -11,7 +11,7 @@ Philio PSP01
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -142,7 +142,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -202,7 +202,7 @@ correspondiente a su módulo.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -286,7 +286,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Este módulo tiene una característica, no tener un informe basado en
 > Variaciones, pero sólo con el tiempo, se envía toda la información a
@@ -339,7 +339,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

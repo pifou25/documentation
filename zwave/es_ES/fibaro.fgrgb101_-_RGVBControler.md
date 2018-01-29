@@ -11,7 +11,7 @@ Fibaro RGVB Controler - FGRGB-101
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -127,7 +127,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -244,7 +244,7 @@ Usando 0-10V sensores.
 
 \
 
-> ** Atención **
+> **Atención**
 >
 > En la actualidad, la configuración por defecto permite la jeedom
 > No, pero una configuración específica puede ser considerado.

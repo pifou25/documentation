@@ -11,7 +11,7 @@ Botón Philio Color inteligente
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -137,7 +137,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo módulo requiere la inclusión en su posición
 > Baja (inclusión) y pulse el botón, según su
@@ -186,7 +186,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -289,7 +289,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

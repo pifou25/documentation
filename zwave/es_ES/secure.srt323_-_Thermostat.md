@@ -11,7 +11,7 @@ SRT seguro 323 "Termostato"
 
 \
 
--   ** El jeedom visual **
+-   **El jeedom visual**
 
 \
 
@@ -135,7 +135,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner esto inclusión modo de módulo debe poner el interruptor 1
 > ON y el dial para visualizar L y pulsarlo,
@@ -147,7 +147,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Este módulo es caprichosa al inicio del estudio. Durante una primera inclusión
 > Siempre despertar en el módulo justo después de la inclusión. para hacer
@@ -256,7 +256,7 @@ Bueno saber
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Este módulo se alimenta de la batería. Por eso es importante tener en cuenta que
 > Cambio de consigna sólo se considerará estela. por
@@ -293,7 +293,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

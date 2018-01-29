@@ -11,7 +11,7 @@ Fibaro FGR-222 "Roller shutter"
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -134,7 +134,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on the
 > inclusion button, according to its paper documentation.
@@ -316,7 +316,7 @@ on this button available in the System tab.
 
 \
 
-> ** Important **
+> **Important**
 >
 > For the return of state to work in Jeedom, it is necessary to
 > force equipment calibration (parameter 29 to "Yes") and the
@@ -351,4 +351,4 @@ Read the Reset section of this doc.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

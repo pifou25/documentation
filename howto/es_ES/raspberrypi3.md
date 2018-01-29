@@ -2,7 +2,7 @@ meta
 ========
 
 Aquí encontrará la documentación de la instalación de un Jeedom
-PI frambuesa 3 ** sin tarjeta microSD. **
+PI frambuesa 3 **sin tarjeta microSD.**
 
 El hecho de PI3 ofrece la posibilidad de arrancar directamente a una
 dispositivo USB y así superar la tarjeta microSD veces
@@ -40,12 +40,12 @@ A continuación, reinicie la PI3
 
     reinicio sudo
 
-> ** Importante **
+> **Importante**
 >
 > Para evitar problemas de energía, vaya para una unidad SSD mSATA
 > Bajo consumo.
 
-> ** Tip **
+> **Tip**
 >
 > Ahora puede instalar Jeedom siguiendo exactamente el mismo
 > Procedimiento con una tarjeta SD.
@@ -54,15 +54,15 @@ A continuación, reinicie la PI3
 posibles ajustes
 =====================
 
-** Se debe entonces tener en cuenta las siguientes observaciones: **
+**Se debe entonces tener en cuenta las siguientes observaciones:**
 
-> ** Importante **
+> **Importante**
 >
 > Los siguientes cambios son el resultado de problemas
 > Usuarios. Hay que adaptarse a ti. El apoyo
 > Jeedom no interviene a problemas con su configuración.
 
--   ** Si usted está teniendo problemas de intercambio, usted tiene que cambiar. **
+-   **Si usted está teniendo problemas de intercambio, usted tiene que cambiar.**
 
     -   ** ** Aumentar el tamaño:
 
@@ -85,7 +85,7 @@ posibles ajustes
 
     reinicio sudo
 
--   ** Cambie la llamada al valor de intercambio. **
+-   **Cambie la llamada al valor de intercambio.**
 
 Por defecto, el sistema llama al intercambio cuando menos del 40%
 Ram.

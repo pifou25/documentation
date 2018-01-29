@@ -3,15 +3,15 @@ Useful packages
 
 Here are some useful packages to put on a blank installation:
 
--   ** fail2ban **: Bans IPs trying to connect
+-   **fail2ban**: Bans IPs trying to connect
     to the machine.
 
--   ** vim **: It's a command-line text editor, you can
+-   **vim**: It's a command-line text editor, you can
     also replace it with nano or others.
 
--   ** net-tools **: collection of programs to manage the network
+-   **net-tools**: collection of programs to manage the network
 
--   ** dos2unix **: text conversion tool
+-   **dos2unix**: text conversion tool
 
 <! - ->
 
@@ -42,7 +42,7 @@ By :
 
     PermitRootLogin yes
 
-> ** Important **
+> **Important**
 >
 > Make sure you use a strong root password! The use of
 > fail2ban is also recommended.
@@ -66,7 +66,7 @@ Addition of editing in / etc / fstab
 
     // IP_SERVER_SAMBA / my_share / mnt / my_share cifs uid = 0, rw, user = TODO, password = TODO 0 0
 
-> ** Note **
+> **Note**
 >
 > You have to change the TODOs by your linux username and your
 > password
@@ -78,10 +78,10 @@ For testing the upgrade and Stretch installation with restore
 backup, I confirm that the installation of Stretch by
 crushing will save you time.
 
--   ** Method 1: Installation of Stretch: ** 1 to 2 hours max max, and
+-   **Method 1: Installation of Stretch:** 1 to 2 hours max max, and
     especially a clean operating system.
 
--   ** Method 2: Jessie's update to Stretch: ** half a day to
+-   **Method 2: Jessie's update to Stretch:** half a day to
     to wipe the bugs.
 
 Method 1: Installing Stretch and Restoring Backup
@@ -91,7 +91,7 @@ Before you begin, make a full backup via Jeedom of your
 installation under Jessie, then export the backup to another
 storage medium.
 
-> ** Tip **
+> **Tip**
 >
 > Download the backup other than through the web interface (SSH, FTP,
 > SAMBA, others of your choice), because if your archive is voluminous
@@ -133,14 +133,14 @@ MYSQL, under Stretch:
     MariaDB [mysql]> exit;
     Bye
 
-> ** Tip **
+> **Tip**
 >
 > Replace 'monpass' with your MYSQL password used for the
 > root account under "Debian 8 - Jessie". I give rights to root
 > especially to manage my bases with 'PHPMYADMIN', but to give them to
 > the user MYSQL 'jeedom' must suffice.
 
-> ** Tip **
+> **Tip**
 >
 > You will find the password mode of the user MYSQL Jeedom here:
 > Administration → Configuration → OS / DB → Database
@@ -161,7 +161,7 @@ or
 
 -   Launch the restore via the Jeedom interface (Administration →
     Backups → Local Backups: Choose the right backup
-    and click ** Restore ** just below)
+    and click **Restore** just below)
 
 -   Wait during the restoration
 

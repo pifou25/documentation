@@ -19,7 +19,7 @@ disponible ya sea mediante la instalación de un Vib ya sea desde la versión
 6.0 actualización 2. Recuerde que para acceder a esta interfaz simplemente
 ir a la IP \ _ESXI / ui
 
-> ** Nota **
+> **Nota**
 >
 > En este tutorial voy a utilizar la interfaz web del ESXi es decir
 > Disponible ya sea mediante la instalación de un Vib ya sea desde el
@@ -34,7 +34,7 @@ Hay que recuperar esta
 y la transferencia a la ESX (en el mismo almacén de datos que se
 sede de copias de seguridad, por ejemplo).
 
-> ** Nota **
+> **Nota**
 >
 > En el resto de este tutorial Creo que usted ha puesto el guión
 > GhettoVCB.sh en /vmfs/volumes/Backup/ghettoVCB.sh. Para adaptar
@@ -54,7 +54,7 @@ su ESXi y el uso de sus identificaciones de ella
 Creación del archivo de configuración
 ====================================
 
-> ** Nota **
+> **Nota**
 >
 > Para el resto de este tutorial considero que su almacén de datos
 > Copia de seguridad tiene la ruta / vmfs / Volumes / Copia de seguridad, atención a cambiar si
@@ -93,17 +93,17 @@ contiene:
 
 Los parámetros que debe ajustar son los siguientes:
 
--   ** VM \ _BACKUP \ _VOLUME ** ⇒ ubicación de su almacén de datos de copia de seguridad
+-   **VM \ _BACKUP \ _VOLUME** ⇒ ubicación de su almacén de datos de copia de seguridad
 
--   ** VM \ _BACKUP \ _rotation \ _count ** ⇒ número de copia de seguridad por máquina virtual para mantener
+-   **VM \ _BACKUP \ _rotation \ _count** ⇒ número de copia de seguridad por máquina virtual para mantener
 
-> ** Nota **
+> **Nota**
 >
 > Puede comprobar
 > [Aquí] Documentación (https://communities.vmware.com/docs/DOC-8760)
 > GhettoVCB completa con una descripción de cada opción
 
-> ** Importante **
+> **Importante**
 >
 > Tenga cuidado de poner la final / para el parámetro
 > VM \ _BACKUP \ _VOLUME de lo contrario el script error
@@ -169,12 +169,12 @@ Y antes de que el "exit 0" añadir las siguientes líneas:
     / Bin / echo "0 0 1 * * /vmfs/volumes/Backup/ghettoVCB.sh -a -g /vmfs/volumes/Backup/ghettoVCB.conf> / dev / null 2> & 1" >> / var / spool / cron / crontabs / root
     / Usr / lib / vmware / busybox / bin / crond busybox
 
-> ** Nota **
+> **Nota**
 >
 > Aquí solicito una copia de seguridad cada primero de mes, puede cambiar
 > Esta modificando: 0 0 1 \ * \ *
 
-> ** Nota **
+> **Nota**
 >
 > Aquí hago una copia de seguridad de todas las máquinas virtuales, se puede incorporar en
 > Sustitución de la -a con mi -m \ _vm, tenga cuidado si quieres
@@ -183,7 +183,7 @@ Y antes de que el "exit 0" añadir las siguientes líneas:
 > /vmfs/volumes/Backup/ghettoVCB.conf &gt; / dev / null 2&gt; & 1 "&gt;&gt;
 > / Var / spool / cron / crontabs / root "y poner una máquina virtual por Backuper
 
-> ** Importante **
+> **Importante**
 >
 > Asegúrese de ajustar la ruta de acceso al archivo de configuración
 > GhettoVCB dependiendo de su configuración:

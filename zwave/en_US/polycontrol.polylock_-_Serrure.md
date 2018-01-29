@@ -11,7 +11,7 @@ polylock
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -117,7 +117,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 1 time on the
 > inclusion button, according to its paper documentation.
@@ -168,7 +168,7 @@ Here is the list of orders:
 
 \
 
-> ** Warning **
+> **Warning**
 >
 > Although this module is battery-powered, it uses Flirs technology.
 > That means he has no concept of wake up and wake up. he
@@ -256,7 +256,7 @@ Good to know
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Although this module is battery-powered, it uses Flirs technology.
 > That means he has no concept of wake up and wake up. he
@@ -265,7 +265,7 @@ Good to know
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > This module does not return its state, if you operate the lock at the
 > the state will remain the same. \
@@ -296,4 +296,4 @@ No concept of wake up on this module, read the paragraph specificities.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

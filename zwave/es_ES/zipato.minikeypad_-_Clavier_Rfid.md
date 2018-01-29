@@ -11,7 +11,7 @@ RFID Zipato miniKeypad
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -122,7 +122,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo sólo tiene que pulsar dos
 > segundos en la lengua de metal (el LED rojo en el panel frontal
@@ -177,7 +177,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -233,7 +233,7 @@ Este módulo tiene dos grupos de asociación.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para un funcionamiento óptimo del módulo. debe Jeedom
 > Se asocia con un mínimo o el grupo 1.
@@ -274,7 +274,7 @@ Esto le permite añadir código. Verá una imagen.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Piense en despertar el módulo con la adición de un código o tarjeta de identificación.
 
@@ -358,7 +358,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > Configuración, después de un cambio de despertar después de una

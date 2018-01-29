@@ -2,7 +2,7 @@
 
 ![ems200.module](../images/ems200/ems200.module.jpg)
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 ![ems200.vue defaut](../images/ems200/ems200.vue-defaut.jpg)
 
@@ -69,12 +69,12 @@ To configure the Edisio plugin and associate a module with Jeedom,
 refer to this
 [Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Important **
+> **Important**
 >
 > So that Jeedom automatically creates your sending modules, do not forget
 > do not activate the option in the plugin configuration.
 
-> ** Tip **
+> **Tip**
 >
 > The placement is recommended at a height of 150 cm and close to
 > the desired temperature.
@@ -115,7 +115,7 @@ Once your equipment is associated, you should get this:
 
 ![ems200.general](../images/ems200/ems200.general.jpg)
 
-> ** Tip **
+> **Tip**
 >
 > In order for the widget to be present on the dashboard, consider placing
 > your equipment in an object.
@@ -168,4 +168,4 @@ How can I have the same visual?
 
 : With the Jeedom Widgets plugin.
 
-** @ ** Jamsta
+**@** Jamsta

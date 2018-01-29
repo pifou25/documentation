@@ -11,7 +11,7 @@ Asegurar su "Temperatura" 302
 
 \
 
--   ** El jeedom visual **
+-   **El jeedom visual**
 
 \
 
@@ -116,7 +116,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo hay que pulsar 1 segundo
 > Botón en la parte posterior y la liberación de conformidad con su documentación en papel.
@@ -165,7 +165,7 @@ Varios temperaturas NONS visibles también están disponibles y serán
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -263,7 +263,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > Configuración, después de un cambio de despertar después de una

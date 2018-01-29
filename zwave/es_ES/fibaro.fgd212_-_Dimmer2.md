@@ -11,7 +11,7 @@ Fibaro Dimmer2 - FGD-212
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -160,7 +160,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel. Si el
@@ -173,7 +173,7 @@ inclusión se refiere a este
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Si ya ha integrado el módulo a la pared, puede incluir
 > Realización de muchos viajes de vuelta en el interruptor o
@@ -288,7 +288,7 @@ Bueno saber
 
 \
 
-> ** Atención **
+> **Atención**
 >
 > La configuración de parámetro más importante es 20.
 > Selecciona el tipo de interruptor utilizado. El tipo de defecto

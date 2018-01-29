@@ -2,7 +2,7 @@
 
 ![eos200.module](../images/eos200/eos200.module.jpg)
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 ![eos200.vue defaut](../images/eos200/eos200.vue-defaut.jpg)
 
@@ -74,7 +74,7 @@ Para configurar Edisio plugin y asociar un módulo de Jeedom,
 referirse a este
 [Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Importante **
+> **Importante**
 >
 > Para Jeedom crea automáticamente los módulos de transmisión, recuerde
 > No hay que activar la opción en la configuración del plugin.
@@ -94,7 +94,7 @@ De manera predeterminada, el sensor está configurado NO (normalmente abierto)
 
 ![eos200.nf no](../images/eos200/eos200.nf-no.jpg)
 
-> ** Nota **
+> **Nota**
 >
 > Debemos, por tanto, establecer su sensor si desea una
 > Widget con una puerta cerrada cuando lo es.
@@ -114,7 +114,7 @@ Una vez que su equipo pareja, usted debe conseguir esto:
 
 ![eos200.general](../images/eos200/eos200.general.jpg)
 
-> ** Tip **
+> **Tip**
 >
 > Para que el widget para estar presente en el salpicadero, considere colocar
 > Su equipo en un objeto.

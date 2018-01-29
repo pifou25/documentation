@@ -11,7 +11,7 @@ Everspring Minienchufe de encendido / apagado - AN180-6
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -115,7 +115,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo se debe presionar tres veces en su
 > Button, de acuerdo con su documentación en papel. Es importante
@@ -215,7 +215,7 @@ Este módulo tiene 2 grupos de asociación.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Una Jeedom mínimo debería reflejarse en el grupo 1 \
 

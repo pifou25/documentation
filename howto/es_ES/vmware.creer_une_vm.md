@@ -26,7 +26,7 @@ Ir a la IP \ _ESXI / UI con su navegador web, debe tener:
 
 ![vmware.createvm3](../images/vmware.createvm3.PNG)
 
-> ** Nota **
+> **Nota**
 >
 > Si usted no tiene que sugeriría que hacer la instalación de
 > La interfaz web, toda la información
@@ -116,7 +116,7 @@ duro, CPU, memoria ...)
 
 ![vmware.createvm9](../images/vmware.createvm9.PNG)
 
-> ** Nota **
+> **Nota**
 >
 > Todos estos parámetros son modificables nota después sin preocupaciones
 > De todos modos, no es realmente posible reducir el tamaño
@@ -161,7 +161,7 @@ Su sistema operativo:
 
 ![vmware.createvm17](../images/vmware.createvm17.PNG)
 
-> ** Importante **
+> **Importante**
 >
 > Una vez que su máquina está instalada debe instalar ABSOLUTAMENTE
 > herramientas de VMware (VMware que permite disponer de información sobre su VM
@@ -174,7 +174,7 @@ Para el resto de la instalación de los invito a leer este
 Instalar los periféricos USB en la máquina virtual
 =======================================
 
-> ** Nota **
+> **Nota**
 >
 > Si usted no tiene las opciones de abajo es que haces
 > Actualizar el ESXi Embedded anfitrión al cliente, toda la información
@@ -185,7 +185,7 @@ efecto que tengo en mi llave Zwave ESXi, RFXCOM, edisio, EnOcean y GSM
 moda y tuve que conectan con el fin VM Jeedom
 usarlo.
 
-> ** Nota **
+> **Nota**
 >
 > Para Zwave, RFXCOM, edisio EnOcean y no hay preocupaciones para
 > Teclas GSM que tiene que seguir
@@ -201,7 +201,7 @@ Haga clic en "Añadir otro dispositivo" y el controlador USB:
 
 ![vmware.createvm26](../images/vmware.createvm26.PNG)
 
-> ** Nota **
+> **Nota**
 >
 > En el siguiente paso se debe repetir para cada dispositivo USB
 > Usted desea conectar

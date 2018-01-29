@@ -11,7 +11,7 @@ Aeotec Garage Door Controller
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -130,7 +130,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press the button
 > Z-Wave, according to its paper documentation.
@@ -280,4 +280,4 @@ F.A.Q.
 
 \
 
-** @ ** nechry
+**@** nechry

@@ -11,7 +11,7 @@ Control Nodon - Soft remoto
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -101,7 +101,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner esto inclusión modo de módulo debe presionar tanto
 > Botón (+ 0 y completo) hasta que la luz se vuelve rosa continuación,
@@ -146,11 +146,11 @@ Estos son los comandos:
 | ** 1 (0 | 10 | 12 | 11 | 13 |
 | completo) ** | | | | |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 2 (+) ** | 20 | 22 | 21 | 23 |
+| **2 (+)** | 20 | 22 | 21 | 23 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 3 (0 vacío) ** | 30 | 32 | 31 | 33 |
+| **3 (0 vacío)** | 30 | 32 | 31 | 33 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 4 (-) ** | 40 | 42 | 41 | 43 |
+| **4 (-)** | 40 | 42 | 41 | 43 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
 
 -   Batería: Este es el comando que se remonta a las baterías
@@ -161,7 +161,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -226,7 +226,7 @@ Este módulo tiene 7 grupos de asociación.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Una Jeedom mínimo debería reflejarse en el grupo 1 \
 
@@ -269,7 +269,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

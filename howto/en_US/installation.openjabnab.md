@@ -1,7 +1,7 @@
 Here is a tutorial on how to install openjabnab locally (on a rpi or
 humming)
 
-> ** Note **
+> **Note**
 >
 > This tutorial is largely inspired by
 > [this one] (http://jetweb.free.fr/nabaztag_rpi/Tutoriel_OJN_RPi_v1-1.pdf)
@@ -43,7 +43,7 @@ The result is:
 
 Here the IP address is 192.168.0.162.
 
-> ** Note **
+> **Note**
 >
 > For the rest of the tutorial I will use this IP, it is of course to
 > replace according to the one you actually have
@@ -110,7 +110,7 @@ And put:
     @ IN NS ojn.raspberry.pi.
     162 IN PTR ojn.raspberry.pi.
 
-> ** Important **
+> **Important**
 >
 > Remember to replace the 162 in the last line with the last
 > part of the ip of your system
@@ -136,7 +136,7 @@ You should have :
     4 packets transmitted, 4 received, 0% packet loss, time 3000ms
     rtt min / avg / max / mdev = 0.059 / 0.065 / 0.069 / 0.010 ms
 
-> ** Note **
+> **Note**
 >
 > You have to do ctrl + c to exit the ping
 
@@ -217,7 +217,7 @@ Do:
     qmake -r
     make
 
-> ** Note **
+> **Note**
 >
 > This step can be very long (up to 45min)
 
@@ -265,7 +265,7 @@ Now go to:
 
     http: //ojn.raspberry.pi/ojn_admin/index.php
 
-> ** Note **
+> **Note**
 >
 > If all is good you should have the statistics that appear in
 > bottom
@@ -318,7 +318,7 @@ And add:
     @reboot /home/ojn/checkojn.sh
     * / 15 * * * * /home/ojn/checkojn.sh
 
-> ** Important **
+> **Important**
 >
 > It is absolutely necessary to put it in the crontab of root, if you are
 > still with the user ojn do ctrl + D
@@ -399,7 +399,7 @@ Put the TTS in local
 Everything is local except the TTS which passes by the site Acapela but it is
 possible by editing some files to pass it locally
 
-> ** Note **
+> **Note**
 >
 > I will consider that oenjabnab is installed in
 > / home / ojn / OpenJabNab and you are logged in as
@@ -549,7 +549,7 @@ Then you have to make 3 files:
       return ttsHTTPUrl.arg (voice, fileName) .toAscii ();
     }
 
-> ** Note **
+> **Note**
 >
 > Do not forget to replace TODO
 

@@ -11,7 +11,7 @@ Fibaro FGR-222 "del obturador rodante"
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -134,7 +134,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -316,7 +316,7 @@ este botón disponible en la ficha Sistema.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para la realimentación del estado trabaja en Jeedom, es necesario
 > Forzar la calibración de los equipos (parámetro 29 a "Sí") y

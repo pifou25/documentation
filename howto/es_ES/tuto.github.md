@@ -46,7 +46,7 @@ También encontrará otras opciones si usted es curioso.
 Tenedor Jeedom Core o documentación
 ==========================================
 
-** Tenedor - ¿Por qué - ¿Cómo **
+**Tenedor - ¿Por qué - ¿Cómo**
 
 Tenedor es una copia en su área del proyecto github, con el fin de
 modificar los archivos de código, documentación y luego presentar
@@ -92,7 +92,7 @@ especificar el texto que busca (y un elemento significativo
 línea única, no una manzana entera a la vez). Confirme con "Enter"
 iniciar la búsqueda.
 
-> ** Tip **
+> **Tip**
 >
 > Si no se hace clic en la ventana que contiene el texto o código
 > Usted está buscando es la búsqueda del navegador se abrirá y
@@ -164,7 +164,7 @@ solicitud.
 
 ![tuto.github11](../images/tuto.github11.png)
 
-** Esto ha terminado. ** Espere hasta que se valida el PR.
+**Esto ha terminado.** Espere hasta que se valida el PR.
 
 Nota: Sólo los usuarios con derecho a empujar en esa jeedom
 puede validar la PR.

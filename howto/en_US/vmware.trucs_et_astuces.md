@@ -17,7 +17,7 @@ And enter your license key
 
 ![vmware.tips3](../images/vmware.tips3.PNG)
 
-> ** Note **
+> **Note**
 >
 > As a reminder, if you do not do it your ESXi may not be able to
 > operate after 60 days
@@ -174,12 +174,12 @@ Then transfer the zip to one of your datastores and do:
 
     esxcli software vib update -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
 
-> ** Note **
+> **Note**
 >
 > Replace the path and the name of the zip well according to your
 > configuration
 
-> ** Important **
+> **Important**
 >
 > Be careful to put the full path to the zip otherwise it does not
 > not walk
@@ -246,13 +246,13 @@ In "Hostname" (at the source level) you have to set the desired DNS
 (eg monesxi.mondsn.synology.me) and in "Hostname" (at the level of
 of the destination) it is necessary to put the IP of the ESXi
 
-> ** Note **
+> **Note**
 >
 > You can also do the same thing to access jeedom but
 > putting this time the ip of jeedom (of the vm if you are in
 > virtualized) and port 80
 
-> ** Note **
+> **Note**
 >
 > Once you have done this and if your DNS points correctly
 > on the NAS you can generate a valid SSL certificate for free
@@ -264,14 +264,14 @@ Then to access your ESXi you just need with your browser
 to go to your external DNS or IP by adding / ui to the end and that's
 good.
 
-> ** Important **
+> **Important**
 >
 > If you go through the reverse proxy of the NAS console web mode of
 > VMs does not work (because it goes through websocket), however
 > if you go through VMware Remote Console everything should be ok (this
 > goes through port 902)
 
-> ** Note **
+> **Note**
 >
 > There is also a Vmware Watchlist application on Android for
 > have access to the ESXi as well as to the VM consoles

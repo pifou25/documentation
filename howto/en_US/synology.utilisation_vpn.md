@@ -56,7 +56,7 @@ Uncheck all boxes under PPTP Open VPN and L2TP
 Check only the box in front of the user you want
 allow to use the VPN.
 
-> ** Tip **
+> **Tip**
 >
 > It is advisable to create a user only for the VPN
 > and without other rights / entitlement than to do the VPN.
@@ -85,7 +85,7 @@ Add a redirect
 
 Enter the parameters as follows.
 
-> ** Tip **
+> **Tip**
 >
 > Destination ID is the only thing that depends on your installation,
 > you have to put the IP of your Synology NAS

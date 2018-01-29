@@ -11,7 +11,7 @@ Zipato miniKeypad RFID
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -122,7 +122,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode just press two
 > seconds on the metal tab (the red LED on the front panel
@@ -177,7 +177,7 @@ Here is the list of orders:
 
 \
 
-> ** Important **
+> **Important**
 >
 > During a first inclusion always wake up the module just after
 > inclusion.
@@ -233,7 +233,7 @@ This module has two association groups.
 
 \
 
-> ** Important **
+> **Important**
 >
 > For optimum operation of your module. It is necessary that Jeedom
 > at least be associated with group 1.
@@ -274,7 +274,7 @@ This one allows to add codes. You will see a painting.
 
 \
 
-> ** Important **
+> **Important**
 >
 > Remember to wake the module after adding a code or badge.
 
@@ -358,7 +358,7 @@ Important note
 
 \
 
-> ** Important **
+> **Important**
 >
 > You have to wake up the module: after its inclusion, after a change
 > of the configuration, after a change of wake up, after a
@@ -366,4 +366,4 @@ Important note
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

@@ -56,7 +56,7 @@ or to have a Synology NAS type to make the iSCSI LUN. Do not forget
 a basic VM (no storage) is between 20 to 40 GB, add to
 this 40GB for the VMware itself is filling up fast.
 
-> ** Important **
+> **Important**
 >
 > VMware does not support adding USB disk, so it's difficult
 > to expand the available space
@@ -104,7 +104,7 @@ recover VMware and put it on a USB key.
 Download VMware
 ------------------------
 
-> ** Important **
+> **Important**
 >
 > If you put vmware 6.5, there is a problem with the new management
 > the USB and the keys Zwave, so that it works it is necessary to apply this
@@ -208,7 +208,7 @@ alone :
 
 ![installation.vmware.nuc11](../images/installation.vmware.nuc11.jpg)
 
-> ** Note **
+> **Note**
 >
 > I forgot to capture the validation of the license, he
 > just agree by following the instructions

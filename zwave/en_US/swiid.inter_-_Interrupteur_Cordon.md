@@ -11,7 +11,7 @@ Swiid Switch - Swiidinter
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -135,7 +135,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press the button
 > back, in accordance with its paper documentation
@@ -242,7 +242,7 @@ This module has two association groups.
 
 \
 
-> ** Important **
+> **Important**
 >
 > For optimum operation of your module. It is necessary that Jeedom
 > at least be associated with group 2.
@@ -296,4 +296,4 @@ No. The module does not allow it.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

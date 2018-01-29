@@ -11,7 +11,7 @@ Philio PST02 C - 3 in 1 Opening
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -143,7 +143,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on the
 > inclusion button, according to its paper documentation.
@@ -195,7 +195,7 @@ Here is the list of orders:
 
 \
 
-> ** Important **
+> **Important**
 >
 > During a first inclusion always wake up the module just after
 > inclusion.
@@ -328,7 +328,7 @@ Important note
 
 \
 
-> ** Important **
+> **Important**
 >
 > You have to wake up the module: after its inclusion, after a change
 > of the configuration, after a wakeup change, after a
@@ -336,4 +336,4 @@ Important note
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

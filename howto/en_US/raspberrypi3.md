@@ -2,7 +2,7 @@ Goal
 ========
 
 You will find here the documentation to install Jeedom on a
-raspberry PI 3 ** without microSD card. **
+raspberry PI 3 **without microSD card.**
 
 The PI3 offers the possibility to boot directly on a
 USB device and thus free yourself from the microSD card sometimes
@@ -40,12 +40,12 @@ Then restart the PI3
 
     sudo reboot
 
-> ** Important **
+> **Important**
 >
 > To avoid power problems, opt for a mSATA SSD drive
 > low consumption.
 
-> ** Tip **
+> **Tip**
 >
 > You can now install Jeedom by following exactly the same
 > procedure with an SD card.
@@ -54,17 +54,17 @@ Then restart the PI3
 Possible adjustments
 =====================
 
-** The following remarks must be taken into account: **
+**The following remarks must be taken into account:**
 
-> ** Important **
+> **Important**
 >
 > The following changes are the result of problems encountered by
 > users. You must adapt them to your case. The support
 > Jeedom does not intervene for problems related to your configuration.
 
--   ** If you have swap problems, you need to change it. **
+-   **If you have swap problems, you need to change it.**
 
-    -   ** Increase its size **:
+    -   **Increase its size**:
 
         -   Change the size of the swap by opening this file:
 
@@ -85,7 +85,7 @@ Possible adjustments
 
     sudo reboot
 
--   ** Change the call value to the swap. **
+-   **Change the call value to the swap.**
 
 By default, the system calls the swap when there is less than 40% of
 Ram.

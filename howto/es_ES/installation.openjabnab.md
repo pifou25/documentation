@@ -1,7 +1,7 @@
 Aquí hay un tutorial sobre cómo instalar openjabnab localmente (en una o RPI
 zumbido)
 
-> ** Nota **
+> **Nota**
 >
 > Este tutorial se basa en gran medida en
 > [Los mismos] (http://jetweb.free.fr/nabaztag_rpi/Tutoriel_OJN_RPi_v1-1.pdf)
@@ -43,7 +43,7 @@ El resultado es:
 
 La dirección IP es 192.168.0.162.
 
-> ** Nota **
+> **Nota**
 >
 > Para el resto del tutorial voy a utilizar esta IP, es, por supuesto,
 > Reemplazar en función de la realidad
@@ -110,7 +110,7 @@ Y poner:
     @ IN NS ojn.raspberry.pi.
     162 IN PTR ojn.raspberry.pi.
 
-> ** Importante **
+> **Importante**
 >
 > Recuerde reemplazar el 162 en la última fila de la última
 > Parte de la IP de su sistema de
@@ -136,7 +136,7 @@ Usted debe tener:
     4 Los paquetes transmitidos, 4 recibieron, 0% de pérdida de paquetes, 3000ms tiempo
     rtt min / avg / max / MDEV = 0,059 / 0,065 / 0,069 / 0,010 ms
 
-> ** Nota **
+> **Nota**
 >
 > Tienes que CTRL + C para salir de la tabla
 
@@ -217,7 +217,7 @@ Marca:
     qmake -r
     hacer
 
-> ** Nota **
+> **Nota**
 >
 > Este paso puede ser muy largo (hasta 45 minutos)
 
@@ -265,7 +265,7 @@ Ahora vaya a:
 
     http: //ojn.raspberry.pi/ojn_admin/index.php
 
-> ** Nota **
+> **Nota**
 >
 > Si todo es correcto que deben tener las estadísticas que aparecen en
 > baja
@@ -318,7 +318,7 @@ Y añade:
     @reboot /home/ojn/checkojn.sh
     * / 15 * * * * /home/ojn/checkojn.sh
 
-> ** Importante **
+> **Importante**
 >
 > Asegúrese de ponerlo en el crontab de root, si está
 > Incluso con Ctrl + D OJN usuario
@@ -399,7 +399,7 @@ Ponga el TTS localmente
 Todo es local, excepto que pasa por el sitio TTS pero es Acapela
 posible mediante la modificación de algunos archivos para pasar a nivel local
 
-> ** Nota **
+> **Nota**
 >
 > Voy a considerar que está instalado en oenjabnab
 > / Inicio / OJN / OpenJabNab y que está conectado como
@@ -549,7 +549,7 @@ A continuación, debe ser de 3 archivos:
       volver ttsHTTPUrl.arg (voz, nombre de archivo) .toAscii ();
     }
 
-> ** Nota **
+> **Nota**
 >
 > Recuerde reemplazar el TODO
 

@@ -11,7 +11,7 @@ Greenwave PowerNode - 1 socket
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -147,7 +147,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press the button
 > present inclusion under the catch.
@@ -306,4 +306,4 @@ black adhesive.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

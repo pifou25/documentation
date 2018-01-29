@@ -11,7 +11,7 @@ D-Link DCH-Z110 - "3 in 1 Opening"
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -117,7 +117,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > Do not install the module on the window / door before having it
 > properly configured, and pay attention to the alignment of
@@ -177,7 +177,7 @@ Here is the list of orders:
 
 \
 
-> ** Important **
+> **Important**
 >
 > When first included, or a modification, save and then
 > always wake up the module by pressing the association button.
@@ -318,7 +318,7 @@ Important note
 
 \
 
-> ** Important **
+> **Important**
 >
 > You have to wake up the module: after its inclusion, after a change
 > of the configuration, after a wakeup change, after a

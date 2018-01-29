@@ -11,7 +11,7 @@ Fibaro FGRWPE-101 "Wall plug"
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -108,7 +108,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on the
 > inclusion button, according to its paper documentation.
@@ -302,4 +302,4 @@ Read the Reset section of this doc.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

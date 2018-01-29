@@ -11,7 +11,7 @@ Secure SIR 321 "Timer"
 
 \
 
--   ** The jeedom **
+-   **The jeedom**
 
 \
 
@@ -106,7 +106,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press 1 second on
 > the button (until fast flashing) and release, according to
@@ -211,4 +211,4 @@ F.A.Q.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

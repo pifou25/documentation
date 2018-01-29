@@ -11,7 +11,7 @@ Nodon Smart Socket - Smartplug
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -108,7 +108,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press the button
 > until the light turns red, according to its documentation
@@ -262,7 +262,7 @@ This module has 8 association groups.
 
 \
 
-> ** Important **
+> **Important**
 >
 > At least Jeedom should be in groups 1 and 4 \
 
@@ -308,4 +308,4 @@ to charge?
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

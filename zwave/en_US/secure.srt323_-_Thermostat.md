@@ -11,7 +11,7 @@ Secure SRT 323 "Thermostat"
 
 \
 
--   ** The jeedom **
+-   **The jeedom**
 
 \
 
@@ -135,7 +135,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to put the switch 1 in
 > position ON then with the wheel display L and press the wheel,
@@ -147,7 +147,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > This module is capricious on inclusion. During a first inclusion
 > always wake the module right after inclusion. To do this
@@ -256,7 +256,7 @@ Good to know
 
 \
 
-> ** Important **
+> **Important**
 >
 > This module is battery powered. So it's important to note that a
 > setpoint change will only be taken into account when the alarm is woken up. By
@@ -293,7 +293,7 @@ Important note
 
 \
 
-> ** Important **
+> **Important**
 >
 > You have to wake up the module: after its inclusion, after a change
 > of the configuration, after a wakeup change, after a
@@ -301,4 +301,4 @@ Important note
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

@@ -2,7 +2,7 @@
 
 ![ems200.module](../images/ems200/ems200.module.jpg)
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 ![ems200.vue defaut](../images/ems200/ems200.vue-defaut.jpg)
 
@@ -69,12 +69,12 @@ Para configurar Edisio plugin y asociar un módulo de Jeedom,
 referirse a este
 [Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Importante **
+> **Importante**
 >
 > Para Jeedom crea automáticamente los módulos de transmisión, recuerde
 > No hay que activar la opción en la configuración del plugin.
 
-> ** Tip **
+> **Tip**
 >
 > La inversión es aconsejable a una altura de 150 cm y cerca
 > Al igual que la temperatura deseada.
@@ -115,7 +115,7 @@ Una vez que su equipo pareja, usted debe conseguir esto:
 
 ![ems200.general](../images/ems200/ems200.general.jpg)
 
-> ** Tip **
+> **Tip**
 >
 > Para que el widget para estar presente en el salpicadero, considere colocar
 > Su equipo en un objeto.

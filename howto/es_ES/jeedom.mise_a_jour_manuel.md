@@ -10,7 +10,7 @@ Requisitos previos
 
 -   tener acceso a Internet desde el cuadro de Jeedom
 
-> ** Importante **
+> **Importante**
 >
 > Recuerde que para hacer y exportar una copia de seguridad antes de actualizar
 > Manual.
@@ -36,7 +36,7 @@ También en SSH:
     chmod -R 775 / var / www / html
     chown www-data: www-data -R / var / www / html
 
-> ** Importante **
+> **Importante**
 >
 > Si su instalación de Jeedom es un poco viejo, reemplace
 > Todos los / var / www / html / usr / share / nginx / www / jeedom

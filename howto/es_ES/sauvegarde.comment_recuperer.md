@@ -4,7 +4,7 @@ descripción
 El procedimiento permitirá conectarse a la caja para SFTP
 para ir y obtener copias de seguridad diarias por ella.
 
-> ** Tip **
+> **Tip**
 >
 > Tenga en cuenta que este procedimiento funciona, es necesario
 > Servidor SSH de la caja sigue siendo funcional.

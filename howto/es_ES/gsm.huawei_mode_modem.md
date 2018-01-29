@@ -5,7 +5,7 @@ Jeedom en una máquina virtual (VMware ESXi). De hecho, si usted no va en
 Sólo GSM el modo de clave no aparece en la lista de
 Los dispositivos USB se puede cambiar a la máquina virtual.
 
-> ** Importante **
+> **Importante**
 >
 > Este tutorial ha sido realizado en un Windows 10
 
@@ -52,7 +52,7 @@ en la tecla "Enter":
 
     AT ^ U2DIAG = 0
 
-> ** Importante **
+> **Importante**
 >
 > Tenga cuidado cuando se escribe el texto que no se va a ver nada
 > La pantalla, esto es normal, el texto está siendo considerado así.

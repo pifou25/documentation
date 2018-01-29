@@ -40,7 +40,7 @@ commands is done automatically once the module recognized by Jeedom.
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > It is preferable to exclude before inclusion. For
 > to exclude, nothing complicated, just click

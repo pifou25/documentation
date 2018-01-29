@@ -11,7 +11,7 @@ SmartHome by Everspring In Wall Dimmer - AD146-0
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -131,7 +131,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on its
 > button, according to its paper documentation. It's important to
@@ -240,7 +240,7 @@ This module has 2 association groups.
 
 \
 
-> ** Important **
+> **Important**
 >
 > At least Jeedom should be in group 1 \
 
@@ -288,4 +288,4 @@ on the switch.
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

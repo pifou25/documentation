@@ -112,7 +112,7 @@ All you have to do is put the SD card in the Jeedomboard (or
 Hummingboard), to connect the network and the power supply, your Jeedom goes
 start (5 min) and you should see it on the network.
 
-> ** Tip **
+> **Tip**
 >
 > The SSH credentials are jeedom / Mjeedom96
 
@@ -246,7 +246,7 @@ Raspberry Pi
 ===========
 
 You will find here the documentation to install Jeedom on a
-raspberry PI ** with an SD card. **
+raspberry PI **with an SD card.**
 
 > **Important**
 >
@@ -342,7 +342,7 @@ Then you just have to go to IP \ _MACHINE \ _JEEDOM
 >
 > The default credentials are admin / admin
 
-> ** Note **
+> **Note**
 >
 > The following arguments are usable: -w = webserver folder -z =
 > installation dependencies z-wave -m = desired mysql root password
@@ -478,7 +478,7 @@ Step 7: Launch of Jeedom
 Your IP address, type 192.168.0.XX appears in red. Simply
 enter it in your browser.
 
-> ** Warning **
+> **Warning**
 >
 > If it does not work, you do not have to configure your card
 > network bridge network as indicated at the beginning.
@@ -489,14 +489,14 @@ Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 Docker
 ======
 
-> ** Important **
+> **Important**
 >
 > Attention we leave here the principle that you already master docker
 
 To discover Jeedom you can also run it in a
 Docker container:
 
-> ** Important **
+> **Important**
 >
 > Prerequisites: Have a machine running on Linux
 
@@ -523,7 +523,7 @@ To install it on a distribution
 Step 2: Installing a mysql image
 ---
 
-> ** Note **
+> **Note**
 >
 > You can also install mysql directly on the host machine,
 > In this case, skip this step.

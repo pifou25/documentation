@@ -11,7 +11,7 @@ D-Link DCH-Z110 - "3 en 1 Apertura"
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -117,7 +117,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > No instale el módulo en la ventana / puerta antes de tener
 > Configurado correctamente y prestar atención a la alineación de
@@ -177,7 +177,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > La primera vez que la inclusión o modificación, a continuación, guardar
 > Siempre despertar el módulo pulsando el botón de emparejamiento.
@@ -318,7 +318,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

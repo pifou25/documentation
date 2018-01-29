@@ -40,7 +40,7 @@ Las órdenes son automáticamente una vez que el módulo reconocido Jeedom.
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Lo mejor es hacer una exclusión antes de la inclusión. Para
 > Realizar la exclusión, nada complicado, basta con hacer clic

@@ -11,7 +11,7 @@ MCO MH-S412 Doble
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -112,7 +112,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo tiene que pulsar uno
 > 2 botones en el panel frontal durante 3 segundos, en consonancia con su

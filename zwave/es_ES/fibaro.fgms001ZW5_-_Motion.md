@@ -11,7 +11,7 @@ Sensor de movimiento Fibaro - GSMF-001
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -129,7 +129,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo debe ser presionado 3 veces en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -188,7 +188,7 @@ Estos son los comandos:
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Cuando inclusión por primera vez todavía despierta en el módulo justo después de
 > Inclusión.
@@ -310,7 +310,7 @@ Detalles de los parámetros:
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Este módulo cuenta con cinco grupos de asociación, añadir el
 > Controlador 1, 4 y 5 y quitar los tres.
@@ -343,7 +343,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Este módulo es muy temperamental en la reactivación y mal configurado
 > Fábrica. Es esencial para despertar después de la inclusión
@@ -398,7 +398,7 @@ Nota importante
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Hay que despertar el módulo después de su inclusión, después de un cambio
 > La configuración, después de un cambio de wakeup después de una

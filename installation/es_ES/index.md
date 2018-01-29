@@ -246,7 +246,7 @@ frambuesa Pi
 ===========
 
 Aquí encontrará la documentación de la instalación de un Jeedom
-PI frambuesa ** con una tarjeta SD. **
+PI frambuesa **con una tarjeta SD.**
 
 > **Importante**
 >

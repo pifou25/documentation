@@ -7,7 +7,7 @@ operación.
 Preparación antes de la migración
 ===========================
 
-> ** Aviso **
+> **Aviso**
 >
 > Es importante leer toda esta documentación antes
 > Comienza la migración. información importante
@@ -18,32 +18,32 @@ Preparación antes de la migración
 > No entiendo un punto, no dude en preguntar acerca de la
 > Foro antes de iniciar el procedimiento!
 
-> ** Importante **
+> **Importante**
 >
 > Tenga cuidado de no equipos de bucle
 > Configuración del complemento "Jeedom Enlace". Por ejemplo, no hacer una
 > Equipo-X en una Jeedom1 volver en un Jeedom2 luego hacia arriba
 > Una vez más en el Jeedom1. Esto podría provocar la caída de sus Jeedoms!
 
-> ** Nota **
+> **Nota**
 >
 > Para facilitar la lectura y comprensión de este tutorial, aquí están
 > Términos utilizados: \
 > \
 > - ** ** Jeedom Objetivo: Servidor (su edad Jeedom Maestro) que
-> Centraliza equipos / ** de Jeedom (s) fuente (s) ** \
+> Centraliza equipos / **de Jeedom (s) fuente (s)** \
 > Las capturas de pantalla sobre fondo negro coinciden con el Jeedom ** ** Meta. \
 > \
 > - Jeedom ** ** Fuente: Servidor (tu / su ex (s) Jeedom Esclavo (s))
 > Volviendo en su equipo ** ** Jeedom destino. \
 > \
-> - Los conceptos de Jeedom Maestro ** ** ** ** y Jeedom esclavo ya no están
+> - Los conceptos de Jeedom Maestro ****** ** y Jeedom esclavo ya no están
 > Tópica. El nuevo modo de funcionamiento de sincronización
 > Equipo de entre varios Jeedoms puede ser bidireccional. una
-> Servidor Jeedom ahora puede ser ** Fuente de destino ** ** ** y mientras
+> Servidor Jeedom ahora puede ser **Fuente de destino****** y mientras
 > La vieja manera no permitió el aumento de equipos
-> ** ** esclavo a maestro ** **. Con el nuevo método es también
-> Posible tener varios objetivos Jeedom ** ** ** para el mismo Jeedom
+> **** esclavo a maestro** **. Con el nuevo método es también
+> Posible tener varios objetivos Jeedom ****** para el mismo Jeedom
 > ** Fuente. La comunicación entre Jeedoms Ahora también puede
 > Hacer de forma remota a través de Internet (DNS Jeedom o de otro tipo). \
 > \
@@ -53,14 +53,14 @@ Preparación antes de la migración
 Las actualizaciones y verificación de la configuración
 ------------------------------------------------
 
--   ** Actualización ** Jeedom Maestro a la última versión (incluso si
+-   **Actualización** Jeedom Maestro a la última versión (incluso si
     ninguna actualización se le ofrece a usted).
 
 -   Actualizar plugins ** ** el último Maestro Jeedom
     versiones disponibles.
 
 -   Compruebe la página de la Salud que la configuración de la red interna
-    ** ** Jeedom del Maestro OK (Y si sus Jeedoms externos ** ** Fuentes
+    **** Jeedom del Maestro OK (Y si sus Jeedoms externos** ** Fuentes
     ser a distancia).
 
 Rally Información útil
@@ -88,7 +88,7 @@ necesarias para recuperar la siguiente información:
 -   Nota para cada dispositivo del Esclavo ** **: el objeto
     padre de familia, nombre, ID (lógica), el tipo, modelo.
 
-> ** Nota **
+> **Nota**
 >
 > Una información incompleta perfil nota para la migración
 > Está disponible [aquí] (../ images / MemoMigration.xls)
@@ -98,21 +98,21 @@ copias de seguridad preventivas
 
 -   Hacer [Copia de seguridad
     Jeedom] (https://jeedom.github.io/documentation/core/fr_FR/doc-core-backup.html)
-    ** ** Jeedom su Maestro y su (su) ** Jeedom Esclavo (s) **
+    **** Jeedom su Maestro y su (su)** Jeedom Esclavo (s) **
     y elegir la (s) -alquilo en su PC / NAS ....
 
 -   Hacer [Copia de seguridad
     SD / disco] (https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-sauvegarde.comment_faire.html#_sauvegarde_restauration_de_la_carte_microsd)
-    ** ** Jeedom su Maestro y su (su) ** Jeedom Esclavo (s) **
+    **** Jeedom su Maestro y su (su)** Jeedom Esclavo (s) **
     y recuperar su PC / NAS ....
 
 migración
 =========
 
-> ** Nota **
+> **Nota**
 >
 > No retire por ahora el equipo viejo
-> ** ** ** en el Maestro Esclavo **.
+> ****** en el Maestro Esclavo **.
 
 Instalar y activar el plugin "Jeedom Enlace" en la Jeedom Target ** ** (antiguo maestro).
 -------------------------------------------------- -----------------------------------
@@ -124,7 +124,7 @@ En su Jeedom Target ** ** * * Plugins gestión ⇒ Plugin:
 Jeedom instalación ** ** Fuente:
 -----------------------------------
 
-> ** Nota **
+> **Nota**
 >
 > Si usted tiene un Frambuesa Pi y se agrega otra tarjeta
 > SD, puede realizar un protocolo de migración tras otro
@@ -132,12 +132,12 @@ Jeedom instalación ** ** Fuente:
 > Toque su existente ** ** Jeedom esclavo. obviamente se mueve
 > El Como cualquiera de los controladores entre sí.
 
-> ** Aviso **
+> **Aviso**
 >
 > Si usted utiliza su existente Frambuesa Pi, por favor asegúrese
 > Han seguido capítulo copia de seguridad de esta documentación.
 
-> ** Nota **
+> **Nota**
 >
 > Si utiliza la Frambuesa Pi existente actualmente una
 > ** ** Jeedom Esclavo, se recomienda utilizar una tarjeta
@@ -187,14 +187,14 @@ a Target ** ** Jeedom a través del plug-in "Jeedom Enlace", es necesario
 este último ya se está ejecutando en su nuevo ** Jeedom
 ** Fuente.
 
-> ** Nota **
+> **Nota**
 >
 > Piense progresivamente incapacitante órdenes de archivado
 > Información de cada dispositivo que se encuentra en la Fuente para Jeedom ** **
 > Guardar la tarjeta SD de él (El archivo se hará sobre la
 > ** ** Jeedom Target).
 
-> ** Nota **
+> **Nota**
 >
 > También puede asignar progresivamente a equipos
 > Recreated objetos en el ** ** Fuente Jeedom para que más tarde
@@ -244,7 +244,7 @@ configuración del plugin "Jeedom Enlace"
 El plug-in "Jeedom Enlace", instalada en el ** ** Fuente Jeedom permite
 Equipo de ascensores en el Jeedom ** ** Meta (Su antiguo maestro).
 
-> ** Nota **
+> **Nota**
 >
 > Recordemos, para una mejor lectura y comprensión de este tutorial: \
 > \
@@ -294,7 +294,7 @@ controles del equipo:
 La recuperación del histórico
 ----------------------------
 
-> ** Nota **
+> **Nota**
 >
 > A al destino ** ** Jeedom (Viejo Maestro) para cada orden
 > Equipo de Información del viejo esclavo ** ** el cual queremos recuperar
@@ -314,7 +314,7 @@ La recuperación del histórico
 Sustitución de equipos antiguos esclavos en los escenarios / virtual / ...
 -------------------------------------------------- --------------------------
 
-> ** Nota **
+> **Nota**
 >
 > A al destino ** ** Jeedom (Viejo Maestro) para cada orden
 > Información / acción de los equipos de la antigua Esclavo ** ** el que queremos
@@ -333,7 +333,7 @@ Sustitución de equipos antiguos esclavos en los escenarios / virtual / ...
 Recuperación de las configuraciones de visualización avanzada órdenes
 -------------------------------------------------- ----------------
 
-> ** Nota **
+> **Nota**
 >
 > A al destino ** ** Jeedom (Viejo Maestro) para cada orden
 > Información / acción de los equipos de la antigua Esclavo ** ** el que queremos
@@ -350,7 +350,7 @@ Recuperación de las configuraciones de visualización avanzada órdenes
 Reflejando los controles de configuración avanzada
 -------------------------------------------------
 
-> ** Nota **
+> **Nota**
 >
 > A al destino ** ** Jeedom (Viejo Maestro) para cada orden
 > Información / acción de los equipos de la antigua Esclavo ** ** el que queremos
@@ -367,13 +367,13 @@ Reflejando los controles de configuración avanzada
 
 -   Y copiar manualmente los ajustes deseados.
 
-> ** Nota **
+> **Nota**
 >
 > Para evitar volver varias veces en el mismo orden,
 > → operaciones 2.6 2.9 se pueden realizar como resultado de la misma
 > Solicitar antes de pasar al siguiente.
 
-> ** Aviso **
+> **Aviso**
 >
 > Interacciones en Jeedom ** ** objetivo no puede ser lanzado
 > A través de instalaciones de un Jeedom ** ** Fuente través tranférés
@@ -382,7 +382,7 @@ Reflejando los controles de configuración avanzada
 Limpieza del objetivo ** ** Jeedom
 ==============================
 
-> ** Nota **
+> **Nota**
 >
 > Después de confirmar con certeza que su
 > Equipo / escenarios / interacciones / virtual / .... función

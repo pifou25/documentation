@@ -56,7 +56,7 @@ o tener una especie de Synology NAS para iSCSI LUN. No olvidar
 una base de VM (sin almacenamiento) es de entre 20 a 40 GB, añadir a
 este 40GB por sí mismo VMware se llena rápido.
 
-> ** Importante **
+> **Importante**
 >
 > VMware no admite la adición de disco USB, es difícil
 > Para ampliar el espacio disponible
@@ -104,7 +104,7 @@ VMware recuperar y poner en una llave USB.
 Descargar VMware
 ------------------------
 
-> ** Importante **
+> **Importante**
 >
 > Si pones VMware 6.5, hay un problema con la nueva gestión
 > USB y Zwave clave, para que esto funcione debe aplicar esta
@@ -208,7 +208,7 @@ solamente:
 
 ![installation.vmware.nuc11](../images/installation.vmware.nuc11.jpg)
 
-> ** Nota **
+> **Nota**
 >
 > Me olvidé de tomar la validación de la licencia,
 > Sólo tienes que estar de acuerdo siguiendo las instrucciones

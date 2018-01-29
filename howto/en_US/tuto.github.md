@@ -26,12 +26,12 @@ would like to participate.
 Go to <https://github.com> and click on the sign up button.
 So you should be on a page similar to the one below and
 must fill in a username, an email and a password and then
-click on ** Create an account **
+click on **Create an account**
 
 ![tuto.github1](../images/tuto.github1.png)
 
 So you arrive on a 2nd page as below and you do not change
-nothing, you click ** Continue **
+nothing, you click **Continue**
 
 ![tuto.github2](../images/tuto.github2.png)
 
@@ -46,7 +46,7 @@ also discover the other options if you are curious.
 Jeedom Core Fork or Documentation
 ==========================================
 
-** Fork - Why - How **
+**Fork - Why - How**
 
 Fork is copying a project into your github space, so you can
 edit code files, documentation and then submit
@@ -92,7 +92,7 @@ specify the text you are looking for (a significant element and a
 line only, not a whole block at a time). Confirm with "Enter" for
 start a reseach.
 
-> ** Tip **
+> **Tip**
 >
 > If you do not click in the window containing the text or code
 > what you are looking for is the browser search that will open and
@@ -124,7 +124,7 @@ Submit the change
 Submit a change
 --------------------------
 
-The ** commit ** done above only concerns the project fork in
+The **commit** done above only concerns the project fork in
 your GitHub space. To submit to the original project the changes,
 you have to make a PR (Pull Request)
 
@@ -164,7 +164,7 @@ request.
 
 ![tuto.github11](../images/tuto.github11.png)
 
-** It's finished. ** You have to wait for your PR to be validated.
+**It's finished.** You have to wait for your PR to be validated.
 
 NB: Only users with a push right on jeedom who
 can validate the PR.

@@ -38,19 +38,19 @@ will be to state the return of Jeedom.
 Profile creation
 ==================
 
-A new profile is added with a ** state ** as a trigger.
+A new profile is added with a **state** as a trigger.
 
 ![android.autovoice1](../images/android.autovoice1.png)
 
-We select ** Plugin ** on the first screen.
+We select **Plugin** on the first screen.
 
 ![android.autovoice2](../images/android.autovoice2.png)
 
-In plugin type, we select ** AutoVoice **.
+In plugin type, we select **AutoVoice**.
 
 ![android.autovoice3](../images/android.autovoice3.png)
 
-In the ** AutoVoice ** sub-menu, select ** Recognized **.
+In the **AutoVoice** sub-menu, select **Recognized**.
 
 ![android.autovoice4](../images/android.autovoice4.png)
 
@@ -65,21 +65,21 @@ backup will be made after linking with a task.
 Task
 ========
 
-A ** new task ** is added to the newly created profile. By
+A **new task** is added to the newly created profile. By
 for example, it could be called "Jeedom API".
 
 ![android.autovoice6](../images/android.autovoice6.png)
 
-The task will finally regroup 2 actions: ** API call ** and ** say the
+The task will finally regroup 2 actions: **API call** and ** say the
 return**.
 
 ![android.autovoice7](../images/android.autovoice7.png)
 
-First we will add an action type ** Network **.
+First we will add an action type **Network**.
 
 ![android.autovoice8](../images/android.autovoice8.png)
 
-Then we select ** Get HTTP **.
+Then we select **Get HTTP**.
 
 ![android.autovoice9](../images/android.autovoice9.png)
 
@@ -97,7 +97,7 @@ replaced by the return of Autovoice.
 
 ![android.autovoice10](../images/android.autovoice10.png)
 
-Add an action of type ** Say **. To do this, filter the actions in
+Add an action of type **Say**. To do this, filter the actions in
 putting "say" at the magnifying glass.
 
 ![android.autovoice11](../images/android.autovoice11.png)
@@ -113,14 +113,14 @@ Jeedom interactions and you can ask him anything you
 want. From "what is the temperature of the living room" to "turn on the light of the
 living room".
 
-> ** Tip **
+> **Tip**
 >
 > If it does not work from the beginning, it's often because AutoVoice
 > is not active. To do this, click on Google Now
 > Integration and on the first choice at the top and allow
 > AutoVoice.
 
-> ** Tip **
+> **Tip**
 >
 > By default, AutoVoice turns off Google Now search, it is
 > possible to cancel this behavior, for that in Tasker click on

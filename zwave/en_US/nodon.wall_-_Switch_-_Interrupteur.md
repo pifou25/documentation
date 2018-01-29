@@ -11,7 +11,7 @@ Nodon Switch - Wall Switch
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -117,7 +117,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press both
 > button (1 and 2) until the light turns pink then press
@@ -159,13 +159,13 @@ Here is the list of orders:
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
 | Buttons | Support | Long Support | Relachement | Double support |
 ================ ================ + + + =============== = + + ================ ================ +
-| ** 1 ** | 10 | 12 | 11 | 13 |
+| **1** | 10 | 12 | 11 | 13 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 2 ** | 20 | 22 | 21 | 23 |
+| **2** | 20 | 22 | 21 | 23 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 3 ** | 30 | 32 | 31 | 33 |
+| **3** | 30 | 32 | 31 | 33 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
-| ** 4 ** | 40 | 42 | 41 | 43 |
+| **4** | 40 | 42 | 41 | 43 |
 + ---------------- + ---------------- + --------------- - + ---------------- + ---------------- +
 
 \
@@ -174,7 +174,7 @@ Here is the list of orders:
 
 \
 
-> ** Important **
+> **Important**
 >
 > During a first inclusion always wake up the module just after
 > inclusion.
@@ -241,7 +241,7 @@ This module has 7 association groups.
 
 \
 
-> ** Important **
+> **Important**
 >
 > At least Jeedom should be in group 1 \
 
@@ -284,7 +284,7 @@ Important note
 
 \
 
-> ** Important **
+> **Important**
 >
 > You have to wake up the module: after its inclusion, after a change
 > of the configuration, after a wakeup change, after a
@@ -292,4 +292,4 @@ Important note
 
 \
 
-** @ ** sarakha63
+**@** sarakha63

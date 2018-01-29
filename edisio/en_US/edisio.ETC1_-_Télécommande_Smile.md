@@ -4,7 +4,7 @@
 
 ![etc1.module 2](../images/etc1/etc1.module-2.png)
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 ![etc1.vue default](../images/etc1/etc1.vue-default.jpg)
 
@@ -71,7 +71,7 @@ To configure the Edisio plugin and associate a module with Jeedom,
 refer to this
 [Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Important **
+> **Important**
 >
 > So that Jeedom automatically creates your sending modules, do not forget
 > do not activate the option in the plugin configuration.
@@ -142,8 +142,8 @@ Once your remote is set up, you can with the
 Jeedom script plugin, interact with your remote control on Jeedom
 and its equipment.
 
-> ** Note **
+> **Note**
 >
 > The remote control has a binary state return.
 
-** @ ** Jamsta
+**@** Jamsta

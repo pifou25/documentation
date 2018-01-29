@@ -11,7 +11,7 @@ Asegure SIR 321 "temporizador"
 
 \
 
--   ** El jeedom visual **
+-   **El jeedom visual**
 
 \
 
@@ -106,7 +106,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo hay que pulsar 1 segundo
 > Botón (a parpadeo rápido) y la liberación de conformidad con

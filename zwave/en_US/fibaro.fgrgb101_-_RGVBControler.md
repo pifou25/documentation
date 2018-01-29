@@ -11,7 +11,7 @@ Fibaro RGVB Controler - FGRGB-101
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -127,7 +127,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on the
 > inclusion button, according to its paper documentation.
@@ -244,7 +244,7 @@ Use of 0-10V sensors.
 
 \
 
-> ** Deposit **
+> **Deposit**
 >
 > For now, Jeedom's default configuration does not allow it
 > not, but a specific configuration can be considered.

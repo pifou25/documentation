@@ -17,7 +17,7 @@ E introduzca su clave de licencia
 
 ![vmware.tips3](../images/vmware.tips3.PNG)
 
-> ** Nota **
+> **Nota**
 >
 > A modo de recordatorio, si usted no hace sus ESXi ya no puede
 > Trabajar después de 60 días
@@ -174,12 +174,12 @@ A continuación, sube la cremallera en uno de sus almacenes de datos y hacer:
 
     actualización de software vib esxcli -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
 
-> ** Nota **
+> **Nota**
 >
 > Sustituir si bien la ruta y el nombre de la cremallera en función de su
 > control
 
-> ** Importante **
+> **Importante**
 >
 > Tenga cuidado de poner la ruta completa de la cremallera o lo hará
 > No funciona
@@ -246,13 +246,13 @@ En "Nombre de host" (en la fuente) que tiene que poner el DNS requerido
 (Ej monesxi.mondsn.synology.me) y en "Nombre de host" (en
 destino) que tiene que poner la IP de la ESX
 
-> ** Nota **
+> **Nota**
 >
 > También puede hacer lo mismo, pero para acceder a jeedom
 > Esta vez con el IP jeedom (la máquina virtual si está
 > Virtualizados) y el puerto 80
 
-> ** Nota **
+> **Nota**
 >
 > Una vez hecho esto y su DNS apunta correctamente
 > En el NAS se puede generar un certificado SSL válido gratuita
@@ -264,14 +264,14 @@ A continuación, para acceder a su ESXi simplemente con el navegador
 Cesta de la DNS o la adición de IP externa / ui en el final y que es
 buena.
 
-> ** Importante **
+> **Importante**
 >
 > Si usted va a través de la consola basada en web proxy inverso para NAS
 > Máquinas virtuales no funciona (porque va a través de la WebSocket), sin embargo
 > Si vas a través de VMware todo consola remota debe ser aceptable (se
 > Pasa a través del puerto 902)
 
-> ** Nota **
+> **Nota**
 >
 > También hay una aplicación en Android VMware a la Lista de Seguimiento
 > Acceso a la consola ESXi, así como máquinas virtuales

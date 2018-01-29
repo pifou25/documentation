@@ -26,7 +26,7 @@ Go to IP \ _ESXI / ui with your internet browser, you must have:
 
 ![vmware.createvm3](../images/vmware.createvm3.PNG)
 
-> ** Note **
+> **Note**
 >
 > If you do not have anything I advise you to install
 > the web interface, all the information
@@ -116,7 +116,7 @@ hard, CPU, memory ...):
 
 ![vmware.createvm9](../images/vmware.createvm9.PNG)
 
-> ** Note **
+> **Note**
 >
 > All these parameters can be modified afterwards without any problem, to note
 > all the same that it is not really possible to reduce the size
@@ -161,7 +161,7 @@ your OS:
 
 ![vmware.createvm17](../images/vmware.createvm17.PNG)
 
-> ** Important **
+> **Important**
 >
 > Once your machine is installed, ABSOLUTELY install them
 > VMware tools (this allows VMware to have information about your VM
@@ -174,7 +174,7 @@ For the rest of the installation I invite you to read this
 Mount USB peripherals in the VM
 =======================================
 
-> ** Note **
+> **Note**
 >
 > If you do not have the options below it is necessary to put in
 > day the ESXi Embedded Host Client, all the information
@@ -185,7 +185,7 @@ effect I have on my ESXi the keys Zwave, RFXcom, edisio, enOcean and GSM
 connected and I had to connect them to my VM Jeedom to be able to
 use it.
 
-> ** Note **
+> **Note**
 >
 > For Zwave, RFXcom, edisio and enOcean there is no problem, for
 > GSM keys you have to follow this
@@ -201,7 +201,7 @@ Click on "Add another device" then USB controller:
 
 ![vmware.createvm26](../images/vmware.createvm26.PNG)
 
-> ** Note **
+> **Note**
 >
 > The following step should be repeated for each USB device that
 > you want to connect

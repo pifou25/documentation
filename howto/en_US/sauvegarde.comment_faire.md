@@ -19,7 +19,7 @@ The best way to be quiet is to use both: Make a
 save the microSD card from time to time and schedule a
 regular backup of Jeedom.
 
-> ** Tip **
+> **Tip**
 >
 > The microSD recovery procedure can be useful for
 > restore a default Jeedom from the image provided by
@@ -61,7 +61,7 @@ Windows
 It will start by downloading third-party software for example:
 [Win32 Disk Imager] (http://sourceforge.net/projects/win32diskimager/)
 
-1.  ** Backup **
+1.  **Backup**
 
     -   Launch the software and check that the letter below
         * Device * matches that of your card / reader
@@ -95,7 +95,7 @@ For your convenience, you can download the software
 
 ![save restore11](../images/save-restore11.jpg)
 
-1.  ** Backup **
+1.  **Backup**
 
     -   With ApplePi-Baker: Select the right card from the list
         * Pi-Crust *, and click * Create Backup * to create a
@@ -140,7 +140,7 @@ For your convenience, you can download the software
 On Linux
 ----------
 
-1.  ** Backup **
+1.  **Backup**
 
     -   In order to find the disc corresponding to the card, open a
         terminal and enter the command: `sudo fdisk -l | grep Dis`

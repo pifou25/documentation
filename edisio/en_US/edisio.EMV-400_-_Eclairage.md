@@ -2,7 +2,7 @@
 
 ![module](../images/emv.400/module.jpg)
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 ![vue default eclairage](../images/emv.400/vue_default_eclairage.jpg)
 
@@ -26,7 +26,7 @@ Finally, each module can be used in remote mode, it is very
 convenient because it allows to associate a transmitter without having to access the
 receiver.
 
-> ** Important **
+> **Important**
 >
 > The neutral is only necessary for the "Shutter" mode
 
@@ -96,12 +96,12 @@ To configure the Edisio plugin and associate a module with Jeedom,
 refer to this
 [Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Important **
+> **Important**
 >
 > So that Jeedom automatically creates your sending modules, do not forget
 > do not activate the option in the plugin configuration.
 
-> ** Important **
+> **Important**
 >
 > Conversely, Edisio receivers are manually created in
 > Jeedom.
@@ -116,7 +116,7 @@ DIP Switch and "R" button:
 
 ![dip switch](../images/emv.400/dip_switch.jpg)
 
-> ** Note **
+> **Note**
 >
 > To avoid unnecessary redundancies, never activate the mode
 > "Repeater" on all receivers, up to 5 receivers per
@@ -128,7 +128,7 @@ DIP Switch and "R" button:
 
 ![bouton r](../images/emv.400/bouton_r.jpg)
 
-> ** Note **
+> **Note**
 >
 > Pressing R 3x activates the remote mode.
 
@@ -138,7 +138,7 @@ Operating diagram
 Next if your transmitter is set to "1 touch" or "2" mode
 "keys", here is the operation of the module:
 
-> ** Note **
+> **Note**
 >
 > Refer to the manufacturer's documentation, so that you can
 > configure your transmitter.
@@ -167,7 +167,7 @@ The timer function automatically switches off the relays after
 The "Lighting" mode allows you to control 2 electrical devices at
 distance.
 
-> ** Important **
+> **Important**
 >
 > Neutral is not necessary
 
@@ -176,12 +176,12 @@ Configuration and electrical connections:
 
 ![mode eclairage](../images/emv.400/mode_eclairage.jpg)
 
-> ** Important **
+> **Important**
 >
 > In order for the module to be in "Lighting" mode, the DIP Switch 2 must be
 > at the top
 
-> ** Important **
+> **Important**
 >
 > NEVER CONNECT TO POWER
 
@@ -197,7 +197,7 @@ Once your equipment is created, you should get this:
 
 ![crea equip](../images/emv.400/crea_equip.jpg)
 
-> ** Note **
+> **Note**
 >
 > Remember to activate your new equipment.
 
@@ -226,7 +226,7 @@ Here is the list of orders:
 
 -   E: This is the command that allows you to use the remote mode
 
-> ** Important **
+> **Important**
 >
 > The return of state is simulated by Jeedom. Therefore, if you
 > use another transmitter, Jeedom will not be able to update the status
@@ -255,7 +255,7 @@ Association of the micromodule in Jeedom
 So that you can interact with Jeedom, as if it were a
 Edisio transmitter.
 
-> ** Note **
+> **Note**
 >
 > One of the big advantages of Edisio is that a receiver can have
 > several associated issuers
@@ -342,7 +342,7 @@ now replaces the "R" button on the receiver.
             command "E" in Jeedom, to validate the association, the beep
             sound stops.
 
-> ** Note **
+> **Note**
 >
 > You can start again as many times as you want to associate
 > from transmitters to receiver
@@ -367,4 +367,4 @@ How can I have the same visual?
 
 : With the Jeedom Widgets plugin.
 
-** @ ** Jamsta
+**@** Jamsta

@@ -11,7 +11,7 @@ Greenwave PowerNode - 6 outlets
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -146,7 +146,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode, press the button
 > inclusion present on the catch.
@@ -404,4 +404,4 @@ No. The module does not allow it. Put a piece of black tape
 above.
 
 \
-** @ ** sarakha63
+**@** sarakha63

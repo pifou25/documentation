@@ -11,7 +11,7 @@ Fibaro Dimmer - FGD-211
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -139,7 +139,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press 3 times on the
 > inclusion button, according to its paper documentation.
@@ -150,7 +150,7 @@ inclusion refer to this
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > If you have already integrated your module on the wall, you can include it
 > by doing many go back on the switch or many
@@ -301,7 +301,7 @@ Good to know
 
 \
 
-> ** Deposit **
+> **Deposit**
 >
 > The most important parameter of the configuration is 14. It
 > allows to choose the type of switch used. By default the type
@@ -341,4 +341,4 @@ No. this module can be included or excluded by pressing several times
 on the switch.
 
 \
-** @ ** sarakha63
+**@** sarakha63

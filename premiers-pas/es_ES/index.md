@@ -1,7 +1,7 @@
 Bienvenido a la primera documentación pasos, éste se
 ayudar a configurar su Jeedom.
 
-> ** Tip **
+> **Tip**
 >
 > Esta guía no pretende sustituir la documentación completa
 > Disponible en el sitio web Jeedom [aquí] (https://jeedom.fr/doc).
@@ -34,12 +34,12 @@ Añadiendo su código de paquete de servicio
 Si ha comprado un cuadro Jeedom entonces usted debería haber recibido un correo electrónico
 que contiene un código para su paquete de servicios.
 
-> ** Importante **
+> **Importante**
 >
 > Es importante aprender ya que este código le da acceso a
 > Algunos plugins de forma gratuita, así como servicios exclusivos.
 
-> ** Importante **
+> **Importante**
 >
 > Si usted compra un paquete de servicio de la Jeedom mercado que tiene
 > No hay nada que hacer, se le asigna automáticamente a usted.
@@ -63,7 +63,7 @@ Este es el paquete de servicio se guarda. Para más detalles sobre la
 haga clic en el mercado
 [Aquí] (https://github.com/jeedom/core/blob/stable/doc/fr_FR/market.asciidoc)
 
-> ** Tip **
+> **Tip**
 >
 > Si ha comprado un cuadro oficial Jeedom, el número de servicio
 > Paquete tuvo que ser enviado a usted por correo electrónico. Si no ha recibido nada, gracias
@@ -86,12 +86,12 @@ la caja, espere unos 10 minutos (tenga cuidado si utiliza una
 netinstallation tipo de imagen, que será más bien 30min) e ir
 [Aquí] (https://www.jeedom.com/market/index.php?v=d&p=find)
 
-> ** Tip **
+> **Tip**
 >
 > La atención debe estar en la misma red que el cuadro de Jeedom
 > Este método funciona.
 
-> ** Importante **
+> **Importante**
 >
 > Dependiendo de su caja ADSL esta funcionalidad puede no funcionar.
 > Si este es el caso, nada serio, sólo tiene que conectar a
@@ -166,7 +166,7 @@ en la "gestión" a "Reiniciar" y su URL aparecerá en
 nivel de estado HTTP, puede personalizar por supuesto, de
 la página de perfil del Mercado
 
-> ** Importante **
+> **Importante**
 >
 > Si sólo enlazar su Jeedom su cuenta de mercado debe
 > Espere 24 a 48 horas antes de usar el servicio DNS
@@ -179,7 +179,7 @@ Jeedom su cuenta para que haga clic en Administración → Usuarios
 (arriba a la derecha) :
 
 Una vez que usted sólo tiene que elegir la línea con el usuario
-** ** administrador y haga clic con el cambio ** ** Contraseña:
+**** administrador y haga clic con el cambio** ** Contraseña:
 
 ![premier changeuser2](../images/premier-changeuser2.png)
 
@@ -201,7 +201,7 @@ lo que un objeto.
 En Jeedom, esto puede ser todo y nada, pero es
 se recomienda hacer en función de sus partes.
 
-> ** Tip **
+> **Tip**
 >
 > Es posible definir las relaciones entre los objetos, tales como:
 > El espectáculo pertenece al objeto en sí pertenece la planta baja
@@ -241,7 +241,7 @@ A continuación, simplemente haga clic en el mercado:
 A continuación, obtener una lista de todos los plugins que pueden
 instalar.
 
-> ** Importante **
+> **Importante**
 >
 > Advertencia, algunos oficiales y otros no. En caso de problemas
 > Con un plugin oficial, Jeedom el equipo no puede ser considerado
@@ -318,7 +318,7 @@ la sociedad Jeedom.
 Las solicitudes de soporte (o entradas)
 ------------------------------------
 
-> ** Importante **
+> **Importante**
 >
 > Atención a todos solicitud de soporte requiere necesariamente tener
 > Una cuenta en el mercado.
@@ -346,7 +346,7 @@ varias maneras:
 
 Todos los siguientes intercambios serán por correo electrónico.
 
-> ** Tip **
+> **Tip**
 >
 > Si, en la apertura de un billete, se obtiene un error diciendo
 > Ha llegado a su cuota es que está limitado a una

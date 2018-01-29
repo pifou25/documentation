@@ -19,7 +19,7 @@ La mejor manera de estar en silencio es utilizar dos: Hacer
 tarjeta microSD copia de seguridad de vez en cuando y programar una
 Jeedom copia de seguridad regular.
 
-> ** Tip **
+> **Tip**
 >
 > El proceso de restauración de la tarjeta microSD puede ser útil para
 > Jeedom restaurar un defecto de la imagen proporcionada por

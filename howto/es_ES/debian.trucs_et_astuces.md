@@ -42,7 +42,7 @@ por:
 
     PermitRootLogin sí
 
-> ** Importante **
+> **Importante**
 >
 > Asegúrese de utilizar una contraseña de raíz! El uso de
 > También se recomienda Fail2ban.
@@ -58,7 +58,7 @@ Crear el punto de montaje:
 
     mkdir /mnt/mon_partage
 
-> ** Nota **
+> **Nota**
 >
 > Mi \ _partage debe adaptarse para satisfacer sus necesidades
 
@@ -66,7 +66,7 @@ La adición de edición / etc / fstab
 
     //IP_SERVER_SAMBA/mon_partage /mnt/mon_partage cifs uid=0,rw,user=TODO,password=TODO 0 0
 
-> ** Nota **
+> **Nota**
 >
 > Es necesario cambiar el TODO por su nombre de usuario y su Linux
 > Contraseña
@@ -78,10 +78,10 @@ Después de probar la restauración de actualización y estiramiento de instalac
 una copia de seguridad, confirmo que la instalación de un tramo
 Crush le ahorrará tiempo.
 
--   ** Método 1: instalar Stretch ** 1 2 horas gran max, y
+-   **Método 1: instalar Stretch** 1 2 horas gran max, y
     especialmente un sistema operativo limpio.
 
--   ** Método 2: Actualización a Jessie Tramo: ** medio día
+-   **Método 2: Actualización a Jessie Tramo:** medio día
     limpie los insectos.
 
 Método 1: Instalación de estiramiento y copia de seguridad restaurar
@@ -91,7 +91,7 @@ Antes de empezar, hacer una copia de seguridad completa de la vía Jeedom
 instalación bajo Jessie, a continuación, exportar la copia de seguridad a otro
 medio de almacenamiento.
 
-> ** Tip **
+> **Tip**
 >
 > Descargar la copia de seguridad que no sea a través de la interfaz web (SSH, FTP,
 > SAMBA, otros de su elección), ya que si su archivo es grande
@@ -133,14 +133,14 @@ MySQL bajo estiramiento:
     MariaDB [mysql]> exit;
     Bye
 
-> ** Tip **
+> **Tip**
 >
 > Reemplazar 'mypass' por su contraseña MySQL usada para
 > Cuenta de raíz bajo la "Debian 8 - Jessie". Doy derechos a la raíz
 > La inclusión de la gestión de mis bases con 'PHPMYADMIN', pero darles
 > Usuario de MySQL 'jeedom' debería ser suficiente.
 
-> ** Tip **
+> **Tip**
 >
 > Encontrará el modo cambia de usuario de MySQL jeedom aquí:
 > Administración → Configuración → OS / DB Base de datos →

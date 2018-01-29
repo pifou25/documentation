@@ -11,7 +11,7 @@ Swiid cambiar - Swiidinter
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -135,7 +135,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo tiene que pulsar el botón
 > En la parte posterior, de acuerdo con su documentación en papel
@@ -242,7 +242,7 @@ Este módulo tiene dos grupos de asociación.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para un funcionamiento óptimo del módulo. debe Jeedom
 > Se asocia con Grupo mínimo 2.

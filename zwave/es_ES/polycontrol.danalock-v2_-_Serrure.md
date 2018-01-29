@@ -11,7 +11,7 @@ Danalock V2 BTZE
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -45,7 +45,7 @@ se lleva a cabo utilizando células de una vida útil de dos años. Usted
 recibir una señal audible en caso de que el nivel de carga de la batería
 es demasiado baja.
 
-** Fácil de instalar **
+**Fácil de instalar**
 
 El Danalock es una cerradura inteligente que se monta en casi
 cada puerta en cuestión de minutos.
@@ -73,14 +73,14 @@ la batería. El estado de la batería es fácilmente visible en la App.
 Cuando la batería alcanza 30, 20, 15 y 10 por ciento, una notificación
 es enviado por SMS y correo electrónico.
 
-** acceso limitado o permanente **
+**acceso limitado o permanente**
 
 No hay necesidad de ocultar la llave debajo del felpudo. dar a su
 familia un acceso rápido y fácil con sus teléfonos inteligentes. A su esposa
 Casa o sus invitados, el acceso limitado en el tiempo o recurrente,
 recibir notificaciones cuando se utiliza el bloqueo y por quién.
 
-** El control total de la casa **
+**El control total de la casa**
 
 Desarrollar el control de su hogar inteligente con Danalock,
 el iniciador perfecto para todas sus órdenes en el hogar. la Danalock
@@ -88,7 +88,7 @@ Funciona sin problemas con otros dispositivos domésticos
 inteligente, y toda la comunicación tiene un cifrado fuerte - persona
 no puede abrirse paso en su hogar.
 
-** Discreta, durable y danés **
+**Discreta, durable y danés**
 
 Danalock combina la elegancia y el minimalismo del diseño escandinavo - con
 un bisel de aluminio anodizado sólido y tecnologías avanzadas
@@ -178,7 +178,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Asegúrese de incluir ese módulo en modo seguro ..
 
@@ -201,7 +201,7 @@ SEGURO (inclusión) "
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Suponemos que ha instalado la aplicación en
 > El teléfono inteligente o un iPhone y ha creado una cuenta. Si no lo está ya
@@ -256,7 +256,7 @@ Estos son los comandos:
 
 \
 
-> ** Aviso **
+> **Aviso**
 >
 > A pesar de que este módulo está alimentado por batería que utiliza la tecnología Flirs.
 > Eso significa que no tiene un concepto de despertador y servicio de despertador. lo
@@ -353,7 +353,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > A pesar de que este módulo está alimentado por batería que utiliza la tecnología Flirs.
 > Eso significa que no tiene un concepto de despertador y servicio de despertador. lo
@@ -362,7 +362,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Este módulo de referencia de su estado cuando se presiona la cerradura con la mano
 > Se actualizará Estado. \

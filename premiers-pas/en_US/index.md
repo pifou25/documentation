@@ -1,7 +1,7 @@
 Welcome to this documentation of first steps, this one will you
 help put your Jeedom into operation.
 
-> ** Tip **
+> **Tip**
 >
 > This guide is not meant to replace the complete documentation
 > available on the Jeedom site [here] (https://jeedom.fr/doc).
@@ -34,12 +34,12 @@ Adding your service pack code
 If you bought a Jeedom box then you should have received an email
 containing a code for your service pack.
 
-> ** Important **
+> **Important**
 >
 > It is important to inform it because this code gives you access to
 > some plugins for free, as well as exclusive services.
 
-> ** Important **
+> **Important**
 >
 > If you buy a service pack from Market Jeedom you do not have
 > nothing to do, it is automatically assigned to you.
@@ -63,7 +63,7 @@ Here is your service pack is saved. For more details on the
 Market click
 [Here] (https://github.com/jeedom/core/blob/stable/doc/fr_FR/market.asciidoc)
 
-> ** Tip **
+> **Tip**
 >
 > If you bought an official Jeedom box, the service number
 > pack must have been sent to you by email. If you have not received anything, thank you
@@ -86,12 +86,12 @@ the box, wait about 10 minutes (be careful if you use a
 image type netinstallation, it will be rather 30min) and go
 [Here] (https://www.jeedom.com/market/index.php?v=d&p=find)
 
-> ** Tip **
+> **Tip**
 >
 > Be careful, you have to be on the same network as the Jeedom box for
 > this method works.
 
-> ** Important **
+> **Important**
 >
 > Depending on your ADSL box, this feature may not work.
 > If this is the case, nothing serious, you just have to connect to
@@ -126,11 +126,11 @@ We will see here how to link your Jeedom to your Market account.
 -   Once connected to your jeedom, you must go on
     Administration → Configuration
 
--   Click on the ** Updates ** tab
+-   Click on the **Updates** tab
 
--   Below, click the ** Market ** tab
+-   Below, click the **Market** tab
 
--   Check the box ** activate **
+-   Check the box **activate**
 
 -   Fill in the address: `https: // www.jeedom.com / market`
 
@@ -166,7 +166,7 @@ on the line "Management" to do "Restart" and your URL will appear at
 HTTP status level, you can of course customize it from
 the Market profile page
 
-> ** Important **
+> **Important**
 >
 > If you have just linked your Jeedom to your Market account you must
 > wait 24 to 48 hours before you can use the DNS service
@@ -179,7 +179,7 @@ your Jeedom account, click on Administration → Users
 (top right) :
 
 Once on you just have to choose the line with the user
-** admin ** and click ** change password **:
+**admin** and click **change password**:
 
 ![premier changeuser2](../images/premier-changeuser2.png)
 
@@ -201,7 +201,7 @@ what is an object.
 In Jeedom, it can be anything and everything, but it is
 recommended to do it according to your parts.
 
-> ** Tip **
+> **Tip**
 >
 > It is possible to define relations between the objects, example:
 > the living room belongs to the ground floor object which belongs to itself
@@ -241,7 +241,7 @@ Then click on Market:
 You will then have the list of all the plugins that it is possible
 install.
 
-> ** Important **
+> **Important**
 >
 > Warning, some are official and others are not. In case of concern
 > with an unofficial plugin, the Jeedom team can not be held for
@@ -299,7 +299,7 @@ This one consists of several categories:
 You will also find below the list of documentation for
 third party plugins.
 
-Feel free to use ** search ** at the top right of
+Feel free to use **search** at the top right of
 the page to find the pages according to a specific word.
 
 The forum
@@ -318,7 +318,7 @@ Jeedom company.
 Support requests (or tickets)
 ------------------------------------
 
-> ** Important **
+> **Important**
 >
 > Attention, any request of support requires obligatorily to have
 > an account on the Market.
@@ -346,7 +346,7 @@ many ways :
 
 All the following exchanges will be made by mail.
 
-> ** Tip **
+> **Tip**
 >
 > If, when opening a ticket, you get an error indicating
 > that you have reached your quota is that you are limited to one

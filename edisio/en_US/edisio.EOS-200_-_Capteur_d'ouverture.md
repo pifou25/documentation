@@ -2,7 +2,7 @@
 
 ![eos200.module](../images/eos200/eos200.module.jpg)
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 ![eos200.vue defaut](../images/eos200/eos200.vue-defaut.jpg)
 
@@ -74,7 +74,7 @@ To configure the Edisio plugin and associate a module with Jeedom,
 refer to this
 [Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Important **
+> **Important**
 >
 > So that Jeedom automatically creates your sending modules, do not forget
 > do not activate the option in the plugin configuration.
@@ -94,7 +94,7 @@ By default, the sensor is configured in NO (Normally Open)
 
 ![eos200.nf no](../images/eos200/eos200.nf-no.jpg)
 
-> ** Note **
+> **Note**
 >
 > It will be necessary to configure your sensor, if you wish to have a
 > widget with a door closed when it is.
@@ -114,7 +114,7 @@ Once your equipment is associated, you should get this:
 
 ![eos200.general](../images/eos200/eos200.general.jpg)
 
-> ** Tip **
+> **Tip**
 >
 > In order for the widget to be present on the dashboard, consider placing
 > your equipment in an object.
@@ -167,4 +167,4 @@ How can I have the same visual?
 
 : With the Jeedom Widgets plugin.
 
-** @ ** Jamsta
+**@** Jamsta

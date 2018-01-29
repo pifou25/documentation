@@ -4,7 +4,7 @@
 
 ![etc1.module 2](../images/etc1/etc1.module-2.png)
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 ![etc1.vue default](../images/etc1/etc1.vue-default.jpg)
 
@@ -71,7 +71,7 @@ Para configurar Edisio plugin y asociar un módulo de Jeedom,
 referirse a este
 [Documentación] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Importante **
+> **Importante**
 >
 > Para Jeedom crea automáticamente los módulos de transmisión, recuerde
 > No hay que activar la opción en la configuración del plugin.
@@ -142,7 +142,7 @@ Una vez que el mando está configurado, se puede con la
 Plugin escenario Jeedom, interactuar con el mando a distancia en Jeedom
 y equipo.
 
-> ** Nota **
+> **Nota**
 >
 > El mando a distancia para volver al estado binario.
 

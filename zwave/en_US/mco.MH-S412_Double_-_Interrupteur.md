@@ -11,7 +11,7 @@ MCO MH-S412 Double
 
 \
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 \
 
@@ -112,7 +112,7 @@ inclusion refer to this
 
 \
 
-> ** Important **
+> **Important**
 >
 > To put this module in inclusion mode you have to press a single
 > 2 buttons on the front for 3 seconds, according to its

@@ -11,7 +11,7 @@ polylock
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -117,7 +117,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo hay que pulsar 1 tanto en el
 > Botón de inclusión, de acuerdo con su documentación en papel.
@@ -168,7 +168,7 @@ Estos son los comandos:
 
 \
 
-> ** Aviso **
+> **Aviso**
 >
 > A pesar de que este módulo está alimentado por batería que utiliza la tecnología Flirs.
 > Eso significa que no tiene un concepto de despertador y servicio de despertador. lo
@@ -256,7 +256,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > A pesar de que este módulo está alimentado por batería que utiliza la tecnología Flirs.
 > Eso significa que no tiene un concepto de despertador y servicio de despertador. lo
@@ -265,7 +265,7 @@ Bueno saber
 
 \
 
-> ** Tip **
+> **Tip**
 >
 > Este módulo no devuelve su estado, si se pulsa el bloqueo de
 > Mano el estado seguirá siendo el mismo. \

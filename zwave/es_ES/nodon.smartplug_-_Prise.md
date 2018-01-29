@@ -11,7 +11,7 @@ Nodon inteligente de entrada - Smartplug
 
 \
 
--   ** El Jeedom visual **
+-   **El Jeedom visual**
 
 \
 
@@ -108,7 +108,7 @@ inclusión se refiere a este
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Para poner este modo la inclusión del módulo tiene que pulsar el botón
 > Hasta que la luz cambie a rojo, de acuerdo con su documentación
@@ -262,7 +262,7 @@ Este módulo tiene 8 grupos de asociación.
 
 \
 
-> ** Importante **
+> **Importante**
 >
 > Una Jeedom mínimo debe reunirse en los grupos 1 y 4 \
 

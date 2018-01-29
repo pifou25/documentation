@@ -19,7 +19,7 @@ available either by installing a vib or from the version
 6.0 update 2. As a reminder, to access this interface it is enough
 to go on IP \ _ESXI / ui
 
-> ** Note **
+> **Note**
 >
 > For this tutorial I will use the ESXi web interface which is
 > available either by installing a vib or from the
@@ -34,7 +34,7 @@ We must recover this
 and transfer it to the ESXi (on the same datastore as the one that will
 welcome backups for example).
 
-> ** Note **
+> **Note**
 >
 > In the rest of this tutorial I consider that you put the script
 > ghettoVCB.sh in /vmfs/volumes/Backup/ghettoVCB.sh. To you to adapt
@@ -54,7 +54,7 @@ your ESXi and using your credentials from it
 Creating the configuration file
 ====================================
 
-> ** Note **
+> **Note**
 >
 > For the rest of this tutorial I consider that your datastore
 > backup a for path / vmfs / volumes / Backup, be careful to change if
@@ -93,17 +93,17 @@ contains:
 
 The parameters you need to adapt are:
 
--   ** VM \ _BACKUP \ _VOLUME ** ⇒ location of your backup datastore
+-   **VM \ _BACKUP \ _VOLUME** ⇒ location of your backup datastore
 
--   ** VM \ _BACKUP \ _ROTATION \ _COUNT ** ⇒ number of VM backups to keep
+-   **VM \ _BACKUP \ _ROTATION \ _COUNT** ⇒ number of VM backups to keep
 
-> ** Note **
+> **Note**
 >
 > You can consult
 > [here] (https://communities.vmware.com/docs/DOC-8760) the documentation
 > Complete ghettoVCB with a description of each parameter
 
-> ** Important **
+> **Important**
 >
 > Be careful to put the / final for the parameter
 > VM \ _BACKUP \ _VOLUME otherwise the script will be in error
@@ -169,12 +169,12 @@ And before the "exit 0" add the following lines:
     / bin / echo "0 0 1 * * /vmfs/volumes/Backup/ghettoVCB.sh -a -g /vmfs/volumes/Backup/ghettoVCB.conf> / dev / null 2> & 1" >> / var / spool / cron / crontabs / root
     / usr / lib / vmware / busybox / bin / busybox crond
 
-> ** Note **
+> **Note**
 >
 > Here I request a backup every 1st of the month, you can change
 > this by modifying: 0 0 1 \ * \ *
 
-> ** Note **
+> **Note**
 >
 > Here I make a backup of all the VMs, you can adapt this in
 > replacing -a by -m ma \ _vm, be careful if you want to put
@@ -183,7 +183,7 @@ And before the "exit 0" add the following lines:
 > /vmfs/volumes/Backup/ghettoVCB.conf &gt; / dev / null 2&gt; & 1 "&gt;&gt;
 > / var / spool / cron / crontabs / root "and put one by VM to backuper
 
-> ** Important **
+> **Important**
 >
 > Do not forget to adapt the path to the configuration file of
 > ghettoVCB according to your configuration:

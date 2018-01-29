@@ -2,7 +2,7 @@
 
 ![module](../images/etc4/module.jpg)
 
--   ** The Jeedom **
+-   **The Jeedom**
 
 ![vue default](../images/etc4/vue_default.jpg)
 
@@ -62,7 +62,7 @@ To configure the Edisio plugin and associate a module with Jeedom,
 refer to this
 [Documentation] (https://www.jeedom.fr/doc/documentation/plugins/edisio/fr_FR/edisio.html).
 
-> ** Important **
+> **Important**
 >
 > So that Jeedom automatically creates your sending modules, do not forget
 > do not activate the option in the plugin configuration.
@@ -167,7 +167,7 @@ use
 Once your remote is set up, you can with the
 Jeedom's scenario plugin interact with your remote on Jeedom.
 
-> ** Note **
+> **Note**
 >
 > Each key has a binary state return.
 
@@ -180,4 +180,4 @@ How to erase the association of a key with a receiver?
     the deprogramming mode activated. Press the "C" key to be erased.
     Repeat this operation for all the keys to be erased.
 
-** @ ** Jamsta
+**@** Jamsta
