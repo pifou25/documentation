@@ -118,6 +118,8 @@ D2-01
 
 |<img src="../images/d2-01-0b_smartplug_nodon_metering.jpg" width="60" />|Nodon|Prise intelligente + metering|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2633-nodon-prise-intelligente-metering-enocean-type-eu-3700313920022.html)|
 
+|<img src="../images/d2-01-0e_microsmartplug_nodon.jpg" width="60" />|Nodon|Micro Smart Plug|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/4309-nodon-micro-smart-plug-enocean-prise-fr-3700313921401.html)|
+
 |<img src="../images/d2-01-0f_micromodule_nodon_1_canal.jpg" width="60" />|Nodon|Micromodule commutateur simple EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 |<img src="../images/d2-01-12_micromodule_nodon_2_canaux.jpg" width="60" />|Nodon|Micromodule commutateur double EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/3341-nodon-micromodule-commutateur-double-enocean-3700313920374.html)|
@@ -127,6 +129,7 @@ D2-05
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
+|<img src="../images/d2-05-00_micromodule_nodon_volet.jpg" width="60" />|Nodon|Micromodule Volet Roulant EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 D2-06
 =====
