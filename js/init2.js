@@ -9,6 +9,7 @@ $(function(){
 	use='online';
 	if (use=='online'){
 		$.getJSON("site.json",function(data){
+			displayDoc();
 			DOC_CONFIG = data
 		});
 		$.getJSON("site_third.json",function(data){
@@ -22,7 +23,7 @@ $(function(){
 		displayDoc();
 	}
 	$('#sel_language').on('change',function(){
-		displayDoc()
+		displayDoc();
 		generateThirdSite(THIRD_CONFIG);
 	})
 });
