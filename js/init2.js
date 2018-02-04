@@ -41,7 +41,7 @@ function displayDoc(){
 	generateDocSite(DOC_CONFIG.blea,'#ul_listBlea',4);
 	generateDocSite(DOC_CONFIG.zwave,'#ul_listZwave',4);
 	generateDocSite(DOC_CONFIG.enocean,'#ul_listEnOcean',4);
-	$('#div_eqCompZwave').attr('href','zwave/fr_FR/equipement.compatible'.replace('#language#',$('#sel_language').val()));
+	$('#bt_eqCompZwave').attr('href','zwave/fr_FR/equipement.compatible'.replace('#language#',$('#sel_language').val()));
 	$('#bt_eqCompEnOcean').attr('href','enocean/fr_FR/equipement.compatible'.replace('#language#',$('#sel_language').val()));
 	$('#bt_eqCompRfxcom').attr('href','rfxcom/fr_FR/equipement.compatible'.replace('#language#',$('#sel_language').val()));
 	$('#bt_eqCompEdisio').attr('href','edisio/fr_FR/equipement.compatible'.replace('#language#',$('#sel_language').val()));
