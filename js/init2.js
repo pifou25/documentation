@@ -6,7 +6,7 @@ $(function(){
 	$('.parallax').parallax();
 	$('select').material_select();
 	$('ul.tabs').tabs();
-	use='local';
+	use='online';
 	if (use=='online'){
 		$.getJSON("site.json",function(data){
 			DOC_CONFIG = data
