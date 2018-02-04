@@ -9,11 +9,11 @@ $(function(){
 	use='online';
 	if (use=='online'){
 		$.getJSON("site.json",function(data){
+			DOC_CONFIG = data;
 			displayDoc();
-			DOC_CONFIG = data
 		});
 		$.getJSON("site_third.json",function(data){
-			THIRD_CONFIG = data
+			THIRD_CONFIG = data;
 			generateThirdSite(THIRD_CONFIG);
 		});
 	}else{
