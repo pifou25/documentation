@@ -7,13 +7,9 @@ Aeotec
 <img src="../images/134.1.1_dsa07203.z-stick.lite.jpg" width="60" />|Aeotec|Z-Stick Lite (DSA07203)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 <img src="../images/134.1.22_dsA22_key.fob.jpg" width="60" />|Aeotec|Key Fob (DSA22)|Télécommande|Remplacé dans les boutiques par le keyfob Gen5|[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
 <img src="../images/134.1.38_dsa38_panic.button.jpg" width="60" />|Aeotec|Panic Button (DSA38)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/278-aeon-labs-telecommande-z-wave-porte-cles-1-bouton.html)|
-
 |<img src="../images/134.1.3_dsa03202_minimote.jpg" width="60" />|Aeotec|Minimote (DSA03202)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/291-aeon-labs-telecommande-z-wave-blanche-1220000010253.html)|
-
 |<img src="../images/134.1.88_zw088.key.fob.gen5.jpg" width="60" />|Aeotec|Key Fob Gen5 (ZW088)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
-
 |<img src="../images/134.1.90_zw090.z-stick-gen5.jpg" width="60" />|Aeotec|Z-Stick Gen5 (ZW090)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2917-aeon-labs-controleur-usb-z-wave-plus-z-stick-gen5-1220000012813.html)|
-
 |<img src="../images/134.1.92_zw092.z-stick.lite.gen5.jpg" width="60" />|Aeotec|Z-Stick Lite Gen5 (ZW092)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 |<img src="../images/134.2.100_zw100_6in1.multisensor.jpg" width="60" />|Aeotec|MultiSensor 6 (ZW100)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/2921-aeon-labs-detecteur-multifonctions-6-en-1-multisensor-z-wave-plus-gen5-1220000013100.html)|
