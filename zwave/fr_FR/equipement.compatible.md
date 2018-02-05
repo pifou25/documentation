@@ -4,12 +4,9 @@ Aeotec
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/134.0.0_dsd37_range.extender.repeater.jpg" width="60" />|Aeotec|Range Extender (DSD37)|Répéteur|Module sans fonctionnalité hors mis le fait de relayer les infos du réseau|[Acheter](http://www.domadoo.fr/fr/peripheriques/2342-aeon-labs-repeteur-de-signal-z-wave-1220000012660.html)|
-
-|<img src="../images/134.1.1_dsa07203.z-stick.lite.jpg" width="60" />|Aeotec|Z-Stick Lite (DSA07203)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-
-|<img src="../images/134.1.22_dsA22_key.fob.jpg" width="60" />|Aeotec|Key Fob (DSA22)|Télécommande|Remplacé dans les boutiques par le keyfob Gen5|[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
-
-|<img src="../images/134.1.38_dsa38_panic.button.jpg" width="60" />|Aeotec|Panic Button (DSA38)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/278-aeon-labs-telecommande-z-wave-porte-cles-1-bouton.html)|
+<img src="../images/134.1.1_dsa07203.z-stick.lite.jpg" width="60" />|Aeotec|Z-Stick Lite (DSA07203)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+<img src="../images/134.1.22_dsA22_key.fob.jpg" width="60" />|Aeotec|Key Fob (DSA22)|Télécommande|Remplacé dans les boutiques par le keyfob Gen5|[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
+<img src="../images/134.1.38_dsa38_panic.button.jpg" width="60" />|Aeotec|Panic Button (DSA38)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/278-aeon-labs-telecommande-z-wave-porte-cles-1-bouton.html)|
 
 |<img src="../images/134.1.3_dsa03202_minimote.jpg" width="60" />|Aeotec|Minimote (DSA03202)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/291-aeon-labs-telecommande-z-wave-blanche-1220000010253.html)|
 
