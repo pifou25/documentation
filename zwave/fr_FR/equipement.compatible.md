@@ -86,6 +86,7 @@ Aeotec
 |<img src="../images/134.4.37_dsd37_range.extender.jpg" width="60" />|Aeotec|Range Extender (DSD37)|Répéteur|Module sans fonctionnalité hors mis le fait de relayer les infos du réseau|[Acheter](http://www.domadoo.fr/fr/peripheriques/2342-aeon-labs-repeteur-de-signal-z-wave-1220000012660.html)|
 |<img src="../images/134.4.80_zw080.siren.jpg" width="60" />|Aeotec|Siren Gen5 (ZW080)|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/2592-aeon-labs-sirene-z-wave-plus-sur-prise-electrique-gen5-1220000012592.html)|
 |<img src="../images/134.514.89_zw089_recessed.door.sensor.jpg" width="60" />|Aeotec|Recessed Door Sensor Gen5 (ZW089)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/2680-aeon-labs-capteur-d-ouverture-de-porte-a-encastrer-z-wave-plus-gen5-1220000012721.html)|
+
 Assa Abloy
 =====
 
@@ -98,6 +99,7 @@ Assa Abloy
 |<img src="../images/297.6.0_yrd240.doorlock.jpg" width="60" />|Assa Abloy|Yale Key Free Touchscreen Deadbolt (YRD240)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/297.7.0_ysl.doorlock.jpg" width="60" />|Assa Abloy|Yale Keyless Connected Smart Lock (YSL)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/297.7151.37424_doorlock.jpg" width="60" />|Assa Abloy|Yale Keyless Connected Smart Lock (YSL)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Benext
 =====
 
@@ -116,6 +118,7 @@ Benext
 |<img src="../images/138.4.257_door.sensor.jpg" width="60" />|Benext|Door sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.7.256_minikeypad.jpg" width="60" />|Benext|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas. Ce module est actuellement vendu sous la marque Zipato|[Acheter](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
 |<img src="../images/138.7.257_minikeypad.jpg" width="60" />|Benext|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas. Ce module est actuellement vendu sous la marque Zipato|[Acheter](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
+
 Chromagic
 =====
 
@@ -123,6 +126,7 @@ Chromagic
 |---|---|---|---|---|---|
 ||Chromagic|HSP02|Multicapteurs|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
 ||Chromagic|HSM02|Ouverture|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
+
 Danfoss
 =====
 
@@ -136,6 +140,7 @@ Danfoss
 |<img src="../images/2.5.373_thermostat.devolo.jpg" width="60" />|Danfoss|Devolo Home Control Radiator Thermostat|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/2.5.3_thermostat.living.connect.jpg" width="60" />|Danfoss|Thermostat Living Connect|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/2495-danfoss-tete-electronique-living-connect-z-wave-lc-13-5013567421497.html)|
 |<img src="../images/2.5.4_thermostat.014g0013.jpg" width="60" />|Danfoss|Thermostat Living Connect|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/2495-danfoss-tete-electronique-living-connect-z-wave-lc-13-5013567421497.html)|
+
 Devolo
 =====
 
@@ -148,6 +153,7 @@ Devolo
 |<img src="../images/373.256.257_mt2652.scene_switch.jpg" width="60" />|Devolo|Scene Switch MT 2652|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.256.258_mt2653.keyfob.jpg" width="60" />|Devolo|Keyfob (MT2653)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.4.10_mt02758.siren.jpg" width="60" />|Devolo|Siren MT02758|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Dlink
 =====
 
@@ -156,6 +162,7 @@ Dlink
 |<img src="../images/264.2.13_dchz120.3in1.sensor.jpg" width="60" />|Dlink|DCH-Z120|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/264.2.14_dchz110.doorsensor.jpg" width="60" />|Dlink|DCH-Z110|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3692-d-link-capteur-de-portefenetre-z-wave-3-en-1-790069409844.html)|
 |<img src="../images/264.4.10_dchz510.siren.jpg" width="60" />|Dlink|DCH-Z510|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/3696-d-link-sirene-z-wave-6-sons-110-db--790069410758.html)|
+
 Dome
 =====
 
@@ -169,12 +176,14 @@ Dome
 |<img src="../images/543.3.257_door.window.sensor.jpg" width="60" />|Dome|Door/Window Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.2_water_valve.jpg" width="60" />|Dome|Water Shut-Off Valve|Valve||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.513_door.window.sensor.pro.jpg" width="60" />|Dome|Door/Window Sensor Pro|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Domitech
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/526.19522.12596_ze27eu.jpg" width="60" />|Domitech|Smart LED Retrofit Kit ZE27EU|Interrupteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/3226-domitech-ampoule-led-dimmable-z-wave-zbulb-869166000060.html)|
+
 Domux
 =====
 
@@ -189,6 +198,7 @@ Domux
 |<img src="../images/540.32775.4096_dx1htz_2in1_sensor.jpg" width="60" />|Domux|Temperature & Humidity Sensor (DX1HT-Z)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.32776.4096_dx2skz_wallplug.jpg" width="60" />|Domux|Smart Plug (DX2SK-Z)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.360.360_dx1dsz_door_sensor.jpg" width="60" />|Domux|Door Sensor (DX1DS-Z)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Duwi
 =====
 
@@ -202,18 +212,21 @@ Duwi
 |<img src="../images/100.4096.9_05458.dimmer.jpg" width="60" />|Duwi|DURO 2000 Dimmer 05458|Interrupteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2307-z-waveme-interrupteur-variateur-z-wave-avance-finition-duro-2000-0019962003509.html)|
 ||Duwi|Interrupteur Variateur Duro 2000|Interrupteur|Il faut activer le polling pour avoir une remonté d'état|[Acheter](http://www.domadoo.fr/fr/peripheriques/758-duwi-interrupteur-variateur-duro-2000-z-wave-4008297054580.html)|
 |<img src="../images/100.8193.0_zw.es.1000.flush.mounted.switch.jpg" width="60" />|Duwi|ZW_ES_1000 Wall Plug |Interrupteur|Il faut activer le polling pour avoir une remonté d'état|[Acheter](http://www.domadoo.fr/fr/peripheriques/748-duwi-interrupteur-on-off-everlux-z-wave-4008297054313.html)|
+
 Ecolink
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/330.1.2_door.window.sensor.jpg" width="60" />|Ecolink|Door/Window Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Electronicsolutions
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/51.21072.12338_dbmz.jpg" width="60" />|Electronicsolutions|DBMZ Motor Control|Volets||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Eurotronic
 =====
 
@@ -221,6 +234,7 @@ Eurotronic
 |---|---|---|---|---|---|
 |<img src="../images/328.1.1_eur_stellaz.jpg" width="60" />|Eurotronic|Vanne Thermostatique Z-Wave StellaZ|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/2361-eurotronic-vanne-thermostatique-z-wave-stellaz.html)|
 |<img src="../images/328.2.1_eur_cometz.jpg" width="60" />|Eurotronic|Vanne thermostatique Z-Wave+ Comet|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/3228-eurotronic-vanne-thermostatique-z-wave-comet-4260012711011.html)|
+
 Everspring
 =====
 
@@ -249,6 +263,7 @@ Everspring
 |<img src="../images/96.6.1_st814.temperature.and.humidity.sensor.jpg" width="60" />|Everspring|ST814|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/861-everspring-capteur-de-temperature-et-d-humidite-z-wave-st814-3700946500325.html)|
 |<img src="../images/96.7.1_st815.jpg" width="60" />|Everspring|ST815|Luminosité||[Acheter](http://www.domadoo.fr/fr/peripheriques/2498-everspring-capteur-de-luminosite-z-wave-avec-ecran-lcd-st815-3700946500349.html)|
 |<img src="../images/96.9.1_tse03.door.bell.jpg" width="60" />|Everspring|TSE03 Door Bell|Carillon||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Fakro
 =====
 
@@ -258,6 +273,7 @@ Fakro
 |<img src="../images/133.2.5_zws230.jpg" width="60" />|Fakro|ZWS230 Chain actuator 230VAC|Volets|Nécessite une inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/2362-fakro-moteur-pour-fenetre-de-toit-z-wave-zws230-5900988500378.html)|
 |<img src="../images/133.3.1_zws12.jpg" width="60" />|Fakro|ZWS12 Chain actuator 12VDC|Volets|Nécessite une inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/133.3.2_zws230.jpg" width="60" />|Fakro|ZWS230 Chain actuator 230VAC|Volets|Nécessite une inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/2362-fakro-moteur-pour-fenetre-de-toit-z-wave-zws230-5900988500378.html)|
+
 Fibaro
 =====
 
@@ -344,12 +360,14 @@ Fibaro
 |<img src="../images/271.768.4106_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Volets|Module équivalent au FGRM-222|[Acheter](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.769.4097_fgrm222.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-222 Volet roulant|Volets|Nouveau nom du module FGRM-221|[Acheter](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.770.4096_fgr222.roller.shutter.controller.jpg" width="60" />|Fibaro|FGR-222 Volet roulant|Volets|Nouveau nom du module FGR-221|[Acheter](http://www.domadoo.fr/fr/peripheriques/3250-fibaro-micromodule-pour-volet-roulant-z-wave-fgr-222.html)|
+
 Firstalert
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/312.1.2_zcombo.jpg" width="60" />|Firstalert|ZCombo Smoke and Carbon Monoxide Detector|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Fortrezz
 =====
 
@@ -365,6 +383,7 @@ Fortrezz
 |<img src="../images/132.787.267_ssa2.jpg" width="60" />|Fortrezz|SSA-02|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/980-fortrezz-sirene-z-wave-flash-rouge-ssa2-0661799486026.html)|
 |<img src="../images/132.817.267_ssa3.jpg" width="60" />|Fortrezz|SSA-03|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/978-fortrezz-sirene-exterieure-ip54-z-wave-flash-ssa-03-0661799563277.html)|
 |<img src="../images/132.833.517_ssa3.jpg" width="60" />|Fortrezz|SSA-03|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/978-fortrezz-sirene-exterieure-ip54-z-wave-flash-ssa-03-0661799563277.html)|
+
 Ge
 =====
 
@@ -374,12 +393,14 @@ Ge
 |<img src="../images/99.18756.12340_smart.fan.control.jpg" width="60" />|Ge|12730 Smart Fan Control|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/99.18756.12344_12344.dimmer.jpg" width="60" />|Ge|12344 In-Wall Smart Dimmer|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/99.18770.12338_relay.jpg" width="60" />|Ge|12722 On/Off Relay Switch|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Gig
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/152.25857.12_ct101.thermostat.iris.jpg" width="60" />|Gig|CT101 Thermostat Iris|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Gr-Smarthome
 =====
 
