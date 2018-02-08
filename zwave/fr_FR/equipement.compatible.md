@@ -473,6 +473,7 @@ Kaipule
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/532.2.1_im20.door.window.sensor.jpg" width="60" />|Kaipule|IM20 Magnetic Contact|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3871-kaipule-detecteur-d-ouverture-portefenetre-z-wave.html)|
+|<img src="../images/532.3.2_pir.celing.sensor.jpg" width="60" />|Kaipule|PIR celing sensor|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Kwikset
 =====
@@ -642,6 +643,7 @@ Sensative
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
+|<img src="../images/410.3.10_strips-confort.jpg" width="60" />|Sensative|Strips Confort|Multicapteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/410.3.3_strips.jpg" width="60" />|Sensative|Strips|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3200-sensative-capteur-d-ouverture-extra-fin-strips-z-wave-7330985122972.html)|
 
 Sigma
@@ -766,6 +768,7 @@ Zipato
 |<img src="../images/305.32771.4096_hs1cgz_gaz_sensor.jpg" width="60" />|Zipato|Gaz Sensor (HS1CG-Z)|Gaz|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Acheter](http://www.domadoo.fr/fr/peripheriques/4153-zipato-capteur-de-gaz-z-wave-3858890733587.html)|
 |<img src="../images/305.32772.4096_hs1wlz_flood_sensor.jpg" width="60" />|Zipato|Flood Sensor (HS1WL-Z)|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/4159-zipato-capteur-d-inondation-z-wave--3858890733624.html)|
 |<img src="../images/305.32773.4096_hs1caz_co_sensor.jpg" width="60" />|Zipato|CO Sensor (HS1CA-Z)|CO||[Acheter](http://www.domadoo.fr/fr/peripheriques/4151-zipato-capteur-de-monoxyde-de-carbone-z-wave-3858890733563.html)|
+|<img src="../images/305.4.10_pse02.indoor.siren.jpg" width="60" />|Zipato|PH-PSE02 Sirène Z-Wave+|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/2960-zipato-sirene-d-interieur-z-wave-3858890733310.html)|
 |<img src="../images/305.8193.262_vszd2102.eu.doorwindow.sensor.jpg" width="60" />|Zipato|VS-ZD2102 Door/Window Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
 |<img src="../images/305.8194.517_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Zipato|ZP3102|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
 |<img src="../images/305.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Zipato|ZD2301 Multisensor 4in1|Ouverture|Vendu aussi sous la marque Vision.|[Acheter](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
