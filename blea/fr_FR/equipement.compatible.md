@@ -181,6 +181,13 @@ Wistiki
 |---|---|---|---|---|---|
 |<img src="../images/wistiki.jpg" width="60" />|Wistiki|Wistiki|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Xiaomiht
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Yeelight
 =====
 
