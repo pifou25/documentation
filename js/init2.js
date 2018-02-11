@@ -1,6 +1,25 @@
 var DOC_CONFIG={}
 var THIRD_CONFIG={}
 
+var PAGE_NAME = {
+	'cron' : 'Moteur de tâche',
+	'eqAnalyse' : 'Equipements',
+	'interact' : 'Intéractions',
+	'update' : 'Mise à jour',
+	'api_http' : 'API Http',
+	'custom' : 'Personalisation',
+	'jsonrpc_api' : 'API Jsonrpc',
+	'noteversion' : 'Note de version',
+	'user' : 'Utilisateur',
+	'backup' : 'Sauvegarde',
+	'health' : 'Santé',
+	'object' : 'Objet',
+	'view' : 'Vues',
+	'display' : 'Résumé domotique',
+	'history' : 'Historique',
+}
+
+
 $(function(){
 	$('.button-collapse').sideNav();
 	$('.parallax').parallax();
@@ -74,11 +93,15 @@ function generateDocSite(_data,_el,_col){
 		if(_data.docs[i].name == 'equipement compatible'){
 			continue;
 		}
+		var page_name = convertCase(_data.docs[i].name);
+		if(PAGE_NAME[page_name.toLowerCase()]){
+			var page_name = convertCase(PAGE_NAME[page_name.toLowerCase()])
+		}
 		if(_col){
 			colNb=i % _col;
-			$(_el+colNb).append('<a class="collection-item waves-effect waves-jeedom" target="_blank" href="'+_data.docs[i].url.replace('#language#',$('#sel_language').val())+'">'+convertCase(_data.docs[i].name)+'</a>');
+			$(_el+colNb).append('<a class="collection-item waves-effect waves-jeedom" target="_blank" href="'+_data.docs[i].url.replace('#language#',$('#sel_language').val())+'">'+page_name+'</a>');
 		}else{
-			$(_el).append('<a class="collection-item waves-effect waves-jeedom" target="_blank" href="'+_data.docs[i].url.replace('#language#',$('#sel_language').val())+'">'+convertCase(_data.docs[i].name)+'</a>');
+			$(_el).append('<a class="collection-item waves-effect waves-jeedom" target="_blank" href="'+_data.docs[i].url.replace('#language#',$('#sel_language').val())+'">'+page_name+'</a>');
 		}
 	}
 }
