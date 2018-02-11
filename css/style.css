@@ -51,3 +51,7 @@ main {
 .tabs .indicator {
   background-color: #95C12B !important;
 }
+
+.tabs .tab a:hover {
+  color: #d2ef8b !important;
+}
