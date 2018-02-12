@@ -26,6 +26,12 @@ $(function(){
 	$('.parallax').parallax();
 	$('select').material_select();
 	$('ul.tabs').tabs();
+
+	$('a[href=#plugin]').on('click',function(){
+		$('#plugin a.active').click();
+		setTimeout(function(){ $('#plugin a.active').click(); }, 500);
+	});
+
 	use='online';
 	if (use=='online'){
 		$.getJSON("site.json",function(data){
