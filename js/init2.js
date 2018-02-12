@@ -17,6 +17,7 @@ var PAGE_NAME = {
 	'view' : 'Vues',
 	'display' : 'Résumé domotique',
 	'history' : 'Historique',
+	'compatibility' : 'Compatibilité',
 }
 
 
