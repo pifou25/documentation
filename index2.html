@@ -78,6 +78,10 @@
  					var s = document.getElementsByTagName('script')[0];
  					s.parentNode.insertBefore(gcse, s);
  				})();
+     $(document).ready(function() {
+    $('#gsc-i-id1').removeAttr( 'style' );
+    $('#gsc-i-id1').attr('style','width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; outline: none; background-image: url(https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png); text-indent: 48px; background-position: left center; background-repeat: no-repeat no-repeat;');
+   });
  			</script>
  			<gcse:search></gcse:search>
  		</div>
@@ -408,11 +412,5 @@
  	<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
  	<script type="text/javascript" src="js/init2.js"></script>
  	<script type="text/javascript" src="js/materialize.min.js"></script>
-  <script type="text/javascript">
-   $(document).ready(function() {
-    $('#gsc-i-id1').removeAttr( 'style' );
-    $('#gsc-i-id1').attr('style','width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; outline: none; background-image: url(https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png); text-indent: 48px; background-position: left center; background-repeat: no-repeat no-repeat;');
-   });  
-</script>
  </body>
  </html>
