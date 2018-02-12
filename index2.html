@@ -78,10 +78,11 @@
  					var s = document.getElementsByTagName('script')[0];
  					s.parentNode.insertBefore(gcse, s);
  				})();
-     $(document).ready(function() {
-    $('#gsc-i-id1').removeAttr( 'style' );
-    $('#gsc-i-id1').attr('style','width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; outline: none; background-image: url(https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png); text-indent: 48px; background-position: left center; background-repeat: no-repeat no-repeat;');
-   });
+     window.onload = function(){
+      $('#gsc-i-id1').removeAttr( 'style' );
+      $('#gsc-i-id1').attr('style','width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; outline: none; background-image: url(https://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png); text-indent: 48px; background-position: left center; background-repeat: no-repeat no-repeat;');
+      document.getElementById('gsc-i-id1').placeholder = 'TEST';
+     });
  			</script>
  			<gcse:search></gcse:search>
  		</div>
