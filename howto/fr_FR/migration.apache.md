@@ -72,6 +72,7 @@ Copie de Jeedom
 ---------------
 
     cp -R /usr/share/nginx/www/jeedom/* /var/www/html/
+    cp -R /usr/share/nginx/www/jeedom/.[^.]* /var/www/html/
     rm /var/www/html/log/nginx.error
     chmod 775 -R /var/www/html
     chown www-data:www-data -R /var/www/html

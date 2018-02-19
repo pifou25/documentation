@@ -25,6 +25,7 @@ En SSH, faites :
     wget https://github.com/jeedom/core/archive/stable.zip
     unzip stable.zip
     cp -R core-stable/* /var/www/html
+    cp -R core-stable/.[^.]* /var/www/html
 
 Mise à jour 
 ===========
