@@ -20,11 +20,12 @@ Descargar y descomprimir
 
 SSH, utilice:
 
-    sudo su -
-    cd / root
-    wget https://github.com/jeedom/core/archive/stable.zip
-    stable.zip descomprimir
-    cp -R núcleo-permanente / * / var / www / html
+    sudo su -
+    cd /root
+    wget https://github.com/jeedom/core/archive/stable.zip
+    unzip stable.zip
+    cp -R core-stable/* /var/www/html
+    cp -R core-stable/.[^.]* /var/www/html
 
 Actualización
 ===========

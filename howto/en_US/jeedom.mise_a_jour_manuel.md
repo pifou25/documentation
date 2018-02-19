@@ -20,11 +20,12 @@ Download and decompression
 
 In SSH, do:
 
-    sudo su -
-    cd / root
-    wget https://github.com/jeedom/core/archive/stable.zip
-    unzip stable.zip
-    cp -R core-stable / * / var / www / html
+    sudo su -
+    cd /root
+    wget https://github.com/jeedom/core/archive/stable.zip
+    unzip stable.zip
+    cp -R core-stable/* /var/www/html
+    cp -R core-stable/.[^.]* /var/www/html
 
 Update
 ===========
