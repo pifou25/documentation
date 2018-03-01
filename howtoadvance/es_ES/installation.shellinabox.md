@@ -1,39 +1,39 @@
-Shellinabox es accesible desde una consola navegador.
+Shellinabox est une console accessible depuis un navigateur.
 
-Esto viene en la forma de un servicio de escucha en el puerto 4200
-https. Vamos a describir la instalación y la configuración a continuación,
-proxy inverso
+Cela se présente sous la forme d’un service écoutant sur le port 4200 en
+https. On va décrire son installation et ensuite les configurations de
+reverse proxy
 
-Instalación Shellinabox
+Installation de Shellinabox 
 ===========================
 
-Este es el comando a ejecutar para instalar Shellinabox:
+Voici la commande à lancer pour installer Shellinabox :
 
-    sudo apt-get -y shellinabox
+    sudo apt-get -y shellinabox
 
-Apache proxy inverso
+Reverse Proxy Apache 
 ====================
 
-Se debe crear un archivo en
-/etc/apache2/sites-enabled/shellinabox.conf con el siguiente contenido
-y reinicie Apache
+Il faut créer un fichier dans
+/etc/apache2/sites-enabled/shellinabox.conf avec le contenu ci-dessous
+et ensuite redémarrer Apache
 
-    <Location / jeedom / shellinabox>
-    Proxypass http: // localhost: 4200 /
-    #ProxyPassReverse http: // localhost: 4200 /
-    Dejar de todas las
-    </ Location>
+    <Location /jeedom/shellinabox>
+    Proxypass  http://localhost:4200/
+    #ProxyPassReverse  http://localhost:4200/
+    Allow from all
+    </Location>
 
-Nginx proxy inverso
+Reverse Proxy Nginx 
 ===================
 
-Se debe crear un archivo en /etc/nginx/sites-enabled/shellinabox.conf
-con el siguiente contenido y reinicie Nginx
+Il faut créer un fichier dans /etc/nginx/sites-enabled/shellinabox.conf
+avec le contenu ci-dessous et ensuite redémarrer Nginx
 
-    Alquiler / jeedom / shellinabox / {
-    PROXY_PASS http://127.0.0.1:4200;
-    Anfitrión proxy_set_header $ anfitrión;
-    proxy_buffering apagado;
-    TCP_NODELAY uno;
-    access_log apagado;
-    }
+    location /jeedom/shellinabox/ {
+    proxy_pass http://127.0.0.1:4200;
+    proxy_set_header Host $host;
+    proxy_buffering off;
+    tcp_nodelay on;
+    access_log off;
+    }

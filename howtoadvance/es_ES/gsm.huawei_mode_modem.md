@@ -1,63 +1,63 @@
-En el 90% de los casos no es necesario forzar el modo GSM clave
-Sólo GSM (en lugar de GSM + CDROM + lector de tarjetas), el único caso
-en que es obligatorio es decir, si desea utilizar la clave en una
-Jeedom en una máquina virtual (VMware ESXi). De hecho, si usted no va en
-Sólo GSM el modo de clave no aparece en la lista de
-Los dispositivos USB se puede cambiar a la máquina virtual.
+Dans 90% des cas il n’est pas nécessaire de forcer les clefs GSM en mode
+GSM seulement (au lieu de GSM + cdrom + lecteur de carte), le seul cas
+où c’est obligatoire c’est si vous voulez utiliser la clef dans un
+Jeedom sur une VM (VMware ESXi). En effet si vous ne la passez pas en
+mode GSM seulement la clef n’apparaîtra pas dans la liste des
+périphériques USB que vous pouvez faire passer à la VM.
 
-> **Importante**
+> **Important**
 >
-> Este tutorial ha sido realizado en un Windows 10
+> Ce tuto a été fait sur un Windows 10
 
-Instalación del controlador
+Installation des drivers 
 ========================
 
-Una vez que la llave conectada a un PC con Windows 10 debe tener una
-nueva unidad de CD-ROM. Debemos doble clic en él e instalar
-software propuesto (no hay nada que cambiar después de sólo hacer todo
-de largo).
+Une fois la clef connectée à un PC Windows 10 vous devez avoir un
+nouveau lecteur CD-ROM. Il faut double-cliquer dessus et installer le
+logiciel proposé (il n’y a rien à changer faîtes juste suivant tout le
+long).
 
 ![gsmonly](../images/gsmonly.PNG)
 
-Recuperando el puerto COM
+Récupération du port COM 
 ========================
 
-Entonces tenemos que obtener el número de puerto de comunicaciones. ir a
-el menú "Inicio" y busque "Administrador de dispositivos", inicio
-A continuación, se desarrollan los "Puertos (COM y LPT)" que debe tener
-un elemento que contiene "Huawei", el siguiente acaba de celebrar el número
-puerto COM:
+Ensuite il faut récupérer le numéro du port de communication. Allez sur
+le menu "Démarrer" et recherchez "Gestionnaire de périphériques", lancer
+celui-ci puis dépliez la partie "Ports (COM et LPT)", vous devriez avoir
+un item contenant "HUAWEI", il faut ensuite juste retenir le numéro du
+port COM :
 
 ![gsmonly2](../images/gsmonly2.PNG)
 
-descargar Putty
+Téléchargement de Putty 
 =======================
 
-A continuación, descarga la masilla
-[Aquí] (https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe) y
-ejecutar el archivo descargado
+Téléchargez ensuite putty
+[ici](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe) et
+lancez le fichier téléchargé
 
-configuración de masilla y la conmutación al modo de sólo GSM
-================================================== =====
+Configuration de putty et passage en mode GSM seulement 
+=======================================================
 
-Una vez puesto en marcha masilla configure como esto (la extinción de su número de
-puerto COM que vea el paso anterior):
+Une fois lancé configurez putty comme cela (en mettant bien votre numéro
+de port COM à vous, voir étape au-dessus) :
 
 ![gsmonly3](../images/gsmonly3.PNG)
 
-Aparecerá una ventana en negro (que puede ser en ocasiones una
-mensaje "de arranque ...", esto es normal, significa que usted está
-conectado a la tecla de GSM). En esta ventana se tiene que escribir y pulse
-en la tecla "Enter":
+Une fenêtre noire va apparaître (il peut de temps en temps y avoir un
+message "boot…​", c’est normal, cela veut dire que vous êtes bien
+connecté à la clef GSM). Dans cette fenêtre il faut taper puis appuyez
+sur la touche "Entrée" :
 
-    AT ^ U2DIAG = 0
+    AT^u2diag=0
 
-> **Importante**
+> **Important**
 >
-> Tenga cuidado cuando se escribe el texto que no se va a ver nada
-> La pantalla, esto es normal, el texto está siendo considerado así.
+> Attention quand vous allez taper le texte vous n’allez rien voir à
+> l’écran, c’est normal, le texte est quand même bien pris en compte.
 
-Normalmente, en cambio, usted debe tener el visto bueno.
+Normalement en retour vous devez avoir un OK.
 
-Que todo ha terminado. Su clave está en modo GSM y sólo usted
-se puede utilizar a través de un VMware ahora.
+Voilà c’est terminé. Votre clef est bien en mode GSM seulement et vous
+pouvez vous en servir à travers un VMware maintenant.

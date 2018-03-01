@@ -1,222 +1,222 @@
-We will see here how to create a VM under VMware.
+Nous allons voir ici comment créer une VM sous VMware.
 
-There is a little important thing to know about VMware, there is 2
-way of the manager:
+Il y a avant une petit chose importante à savoir sur VMware, il y a 2
+moyen de le manager :
 
--   the web interface (present by default in 6.0 update 2, or by the
-    vibrate for the other versions), it is accessed by
-    IP \ _ESXI / ui
+-   l’interface web (présente par défaut en 6.0 update 2, ou par le
+    biais d’un vib pour les autres versions), on y accède par
+    IP\_ESXI/ui
 
--   the heavy and historic VMware client (vSphere client)
+-   le client lourd et historique de VMware (vSphere client)
 
-Here I will mainly use the web interface because I think it's
-the future of VMware, which is moving away from the heavy client
-(By the way all the novelties since the 5.1 are not usable
-with the heavy client).
+Ici j’utiliserai principalement l’interface web car je pense que c’est
+l’avenir de VMware qui délaisse de plus en plus le client lourd
+(d’ailleurs toutes les nouveautées depuis la 5.1 ne sont pas utilisables
+avec le client lourd).
 
-Also note that the web interface is still being set up
-at VMware, you will probably encounter some bugs or
-slowdowns with but a little refreshment of the page and that
-leave without worries.
+A noter aussi que l’interface web est toujours en cours de mise en place
+chez VMware, en effet vous allez surement rencontrer quelques bugs ou
+ralentissements avec mais un petit rafrachissement de la page et ça
+repart sans soucis.
 
-Login to the web interface
+Connexion à l’interface web 
 ===========================
 
-Go to IP \ _ESXI / ui with your internet browser, you must have:
+Allez sur IP\_ESXI/ui avec votre navigateur internet, vous devez avoir :
 
 ![vmware.createvm3](../images/vmware.createvm3.PNG)
 
 > **Note**
 >
-> If you do not have anything I advise you to install
-> the web interface, all the information
-> [here] (https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.trucs_et_astuces.html)
+> Si vous n’avez rien je vous conseille de faire l’installation de
+> l’interface web, toutes les informations
+> [ici](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.trucs_et_astuces.html)
 
-Enter your login credentials for ESXI:
+Entrez vos identifiants de connexion à l’ESXI :
 
 ![vmware.createvm4](../images/vmware.createvm4.PNG)
 
-As you can see the interface is quite nice and allows to
-do a lot of things, I will not go into details but you
-can already from this screen:
+Comme vous pouvez le voir l’interface est plutôt sympa et permet de
+faire pas mal de choses, je ne rentrerai pas dans les détails mais vous
+pouvez déja à partir de cette écran :
 
--   stop / restart the ESXi
+-   arrêter/redémarrer l’ESXi
 
--   see the use of resources (CPU, memory and disk)
+-   voir l’utilisation des ressources (CPU,mémoire et disque)
 
--   have information about your system (operating time,
-    version of VMware, version of bios, display of datastores)
+-   avoir des informations sur votre système (temps de fonctionnement,
+    version de VMware, version du bios, affichage des datastores)
 
--   button to create a VM (we'll use it right after)
+-   bouton pour créer une VM (on va s’en servir juste après)
 
--   an action button that allows you to switch to maintenance mode
-    (practical if you have an ESXi cluster otherwise you do not
-    will never serve), enable / disable SSH service (is used
-    in the backups configuration tutorial)
+-   un bouton action qui permet en autre de passer en mode maintenance
+    (pratique si vous avez un cluster d’ESXi sinon vous ne vous en
+    servirez jamais), activer/désactiver le service SSH (est utilisé
+    dans le tutoriel de configuration des backups)
 
-Sending the installation iso
+Envoi de l’iso d’installation 
 =============================
 
-After downloading your installation iso
-([Here] (http://cdimage.debian.org/debian-cd/8.5.0/amd64/iso-cd/debian-8.5.0-amd64-netinst.iso)
-for example for debian 8.5 in netinstall), you have to put it on
-your datastore.
+Après avoir téléchargé votre iso d’installation
+([ici](http://cdimage.debian.org/debian-cd/8.5.0/amd64/iso-cd/debian-8.5.0-amd64-netinst.iso)
+par exemple pour debian 8.5 en netinstall), il vous faut le mettre sur
+votre datastore.
 
-For this click on datastore:
+Pour cela cliquez sur datastore :
 
 ![vmware.createvm18](../images/vmware.createvm18.PNG)
 
-Select your datastore (usually it's called datastore1):
+Selectionnez votre datastore (en general il s’appelle datastore1) :
 
 ![vmware.createvm19](../images/vmware.createvm19.PNG)
 
-Click on "Datastore Browser":
+Cliquez sur "Navigateur de banque de données" :
 
 ![vmware.createvm20](../images/vmware.createvm20.PNG)
 
-Click on "Download" (the first):
+Cliquez sur "Télécharger" (le premier) :
 
 ![vmware.createvm21](../images/vmware.createvm21.PNG)
 
-Select the iso previously downloaded and validate:
+Selectionnez l’iso précédement téléchargé et validez :
 
 ![vmware.createvm22](../images/vmware.createvm22.PNG)
 
-You can then follow the progress of the shipment:
+Vous pouvez ensuite suivre l’avancement de l’envoi :
 
 ![vmware.createvm23](../images/vmware.createvm23.PNG)
 
-Once finished you can see that your iso has arrived on the
-datastore:
+Une fois fini vous pouvez voir que votre iso est bien arrivé sur le
+datastore :
 
 ![vmware.createvm24](../images/vmware.createvm24.PNG)
 
-Creating your first VM
+Création de votre premiere VM 
 =============================
 
-Click on the "Create / Save VM" button:
+Cliquez sur le bouton "Créer/Enregistrer une VM" :
 
 ![vmware.createvm5](../images/vmware.createvm5.PNG)
 
-Click Next:
+Cliquez sur suivant :
 
 ![vmware.createvm6](../images/vmware.createvm6.PNG)
 
-Then give a name to your machine and specify its system
-operating (here we will install a Debian):
+Donnez ensuite un nom à votre machine et précisez son sytème
+d’exploitation (ici on va installer une Débian) :
 
 ![vmware.createvm7](../images/vmware.createvm7.PNG)
 
-Indicate the target datastore:
+Indiquez le datastore cible :
 
 ![vmware.createvm8](../images/vmware.createvm8.PNG)
 
-Here you will be able to configure the parameters of your machine (disk
-hard, CPU, memory ...):
+Ici vous allez pouvoir configurer les paramètre de votre machine (disque
+dure, cpu, mémoire…​) :
 
 ![vmware.createvm9](../images/vmware.createvm9.PNG)
 
 > **Note**
 >
-> All these parameters can be modified afterwards without any problem, to note
-> all the same that it is not really possible to reduce the size
-> of a hard disk, we can increase it (but we have to know how to manage it at
-> OS level next) but not reduce it.
+> Tous ces paramètres sont modifiable après coup sans soucis, à noter
+> tout de meme qu’il n’est pas vraiment possible de réduire la taille
+> d’un disque dur, on peut l’augmenter (mais il faut savoir gérer ça au
+> niveau de l’OS ensuite) mais pas la réduire.
 
-At the CD / DVD player, select "ISO Bank File"
-data ":
+Au niveau du lecteur CD/DVD, selectionnez "Fichier ISO banque de
+données" :
 
 ![vmware.createvm10](../images/vmware.createvm10.PNG)
 
-Then select the location where your ISO is stored (see
-previous chapter) and confirm:
+Sélectionner ensuite l’emplacement où est stocké votre ISO (voir
+chapitre précedent) et validez :
 
 ![vmware.createvm11](../images/vmware.createvm11.PNG)
 
-Then do next:
+Faites ensuite suivant :
 
 ![vmware.createvm12](../images/vmware.createvm12.PNG)
 
-Then you have a summary of your configuration, click on
-"Finish":
+VOus avez ensuite un résumé de votre configuration, cliquez sur
+"Terminer" :
 
 ![vmware.createvm13](../images/vmware.createvm13.PNG)
 
-A message at the top will tell you that it's good, then click on
-"Virtual Machines":
+Un message en haut va vous indiquer que c’est bon, cliquez ensuite sur
+"Machines virtuelles" :
 
 ![vmware.createvm14](../images/vmware.createvm14.PNG)
 
-You must see your virtual machine (if it is not the case click
-on "Refresh") click on it:
+Vous devez voir votre machine virtuelle (si ce n’est pas le cas cliquez
+sur "Actualiser") cliquez dessus :
 
 ![vmware.createvm15](../images/vmware.createvm15.PNG)
 
-You must have a page like this, click on the play button:
+Vous devez avoir une page de ce type, cliquez sur le bouton lecture :
 
 ![vmware.createvm16](../images/vmware.createvm16.PNG)
 
-Your machine will launch and you will be able to install
-your OS:
+Votre machine va se lancer et vous allez pouvoir faire l’installation de
+votre OS :
 
 ![vmware.createvm17](../images/vmware.createvm17.PNG)
 
 > **Important**
 >
-> Once your machine is installed, ABSOLUTELY install them
-> VMware tools (this allows VMware to have information about your VM
-> and extinguish it properly). Under debian just do
+> Un fois votre machine installée il faut ABSOLUMENT installer les
+> VMware tools (ça permet à VMware d’avoir des informations sur votre VM
+> et d’éteindre celle-ci proprement). Sous debian il suffit de faire
 > "sudo apt-get -y install open-vm-tools".
 
-For the rest of the installation I invite you to read this
-[Tutorial] (https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-debian.installation.html#_installation)
+Pour la suite de l’installation je vous invite à lire ce
+[tutoriel](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-debian.installation.html#_installation)
 
-Mount USB peripherals in the VM
+Monter les péripheriques USB dans la VM 
 =======================================
 
 > **Note**
 >
-> If you do not have the options below it is necessary to put in
-> day the ESXi Embedded Host Client, all the information
-> [here] (https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.trucs_et_astuces.html)
+> Si vous n’avez pas les options ci-dessous c’est qu’il faut mettre à
+> jour l’ESXi Embedded Host Client , toutes les informations
+> [ici](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-vmware.trucs_et_astuces.html)
 
-It's a pretty rare need, but I had to use it for Jeedom, in
-effect I have on my ESXi the keys Zwave, RFXcom, edisio, enOcean and GSM
-connected and I had to connect them to my VM Jeedom to be able to
-use it.
+C’est un besoin assez rare, mais j’ai dû m’en servir pour Jeedom, en
+effet j’ai sur mon ESXi les clefs Zwave, RFXcom, edisio, enOcean et GSM
+de branchées et il me fallait les relier à ma VM Jeedom pour pouvoir
+m’en servir.
 
 > **Note**
 >
-> For Zwave, RFXcom, edisio and enOcean there is no problem, for
-> GSM keys you have to follow this
-> [tutorial] (https://jeedom.github.io/documentation/howto/en_US/doc-howto-gsm.huawei_mode_modem.html)
-> before to force the key in modem mode only if it is not
-> not seen correctly on the ESXi.
+> Pour Zwave, RFXcom, edisio et enOcean il n’y a aucun soucis, pour les
+> clefs GSM il vous faut suivre ce
+> [tutoriel](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-gsm.huawei_mode_modem.html)
+> avant pour forcer la clef en mode modem seulement sinon celle-ci n’est
+> pas vue correctement sur l’ESXi.
 
-Go to your VM then do "Change settings":
+Allez sur votre VM puis faites "Modifier les paramètres" :
 
 ![vmware.createvm25](../images/vmware.createvm25.PNG)
 
-Click on "Add another device" then USB controller:
+Cliquez sur "Ajouter un autre périphérique" puis controleur USB :
 
 ![vmware.createvm26](../images/vmware.createvm26.PNG)
 
 > **Note**
 >
-> The following step should be repeated for each USB device that
-> you want to connect
+> L’étape qui suit devra être repétée pour chaque périphérique USB que
+> vous voulez connecter
 
-Save, redo "Change settings", then "Add another
-device "and" USB device ":
+Enregistrez, refaites "Modifier les paramètres", puis "Ajouter un autre
+périphérique" et "USB device" :
 
 ![vmware.createvm27](../images/vmware.createvm27.PNG)
 
-Choose your USB device from the drop-down list:
+Choisissez votre périphérique USB dans la liste déroulante :
 
 ![vmware.createvm28](../images/vmware.createvm28.PNG)
 
-And here your device is plugged into your VM. Every
-restart it will be auto reconnected to the VM and if you
-physically disconnect / connect then it will be reconnected to
-your VM. In other words the use is now totally
-transparent.
+Et voilà votre périphérique est branché sur votre VM. A chaque
+redémarrage il sera automatique rebranché sur la VM et si vous le
+deconnectez/connectez physiquement alors celui-ci sera rebranché sur
+votre VM. En d’autres termes l’utilisation est maintenant totalement
+transparente.

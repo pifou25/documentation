@@ -1,128 +1,128 @@
-Goal
+Objectif 
 ========
 
-This article is intended to guide you in using Android
-to talk to Jeedom. We will use the Jeedom interaction engine that
-allows to formulate requests and that Jeedom responds to them (and also, if
-wish, activates different scenarios or elements).
+Cet article a pour objet de vous guider dans l’utilisation d’Android
+pour parler à Jeedom. On utilisera le moteur des interactions Jeedom qui
+permet de formuler des demandes et que Jeedom y réponde (et aussi, si on
+le souhaite, active différents scénarios ou éléments).
 
-Installation
+Installation 
 ============
 
-Prerequisites
+Les prérequis 
 -------------
 
-Of course, you need an Android device (tablet, phone, PC with
-microphone and speakers) and install
-[Tasker] (https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=fr)
-and
-[Autovoice] (https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice&hl=fr).
-This allows you to create your own voice commands for Google Now
-to automate his tasks using voice.
+Naturellement, il faut un appareil Android (tablette, téléphone, PC avec
+microphone et hauts parleurs) et y installer
+[Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=fr)
+et
+[AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice&hl=fr).
+Ce dernier permet de créer ses propres commandes vocales pour Google Now
+pour automatiser ses tâches en utilisant la voix.
 
-Note: AutoVoice is only the component to talk to Jeedom but does not
-do not allow Jeedom to answer. For him to do it, no need for
-Tasker plugin. This example can also be used by replacing the
-voice recognition of AutoVoice by an NFC tag, a geolocation,
-an SMS received ...
+À noter : AutoVoice n’est que la composante pour parler à Jeedom mais ne
+permet pas à Jeedom de répondre. Pour qu’il le fasse, pas besoin du
+plugin Tasker. On peut aussi utiliser cet exemple en remplaçant la
+reconnaissance vocale de AutoVoice par un tag NFC, une géolocalisation,
+un SMS reçu…​
 
-The principle
+Le principe 
 -----------
 
-We will use a tasker profile on state. This one will be a
-voice recognition of AutoVoice. Then in task, we will ask
-Tasker to execute 2 actions. The first will be to call Jeedom and him
-transmit the text result of speech recognition. The second
-will be to state the return of Jeedom.
+On va utiliser un profil Tasker sur état. Celui-ci sera une
+reconnaissance vocale de AutoVoice. Ensuite en tâche, on demandera à
+Tasker d’exécuter 2 actions. La première sera d’appeler Jeedom et lui
+transmettre le résultat texte de la reconnaissance vocale. La deuxième
+sera d’énoncer le retour de Jeedom.
 
-Profile creation
+Création du profil 
 ==================
 
-A new profile is added with a **state** as a trigger.
+On ajoute un nouveau profil avec un **état** comme déclencheur.
 
 ![android.autovoice1](../images/android.autovoice1.png)
 
-We select **Plugin** on the first screen.
+On sélectionne **Plugin** sur le premier écran.
 
 ![android.autovoice2](../images/android.autovoice2.png)
 
-In plugin type, we select **AutoVoice**.
+En type de plugin, on sélectionne **AutoVoice**.
 
 ![android.autovoice3](../images/android.autovoice3.png)
 
-In the **AutoVoice** sub-menu, select **Recognized**.
+Dans le sous-menu **AutoVoice**, on sélectionne **Recognized**.
 
 ![android.autovoice4](../images/android.autovoice4.png)
 
-You can save the default configuration unless you want to
-specify keywords or other parameters.
+Vous pouvez sauvegarder la configuration par défaut, à moins de vouloir
+préciser des mots clefs ou d’autres paramètres.
 
 ![android.autovoice5](../images/android.autovoice5.png)
 
-We can give the profile a name like "Jeedom Interactions" and the
-backup will be made after linking with a task.
+On pourra donner au profil un nom comme "Jeedom Interactions" et la
+sauvegarde sera faite après la liaison avec une tâche.
 
-Task
+La tâche 
 ========
 
-A **new task** is added to the newly created profile. By
-for example, it could be called "Jeedom API".
+On ajoute une **nouvelle tâche** au profil nouvellement créé. Par
+exemple, elle pourra être appelée "API Jeedom".
 
 ![android.autovoice6](../images/android.autovoice6.png)
 
-The task will finally regroup 2 actions: **API call** and ** say the
-return**.
+La tâche regroupera finalement 2 actions : **appel API**et**dire le
+retour**.
 
 ![android.autovoice7](../images/android.autovoice7.png)
 
-First we will add an action type **Network**.
+D’abord on va ajouter une action de type **Réseau**.
 
 ![android.autovoice8](../images/android.autovoice8.png)
 
-Then we select **Get HTTP**.
+Puis on sélectionne **Get HTTP**.
 
 ![android.autovoice9](../images/android.autovoice9.png)
 
-There we will fill with Jeedom information. Here is the information at
-enter :
+Là on va remplir avec les informations Jeedom. Voici les informations à
+entrer :
 
--   Server: Port: `https: // mydomain.tld`
+-   Serveur:Port : `https://mondomain.tld`
 
--   Path:
-    `/jeedom/core/api/jeeApi.php? Apikey votreclef = & type = interact & query = UTF8 & %avcommnofilter = 1`
+-   Chemin :
+    `/jeedom/core/api/jeeApi.php?apikey=votreclef&type=interact&query=%avcommnofilter&utf8=1`
 
-Do not forget to put your API key in place of the chain
-`Votreclef`. You have to leave `%avcommonfilter` at the end, it will be
-replaced by the return of Autovoice.
+Ne pas oublier de mettre votre clef API en lieu et place de la chaine
+`votreclef`. Il faut bien laisser `%avcommonfilter` à la fin, ce sera
+remplacé par le retour d’Autovoice.
 
 ![android.autovoice10](../images/android.autovoice10.png)
 
-Add an action of type **Say**. To do this, filter the actions in
-putting "say" at the magnifying glass.
+Ajouter une action de type **Dire**. Pour cela, filtrer les actions en
+mettant "dire" au niveau de la loupe.
 
 ![android.autovoice11](../images/android.autovoice11.png)
 
-And we enter `% HTTPD` in the text field.
+Et on rentre `%HTTPD` dans le champ texte.
 
 ![android.autovoice12](../images/android.autovoice12.png)
 
-It's finish. On text recognition by AutoVoice, Jeedom will be
-called and you will have the answer configured in the interactions that
-will be stated by your phone. Do not forget to configure the
-Jeedom interactions and you can ask him anything you
-want. From "what is the temperature of the living room" to "turn on the light of the
-living room".
+C’est fini. Sur reconnaissance de texte par AutoVoice, Jeedom sera
+appelé et vous aurez la réponse configurée dans les interactions qui
+sera énoncée par votre téléphone. N’oubliez pas de configurer les
+interactions Jeedom et vous pourrez lui demander tout ce que vous
+voulez. De "quelle est la température du salon" à "allume la lumière du
+salon".
 
 > **Tip**
 >
-> If it does not work from the beginning, it's often because AutoVoice
-> is not active. To do this, click on Google Now
-> Integration and on the first choice at the top and allow
+> Si cela ne marche pas dès le début, c’est souvent parce que AutoVoice
+> n’est pas actif. Pour cela lancez-le, cliquez sur Google Now
+> Integration et sur le premier choix tout en haut et autorisez
 > AutoVoice.
 
 > **Tip**
 >
-> By default, AutoVoice turns off Google Now search, it is
-> possible to cancel this behavior, for that in Tasker click on
-> your profile then "edition" (small pencil), then "advanced" (while
-> bottom), and uncheck "Do Google Now Search" (bottom).
+> Par défaut, AutoVoice désactive la recherche Google Now, il est
+> possible d’annuler ce comportement, pour cela dans Tasker cliquez sur
+> votre profil puis "edition" (petit crayon), puis "advanced" (tout en
+> bas), et décochez "Do Google Now Search" (tout en bas).

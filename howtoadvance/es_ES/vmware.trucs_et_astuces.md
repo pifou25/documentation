@@ -1,306 +1,306 @@
-No es realmente un howto aquí, sino una colección de consejos y trucos
+Pas vraiment un howto ici mais plus un recueil de trucs et astuces sur
 VMware
 
-Añadir licencia
+Ajouter sa licence 
 ==================
 
-Una vez conectado a la interfaz web (IP \ _ESXI / ui) debe continuar
-"Administrar":
+Une fois connecté sur l’interface web (IP\_ESXI/ui) il faut aller sur
+"Gérer" :
 
 ![vmware.tips](../images/vmware.tips.PNG)
 
-A continuación, "la licencia para la asignación" y haga clic en "Asignar licencia"
+Puis sur "Attribution de licence" et cliquer sur "Attribuer une licence"
 
 ![vmware.tips2](../images/vmware.tips2.PNG)
 
-E introduzca su clave de licencia
+Et rentrer votre clef de licence
 
 ![vmware.tips3](../images/vmware.tips3.PNG)
 
-> **Nota**
+> **Note**
 >
-> A modo de recordatorio, si usted no hace sus ESXi ya no puede
-> Trabajar después de 60 días
+> Pour rappel, si vous ne le faites pas votre ESXi risque de ne plus
+> fonctionner au bout de 60 jours
 
-Montar un almacén de datos NFS Synology
+Monter un datastore NFS avec un Synology 
 ========================================
 
-Veremos cómo montar un recurso compartido de Synology en
-VMware. Esto permite, por ejemplo, a las máquinas virtuales en el
-Synology (que puede tener más espacio que el ESXi) o enviar
-copias de seguridad de la máquina en Synology
+On va voir ici comment monter un partage NFS depuis un Synology sur
+VMware. Cela permet par exemple de mettre les machines virtuelles sur le
+Synology (qui peut avoir plus de place que l’ESXi) ou d’envoyer les
+backups des machines sur le Synology
 
-Configuración de Synology
+Configuration du Synology 
 -------------------------
 
-Tenemos que ir al Panel de control y luego "Servicios
-Archivos "y marque la casilla" Habilitar NFS ":
+Il faut aller sur le panneau de configuration puis "Services de
+fichiers" et cocher la case "Activer NFS" :
 
 ![vmware.tips4](../images/vmware.tips4.PNG)
 
-A continuación, debe hacer clic en "Compartir carpeta", y luego elegir la carpeta en la
-Compartir (en este caso copia de seguridad), a continuación, haga clic en editar "NFS Permiso" y
-finalmente, crear (aquí ya tengo uno, su lista debe estar
-vacío):
+Ensuite il faut cliquer sur "Dossier partagé", puis choisir le dossier à
+partager (ici Backup), cliquer sur modifier puis "Autorisation NFS" et
+enfin sur créer (ici j’en ai déja une, votre liste à vous devrait être
+vide) :
 
 ![vmware.tips5](../images/vmware.tips5.PNG)
 
-A continuación, poner la IP de su ESXi y "Squash" que ponen
-"Mapeo de todos los usuarios admin" y luego se valida:
+Ensuite vous mettez l’IP de votre ESXi et dans "Squash" vous mettez
+"Mappage de tous les utilisateurs sur admin" puis vous validez :
 
 ![vmware.tips6](../images/vmware.tips6.PNG)
 
-A continuación, debe recuperar la senda de la acción (aquí / Volume2 / Copia de seguridad):
+Il faut ensuite recupérer le chemin du partage (ici /volume2/Backup) :
 
 ![vmware.tips7](../images/vmware.tips7.PNG)
 
-Eso es parte de Synology, ahora irá ESXi secundarios
+Voilà c’est fini du coté Synology, on va maintenant passer coté ESXi
 
-Configuración de ESXi
+Configuration de l’ESXi 
 -----------------------
 
-Hay que seguir adelante "almacenamiento":
+Il faut aller sur "Stockage" :
 
 ![vmware.tips8](../images/vmware.tips8.PNG)
 
-A continuación, haga clic en "Nueva base de datos":
+Puis cliquer sur "Nouvelle banque de données" :
 
 ![vmware.tips9](../images/vmware.tips9.PNG)
 
-No se ha seleccionado "Montaje de una almacén de datos NFS" y luego hacer
-Próximo :
+Là vous selectionnez "Monter une banque de données NFS" puis faites
+suivant :
 
 ![vmware.tips10](../images/vmware.tips10.PNG)
 
-Introduzca el nombre del almacén de datos para crear (cuidado de evitar espacios
-caracteres especiales), establecen el IP de nuestra Synology y establecer la ruta
-compartir (véase más arriba) y finalmente validar:
+Entrez le nom du datastore à créer (attention à éviter les espaces et
+caractères spéciaux), mettez l’IP de notre Synology et mettez le chemin
+du partage (voir au-dessus) et enfin validez :
 
 ![vmware.tips11](../images/vmware.tips11.PNG)
 
-Haga clic en Finalizar:
+Cliquez sur terminer :
 
 ![vmware.tips12](../images/vmware.tips12.PNG)
 
-Y aparecerá ahora su nuevo almacén de datos (en caso contrario, haga clic
-"Actualizar").
+Et voilà votre nouveau datastore devrait apparaitre (sinon cliquez sur
+"Actualiser").
 
-Añadido plugin para el montaje VAAI Synology NFS
+Ajout du plugin VAAI Synology pour montage NFS 
 ==============================================
 
-La adición de este plugin permite la aceleración de hardware en
-NFS (véanse las notas explicativas
-[Aquí] (http://www.virtual-sddc.ovh/exploiter-les-vaai-nfs-avec-un-nas-synology/))
+L’ajout de ce plugin permet d’activer l’accélération matérielle sur les
+montages NFS (pour explication voir
+[ici](http://www.virtual-sddc.ovh/exploiter-les-vaai-nfs-avec-un-nas-synology/))
 
-Para ver si lo tiene, usted tiene que conectar con el cliente pesado
-(No he encontrado la información en el cliente web) y vaya a Configuración →
-de almacenamiento:
+Pour voir si vous l’avez, il faut se connecter avec le client lourd
+(j’ai pas trouvé l’info sur le client web) et aller dans configuration →
+stockage :
 
 ![vmware.tips13](../images/vmware.tips13.PNG)
 
-La instalación es muy simple, primero debe activar el servicio
-SSH ESXi (la interfaz web debe ir Servicio de Acción ⇒
-⇒ Activar Secure Shell) y luego conectarse a través de SSH (la
-ID son los mismos que para acceder a la interfaz). entonces él
-Sólo hacer:
+La mise en place est assez simple, d’abord il faut activer le service
+SSH de l’ESXi (sur l’interface web il faut aller dans action ⇒ services
+⇒ Activer Secure Shell), puis se connecter en SSH dessus (les
+identifiants sont les mêmes que pour accéder à l’interface). Ensuite il
+vous suffit de faire :
 
-    esxcli VIB instalar el software -v -f https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.0-0001/VMware_ESXi/esx-nfsplugin.vib
+    esxcli software vib install -v https://global.download.synology.com/download/Tools/NFSVAAIPlugin/1.0-0001/VMware_ESXi/esx-nfsplugin.vib -f
 
-Usted debe tener :
+Vous devez avoir :
 
 ![vmware.tips14](../images/vmware.tips14.PNG)
 
-A continuación, debe reiniciar el ESXi, para comprobar que está bien que debe
-a continuación, volver a la configuración del cliente pesado → Almacenamiento:
+Il faut ensuite redemarrer l’ESXi, pour vérifier que c’est ok il faut
+ensuite retourner avec le client lourd dans configuration → stockage :
 
 ![vmware.tips15](../images/vmware.tips15.PNG)
 
-Instalar / Actualizar ESXi Embedded Client Host
-================================================== =
+Installer/Mettre à jour l’ESXi Embedded Host Client 
+===================================================
 
-ESXi Embedded host de cliente es una interfaz web (HTML5) para ESXi
-deja en el 95% de los casos ocurrió cliente pesado. Está presente
-por defecto en la versión de actualización 6.0 2, pero en la versión 1.0, es
-actualización muy recomendable.
+ESXi Embedded Host Client est une interface web (en HTML5) de l’ESXi qui
+permet dans 95% des cas de se passer du client lourd. Elle est présente
+par défaut dans la version 6.0 update 2, mais en version 1.0, il est
+vivement conseillé de la mettre à jour.
 
-Encontrará toda la información
-[Aquí] (https://labs.vmware.com/flings/esxi-embedded-host-client)
+Vous trouverez toutes les information
+[ici](https://labs.vmware.com/flings/esxi-embedded-host-client)
 
-Para ver si tiene la interfaz web, sólo tiene que ir con
-su navegador IP \ _ESXI / ui si no tienen nada debe
-instalar, primero tiene que conectarse a través de SSH en ESXi puede hacer:
+Pour voir si vous disposez de l’interface web, il suffit d’aller avec
+votre navigateur sur IP\_ESXI/ui si vous n’avez rien il faut
+l’installer, il faut d’abord se connecter en SSH sur l’ESXI puis faire :
 
-    esxcli VIB instalar el software -v http://download3.vmware.com/software/vmw-tools/esxui/esxui-signed-latest.vib
+    esxcli software vib install -v http://download3.vmware.com/software/vmw-tools/esxui/esxui-signed-latest.vib
 
-Si ya tienes que actualizarlo para hacerlo:
+Si vous l’avez déjà, pour la mettre à jour il faut faire :
 
-    actualización de software vib esxcli -v http://download3.vmware.com/software/vmw-tools/esxui/esxui-signed-latest.vib
+    esxcli software vib update -v http://download3.vmware.com/software/vmw-tools/esxui/esxui-signed-latest.vib
 
-Instalación del cliente pesado
+Installation du client lourd 
 ============================
 
-Esto es opcional si no se necesita para administrar USB.
+Cette partie est facultative si vous n’avez pas besoin de gérer l’USB.
 
-Tienes que ir con su navegador web, la dirección IP del ESXi
-a continuación, haga clic en el enlace "Descargar el vSphere Client para Windows":
+Il vous faut aller, avec votre navigateur internet, sur l’IP de l’ESXi
+puis cliquer sur le lien "Download vSphere Client for Windows" :
 
 ![vmware.createvm](../images/vmware.createvm.PNG)
 
-Una vez descargado, simplemente ejecuta la instalación (Paso
-voluntariamente en esta parte, ya que sólo acepta todo).
+Une fois téléchargé il vous suffit de lancer l’installation (je passe
+volontairement sur cette partie car il suffit de tout valider).
 
-A continuación, ejecute VMware vSphere Client, debe tener:
+Ensuite lancez VMware vSphere Client, vous devez avoir :
 
 ![vmware.createvm1](../images/vmware.createvm1.PNG)
 
-Sólo tienes que introducir la IP de su servidor ESXi, nombre de usuario y
-contraseña y aquí se inicia la sesión:
+Vous avez juste à rentrer l’IP de votre ESXi, le nom d’utilisateur et le
+mot de passe et vous voila connecté dessus :
 
 ![vmware.createvm2](../images/vmware.createvm2.PNG)
 
-Actualizar el ESXi
+Mise à jour de l’ESXi 
 =====================
 
-El procedimiento es bastante fácil, en primer lugar es necesario recuperar el parche
-haciendo clic [aquí] (https://my.vmware.com/group/vmware/patch#search) (hay
-que seguramente va a conectar con su cuenta de VMware). En la
-lista "Seleccione un producto" put "ESXi (Embedded e instalable)" en
-cara dejar que la última versión de VMware y no "Buscar". Después
-descargar el parche necesario (por lo general el último). El número de compilación (la
-primer paso número uno empezando por KB) le da la versión de
-parche se puede comparar con el número de compilación.
+La procédure est assez facile, il faut tout d’abord recupérer le patch
+en allant [ici](https://my.vmware.com/group/vmware/patch#search) (il
+vous faudra sûrement vous connecter avec votre compte VMware). Sur la
+liste "Select a Product" mettez "ESXi (Embedded and Installable)", en
+face laisser la dernière version de VMware et faites "Search". Puis
+télécharger le patch voulu (en général le dernier). Le build number (le
+premier numéro pas celui commencant par KB) vous donne la version du
+patch que vous pouvez comparer avec votre build number.
 
-A continuación, sube la cremallera en uno de sus almacenes de datos y hacer:
+Ensuite transférez le zip sur un de vos datastores et faites :
 
-    actualización de software vib esxcli -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
+    esxcli software vib update -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
 
-> **Nota**
+> **Note**
 >
-> Sustituir si bien la ruta y el nombre de la cremallera en función de su
-> control
+> Remplacer bien le chemin et le nom du zip en fonction de votre
+> configuration
 
-> **Importante**
+> **Important**
 >
-> Tenga cuidado de poner la ruta completa de la cremallera o lo hará
-> No funciona
+> Attention à bien mettre le chemin complet vers le zip sinon ça ne
+> marche pas
 
-El comando anterior no actualiza el Vib tener necesidad,
-puede forzar la instalación de todo el paquete de Vib (por lo tanto
-Atención que puede hacer un downgrade) por:
+La commande au-dessus ne met à jour que les vib qui en ont besoin mais
+vous pouvez forcer l’installation de tous les vib du package (donc
+attention cela peux faire un downgrade) en faisant :
 
-    esxcli VIB instalar el software -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
+    esxcli software vib install -d /vmfs/volumes/576c8ab3-fdf64d2f-091b-b8aeedeb87fb/ESXi600-201605001.zip
 
-Configuración NTP
+Configuration du NTP 
 ====================
 
-Por defecto ESXi no utiliza NTP por lo que no es
-el tiempo y que las máquinas virtuales no están a tiempo de corregirlo es muy
-sencillo. Usted tiene que ir de la versión web de Manejo de Sistema → →
-Fecha y hora, a continuación, hacer clic en "Editar configuración":
+Par défaut l’ESXi n’utilise pas le NTP ce qui fait qu’il n’est pas à
+l’heure et que les VMs ne sont pas à l’heure, pour corriger c’est très
+simple. Il faut aller à partir de la version web sur Gérer → Système →
+Date et heure, là vous cliquez sur "Modifier les paramètres" :
 
 ![vmware.tips16](../images/vmware.tips16.PNG)
 
-Y en el "servidor NTP" hay que poner: 0.debian.pool.n,
+Et dans la case "Serveur NTP" il faut mettre : 0.debian.pool.n,
 1.debian.pool.n, 2.debian.pool.n, 3.debian.pool.n, time.nist.gov
 
 ![vmware.tips17](../images/vmware.tips17.PNG)
 
-Luego, en Acciones → → NTP Servicio Estrategia clic en "Inicio y
-parar con el host ":
+Ensuite dans Actions → Service NTP → Strategie cliquez sur "Démarrer et
+arrêter avec l’hôte" :
 
 ![vmware.tips18](../images/vmware.tips18.PNG)
 
-También en acciones NTP Servicio → haga clic en "Inicio"
+Toujours dans Actions → Service NTP cliquez sur "Démarrer"
 
-Aquí está su ESXi deben tomar temprano solos ahora.
+Voilà votre ESXi devrait prendre la bonne heure tout seul maintenant.
 
-el acceso externo a la ESXi
+Accès extérieur à l’ESXi 
 ========================
 
-Para acceder a los ESXi fuera que necesita:
+Pour accéder à l’ESXi de l’extérieur il vous faut :
 
--   puerto abierto 443 al 443 de ESX
+-   ouvrir le port 443 vers le 443 de l’ESXi
 
--   puerto abierto 902 a 902 del ESXi
+-   ouvrir le port 902 vers le 902 de l’ESXi
 
-Y eso es todo. Un pequeño consejo si tiene un NAS de Synology se
-puede (tener cuidado de seguir bien):
+Et voilà c’est tout. Petite astuce si vous avez un NAS Synology vous
+pouvez faire (attention à bien suivre) :
 
--   abrir a 443 el 5001 de la NAS de Synology
+-   ouvrir le 443 vers le 5001 du NAS Synology
 
--   abrir 80-80 NAS (útil sólo para generar
-    de dejar que los certificados de cifrar)
+-   ouvrir le 80 vers le 80 du NAS (utile juste pour générer les
+    certificats let’s encrypt)
 
--   puerto abierto 902 a 902 del ESXi
+-   ouvrir le port 902 vers le 902 de l’ESXi
 
-Luego, en el NAS en el panel de control y, a continuación portal
-Aplicación y proxy inverso (tenga en cuenta que es esencial DSM 6):
+Ensuite sur le NAS dans le panneau de configuration puis portail
+d’application et proxy inversé (attention il faut absolument DSM 6) :
 
 ![vmware.tips19](../images/vmware.tips19.PNG)
 
-Haga clic en crear e implementar:
+Cliquez sur créer et mettre :
 
 ![vmware.tips20](../images/vmware.tips20.PNG)
 
-En "Nombre de host" (en la fuente) que tiene que poner el DNS requerido
-(Ej monesxi.mondsn.synology.me) y en "Nombre de host" (en
-destino) que tiene que poner la IP de la ESX
+Dans "Nom d’hôte" (au niveau de la source) il faut mettre le DNS voulu
+(par exemple monesxi.mondsn.synology.me) et dans "Nom d’hôte" (au niveau
+de la destination) il faut mettre l’IP de l’ESXi
 
-> **Nota**
+> **Note**
 >
-> También puede hacer lo mismo, pero para acceder a jeedom
-> Esta vez con el IP jeedom (la máquina virtual si está
-> Virtualizados) y el puerto 80
+> Vous pouvez faire aussi la même chose pour accéder à jeedom mais en
+> mettant cette fois l’IP de jeedom (de la vm si vous êtes en
+> virtualisé) et le port 80
 
-> **Nota**
+> **Note**
 >
-> Una vez hecho esto y su DNS apunta correctamente
-> En el NAS se puede generar un certificado SSL válido gratuita
-> Con cifrar Vamos, yendo Sécruité ⇒ certificado y hacer
-> Agregar. Entonces no olvide hacer clic para configurar
-> Asignar a su proxy inverso
+> Une fois que vous avez fait cela et si votre DNS pointe correctement
+> sur le NAS vous pouvez générer un certificat SSL valide gratuitement
+> avec Let’s encrypt, en allant dans Sécruité ⇒ certificat et en faisant
+> ajouter. Ensuite n’oubliez pas de cliquer sur configurer pour
+> l’affecter à votre proxy inversé
 
-A continuación, para acceder a su ESXi simplemente con el navegador
-Cesta de la DNS o la adición de IP externa / ui en el final y que es
-buena.
+Ensuite pour accéder à votre ESXi il vous suffit avec votre navigateur
+d’aller sur votre DNS ou IP externe en ajoutant /ui à la fin et c’est
+bon.
 
-> **Importante**
+> **Important**
 >
-> Si usted va a través de la consola basada en web proxy inverso para NAS
-> Máquinas virtuales no funciona (porque va a través de la WebSocket), sin embargo
-> Si vas a través de VMware todo consola remota debe ser aceptable (se
-> Pasa a través del puerto 902)
+> Si vous passez par le reverse proxy du NAS la console en mode web des
+> VMs ne fonctionne pas (car cela passe par du websocket), en revanche
+> si vous passez par VMware Remote Console tout devrait être ok (cela
+> passe par le port 902)
 
-> **Nota**
+> **Note**
 >
-> También hay una aplicación en Android VMware a la Lista de Seguimiento
-> Acceso a la consola ESXi, así como máquinas virtuales
+> Il existe aussi une application Vmware Watchlist sur Android pour
+> avoir accès à l’ESXi ainsi qu’aux consoles des VMs
 
-certificado SSL
+Certificat SSL 
 ==============
 
-Es posible importar el certificado VMware directamente
-su PC por no tener la alerta.
+Il est possible d’importer les certificats de vmware directement dans
+votre pc pour ne plus avoir l’alerte.
 
-En el orden debe:
+Dans l’ordre il faut :
 
--   tener una url (DNS) el acceso a sus ESXi, aquí tomaremos
+-   avoir une url (dns) d’accès a votre esxi, ici on va prendre
     esxi1.lan
 
--   establecer el nombre de su ESXi, ssh a:
+-   configurer le nom de votre esxi, en ssh dessus faire :
 
-<! - ->
+<!-- -->
 
-    sistema esxcli conjunto hostname --host = esxi1
+    esxcli system hostname set --host=esxi1
 
--   configurar el FQDN:
+-   configurer le fqdn :
 
-<! - ->
+<!-- -->
 
-    establece esxcli hostname sistema --fqdn = esxi1.lan
+    esxcli system hostname set --fqdn=esxi1.lan
 
--   Recuperar el certificado raíz ESXi, es en
+-   Récuperer le certificat racine de l’esxi, il est dans
     /etc/vmware/ssl/castore.pem
 
-En un trabajo bien hecho clic e instalar el certificado, lo puso en
-"Autoridad de certificación raíz de confianza"
+Sur poste faite clic droit puis installer le certificat , le mettre dans
+"Autorité de certification racines de confiance"

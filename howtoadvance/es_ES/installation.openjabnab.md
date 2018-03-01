@@ -1,584 +1,584 @@
-Aquí hay un tutorial sobre cómo instalar openjabnab localmente (en una o RPI
-zumbido)
+Voici un tuto sur comment installer openjabnab en local (sur un rpi ou
+humming)
 
-> **Nota**
+> **Note**
 >
-> Este tutorial se basa en gran medida en
-> [Los mismos] (http://jetweb.free.fr/nabaztag_rpi/Tutoriel_OJN_RPi_v1-1.pdf)
+> Ce tuto est largement inspiré de
+> [celui-ci](http://jetweb.free.fr/nabaztag_rpi/Tutoriel_OJN_RPi_v1-1.pdf)
 
-dependencias de instalación
+Installation des dépendances 
 ============================
 
-Una vez que el sistema está instalado SSH hizo:
+Une fois le système installé en SSH faite :
 
-    apt-get update
-    apt-get dist-upgrade
-    apt-get install ssh
-    apt-get install apache2 php5-mysql php5 libapache2-mod-php5
-    reescritura a2enmod
-    apt-get install make
-    apt-get install build-essential
-    apt-get install libqt4-dev-desaparecidos --fix
-    apt-get install Qt4-dev-herramientas
-    apt-get install bind9
-    apt-get install git
+    apt-get update
+    apt-get dist-upgrade
+    apt-get install ssh
+    apt-get install apache2 php5 php5-mysql libapache2-mod-php5
+    a2enmod rewrite
+    apt-get install make
+    apt-get install build-essential
+    apt-get install libqt4-dev --fix-missing
+    apt-get install qt4-dev-tools
+    apt-get install bind9
+    apt-get install git
 
-Configuración de la red
+Configuration du réseau 
 =======================
 
-A continuación, debe recuperar la dirección IP del sistema:
+Il faut ensuite récupérer l’addresse IP du système :
 
-    ifconfig
+    ifconfig
 
-El resultado es:
+Le résultat est :
 
-    eth0 Link encap: Ethernet HWaddr d0: 63: B4: 00: 54: 98
-              inet addr: 192.168.0.162 Bcast: Máscara 192.168.0.255: 255.255.255.0
-              inet6 addr: fe80 :: D263: b4ff: FE00: Alcance 5498/64: Enlace
-              UP BROADCAST RUNNING MULTICAST MTU: 1500 Métrica: 1
-              paquetes RX: 10721 Errores: 0 Eliminado: 0: 0 los sobrantes de bastidor: 0
-              TX paquetes: 6477: 0 errores cayeron: 0 excesos: 0 portadora: 0
-              colisiones: 0 txqueuelen: 1000
-              bytes RX: 2032942 (1,9 MiB) TX bytes: 1230703 (1,1 MiB)
+    eth0      Link encap:Ethernet  HWaddr d0:63:b4:00:54:98
+              inet addr:192.168.0.162  Bcast:192.168.0.255  Mask:255.255.255.0
+              inet6 addr: fe80::d263:b4ff:fe00:5498/64 Scope:Link
+              UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+              RX packets:10721 errors:0 dropped:0 overruns:0 frame:0
+              TX packets:6477 errors:0 dropped:0 overruns:0 carrier:0
+              collisions:0 txqueuelen:1000
+              RX bytes:2032942 (1.9 MiB)  TX bytes:1230703 (1.1 MiB)
 
-La dirección IP es 192.168.0.162.
+Ici l’adresse IP est la 192.168.0.162.
 
-> **Nota**
+> **Note**
 >
-> Para el resto del tutorial voy a utilizar esta IP, es, por supuesto,
-> Reemplazar en función de la realidad
+> Pour toute la suite du tuto j’utiliserai cette IP, elle est bien sûr à
+> remplacer en fonction de celle que vous avez réellement
 
-A continuación, editar /etc/resolv.conf
+Editez ensuite le fichier /etc/resolv.conf
 
-    /etc/resolv.conf vim
+    vim  /etc/resolv.conf
 
-Y añade:
+Et ajoutez :
 
-    192.168.0.162 servidor de nombres
+    nameserver 192.168.0.162
 
-Configuración de DNS
+Configuration du DNS 
 ====================
 
-Editar el archivo /etc/bind/named.conf.local
+Editez le fichier /etc/bind/named.conf.local
 
-    cd / etc / bind /
-    named.conf.local vim
+    cd /etc/bind/
+    vim named.conf.local
 
-Y añade:
+Et ajoutez :
 
-    "Raspberry.pi" {area
-     -Type master;
-     presentar "/etc/bind/db.raspberry.pi";
-    };
-    "0.168.192.in-addr.arpa" {area
-     -Type master;
-     presentar "/etc/bind/db.192.168.0.inv";
-    };
+    zone "raspberry.pi"{
+     type master;
+     file "/etc/bind/db.raspberry.pi";
+    };
+    zone "0.168.192.in-addr.arpa"{
+     type master;
+     file "/etc/bind/db.192.168.0.inv";
+    };
 
-Crear el archivo db.raspberry.pi
+Créez le fichier db.raspberry.pi
 
 vim db.raspberry.pi ---
 
-Y ponerlo:
+Et mettez dedans :
 
-    $ TTL 604800
-    @ IN SOA ojn.raspberry.pi. root.raspberry.pi. (
-     1; de serie
-     604800; refrescar
-     86400; reintentar
-     2419200; expira
-     604,800); TTL caché negativo
-    ;
-    @ IN NS ojn.raspberry.pi.
-    OJN EN UN 192.168.0.162
-    192.168.0.162 192.168.0.162 EN UN
+    $TTL 604800
+    @ IN SOA ojn.raspberry.pi. root.raspberry.pi. (
+     1 ; Serial
+     604800 ; Refresh
+     86400 ; Retry
+     2419200 ; Expire
+     604800 ) ; Negative Cache TTL
+    ;
+    @ IN NS ojn.raspberry.pi.
+    ojn IN A 192.168.0.162
+    192.168.0.162 IN A 192.168.0.162
 
-A continuación, cree el archivo de db.192.168.0.inv
+Puis créez ce fichier db.192.168.0.inv
 
-    db.192.168.0.inv vim
+    vim db.192.168.0.inv
 
-Y poner:
+Et mettez :
 
-    $ TTL 604800
-    @ IN SOA ojn.raspberry.pi. root.localhost. (
-     2; de serie
-     604800; refrescar
-     86400; reintentar
-     2419200; expira
-     604,800); TTL caché negativo
-    ;
-    @ IN NS ojn.raspberry.pi.
-    162 IN PTR ojn.raspberry.pi.
+    $TTL 604800
+    @ IN SOA ojn.raspberry.pi. root.localhost. (
+     2 ; Serial
+     604800 ; Refresh
+     86400 ; Retry
+     2419200 ; Expire
+     604800 ) ; Negative Cache TTL
+    ;
+    @ IN NS ojn.raspberry.pi.
+    162 IN PTR ojn.raspberry.pi.
 
-> **Importante**
+> **Important**
 >
-> Recuerde reemplazar el 162 en la última fila de la última
-> Parte de la IP de su sistema de
+> Pensez bien à remplacer le 162 de la dernière ligne par la dernière
+> partie de l’ip de votre système
 
-Iniciar el DNS:
+Lancer le DNS :
 
-    inicio /etc/init.d/bind9
+    /etc/init.d/bind9 start
 
-Prueba si esto es bueno:
+Testez si c’est bon :
 
-    ojn.raspberry.pi de ping
+    ping ojn.raspberry.pi
 
-Usted debe tener:
+Vous devriez avoir :
 
-    root @ Cubox-i: / home / OJN # ping ojn.raspberry.pi
-    Ojn.raspberry.pi PING (192.168.0.162) 56 (84) bytes de datos.
-    64 bytes de ojn.raspberry.pi (192.168.0.162): icmp_seq = 1 TTL = 64 tiempo = 0069 ms
-    64 bytes de ojn.raspberry.pi (192.168.0.162): icmp_seq = 2 TTL = 64 tiempo = 0067 ms
-    64 bytes de ojn.raspberry.pi (192.168.0.162): icmp_seq = 3 TTL = 64 tiempo = 0059 ms
-    64 bytes de ojn.raspberry.pi (192.168.0.162): icmp_seq = 4 TTL = 64 tiempo = 0068 ms
-    ^ C
-    Ojn.raspberry.pi --- --- estadísticas de ping
-    4 Los paquetes transmitidos, 4 recibieron, 0% de pérdida de paquetes, 3000ms tiempo
-    rtt min / avg / max / MDEV = 0,059 / 0,065 / 0,069 / 0,010 ms
+    root@cubox-i:/home/ojn# ping ojn.raspberry.pi
+    PING ojn.raspberry.pi (192.168.0.162) 56(84) bytes of data.
+    64 bytes from ojn.raspberry.pi (192.168.0.162): icmp_seq=1 ttl=64 time=0.069 ms
+    64 bytes from ojn.raspberry.pi (192.168.0.162): icmp_seq=2 ttl=64 time=0.067 ms
+    64 bytes from ojn.raspberry.pi (192.168.0.162): icmp_seq=3 ttl=64 time=0.059 ms
+    64 bytes from ojn.raspberry.pi (192.168.0.162): icmp_seq=4 ttl=64 time=0.068 ms
+    ^C
+    --- ojn.raspberry.pi ping statistics ---
+    4 packets transmitted, 4 received, 0% packet loss, time 3000ms
+    rtt min/avg/max/mdev = 0.059/0.065/0.069/0.010 ms
 
-> **Nota**
+> **Note**
 >
-> Tienes que CTRL + C para salir de la tabla
+> Il faut faire ctrl+c pour quitter le ping
 
-Por razones de seguridad también vamos a añadir la resolución en / etc / hosts, hacemos:
+Par sécurité on va aussi ajouter la résolution dans /etc/hosts, faites :
 
-    vim / etc / hosts
+    vim /etc/hosts
 
-Y añade:
+Et ajoutez :
 
-    ojn.raspberry.pi 192.168.0.162
+    192.168.0.162 ojn.raspberry.pi
 
-openjabnab recuperación
+Récupération d’openjabnab 
 =========================
 
-Primero crearemos el usuario:
+On va d’abord créer l’utilisateur :
 
-    adduser OJN
-    cd / home / OJN
+    adduser ojn
+    cd /home/ojn
 
-A continuación, clonar openjabnab:
+Puis cloner openjabnab :
 
-    git clone https://github.com/OpenJabNab/OpenJabNab.git
-    chown -R OJN: OJN / home / OJN / OpenJabNab /
-    chmod 0777 / home / OJN / OpenJabNab / HTTP-envoltura / ojn_admin / include
+    git clone https://github.com/OpenJabNab/OpenJabNab.git
+    chown -R ojn:ojn /home/ojn/OpenJabNab/
+    chmod 0777 /home/ojn/OpenJabNab/http-wrapper/ojn_admin/include
 
-Configuración del servidor Web
+Configuration du serveur web 
 ============================
 
-Marca:
+Faites :
 
-    cd / etc / apache2 / sites-available /
-    ojn.conf vim
+    cd /etc/apache2/sites-available/
+    vim ojn.conf
 
-Y añade:
+Et ajoutez :
 
-    <VirtualHost *: 80>
-            DocumentRoot / home / OJN / OpenJabNab / HTTP-envoltura /
-            ServerName ojn.raspberry.pi
-             <Directory />
-                     FollowSymLinks opciones
-                    AllowOverride None
-             </ Directory>
-             <Directorio / home / OJN / OpenJabNab / HTTP-envoltura />
-                     Options Indexes MultiView FollowSymLinks
-                     AllowOverride todo
-                    Orden allow, deny
-                     Dejar de todas las
-             </ Directory>
-    </ VirtualHost>
+    <VirtualHost *:80>
+            DocumentRoot /home/ojn/OpenJabNab/http-wrapper/
+            ServerName ojn.raspberry.pi
+             <Directory />
+                     Options FollowSymLinks
+                    AllowOverride None
+             </Directory>
+             <Directory /home/ojn/OpenJabNab/http-wrapper/>
+                     Options Indexes FollowSymLinks MultiViews
+                     AllowOverride all
+                    Order allow,deny
+                     allow from all
+             </Directory>
+    </VirtualHost>
 
-A continuación, active la página web:
+Puis activez le site :
 
-    a2ensite OJN
+    a2ensite ojn
 
-A continuación, debe autorizar el directorio del servidor openjabnab, hacer:
+Il faut ensuite autoriser le répertoire du serveur openjabnab, faites :
 
-    /etc/apache2/apache2.conf vim
+    vim /etc/apache2/apache2.conf
 
-Y añade:
+Et ajoutez :
 
-    <Directorio / home / OJN />
-            Options Indexes FollowSymLinks
-            AllowOverride None
-            Por supuesto todos los requerir
-    </ Directory>
+    <Directory /home/ojn/>
+            Options Indexes FollowSymLinks
+            AllowOverride None
+            Require all granted
+    </Directory>
 
-A continuación, reinicie Apache:
+Puis on redémarre apache :
 
-    Servicio apache2 reload
+    service apache2 reload
 
-openjabnab instalación
+Installation d’openjabnab 
 =========================
 
-Marca:
+Faites :
 
-    sabía OJN
-    cd / home / OJN / OpenJabNab / servidor
-    qmake -r
-    hacer
+    su ojn
+    cd /home/ojn/OpenJabNab/server
+    qmake -r
+    make
 
-> **Nota**
+> **Note**
 >
-> Este paso puede ser muy largo (hasta 45 minutos)
+> Cette étape peut être très longue (jusqu’à 45min)
 
-Configuración openjabnab
+Configuration d’openjabnab 
 ==========================
 
-Marca:
+Faites :
 
-    PC-dist bin openjabnab.ini / openjabnab.ini
-    bin vim / openjabnab.ini
+    cp openjabnab.ini-dist bin/openjabnab.ini
+    vim bin/openjabnab.ini
 
-Y cambiar las siguientes líneas:
+Et changez les lignes suivantes :
 
-    StandAloneAuthBypass = true
-    AllowAnonymousRegistration = true
-    AllowUserManageBunny = true
-    AllowUserManageZtamp = true
+    StandAloneAuthBypass = true
+    AllowAnonymousRegistration = true
+    AllowUserManageBunny = true
+    AllowUserManageZtamp = true
 
-Y reemplazar todo my.domain.com * * * * por ojn.raspberry.pi
+Et remplacez tous les *my.domain.com* par *ojn.raspberry.pi*
 
-openjabnab Configuración del servidor Web
+Configuration du serveur web openjabnab 
 =======================================
 
-En su puesto tiene que editar el archivo
-C: \\ windows \\ system32 \\ \\ conductores etc y añadir:
+Sur votre post vous devez éditer le fichier
+C:\\Windows\\System32\\drivers\\etc et rajouter :
 
-    ojn.raspberry.pi 192.168.0.162
+    192.168.0.162 ojn.raspberry.pi
 
-A continuación, vaya a:
+Puis allez sur :
 
-    http: //ojn.raspberry.pi/ojn_admin/install.php
+    http://ojn.raspberry.pi/ojn_admin/install.php
 
-confirma en su totalidad
+Validez le tout
 
-Inicio del servidor
+Lancement du serveur 
 ====================
 
-Aquí todo está listo sólo queda iniciar el servidor:
+Voilà tout est prêt il ne reste plus qu’à lancer le serveur :
 
-    sabía OJN
-    cd ~ / OpenJabNab / server / bin
-    ./openjabnab
+    su ojn
+    cd ~/OpenJabNab/server/bin
+    ./openjabnab
 
-Ahora vaya a:
+Maintenant allez sur :
 
-    http: //ojn.raspberry.pi/ojn_admin/index.php
+    http://ojn.raspberry.pi/ojn_admin/index.php
 
-> **Nota**
+> **Note**
 >
-> Si todo es correcto que deben tener las estadísticas que aparecen en
-> baja
+> Si tout est bon vous devriez avoir les statistique qui apparaissent en
+> bas
 
-Configuración del conejo
+Configuration du lapin 
 ======================
 
-Para configurar el conejo es bastante simple, debe desenchufar el
-vuelva a conectar, la estancia pulse el botón. Debe
-Normalmente iluminará en azul.
+Pour configurer le lapin c’est assez simple, vous devez le débrancher
+puis en le rebrancher, rester appuyez sur son bouton. Il doit
+normalement s’allumer en bleu.
 
-Luego, con su PC debe tener una nueva red inalámbrica
-nabaztagXX, ingrese él escribiendo 192.168.0.1.
+Ensuite avec votre PC vous devriez avoir un nouveau réseau wifi
+nabaztagXX, connectez-vous dessus en tapant 192.168.0.1.
 
-Una vez que se complete la configuración y la información inalámbrica
-siguiente:
+Une fois dessus renseignez votre configuration wifi et les informations
+suivantes :
 
-    DHCP habilitado: No se
-    Máscara local: 255.255.255.0
-    Local Gateway: 192.168.0.1 192.168.0.254 o (dependiendo de la red)
-    servidor DNS: 192.168.0.162
+    DHCP enabled : no
+    Local Mask : 255.255.255.0
+    Local gateway : 192.168.0.1 ou 192.168.0.254 (en fonction de votre réseau)
+    DNS server : 192.168.0.162
 
-openjabnab la supervisión del servidor y de inicio automático
-================================================== ==
+Surveillance du serveur openjabnab et démarrage auto 
+====================================================
 
-Como se dará cuenta si inicia una sesión del servidor
-openjabnab detiene. Así que añadir un pequeño script para
-supervisar el servidor y empezar automáticamente. Marca:
+Comme vous le remarquerez si vous fermez votre session le serveur
+openjabnab s’arrête. Il faut donc ajouter un petit script pour
+surveiller le serveur et le démarrer automatiquement. Faites :
 
-    cd / home / OJN
-    checkojn.sh vim
+    cd /home/ojn
+    vim checkojn.sh
 
-Y añadir en:
+Et ajoutez dedans :
 
-    si [$ (ps ax | grep openjabnab | grep -v grep | wc -l) -eq 0]; entonces
-        OJN SU; cd / home / OJN / OpenJabNab / server / bin; nohup ./openjabnab >> / dev / null 2> & 1 y
-    fi
+    if [ $(ps ax | grep openjabnab | grep -v grep | wc -l) -eq 0 ]; then
+        su ojn; cd /home/ojn/OpenJabNab/server/bin;nohup ./openjabnab >> /dev/null 2>&1 &
+    fi
 
-A continuación, hacer:
+Puis faites :
 
-    chmod + x checkojn.sh
+    chmod +x checkojn.sh
 
-Ahora hay que añadir la secuencia de comandos en el arranque y verificación
-cada 15 minutos, por ejemplo:
+Il faut maintenant ajouter le script au démarrage et une verification
+toute les 15min par exemple :
 
-    crontab -e
+    crontab -e
 
-Y añade:
+Et ajoutez :
 
-    @reboot /home/ojn/checkojn.sh
-    * / 15 * * * * /home/ojn/checkojn.sh
+    @reboot /home/ojn/checkojn.sh
+    */15 * * * * /home/ojn/checkojn.sh
 
-> **Importante**
+> **Important**
 >
-> Asegúrese de ponerlo en el crontab de root, si está
-> Incluso con Ctrl + D OJN usuario
+> Il faut absolument le mettre dans la crontab de root, si vous êtes
+> encore avec l’utilisateur ojn faites ctrl+D
 
-Configuración de su conejo en openjabnab
+Configuration de votre lapin dans openjabnab 
 ============================================
 
-Ir a:
+Allez sur :
 
-    http: //ojn.raspberry.pi/ojn_admin/index.php
+    http://ojn.raspberry.pi/ojn_admin/index.php
 
-Usted debe tener :
+Vous devez avoir :
 
 ![installation.openjabnab](../images/installation.openjabnab.PNG)
 
-Ahora tiene que crear una cuenta haciendo clic en crear una
-usuario:
+Il faut vous maintenant vous créer un compte en cliquant sur créer un
+utilisateur :
 
 ![installation.openjabnab2](../images/installation.openjabnab2.PNG)
 
-Complete la información solicitada y log:
+Renseignez les informations demandées et connectez-vous :
 
 ![installation.openjabnab3](../images/installation.openjabnab3.PNG)
 
-Una vez conectado al servidor de ir:
+Une fois connecté allez sur server :
 
 ![installation.openjabnab4](../images/installation.openjabnab4.PNG)
 
-A continuación, desplácese hacia abajo para encontrar la lista de conejos conectados y recuperar
-Dirección MAC:
+Puis descendez pour trouver la liste des lapins connectés et récuperer
+son adresse mac :
 
 ![installation.openjabnab5](../images/installation.openjabnab5.PNG)
 
-A continuación, vaya a la cuenta y entrar en el campo del nombre y la dirección MAC
-conejo y validar:
+Allez ensuite sur compte et renseignez le champ nom et adresse mac du
+lapin puis validez :
 
 ![installation.openjabnab6](../images/installation.openjabnab6.PNG)
 
-Ahora se encuentra en la página de su conejo de conejo, haga clic
-para abrir su configuración:
+Vous retrouvez maintenant sur la page lapin votre lapin, cliquez dessus
+pour ouvrir sa configuration :
 
 ![installation.openjabnab7](../images/installation.openjabnab7.PNG)
 
-Ahora debe activar el api morado y moverse en público,
-También es aquí donde se encuentra la clave api morado que le servirá
-Jeedom para:
+Il vous faut maintenant activer l’api violet et la passer en public,
+c’est aussi ici que vous retrouvez la clef api violet qui vous servira
+pour Jeedom :
 
 ![installation.openjabnab8](../images/installation.openjabnab8.PNG)
 
-A continuación encontrará la lista de plugins, no se olvide de la
-interruptor (control TTS tipo o los oídos)
+En dessous vous retrouvez la liste des plugins, n’oubliez pas de les
+activer (type TTS ou contrôle des oreilles) :
 
 ![installation.openjabnab9](../images/installation.openjabnab9.PNG)
 
-Configuración Jeedom
+Configuration de Jeedom 
 =======================
 
-La configuración en Jeedom es bastante simple, debe ser primero
-SSH en Jeedom (si usted tiene una caja Jeedom identificadores
-se encuentran en el documento de instalación). A continuación, edite el archivo / etc / hosts
+La configuration dans Jeedom est assez simple, il faut tout d’abord se
+connecter en SSH à Jeedom (si vous avez une box Jeedom les identifiants
+sont dans la doc d’installation). Puis editer le fichier /etc/hosts
 
-    vim / etc / hosts
+    vim /etc/hosts
 
-Y añadir la siguiente línea:
+Et ajouter la ligne suivante :
 
-    ojn.raspberry.pi 192.168.0.162
+    192.168.0.162 ojn.raspberry.pi
 
-Entonces todo lo que ocurre en Jeedom después de crear su conejo aquí
-la configuración a:
+Ensuite tous se passe dans Jeedom, après avoir créer votre lapin voilà
+la configuration à mettre:
 
 ![installation.openjabnab10](../images/installation.openjabnab10.PNG)
 
-Esa es su madriguera de conejo tiene ahora su propio local de !!!!!
+Voilà votre lapin a maintenant son propre terrier en local !!!!!
 
-Ponga el TTS localmente
+Mettre le TTS en local 
 ======================
 
-Todo es local, excepto que pasa por el sitio TTS pero es Acapela
-posible mediante la modificación de algunos archivos para pasar a nivel local
+Tout est local sauf le TTS qui passe par le site Acapela mais il est
+possible en modifiant quelques fichiers de le passer en local
 
-> **Nota**
+> **Note**
 >
-> Voy a considerar que está instalado en oenjabnab
-> / Inicio / OJN / OpenJabNab y que está conectado como
-> El usuario openjabnab aquí OJN
+> Je vais considérer que oenjabnab est installé dans
+> /home/ojn/OpenJabNab et que vous êtes connecté en tant que
+> l’utilisateur d’openjabnab, ici ojn
 
-Creación de TTS jeedom
+Création du tts jeedom 
 ----------------------
 
-Es necesario crear una carpeta en jeedom servver / TTS:
+Il vous faut crêer un dossier jeedom dans servver/tts :
 
-    mkdir / home / OJN / OpenJabNab / servidor / TTS / jeedom
+    mkdir /home/ojn/OpenJabNab/server/tts/jeedom
 
-A continuación, debe ser de 3 archivos:
+Il faut ensuite faire 3 fichiers :
 
 -   jeedom.pro
 
-<! - ->
+<!-- -->
 
-    ################################################## ####################
-    # Generado automáticamente por qmake (2.01a) Sat de enero 19 de 2008 07:10:01 pm
-    ################################################## ####################
+    ######################################################################
+    # Automatically generated by qmake (2.01a) sam. janv. 19 19:10:01 2008
+    ######################################################################
 
-    TEMPLATE = lib
-    CONFIG - = depuración
-    CONFIG + = liberación Plugin qt
-    QT + = red xml
-    QT - = GUI
-    INCLUDEPATH + =. ../../server ../../lib
-    TARGET = tts_jeedom
-    DESTDIR = ../../bin/tts
-    DEPENDPATH + =. ../../server ../../lib
-    LIBS + = -L ../../ bin / -lcommon
-    MOC_DIR = ./tmp/moc
-    OBJECTS_DIR = ./tmp/obj
-    Win32 {
-      QMAKE_CXXFLAGS_WARN_ON + = WX
-    }
-    UNIX {
-      QMAKE_LFLAGS + = -Wl, -rpath, \ '\ $$ ORIGEN \'
-      QMAKE_CXXFLAGS + = -Werror
-    }
+    TEMPLATE = lib
+    CONFIG -= debug
+    CONFIG += plugin qt release
+    QT += network xml
+    QT -= gui
+    INCLUDEPATH += . ../../server ../../lib
+    TARGET = tts_jeedom
+    DESTDIR = ../../bin/tts
+    DEPENDPATH += . ../../server ../../lib
+    LIBS += -L../../bin/ -lcommon
+    MOC_DIR = ./tmp/moc
+    OBJECTS_DIR = ./tmp/obj
+    win32 {
+      QMAKE_CXXFLAGS_WARN_ON += -WX
+    }
+    unix {
+      QMAKE_LFLAGS += -Wl,-rpath,\'\$$ORIGIN\'
+      QMAKE_CXXFLAGS += -Werror
+    }
 
-    # Input
-    CABECERAS + = tts_jeedom.h
-    SOURCES + = tts_jeedom.cpp
+    # Input
+    HEADERS += tts_jeedom.h
+    SOURCES += tts_jeedom.cpp
 
--   TTS \ _jeedom.h
+-   tts\_jeedom.h
 
-<! - ->
+<!-- -->
 
-    #ifndef _TTSACAPELA_H_
-    #define _TTSACAPELA_H_
+    #ifndef _TTSACAPELA_H_
+    #define _TTSACAPELA_H_
 
-    # include <QHttp>
-    # include <QMultiMap>
-    # include <QTextStream>
-    # include <QThread>
-    # include "ttsinterface.h"
+    #include <QHttp>
+    #include <QMultiMap>
+    #include <QTextStream>
+    #include <QThread>
+    #include "ttsinterface.h"
 
-    clase TTSJeedom: TTSInterface pública
-    {
-      Q_OBJECT
-      Q_INTERFACES (TTSInterface)
+    class TTSJeedom : public TTSInterface
+    {
+      Q_OBJECT
+      Q_INTERFACES(TTSInterface)
 
-    pública:
-      TTSJeedom ();
-      virtual ~ TTSJeedom ();
-      QByteArray CreateNewSound (QString, QString, bool);
+    public:
+      TTSJeedom();
+      virtual ~TTSJeedom();
+      QByteArray CreateNewSound(QString, QString, bool);
 
-    privada:
-    };
+    private:
+    };
 
-    #endif
+    #endif
 
--   TTS \ _jeedom.cpp
+-   tts\_jeedom.cpp
 
-<! - ->
+<!-- -->
 
-    # include <QDateTime>
-    # include <qurl>
-    # include <QCryptographicHash>
-    # include <QMapIterator>
-    # include "tts_jeedom.h"
-    # include "log.h"
-    # include <QNetworkReply>
-    # include <QNetworkRequest>
-    # include <QNetworkAccessManager>
+    #include <QDateTime>
+    #include <QUrl>
+    #include <QCryptographicHash>
+    #include <QMapIterator>
+    #include "tts_jeedom.h"
+    #include "log.h"
+    #include <QNetworkReply>
+    #include <QNetworkRequest>
+    #include <QNetworkAccessManager>
 
-    Q_EXPORT_PLUGIN2 (tts_jeedom, TTSJeedom)
+    Q_EXPORT_PLUGIN2(tts_jeedom, TTSJeedom)
 
-    TTSJeedom :: TTSJeedom (): TTSInterface ( "jeedom", "Jeedom")
-    {
-      voiceList.insert ( "en", "fr");
-    }
+    TTSJeedom::TTSJeedom():TTSInterface("jeedom", "Jeedom")
+    {
+      voiceList.insert("fr", "fr");
+    }
 
-    TTSJeedom :: ~ TTSJeedom ()
-    {
-    }
+    TTSJeedom::~TTSJeedom()
+    {
+    }
 
-    QByteArray :: TTSJeedom CreateNewSound (texto QString, QString voz, bool forceOverwrite)
-    {
-      bucle QEventLoop;
-      if (! voiceList.contains (voz))
-        voz = "en";
-      // Comprobar (y crear si es necesario) la carpeta de salida
-      QDir outputFolder = ttsFolder;
-      if (! outputFolder.exists (voz))
-        outputFolder.mkdir (voz);
+    QByteArray TTSJeedom::CreateNewSound(QString text, QString voice, bool forceOverwrite)
+    {
+      QEventLoop loop;
+      if(!voiceList.contains(voice))
+        voice = "fr";
+      // Check (and create if needed) output folder
+      QDir outputFolder = ttsFolder;
+      if(!outputFolder.exists(voice))
+        outputFolder.mkdir(voice);
 
-      if (! outputFolder.cd (voz))
-      {
-        LogError (QString ( "No se puede crear carpeta TTS:% 1") arg (ttsFolder.absoluteFilePath (voz)).);
-        QByteArray retorno ();
-      }
+      if(!outputFolder.cd(voice))
+      {
+        LogError(QString("Cant create TTS Folder : %1").arg(ttsFolder.absoluteFilePath(voice)));
+        return QByteArray();
+      }
 
-      // Calcular nomArchivo
-      . QString archivo = QCryptographicHash :: almohadilla (text.toAscii () :: QCryptographicHash MD5) .toHex append () ( "mp3.");
-      QString filePath = outputFolder.absoluteFilePath (filename);
+      // Compute fileName
+      QString fileName = QCryptographicHash::hash(text.toAscii(), QCryptographicHash::Md5).toHex().append(".mp3");
+      QString filePath = outputFolder.absoluteFilePath(fileName);
 
-      if (! forceOverwrite && QFile :: existe (rutaArchivo))
-        volver ttsHTTPUrl.arg (voz, nombre de archivo) .toAscii ();
+      if(!forceOverwrite && QFile::exists(filePath))
+        return ttsHTTPUrl.arg(voice, fileName).toAscii();
 
-      // Fetch MP3
-      QHttp http ( "TODO_IP_JEEDOM");
-      QObject :: connect (http y señal (hecho (bool)) y lazo, SLOT (quit ()));
+      // Fetch MP3
+      QHttp http("TODO_IP_JEEDOM");
+      QObject::connect(&http, SIGNAL(done(bool)), &loop, SLOT(quit()));
 
-      QByteArray contentData;
-      ContentData + = "apikey TODO_API_JEEDOM = & texto =" + qurl :: toPercentEncoding (texto);
+      QByteArray ContentData;
+      ContentData += "apikey=TODO_API_JEEDOM&text="+QUrl::toPercentEncoding(text);
 
-      Header QHttpRequestHeader;
-      Header.addValue ( "Host", "TODO_IP_JEEDOM");
+      QHttpRequestHeader Header;
+      Header.addValue("Host", "TODO_IP_JEEDOM");
 
-      Header.setContentLength (ContentData.length ());
-      Header.setRequest ( "GET", "/core/api/tts.php?apikey=TODO_API_JEEDOM&text="+QUrl::toPercentEncoding(text), 1, 1);
+      Header.setContentLength(ContentData.length());
+      Header.setRequest("GET", "/core/api/tts.php?apikey=TODO_API_JEEDOM&text="+QUrl::toPercentEncoding(text), 1, 1);
 
-      http.request (Header, contentData);
-      loop.exec ();
+      http.request(Header, ContentData);
+      loop.exec();
 
-      QFile archivo (rutaArchivo);
-      si (file.open (QIODevice WriteOnly: :))
-      {
-        LogError ( "No se puede abrir archivo de sonido para la escritura:" + rutaArchivo);
-        QByteArray retorno ();
-      }
-      file.write (http.readAll ());
-      file.close ();
-      volver ttsHTTPUrl.arg (voz, nombre de archivo) .toAscii ();
-    }
+      QFile file(filePath);
+      if (!file.open(QIODevice::WriteOnly))
+      {
+        LogError("Cannot open sound file for writing : "+filePath);
+        return QByteArray();
+      }
+      file.write(http.readAll());
+      file.close();
+      return ttsHTTPUrl.arg(voice, fileName).toAscii();
+    }
 
-> **Nota**
+> **Note**
 >
-> Recuerde reemplazar el TODO
+> N’oubliez pas de remplacer les TODO
 
-A continuación, se activa TTS jeedom editando
-/home/ojn/OpenJabNab/server/tts/tts.pro añadiendo jeedom a SUBDIRS:
+Il faut ensuite activer le tts jeedom en modifiant le fichier
+/home/ojn/OpenJabNab/server/tts/tts.pro en ajoutant jeedom à SUBDIRS :
 
-    TEMPLATE = subdirectorios
-    Acapela SUBDIRS = google jeedom
+    TEMPLATE = subdirs
+    SUBDIRS = acapela google jeedom
 
-recompilación
+Recompilation 
 -------------
 
-    cd / home / OJN / OpenJabNab / servidor
-    qmake -r
-    hacer
+    cd /home/ojn/OpenJabNab/server
+    qmake -r
+    make
 
-Cambiar el servicio TTS
+Modification du service de tts 
 ------------------------------
 
-Debe editar el archivo /home/ojn/OpenJabNab/server/bin/openjabnab.ini
-y cambiar:
+Il faut éditer le fichier /home/ojn/OpenJabNab/server/bin/openjabnab.ini
+et changer :
 
-    Acapela TTS =
+    TTS=acapela
 
-por
+Par
 
-    TTS = jeedom
+    TTS=jeedom
 
-Reinicio openjabnab
+Relance d’openjabnab 
 --------------------
 
-La forma más sencilla es mediante el reinicio de la máquina para reiniciar openjabnab
+Le plus simple est ici de redémarrer la machine pour relancer openjabnab

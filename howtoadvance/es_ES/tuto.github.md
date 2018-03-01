@@ -1,185 +1,185 @@
-Este tutorial presenta:
+Ce tutorial vous présente :
 
--   Crear una cuenta de GitHub
+-   Création d’un compte GitHub
 
--   Tenedor Jeedom Core o documentación
+-   Fork de Jeedom Core ou de la documentation
 
--   El cambio de uno o más archivos
+-   Modification d’un ou plusieurs fichiers
 
--   enviar los cambios
+-   Soumettre une modification
 
--   Actualizar su tenedor
+-   La mise à jour de votre fork
 
-Para que pueda contribuir a Jeedom, tendrá que
-proponer enmiendas (PR: Pull Request).
+Pour vous permettre de contribuer à Jeedom, il vous sera nécessaire de
+proposer les modifications (PR : Pull Request).
 
-Crear una cuenta de GitHub
+Création d’un compte GitHub 
 ===========================
 
-Vamos a cubrir en este tutorial de cómo crear una cuenta de GitHub,
-con el fin de informar de los errores (de la lengua GitHub) o
-incluso proponer correcciones (Solicitud o PR suéter lenguaje github)
-para todo el proyecto Jeedom, incluyendo sus plugins gratuitos o
-documentación, o cualquier otro proyecto que GitHub
-participaría.
+Nous allons aborder dans ce tuto la manière de créer un compte GitHub,
+afin de pouvoir remonter des bugs (issue dans le langage GitHub), voire
+même proposer des corrections (Pull Request ou PR en langage github)
+pour l’ensemble du projet Jeedom, incluant ses plugins gratuits ou la
+documentation, ou encore tout autre projet github auxquels vous
+souhaiteriez participer.
 
-Ir a <https://github.com> y haga clic en el botón de registro.
-Usted debe estar en una página como la siguiente y
-Por lo tanto, debe proporcionar su nombre de usuario, un correo electrónico y una contraseña, y luego
-haga clic en Crear una cuenta ** **
+Se rendre sur <https://github.com> et cliquer sur le bouton sign up.
+Vous devriez donc être sur une page ressemblant à celle ci-dessous et
+devez donc renseigner un pseudo, un email et un mot de passe et ensuite
+cliquer sur **Create an account**
 
 ![tuto.github1](../images/tuto.github1.png)
 
-Así se obtiene una segunda página de la siguiente manera y no lo hace el cambio
-nada hace clic en Continuar ** **
+Vous arrivez donc sur une 2eme page comme ci-dessous et vous ne changez
+rien, vous cliquez sur **Continue**
 
 ![tuto.github2](../images/tuto.github2.png)
 
-Ahora usted está registrado y en la página de configuración de opciones
-cuenta. Te aconsejo que comprueba la dirección de correo electrónico con el fin de
-recuperar la cuenta si la contraseña olvidada tal, sino
-También para poder enviar los cambios. Os dejo
-También encontrará otras opciones si usted es curioso.
+Vous voilà inscrit et sur la page de configuration des options de votre
+compte. Je vous conseille de vérifier l’adresse email afin de pouvoir
+récupérer votre compte en cas d’oubli de mot de passe par exemple mais
+aussi afin de pouvoir soumettre des modifications. Je vous laisse
+également découvrir les autres options si vous êtes curieux.
 
 ![tuto.github3](../images/tuto.github3.png)
 
-Tenedor Jeedom Core o documentación
+Fork de Jeedom Core ou de la documentation 
 ==========================================
 
-**Tenedor - ¿Por qué - ¿Cómo**
+**Fork - Pourquoi - Comment**
 
-Tenedor es una copia en su área del proyecto github, con el fin de
-modificar los archivos de código, documentación y luego presentar
-Solicitar un suéter al proyecto original, que será estudiado por o
-Desarrollador (s) de dicho proyecto
+Fork c’est copier un projet dans votre espace github, afin de pouvoir
+modifier les fichiers de code, de documentation pour ensuite soumettre
+un Pull Request au projet d’origine, qui sera alors étudié par le ou les
+développeur(s) du dit projet
 
-Ahora que ya tiene una cuenta de Github y ya está Conectarse
-verificado su dirección de correo electrónico, si vas aquí
-<Https://github.com/jeedom/core> que está a punto de proyectos jeedom,
-la derecha hay un botón tenedor le permite copiar a su
-espacio de GitHub.
+Maintenant que vous avez un compte Github et que vous êtes identifiez
+avec votre adresse email vérifiée, si vous vous rendez ici
+<https://github.com/jeedom/core> vous êtes sur le projet jeedom, à
+droite il y a un bouton fork vous permettant de le copier dans votre
+espace github.
 
 ![tuto.github4](../images/tuto.github4.png)
 
-El cambio de uno o más archivos
+Modification d’un ou plusieurs fichiers 
 ---------------------------------------
 
-En mi caso, por lo que quiero empujar un cambio en el archivo
-History.class.php * * Este archivo se encuentra en el núcleo de jeedom más
-Específicamente aquí: núcleo / clase /
+Dans mon cas, je souhaite donc pousser une modification sur le fichier
+*history.class.php* Ce fichier se situe dans le core de jeedom et plus
+précisément ici : core/class/
 
-1.  Por tanto, estamos en el depósito (TaGGoU91 / núcleo), que se indica como
-    ser un tenedor de Jeedom / núcleo
+1.  On est donc sur mon dépôt (TaGGoU91 / core) qui est indiqué comme
+    étant un fork de Jeedom/core
 
-2.  Así que fuimos / core / clase (el primer núcleo está en negrita, es
-    depósito o I (núcleo, ver Petit 1)
+2.  On se rend donc dans /core/class (le premier core est en gras, c’est
+    le dépôt ou je suis (core, cf Petit 1)
 
-3.  Por lo tanto, era nuestra history.class.php * * Archivo - Hace clic en el
-    expediente
+3.  On a donc notre fichier *history.class.php* - On clique sur le
+    fichier
 
 ![tuto.github5](../images/tuto.github5.png)
 
-1.  Así que estamos bien en nuestro archivo
+1.  On est donc bien dans notre fichier
 
-2.  Hace clic en el lápiz para introducir modificaciones
+2.  On clique sur le crayon pour entrer en modification
 
 ![tuto.github6](../images/tuto.github6.png)
 
-Con el fin de buscar la posición del archivo en el bloque
-archivo de texto que acaba de abrir en modo de edición y con el lápiz
-hacemos un "CTRL + F" para activar la búsqueda. Usted se pega o
-especificar el texto que busca (y un elemento significativo
-línea única, no una manzana entera a la vez). Confirme con "Enter"
-iniciar la búsqueda.
+Afin de faire une recherche dans le fichier, se positionner dans le bloc
+texte du fichier qu’on vient d’ouvrir en mode édition avec le crayon et
+on fait un "Ctrl + F" pour activer la recherche. Vous coller ou
+spécifier le texte que vous cherchez (un élément significatif et une
+ligne seulement, pas tout un bloc d’un coup). Valider avec "Entrée" pour
+lancer la recherche.
 
 > **Tip**
 >
-> Si no se hace clic en la ventana que contiene el texto o código
-> Usted está buscando es la búsqueda del navegador se abrirá y
-> En mi caso, Google Chrome, no hace la investigación
-> En el código o documentación directamente.
+> Si vous ne cliquez pas dans la fenêtre contenant le texte ou le code
+> que vous cherchez, c’est la recherche du navigateur qui va s’ouvrir et
+> dans mon cas, sur Google chrome, ça ne sait pas faire la recherche
+> dans le code ou la documentation directement.
 
-1.  El campo de búsqueda, sí es bastante delgada como información,
-    línea copiada es mucho mayor;).
+1.  Le champ de recherche, oui c’est assez mince comme information, la
+    ligne copié est bien plus grande ;).
 
 ![tuto.github7](../images/tuto.github7.png)
 
-1.  En amarillo, el resultado de la búsqueda
+1.  En jaune, c’est le résultat de la recherche
 
-2.  En azul, lo selecciono y deseo
-    / cambio de reemplazar mi código. mis cambios
+2.  En bleu, ce que je viens de sélectionner et que je souhaite
+    modifier/remplacer par mon code. Ma modification
 
 ![tuto.github14](../images/tuto.github14.png)
 
-Así que me quita el bloque y lo sustituye.
+Je supprime donc le bloc puis je le remplace.
 
-A continuación, en la parte inferior nos encontramos con esto: 1. Indica un título
-2. explícita si es posible entre una descripción más o menos precisa
-(En mi caso, eso sería demasiado largo, el enlace al foro será
-hablando) 3. Nos aseguramos de que se comprueba correctamente como esto 4. cometen =
-enviar los cambios
+Ensuite, sur la partie basse on trouve ceci : 1. On indique un titre
+explicite si possible 2. On entre une description un peu plus précise
+(dans mon cas, ça serait trop long, le lien vers le forum sera plus
+parlant) 3. On s’assure que ça soit bien coché comme ceci 4. On commit =
+Soumettre la modification
 
 ![tuto.github8](../images/tuto.github8.png)
 
-enviar los cambios
+Soumettre une modification 
 --------------------------
 
-El ** ** hecho comprometerse debido a preocupaciones de que el tenedor en el proyecto
-GitHub su espacio. Para enviar los cambios del proyecto original,
-debe effecter un PR (Pull Request)
+Le **commit** fait au-dessus ne concerne que le fork du projet dans
+votre espace GitHub. Pour soumettre au projet d’origine les changements,
+il faut effecter un PR (Pull Request)
 
-1.  Hace clic en la pestaña petición de atracción
+1.  On clique sur l’onglet Pull Request
 
-2.  Nueva solicitud de extracción (PR por sus siglas)
+2.  New Pull Request (PR pour les intimes)
 
 ![tuto.github9](../images/tuto.github9.png)
 
-1.  El PR lanzará una coparaison entre la base con su jeedom
-    repositorio (las horquillas).
+1.  Le PR va lancer une coparaison entre la base de jeedom avec votre
+    repository (le fork).
 
-2.  Esto implica cambios (el primero es porque
-    h Actualización desde jeedom, el segundo sólo para
-    lastchangestateduration cambio en la función, perfecta !!!)
+2.  Celà indique les modifications (le premier c’est parce que je me
+    suis remis à jour depuis jeedom, le second concernant justement le
+    changement de la fonction lastchangestateduration, parfait !!!)
 
-3.  El código antiguo
+3.  L’ancien code
 
-4.  El nuevo código
+4.  Le nouveau code
 
-5.  Se crea la solicitud de extracción (PR)
+5.  On crée le Pull Request (PR)
 
 ![tuto.github10](../images/tuto.github10.png)
 
-Es importante expiiquer cambios presentados por la (s)
-Desarrollador (s) del proyecto original entender y puede validar su
-solicitud.
+Il est important de bien expiiquer les changements soumis pour que le(s)
+développeur(s) du projet d’origine comprennent et puissent valider votre
+demande.
 
-1.  Hace clic en los tres puntos
+1.  On clique sur les trois petits points
 
-2.  Se copia la información que se ha introducido previamente
+2.  On recopie les informations que l’on a saisi précédemment
 
-3.  Idem, se copia (de ahí el uso de ... en el paso 1
-    evitando una reescritura)
+3.  Idem, on recopie (d’où l’utilisation des …​ à l’étape 1 pour
+    s’éviter une réécriture)
 
-4.  Hace clic en Crear Tire Solicitud
+4.  On clique sur Create Pull Request
 
 ![tuto.github11](../images/tuto.github11.png)
 
-**Esto ha terminado.** Espere hasta que se valida el PR.
+**C’est terminé.** Il faut attendre que votre PR soit validé.
 
-Nota: Sólo los usuarios con derecho a empujar en esa jeedom
-puede validar la PR.
+NB: Il n’y a que les utilisateurs ayant un droit de push sur jeedom qui
+peuvent valider le PR.
 
-Para asegurarse de que su cambio está en la lista,
-Las solicitudes puede hacer clic y jalar
+Pour vous assurez que votre modification est bien dans la liste, vous
+pouvez cliquer sur Pull Requests
 
 ![tuto.github12](../images/tuto.github12.png)
 
-Esto le da a la lista de PR en las expectativas de validación Vemos esto
-nuestro
+On obtient la liste des PR en attentes de validation On voit bien le
+notre
 
 ![tuto.github13](../images/tuto.github13.png)
 
-Actualizar su tenedor
+La mise à jour de votre fork 
 ============================
 
-Para completar
+A compléter
