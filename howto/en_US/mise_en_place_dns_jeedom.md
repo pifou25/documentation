@@ -1,14 +1,14 @@
-= Mise en place du DNS Jeedom
+# Mise en place du DNS Jeedom
 
-== Objectif
+## Objectif
 
 Mettre en place le DNS Jeedom pour avoir un accès à son Jeedom en externe par une URL en HTTPS
 
-== Pré-requis
+## Pré-requis
 
 Pour avoir accès aux DNS Jeedom il faut absolument avoir un service pack power ou plus.
 
-== Principe
+## Principe
 
 Le principe du DNS Jeedom est très simple, votre Jeedom va se connecter sur un de nos serveurs en VPN (connexion cryptée). Ensuite ce serveur en question chez nous fait du "reverse proxy" lors de la demande : il prend votre demande de connexion a votre jeedom et la transfert vers celui-ci.
 
@@ -20,13 +20,13 @@ Ce principe à l'avantage de ne pas exposer votre Jeedom sur internet, pas d'ouv
 
 Nous avons actuellement 5 serveurs DNS reparti sur 2 machines physique differente, ayant chacun une connexion 1Gbit/s. 
 
-== Mise en place
+## Mise en place
 
-=== Jeedom
+### Jeedom
 
 La c'est super simple, vous devez connecter votre Jeedom au market (voir documentation premier-pas). 
 
-=== Market
+### Market
 
 Une fois que c'est fait vous allez sur le market sur votre profils (https://www.jeedom.com/market/index.php?v=d&p=profils) puis dans l'onglet "Mes Jeedoms".
 
@@ -36,7 +36,7 @@ Vous devriez normalement voir votre Jeedom, avec devant une indication "Statut d
 >
 > Si votre status n'est pas à "Connection possible" ca ne sert a rien de faire les étapes suivantes, il faut attendre, si au bout de 48h votre status n'est toujours pas à "Connection possible" vérifiez que vous avez bien un service pack power ou plus (onglet Mon profils de profils sur le market puis partie Résumé)
 
-=== Retour à Jeedom
+### Retour à Jeedom
 
 Une fois le status du market à "Connection possible", allez sur votre Jeedom, dans l'administration de celui-ci allez sur l'onglet Réseaux et cochez "Utiliser les DNS Jeedom" puis sauvegardez.
 
@@ -48,7 +48,7 @@ Jeedom va démarrer le DNS et vous donner votre url d'accès à votre Jeedom
 
 Voila votre Jeedom est accessible de l'exterieure en https
 
-== FAQ
+## FAQ
 
 > **Mon status sur le market est bien en "Connection possible" mais mon Jeedom ne se connecte pas**
 >
