@@ -265,6 +265,13 @@ Everspring
 |<img src="../images/96.7.1_st815.jpg" width="60" />|Everspring|ST815|Luminosité||[Acheter](http://www.domadoo.fr/fr/peripheriques/2498-everspring-capteur-de-luminosite-z-wave-avec-ecran-lcd-st815-3700946500349.html)|
 |<img src="../images/96.9.1_tse03.door.bell.jpg" width="60" />|Everspring|TSE03 Door Bell|Carillon||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Evolve
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/275.21079.13619_LSM-15.jpg" width="60" />|Evolve|LSM-15|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Fakro
 =====
 
@@ -429,6 +436,7 @@ Hank
 |<img src="../images/520.512.6_hkzw-ms01.multisensor.jpg" width="60" />|Hank|MultiSensor (HKZW-MS01)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/520.512.8_hkzw-dws01.window.sensor.jpg" width="60" />|Hank|Door/Window Sensor (HKZW-DWS01)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/520.512.9_scene-controller-1.jpg" width="60" />|Hank|Scene Controller 1|Contrôleur portable||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/520.513.9_scene-controller-1.jpg" width="60" />|Hank|Scene Controller 1|Contrôleur portable||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Heiman
 =====
@@ -763,6 +771,7 @@ Zipato
 |<img src="../images/305.2.2_rgbw_bulb.jpg" width="60" />|Zipato|Bulb RGBW|Ampoule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2541-zipato-ampoule-led-rgbw-z-wave-3858890731026.html)|
 |<img src="../images/305.2.3_rgbw_bulb2.jpg" width="60" />|Zipato|Bulb 2|Ampoule|Onglet Système, modifier Color Channels avec la valeur 31 pour avoir des rapports de couleurs cohérents|[Acheter](http://www.domadoo.fr/fr/peripheriques/4111-zipato-ampoule-led-rgbw-z-wave-v2-3858890733464.html)|
 |<img src="../images/305.24881.17665_mini.keypad.jpg" width="60" />|Zipato|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
+|<img src="../images/305.3.4226_nas-ds01z.jpg" width="60" />|Zipato|Door Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/305.3.4227_nas-pd01z.jpg" width="60" />|Zipato|PIR Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/4160-zipato-capteur-de-mouvement-pir-z-wave-3858890733341.html)|
 |<img src="../images/305.32770.4096_hs1saz_smoke_sensor.jpg" width="60" />|Zipato|Smart Smoke Sensor (HS1SA-Z)|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/4149-zipato-capteur-de-fumee-z-wave--3858890733594.html)|
 |<img src="../images/305.32771.4096_hs1cgz_gaz_sensor.jpg" width="60" />|Zipato|Gaz Sensor (HS1CG-Z)|Gaz|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Acheter](http://www.domadoo.fr/fr/peripheriques/4153-zipato-capteur-de-gaz-z-wave-3858890733587.html)|
@@ -812,4 +821,4 @@ Zwaveme
 |<img src="../images/327.2.3_RaZberry Controller.jpg" width="60" />|Zwaveme|RaZberry Controller|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
-Diese Liste basiert auf Benutzer Feedback, das Jeedom Team kann also nicht garantieren, dass alle Module dieser Liste 100% funktiontüchtig sind.
+Cette liste est basee sur des retours utilisateurs, l'équipe Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionnels
