@@ -40,12 +40,12 @@ Hier ist ein Konfiguriertes "Beispiel" um gut mit Z-Wave in Jeedom zu starten :
 Insgesamt 125 € für eine Open-Source Haus-Automatisierungs Box mit
 vollständiger Kontrolle der Installation.
 
-> **Tip**
+> **Tipp**
 >
 > Es ist möglich, eine Rfxcom Antenne oder ein enOcean Schlüssel
 > hinzuzufügen oder zu ändern.
 
-> **Tip**
+> **Tipp**
 >
 >Jeedom ist eine Software, die Open Source ist und bleibt, ihre Nutzung ist
 > völlig kostenlos und hängt nicht von einer Cloud oder einem Abonnement
@@ -55,7 +55,7 @@ vollständiger Kontrolle der Installation.
 > [hier](http://market.jeedom.fr/index.php?v=d&p=market&type=plugin)
 > finden.
 
-> **Tip**
+> **Tipp**
 >
 > Service pack ? Was bedeutet das ? Sie können 
 > [hier](https://blog.jeedom.fr/?p=1215) die Vorteile von Service Packs sehen.
@@ -67,7 +67,7 @@ Jeedomboard
 Hier ist eine Schritt für Schritt Dokumentation um Jeedom auf das
 Jeedomboard (oder Hummingboard) zu installieren.
 
-> **Tip**
+> **Tipp**
 >
 > Der Name des heruntergeladenen Jeedom-Abbilds kann sich von dem in
 > dieser Dokumentation unterscheiden.
@@ -105,7 +105,7 @@ Gravur überprüfen
 
 Sie müssen nur die SD-Karte in das Jeedomboard stecken (oder Hummingboard), das Netzwerk und die Stromversorgung anschließen, Ihr Jeedom wird starten (5 min) und Sie sollen es im Netzwerk sehen.
 
-> **Tip**
+> **Tipp**
 >
 > Die SSH Zugangsdaten sind jeedom/Mjeedom96.
 
@@ -156,11 +156,11 @@ Schritt 5 : Jeedom Installieren - Starten des Skripts
 
 Öffnen Sie eine SSH-Konsole, zum Beispiel mit Putty.
 
-> **Tip**
+> **Tipp**
 >
 > Login debian / Passwort debian
 
-> **Tip**
+> **Tipp**
 >
 > Das root Passwort ist debian
 
@@ -744,7 +744,7 @@ mysql muß zuvor installiert sein) aus und bestätigen sie.
 
 ![install synology 30](../images/install_synology_30.PNG)
 
-> **Tip**
+> **Tipp**
 >
 > Wenn Sie SSH Zugang haben wollen, müssen Sie den Port umleiten, den
 > lokalen Port zu Port 22 des Containers,  die SSH-Anmeldeinformationen

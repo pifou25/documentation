@@ -85,7 +85,7 @@ Caractéristiques techniques
 
  \
 
--   Type de module : Emetteur Z-Wave
+-   Modultyp : Z-Wave-Sender
 
 -   Alimentation : Batterie Lithium 3V CR123A
 
@@ -121,13 +121,13 @@ Données du module
 
  \
 
--   Marque : Fibar Group
+-   Marke : Fibar Group
 
 -   Nom : Fibaro Smoke Sensor FGSD-002
 
 -   Hersteller-ID : 271
 
--   Type Produit : 3074
+-   Produkttyp : 3074
 
 -   Produit ID : 4098
 

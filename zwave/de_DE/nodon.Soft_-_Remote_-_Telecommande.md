@@ -78,13 +78,13 @@ Données du module
 
  \
 
--   Marque : Nodon
+-   Marke : Nodon
 
 -   Nom : CRC-3-6-0x Soft Remote
 
 -   Hersteller-ID : 357
 
--   Type Produit : 2
+-   Produkttyp : 2
 
 -   Produit ID : 2
 

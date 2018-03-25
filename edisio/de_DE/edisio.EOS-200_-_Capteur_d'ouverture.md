@@ -63,7 +63,7 @@ Caractéristiques Techniques
 Données du module 
 =================
 
--   Marque : Edisio Smart Home
+-   Marke : Edisio Smart Home
 
 -   Nom : EOS-200
 

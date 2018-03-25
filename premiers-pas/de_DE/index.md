@@ -1,6 +1,6 @@
 Willkommen bei der Dokumentation "Ersten Schritte", es wird Ihnen helfen Ihr Jeedom zu benutzen.
 
-> **Tip**
+> **Tipp**
 >
 > Dieses Handbuch soll die vollständige Dokumentation auf der Jeedom-
 > Website [hier](https://jeedom.fr/doc) nicht ersetzen.
@@ -57,7 +57,7 @@ Damit ist Ihr Service Pack registriert. Für weitere Details zum Markt
 klicken Sie
 [hier](https://github.com/jeedom/core/blob/stable/doc/fr_FR/market.asciidoc).
 
-> **Tip**
+> **Tipp**
 >
 > Wenn Sie eine offizielle Jeedom Box gekauft haben, dann wurde die
 > Service Pack Nummer Ihnen per E-Mail versendet. Wenn Sie sie nicht
@@ -80,7 +80,7 @@ Minuten (Achtung, wenn Sie eine Abbild vom Typ Netinstallation verwenden,
 wird es eher 30min) und dann
 [hier](https://www.jeedom.com/market/index.php?v=d&p=find) hin gehen.
 
-> **Tip**
+> **Tipp**
 >
 > Achtung, Sie müssen im selben Netzwerk wie die Jeedom-Box sein, damit
 > diese Methode funktioniert.
@@ -189,7 +189,7 @@ Sie werden Ihr erstes Objekt erstellen, aber zuerst müssen Sie wissen, was ein 
 
 In Jeedom kann es alles sein, egal was, aber es wird empfohlen, es entsprechend ihren Räumen zu machen. 
 
-> **Tip**
+> **Tipp**
 >
 > Sie können Beziehungen zwischen Objekten definieren, zB : das Objekt
 > Wohnzimmer gehört zum Objekt Erdgeschoss, das wiederum gehört zum
@@ -331,7 +331,7 @@ Wenn Sie keine Lösung für Ihr Problem gefunden haben, können Sie als letztes 
 
 Jedweder Schriftwechsel erfolgt per E-Mail
 
-> **Tip**
+> **Tipp**
 >
 > Wenn beim Öffnen eines Tickets ein Fehler angezeigt wird, der besagt,
 > dass Sie Ihr Kontingent erreicht haben, sind Sie abhängig von Ihrem

@@ -94,13 +94,13 @@ Données du module
 
  \
 
--   Marque : Nodon
+-   Marke : Nodon
 
 -   Nom : CWS-3-1-01 Wall Switch
 
 -   Hersteller-ID : 357
 
--   Type Produit : 2
+-   Produkttyp : 2
 
 -   Produit ID : 3
 

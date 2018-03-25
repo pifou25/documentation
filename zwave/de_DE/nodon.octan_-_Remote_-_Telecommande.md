@@ -84,13 +84,13 @@ Données du module
 
  \
 
--   Marque : Nodon
+-   Marke : Nodon
 
 -   Nom : CRC-3-1-00 Octan Remote
 
 -   Hersteller-ID : 357
 
--   Type Produit : 2
+-   Produkttyp : 2
 
 -   Produit ID : 1
 
