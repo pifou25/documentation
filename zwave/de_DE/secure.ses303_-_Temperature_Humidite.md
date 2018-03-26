@@ -95,7 +95,7 @@ Données du module
 
 -   Marke : Hortsmann
 
--   Nom : SES 303 Temperature and Humidity Sensor
+-   Name : SES 303 Temperatur und Feuchtigkeits Sensor
 
 -   Hersteller-ID : 89
 

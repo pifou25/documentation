@@ -53,7 +53,7 @@ Données du module
 
 -   Marke : Edisio Smart Home
 
--   Nom : ETC4
+-   Name : ETC4
 
 Configuration générale 
 ======================

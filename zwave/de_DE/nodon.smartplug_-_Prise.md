@@ -87,7 +87,7 @@ Données du module
 
 -   Marke : Nodon
 
--   Nom : Smartplug
+-   Name : SmartPlug
 
 -   Hersteller-ID : 357
 

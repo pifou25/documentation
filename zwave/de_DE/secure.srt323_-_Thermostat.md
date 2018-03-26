@@ -114,7 +114,7 @@ Données du module
 
 -   Marke : Hortsmann
 
--   Nom : SRT 323 Electronic Room Thermostat and Temperature
+-   Name : SRT 323 Electronic Raumthermostat und Temperatursensor
 
 -   Hersteller-ID : 89
 

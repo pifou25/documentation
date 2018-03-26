@@ -1,4 +1,4 @@
-| Nom            | Typ           | Protokoll      | Bemerkungen       | Link           |
+| Name            | Typ           | Protokoll      | Bemerkungen       | Link           |
 |----------------|----------------|----------------|----------------|----------------|
 | Alteco WS-1700 | Station météo  | Rubicson/Alecto              |                |                |
 | Atlantic’S     | Sensor      | Meiantech      |                |                |

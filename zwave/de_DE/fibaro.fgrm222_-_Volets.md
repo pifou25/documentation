@@ -113,7 +113,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro FGRM-222
+-   Name : Fibaro FGRM-222
 
 -   Hersteller-ID : 271
 

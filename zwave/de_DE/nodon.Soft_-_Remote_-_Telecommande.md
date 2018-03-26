@@ -52,7 +52,7 @@ Caractéristiques techniques
 
  \
 
--   Alimentation : Pile CR2032 – Autonomie 1,5 - 2ans
+-   Batterie : CR2032 - Batterie 1,5-2 Jahre
 
 -   4 boutons
 
@@ -80,7 +80,7 @@ Données du module
 
 -   Marke : Nodon
 
--   Nom : CRC-3-6-0x Soft Remote
+-   Name : CRC-3-6-0x Soft Remote (Fernbedienung)
 
 -   Hersteller-ID : 357
 

@@ -125,7 +125,7 @@ Données du module
 
 -   Marke : GreenWave
 
--   Nom : GreenWave\[6 x prises\]
+-   Name : GreenWave [6 x Steckdosenleiste]
 
 -   Hersteller-ID : 153
 

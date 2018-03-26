@@ -87,7 +87,7 @@ Données du module
 
 -   Marke : Edisio Smart Home
 
--   Nom : EMV-400
+-   Name  EMV-400
 
 Configuration générale 
 ======================

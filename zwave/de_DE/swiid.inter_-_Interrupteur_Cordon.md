@@ -114,7 +114,7 @@ Données du module
 
 -   Marke : Swiid
 
--   Nom : Swiidinter
+-   Name : Swiidinter
 
 -   Hersteller-ID : 358
 

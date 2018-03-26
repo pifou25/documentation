@@ -60,7 +60,7 @@ Données du module
 
 -   Marke : Edisio Smart Home
 
--   Nom : ETC1
+-   Name : ETC1
 
 -   Référence : P01 / Y01 / L01
 

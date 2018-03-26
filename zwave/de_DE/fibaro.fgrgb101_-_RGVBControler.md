@@ -108,7 +108,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro FGRGB-101 RGBW
+-   Name : Fibaro FGRGB-101 RGBW
 
 -   Hersteller-ID : 271
 

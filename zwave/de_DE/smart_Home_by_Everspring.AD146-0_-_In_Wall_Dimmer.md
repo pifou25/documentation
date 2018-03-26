@@ -110,7 +110,7 @@ Données du module
 
 -   Marke : SmartHome By Everspring
 
--   Nom : In Wall Dimmer
+-   Name: In Wand-Dimmer
 
 -   Hersteller-ID : 96
 

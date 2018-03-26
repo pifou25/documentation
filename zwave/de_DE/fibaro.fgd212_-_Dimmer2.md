@@ -139,7 +139,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : FGD212 Dimmer 2
+-   Name : FGD212 Dimmer 2
 
 -   Hersteller-ID : 271
 

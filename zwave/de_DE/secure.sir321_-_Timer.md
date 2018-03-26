@@ -86,7 +86,7 @@ Données du module
 
 -   Marke : Hortsmann
 
--   Nom : SIR 321 RF Countdown Timer
+-   Name : SIR 321 RF Zeitschaltuhr 
 
 -   Hersteller-ID : 89
 

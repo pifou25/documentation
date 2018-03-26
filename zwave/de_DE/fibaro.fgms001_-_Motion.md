@@ -108,7 +108,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro FGMS-001 \[Motion Sensor\]
+-   Name : Fibaro FGMS-001 [Bewegungsmelder]
 
 -   Hersteller-ID : 271
 

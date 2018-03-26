@@ -93,7 +93,7 @@ Données du module
 
 -   Marke : Aeotec
 
--   Nom : Panic Button
+-   Name : Panic Button
 
 -   Hersteller-ID : 134
 

@@ -95,7 +95,7 @@ Données du module
 
 -   Marke : Hortsmann
 
--   Nom : SES 302 Temperature Sensor
+-   Name : SES 302 Temperatur Sensor
 
 -   Hersteller-ID : 89
 

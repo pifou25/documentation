@@ -121,7 +121,7 @@ Données du module
 
 -   Marke : Philio Technology Corporation
 
--   Nom : Philio PSP01
+-   Name : Philio PSP01
 
 -   Hersteller-ID : 316
 

@@ -101,7 +101,7 @@ Données du module
 
 -   Marke : Zipato
 
--   Nom : Zipato Mini Keypad RFID
+-   Name : Zipato Mini Keypad RFID
 
 -   Hersteller-ID : 151
 

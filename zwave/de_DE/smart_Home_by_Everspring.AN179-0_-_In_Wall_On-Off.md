@@ -100,7 +100,7 @@ Données du module
 
 -   Marke : SmartHome By Everspring
 
--   Nom : In Wall On Off
+-   Name : In der Wand An Aus
 
 -   Hersteller-ID : 96
 

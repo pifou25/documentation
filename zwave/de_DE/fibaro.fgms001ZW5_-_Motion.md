@@ -108,7 +108,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro FGMS-001-ZW5 \[Motion Sensor\]
+-   Name : Fibaro FGMS-001-ZW5 [Bewegungsmelder]
 
 -   Hersteller-ID : 271
 

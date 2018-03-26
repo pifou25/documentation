@@ -92,7 +92,7 @@ Données du module
 
 -   Marke : Everspring
 
--   Nom : Miniplug Dimmer
+-   Name : Miniplug Dimmer
 
 -   Hersteller-ID : 96
 

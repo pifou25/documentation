@@ -94,7 +94,7 @@ Données du module
 
 -   Marke : Everspring
 
--   Nom : Miniplug On/Off
+-   Name : Miniplug ein-/ausschalten
 
 -   Hersteller-ID : 96
 

@@ -101,7 +101,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro FGK-101 avec sonde de température (DS18B20)
+-   Name : Fibaro FGK-101 mit Temperatursonde (DS18B20)
 
 -   Hersteller-ID : 271
 

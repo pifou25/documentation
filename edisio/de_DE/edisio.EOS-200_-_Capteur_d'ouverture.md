@@ -65,7 +65,7 @@ Données du module
 
 -   Marke : Edisio Smart Home
 
--   Nom : EOS-200
+-   Name : EOS-200
 
 Configuration générale 
 ======================

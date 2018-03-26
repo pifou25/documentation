@@ -133,7 +133,7 @@ Données du module
 
 -   Marke : Philio Technology Corporation
 
--   Nom : PST02-A 4 in 1 Multi-Sensor
+-   Name : PST02-A 4 in 1 Multi-Sensor
 
 -   Hersteller-ID : 316
 

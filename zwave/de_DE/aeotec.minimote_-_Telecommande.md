@@ -86,7 +86,7 @@ Données du module
 
 -   Marke : Aeotec
 
--   Nom : Minimote
+-   Name : Minimote
 
 -   Hersteller-ID : 134
 

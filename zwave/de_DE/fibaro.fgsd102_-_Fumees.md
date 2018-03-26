@@ -89,7 +89,7 @@ Caractéristiques techniques
 
 -   Alimentation : Batterie Lithium 3V CR123A
 
--   Autonomie de la batterie : 3 ans
+-   Batterielaufzeit  : 3 Jahre
 
 -   Fréquence : 868,42 MHz
 
@@ -123,7 +123,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Fibaro Smoke Sensor FGSD-002
+-   Name : Fibaro Rauch-Sensor FGSD-002
 
 -   Hersteller-ID : 271
 

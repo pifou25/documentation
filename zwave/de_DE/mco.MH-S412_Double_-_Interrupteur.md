@@ -91,7 +91,7 @@ Données du module
 
 -   Marke : MC HOME
 
--   Nom : MH-S412 Double
+-   Name : MH-S412 Double
 
 -   Hersteller-ID : 351
 

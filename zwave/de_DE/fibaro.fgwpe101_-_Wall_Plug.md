@@ -87,7 +87,7 @@ Données du module
 
 -   Marke : Fibar Group
 
--   Nom : Wall Plug FGWPE-101
+-   Name : FGWPE-101  (Netzstecker-Adapter)
 
 -   Hersteller-ID : 271
 

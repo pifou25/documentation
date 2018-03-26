@@ -122,7 +122,7 @@ Données du module
 
 -   Marke : Philio Technology Corporation
 
--   Nom : PST02-C Door/Window 3 in 1 sensor
+-   Name : PST02-C Door/Window 3 in 1 sensor
 
 -   Hersteller-ID : 316
 

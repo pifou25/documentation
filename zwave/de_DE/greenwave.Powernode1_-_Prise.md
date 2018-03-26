@@ -126,7 +126,7 @@ Données du module
 
 -   Marke : GreenWave
 
--   Nom : GreenWave\[1 x prise\]
+-   Name : GreenWave [1 x Steckdose]
 
 -   Hersteller-ID : 153
 

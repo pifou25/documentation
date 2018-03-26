@@ -105,7 +105,7 @@ Données du module
 
 -   Marke : Aeotec
 
--   Nom : ZW088 Key Fob Gen5
+-   Name : ZW088 Key Fob Gen5
 
 -   Hersteller-ID : 134
 

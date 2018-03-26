@@ -116,7 +116,7 @@ Données du module
 
 -   Marke : Philio
 
--   Nom : PSR04 Smart Color Button
+-   Name: PSR04 Smart Color Button
 
 -   Hersteller-ID : 316
 

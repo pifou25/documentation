@@ -109,7 +109,7 @@ Données du module
 
 -   Marke : Aeotec
 
--   Nom : Garage Door Controller (ZW062)
+-   Name : Garage Tür-Controller (ZW062)
 
 -   Hersteller-ID : 134
 

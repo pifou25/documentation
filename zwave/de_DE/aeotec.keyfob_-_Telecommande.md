@@ -88,7 +88,7 @@ Données du module
 
 -   Marke : Aeotec
 
--   Nom : Key Fob
+-   Name : Key Fob
 
 -   Hersteller-ID : 134
 
