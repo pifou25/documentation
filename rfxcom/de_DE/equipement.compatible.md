@@ -3,44 +3,44 @@
 | Alteco WS-1700 | Station météo  | Rubicson/Alecto              |                |                |
 | Atlantic’S     | Sensor      | Meiantech      |                |                |
 | MD-210R        | Öffnung    |                |                |                |
-| Atlantic’S     | Détecteur de   | Meiantech      |                |                |
-| DT-335R DMT    | mouvement      |                |                |                |
-| Atlantic’S     | Détecteur de   | Meiantech      |                |                |
-| MC-335R DMT    | mouvement      |                |                |                |
-| Atlantic’S     | Détecteur de   | Meiantech      |                |                |
-| 7380R DMT      | mouvement      |                |                |                |
-| Atlantic’s     | Télécommande porte-clé 1 bouton   | Meiantech      |                |                |
-| Blyss 567434   | Détecteur de fumée  |                |                |                |
-| Blyss 582866   | Interrupteur   |                |                |                |
-| Blyss 582849   | Motorisation de porte de garage |                |                |                |
-| Blyss 528852   | Motorisation de portail à vérins  |                |                |                |
-| Blyss 582867   | Pack Interrupteur + micro-module ON/OFF         |                |                |                |
-| Chacon 34131   | Détecteur de fumée  | AC             |                |                |
-| Chacon 54595   | Pack de 3 Prises Chacon  + télécommande 3 canaux + 1 groupe     | AC             |                |                |
-| Chacon 54795   | Pack de 3 Prises Chacon  DI.O first + télécommande 3 canaux      | AC             |                |                |
-| Chacon 54501   | Interrupteur   | AC             |                |                |
-| Chacon 54514   | Variateur      | AC             |                |                |
-| Chacon 54761   | Télécommande 16 canaux    | AC             |                |                |
-| Chacon 54730   | Sonnette       | AC             |                | [Acheter](http://www.domadoo.fr/fr/peripheriques/574-chacon-di-o-carillon-sans-fil-e nfichable.html)              |
-| Chacon 54758   | Micro-module ON/OFF 200W   | AC             | On/Off seulement        |                |
-| Chacon 54660   | Pack 3 prises + télécommande 2000W  | AC             |                |                |
-| Chacon 54524   | Micro-module   | AC             | On/Off         |                |
-| 300W           | Variateur 300W |                | seulement      |                |
-| Coco           |                | AC             | Gamme complète | [Acheter](http://www.domotique-store.fr/36_coco-devient-trust-smart-home)            |
-| CRESTA         | Température    | Hideki         |                |                |
-| HW-TX320       | Humidité avec affichage      |                |                |                |
-| Digimax 210    | Thermostat     | X10            | Utiliser "Température,Humidité et Pression - Défaut"        |                |
-| DI.O by Chacon | Détecteur      | AC             |                |                |
-| 54583          | crépusculaire  |                |                |                |
-| DI-O by Chacon | Détecteur de   | AC             |                |                |
-| 54703          | mouvement      |                |                |                |
-| DI.O by Chacon | Télécommande 3 | AC             |                |                |
-| 54760          | canaux         |                |                |                |
-| DI.O by Chacon | Télécommande   | AC             |                | [Acheter](http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm)      |
-| DI.O by Chacon | Prise          | AC             |                |                |
-| 54746          | extérieure     |                |                |                |
-| DI-O by Chacon | Détecteur      | AC             |                |                |
-| 54783          | crépusculaire  |                |                |                |
+| Atlantic’S     | Sensor   | Meiantech      |                |                |
+| DT-335R DMT    | Bewegung      |                |                |                |
+| Atlantic’S     | Sensor   | Meiantech      |                |                |
+| MC-335R DMT    | Bewegung      |                |                |                |
+| Atlantic’S     | Sensor   | Meiantech      |                |                |
+| 7380R DMT      | Bewegung      |                |                |                |
+| Atlantic’s     | Schlüsselanhänger Fernbedienung 1 Taste   | Meiantech      |                |                |
+| Blyss 567434   | Rauchmelder  |                |                |                |
+| Blyss 582866   | Schalter   |                |                |                |
+| Blyss 582849   | Garagentor-Antrieb |                |                |                |
+| Blyss 528852   | Torantrieb  |                |                |                |
+| Blyss 582867   | Paket Schalter+Micro-Modul AN/AUS         |                |                |                |
+| Chacon 34131   | Rauchmelder  | AC             |                |                |
+| Chacon 54595   | Paket mit 3 Chacon-Steckdosen + Fernbedienung 3 Kanäle + 1 Gruppe     | AC             |                |                |
+| Chacon 54795   | Paket mit 3 Chacon-Steckdosen + Fernbedienung 3 Kanäle      | AC             |                |                |
+| Chacon 54501   | Schalter   | AC             |                |                |
+| Chacon 54514   | Dimmer      | AC             |                |                |
+| Chacon 54761   | Fernbedienung 16 Kanäle    | AC             |                |                |
+| Chacon 54730   | Glocke       | AC             |                | [kaufen](http://www.domadoo.fr/fr/peripheriques/574-chacon-di-o-carillon-sans-fil-e nfichable.html)              |
+| Chacon 54758   | Micro-Modul AN/AUS 200W   | AC             | Nur An/Aus        |                |
+| Chacon 54660   | Paket 3 Steckdosen + Fernbedienung 2000W  | AC             |                |                |
+| Chacon 54524   | Micro-Modul   | AC             | An/Aus         |                |
+| 300W           | Dimmer 300W |                | nur      |                |
+| Coco           |                | AC             | Vollständige Palette | [kaufen](http://www.domotique-store.fr/36_coco-devient-trust-smart-home)            |
+| CRESTA         | Temperatur    | Hideki         |                |                |
+| HW-TX320       | Luftfeuchtigkeit mit Display      |                |                |                |
+| Digimax 210    | Thermostat     | X10            | verwendet "Temperatur, Feuchtigkeit und Druck - Standard"        |                |
+| DI.O by Chacon | Sensor      | AC             |                |                |
+| 54583          | Dämmerung  |                |                |                |
+| DI-O by Chacon | Sensor   | AC             |                |                |
+| 54703          | Bewegung      |                |                |                |
+| DI.O by Chacon | Fernbedienung 3 | AC             |                |                |
+| 54760          | Kanäle         |                |                |                |
+| DI.O by Chacon | Fernbedienung   | AC             |                | [kaufen](http://www.domadoo.fr/produit,1528,15,CHACON-T%E5%B9%A8%E5%B6%B0ommande-16-canaux-Blanche-%28gamme-DI-O%29.htm)      |
+| DI.O by Chacon | Steckdose          | AC             |                |                |
+| 54746          | extern     |                |                |                |
+| DI-O by Chacon | Sensor      | AC             |                |                |
+| 54783          | Dämmerung  |                |                |                |
 | DI-O by Chacon | Volet roulant  | AC             |                |                |
 | 54754          |                |                |                |                |
 | DI-O by Chacon | Prise 1500W    | AC             |                |                |
