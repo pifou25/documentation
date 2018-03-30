@@ -41,41 +41,41 @@
 | 54746          | extern     |                |                |                |
 | DI-O by Chacon | Sensor      | AC             |                |                |
 | 54783          | Dämmerung  |                |                |                |
-| DI-O by Chacon | Volet roulant  | AC             |                |                |
+| DI-O by Chacon | Rolladen  | AC             |                |                |
 | 54754          |                |                |                |                |
-| DI-O by Chacon | Prise 1500W    | AC             |                |                |
+| DI-O by Chacon | Steckdose 1500W    | AC             |                |                |
 | 54798          |                |                |                |                |
-| DI-O by Chacon | Micro-module   | AC             |                | [Acheter](http://www.domadoo.fr/fr/peripheriques/2999-chacon-micromodule-pour-prise-murale-3500w-5411478547907.html) |
-| DS18           | Détecteur      |                |                | [Acheter](http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html)          |
-| KDI FER-1000W  | Prise          | Ex de code pour allumer la prise 07100102500D01 60             |                |                |
-| KDI FECT-100   | Télécommande   |                |                |                |
-| Homewizad      | Température    |                |                |                |
-| HW-TX320       | Humidité avec affichage      |                |                |                |
-| LaCross Technologie WS7394       | Station météo  | LaCrosse       |                |                |
-| Lexibook SM883 | Station météo  | Hideki / UPM   |                |                |
-| ITL-1000       | Contact sec avec minuterie |                |                |                |
-| JB-Media       | Convertisseur  | AC             |                |                |
-| récepteur IR   | RF - Infra     |                |                |                |
-| Light-Manager Mini | Rouge          |                |                |                |
-| Oregon         | Température    | Oregon         |                | [Acheter](http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2)      |
-| Oregon         | Température    | Oregon         |                |                |
-| THGN132N       | Humidité       |                |                |                |
-| Oregon WGR800  | Anémomètre     | Oregon         |                |                |
-| Oregon PCR800  | Pluviomètre    | Oregon         |                |                |
-| UV Oregon      | Sonde UV       | Oregon         |                | [Acheter](http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html)   |
-| OWL CM119      | Pince ampèremétrique + afficheur          | Oregon         |                |                |
-| OWL Micro+CM180     | Pince ampèremétrique + afficheur         | Oregon         |                |                |
-| OWL TSE200-001 | Transmetteur pour pince ampèrmétrique (ref TSE000-001 ou TSE000-002)  | Oregon         |                |                |
-| SIMU RSA HZ    | Porte de garage         |                |                |                |
-| Somfy Freevia 300  | Motorisation portail   | Poser RFXcom sur le moteur pour l’associer au moteur comme si c’était une télécommande   |                |                |
-| Somfy Evolvia 400/450 | Motorisation portail   | Poser RFXcom sur le moteur pour l’associer au moteur comme si c’était une télécommande.Le capot du moteur doit être ouvert et il doit faire jour. La procédure ne marche pas s’il fait nuit.          |                |                |
-| Somfy RTS      | Volets roulants et autres périphériques Somfy RTS      |                |                |                |
-| Thermomètre TX320   | Température Humidité avec affichage      |                |                |                |
-| TFA 30.3139 RADIO SENSOR    | Température    |                |                |                |
-| WD18           | Détecteur d’Eau     | X10            |                |                |
+| DI-O by Chacon | Micro-Modul   | AC             |                | [kaufen](http://www.domadoo.fr/fr/peripheriques/2999-chacon-micromodule-pour-prise-murale-3500w-5411478547907.html) |
+| DS18           | Sensor      |                |                | [kaufen](http://www.planete-domotique.com/ds18-detecteur-de-porte-fenetre-sans-fil.html)          |
+| KDI FER-1000W  | Steckdose          | Bsp.-code zum Einschalten der Steckdose 07100102500D01 60             |                |                |
+| KDI FECT-100   | Fernbedienung   |                |                |                |
+| Homewizad      | Temperatur    |                |                |                |
+| HW-TX320       | Luftfeuchtigkeit mit Display      |                |                |                |
+| LaCross Technologie WS7394       | Wetterstation  | LaCrosse       |                |                |
+| Lexibook SM883 | Wetterstation  | Hideki / UPM   |                |                |
+| ITL-1000       | Timer mit Potentialfreien Kontakt   |                |                |                |
+| JB-Media       | Konverter  | AC             |                |                |
+| IR-Empfänger   | RF - Infra     |                |                |                |
+| Light-Manager Mini | Rot          |                |                |                |
+| Oregon         | Temperatur    | Oregon         |                | [kaufen](http://my-domotique.com/store/index.php?id_product=48&controller=product&id_lang=2)      |
+| Oregon         | Temperatur    | Oregon         |                |                |
+| THGN132N       | Feuchtigkeit       |                |                |                |
+| Oregon WGR800  | Windmesser     | Oregon         |                |                |
+| Oregon PCR800  | Regenmesser    | Oregon         |                |                |
+| UV Oregon      | UV Sonde       | Oregon         |                | [kaufen](http://www.domadoo.fr/fr/peripheriques/2129-oregon-scientific-sonde-uv-uvn800-pour-station-pro.html)   |
+| OWL CM119      | Stromzange + Display          | Oregon         |                |                |
+| OWL Micro+CM180     | Stromzange + Display         | Oregon         |                |                |
+| OWL TSE200-001 | Sender für Stromzange (TSE000-001 oder TSE000-002)  | Oregon         |                |                |
+| SIMU RSA HZ    | Garagentor|         |                |                |                |
+| Somfy Freevia 300  | Torantrieb   | Setzen Sie RFXcom auf den Motor, um ihn mit dem Motor zu verbinden, als ob es eine Fernbedienung wäre   |                |                |
+| Somfy Evolvia 400/450 | Torantrieb   | Setzen Sie RFXcom auf den Motor, um ihn mit dem Motor zu verbinden, als ob es eine Fernbedienung wäre. Die Abdeckung des Motors soll geöffnet sein und es muß Tag sein. Das Verfahren geht nicht, wenn es Nacht ist          |                |                |
+| Somfy RTS      | Rollläden und andere Somfy RTS-Geräte      |                |                |                |
+| TX320 Thermometer   | Temperatur Feuchtigkeit mit Display      |                |                |                |
+| TFA 30.3139 FUNKSENSOR    | Temperatur    |                |                |                |
+| WD18           | Wassermelder     | X10            |                |                |
 
 > **Note**
 >
-> Cette liste est basée sur des retours utilisateurs, l’équipe Jeedom ne
-> peut donc garantir que tous les modules de cette liste sont 100%
-> fonctionels
+> Diese Liste basiert auf Benutzer Feedback, das Jeedom Team kann 
+> also nicht garantieren, dass alle Module dieser Liste 100% funktiontüchtig
+> sind.
