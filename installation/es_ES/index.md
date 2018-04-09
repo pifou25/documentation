@@ -514,9 +514,6 @@ Docker
 Pour découvrir Jeedom, vous pouvez aussi le faire tourner dans un
 conteneur Docker :
 
-> **Important**
->
-> Prérequis : Avoir une machine ou une VM tournant sous Linux
 
 Etape 1 : Installation de docker 
 ---
@@ -747,6 +744,17 @@ validez le tout :
 
 Cochez "Exécuter ce conteneur lorsque l’assistant a terminé" puis
 cliquez sur "Appliquer".
+
+> **Paramètre de configuration avancé**
+>
+> Il existe 3 paramètres optionnel de configuration, ces paramètres doivent etre passé en variable d'environement
+> - APACHE_PORT : permet de changer le port par défaut (80) d'écoute du serveur web
+> - SSH_PORT : permet de changer le port par défaut (22) d'écoute du ssh
+> - MODE_HOST : indique que le résaux est en mode host
+
+> **IMPORTANT**
+>
+> Certain plugin on besoin d'avoir le broadcast du réseaux (type plugin Xioami), pour cela il faut ABSOLUMENT passer en le réseaux en mode host (possible uniquement lors de la création), changer le port d'écoute par defaut du serveur web et ssh par des ports non utilisé (type 9080 pour le serveur web et 9022 pour le ssh), et mettre la variable MODE_HOST à 1
 
 Etape 3 : Configuration de Jeedom 
 ---
