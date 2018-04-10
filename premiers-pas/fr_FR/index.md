@@ -263,7 +263,7 @@ informations complémentaires comme l’auteur, le lien vers la discussion
 du forum concernant ce plugin, la date de dernière mise à jour, etc.
 
 Pour plus d’informations sur les plugins cliquez
-[ici](https://github.com/jeedom/core/blob/master/doc/fr_FR/plugin.asciidoc)
+[ici](https://jeedom.github.io/core/fr_FR/plugin)
 .
 
 Support 
