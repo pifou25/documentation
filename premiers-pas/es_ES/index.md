@@ -262,8 +262,8 @@ Comentario de usuario, \ * cómo utilizar el plug-in, \ * la
 información adicional, como el autor, el enlace a la discusión
 Foro sobre este plugin, fecha de última actualización, etc.
 
-Para obtener más información, haga clic en complementos
-[Aquí] (https://github.com/jeedom/core/blob/master/doc/fr_FR/plugin.asciidoc)
+Pour plus d’informations sur les plugins cliquez
+[ici](https://jeedom.github.io/core/fr_FR/plugin)
 .
 
 apoyo

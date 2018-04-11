@@ -250,8 +250,8 @@ Benutzer Bewertung, \* wie verwendet man das Plugin, \* zusätzliche
 Informationen wie der Autor, der Link zum Diskussions-Forum von diesem
 Plugin, das Datum der letzten Aktualisierung, u.s.w..
 
-Für weitere Informationen zu Plugins, klicken Sie
-[hier](https://github.com/jeedom/core/blob/master/doc/fr_FR/plugin.asciidoc)
+Pour plus d’informations sur les plugins cliquez
+[ici](https://jeedom.github.io/core/fr_FR/plugin)
 .
 
 Support 
