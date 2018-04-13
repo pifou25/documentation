@@ -15,4 +15,5 @@ Ce fichier est obligatoire.
 Nous vous remercions par avance de ne pas utiliser le même code couleur que les icones des plugin officiels Jeedom.
 
 Modèle :
+
 ![modele-icone](../images/plugin-Jeedom-px.jpg)
