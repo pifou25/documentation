@@ -61,34 +61,38 @@ complete control of his installation.
 > [here](https://blog.jeedom.fr/?p=1215) the benefits of service packs.
 
 
-Jeedomboard
+Jeedom Smart
 ===========
 
-You will find here the documentation step by step to install Jeedom on
-the Jeedomboard (or Hummingboard).
+Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom 
+
+https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart
+
+Jeedom mini+
+===========
 
 > **Tip**
 >
-> The name of the Jeedom image may be different from that of the captures
-> made in this documentation
+> Le nom de l’image Jeedom peut être différent de celui des captures
+> faites dans cette documentation
 
-Step 1: Install Etcher
+Etape 1 : Installation de Etcher 
 ---
 
-You must download the Etcher software [here] (https://etcher.io/) then
-install it on your pc
+Vous devez télécharger le logicel Etcher [ici](https://etcher.io/) puis
+l’installer sur votre pc
 
-Step 2: Retrieving the Jeedom image
+Etape 2 : Récupération de l’image de Jeedom 
 ---
 
-You have to go
-[Here](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
-then in the images folder get the image jeedom-jeeboard - \ *. rar or
-Jeedomboard \ _ \ _ Debian \ _Jessie \ *. Rar
+Vous devez aller
+[ici](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog),
+puis dans le dossier Images récuperer l’image jeedom-jeeboard-\*.rar ou
+Jeedomboard\_\_Debian\_Jessie\*.rar
 
 ![install humming 1](../images/install_humming_1.PNG)
 
-Step 3: Decompression of the Jeedom image
+Etape 3 : Décompression de l’image de Jeedom 
 ---
 
 Décompresser l’image de Jeedom (si vous n’avez rien pour la décompresser
@@ -100,7 +104,7 @@ devez obtenir :
 
 ![install humming 8](../images/install_humming_8.PNG)
 
-Step 4: Burn the image on the SD card
+Etape 4 : Gravure de l’image sur la carte SD 
 ---
 
 Insérez votre carte SD dans votre ordinateur puis lancez le logiciel
@@ -108,145 +112,23 @@ Etcher, donnez-lui le chemin de l’image, le chemin de la carte SD et
 cliquez sur "Flash!". Le logiciel va graver la carte SD et vérifier la
 gravure.
 
-All you have to do is put the SD card in the Jeedomboard (or
-Hummingboard), to connect the network and the power supply, your Jeedom goes
-start (5 min) and you should see it on the network.
+Vous n’avez plus qu’à mettre la carte SD dans la Jeedomboard (ou
+Hummingboard), à brancher le réseau et l’alimentation, votre Jeedom va
+démarrer (5 min) et vous devriez le voir sur le réseau.
 
 > **Tip**
 >
-> The SSH credentials are jeedom / Mjeedom96
+> Les identifiants SSH sont jeedom/Mjeedom96
 
 Pour la suite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
 
-Miniplus / Hummingboard
-=====================
 
-You will find here the documentation step by step to install Jeedom on
-the mini plus (Hummingboard Solid-Run card).
-
-![jeedom](../images/jeedom.jpg)
-
-Step 1: Install Etcher
----
-
-You must download the Etcher software [here](https://etcher.io/) then
-install it on your pc
-
-2nd step :
----
-
-Récupération de l’image Jessie. Attention la humingboard n’est pas
-un raspberry. **Vous devez impérativement récupérer cet iso spécifique
-qui est une jessie pour IMX6.**
-
-You have to go
-[Here](https://images.solid-build.xyz/IMX6/Debian/sr-imx6-debian-jessie-cli-20171108.img.xz)
-and save this image on your PC.
-
-Step 3: Decompression of the image
----
-
-Décompresser l’image de Jeedom (si vous n’avez rien pour la décompresser,
-vous pouvez installer
-[winrar](http://www.clubic.com/telecharger-fiche9632-winrar.html)).
-
-Step 4: Burn the image on the SD card
----
-
-Insérer votre carte SD dans votre ordinateur puis lancer le logiciel
-Etcher, donnez-lui le chemin de l’image, le chemin de la carte SD et
-cliquez sur "Flash!". Le logiciel va graver la carte SD et vérifier la
-gravure.
-
-You just have to put the SD card in the Mini + to connect the
-network and power, your Jeedom will start.
-
-Step 5: Jeedom installation - Launching the script
----
-
-Open an SSH console with putty for exemmple.
-
-> **Tip**
->
-> login debian / debian password
-
-> **Tip**
->
-> the root password is debian
-
-1 / Configuration of the swap on the Mini + because it is inactive by default with this
-distribution.
-
-Log in SSH to your system and do:
-
-    sudo imx6-config
-
-Enter the root password ("debian")
-
-Click OK (your local IP appears - note it to connect to
-the end)
-
-Press Enter
-
-Choose the topic 4 swap with the arrows on the keyboard, then intall
-Swap (a Swap of 512 is recommended, you can change it at the end of
-creating the default swap). Follow the procedure.
-
-**Reboot** and check Swap activation with the command
-
-    sudo reboot
-
-    free - m
-
-2 / Finally run the official script with these 3 commands:
-
-    wget https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh
-
-    chmod + x install.sh
-
-    sudo ./install.sh
-
-**La durée d’installation varie de 60 à 120 minutes**. Vous ne devez pas
-interrompre cette procédure. A défaut il faut tout reprendre. Il est
-vivement conseillé de rebooter à la fin de l’installation.
-
-The following arguments are usable:
-
--w = webserver folder
-
--z = installation dependencies z-wave
-
--m = desired mysql root password
-
-    ./install.sh -w / var / www / html -z -m Jeedom
-
-It is advisable to do a reboot of the mini +
-
-    sudo reboot
-
-Then you just have to go to IP \ _MACHINE \ _JEEDOM in your
-Navigator.
-
-> **Note**
->
-> The default credentials are admin / admin
-
-> **Important**
->
-> If you need to re-inject a backup, you must wait between 5 and 10
-> minutes to get everything back in order (your admin user /
-> admin does not exist anymore ...). You must not turn off
-> electrically your mini-plus.
-
-For the continuation you can follow the documentation [First step with
-Jeedom] (https://www.jeedom.fr/doc/documentation/premiers-pas/fr_FR/doc-premiers-pas.html)
-
-Raspberry Pi
+Raspberrypi
 ===========
 
-You will find here the documentation to install Jeedom on a
-raspberry PI **with an SD card.**
+Vous trouverez ici la documentation pour installer Jeedom sur un
+raspberry PI **avec une carte SD.**
 
 > **Important**
 >
@@ -254,48 +136,48 @@ raspberry PI **with an SD card.**
 > la version 3.1.5 de jeedom (mais Jessie reste parfaitement
 > fonctionnelle).
 
-**1 / Download the latest image "lite", ie without interface
-graphic**
-[HERE](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-12-01/2017-11-29-raspbian-stretch-lite.zip)
+**1/ Télécharger le dernière image "lite", c’est à dire sans interface
+graphique**
+[ICI](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-12-01/2017-11-29-raspbian-stretch-lite.zip)
 
-**2 / Decompress the image with winrar** [Here](http://www.win-rar.com)
+**2/ Décompresser l’image avec winrar** [Ici](http://www.win-rar.com)
 
 **3/ Gravez cette image sur une SD avec etcher par exemple**
 [ici](https://etcher.io/)
 
 > **Note**
 >
-> If you use Etcher to burn your image, the step of
-> decompression is useless (Zip format recognized directly in the
-> selection of the image file).
+> Si vous utilisez Etcher pour graver votre image, l’étape de
+> décompression est inutile (format Zip reconnu directement dans la
+> sélection du fichier image).
 
-**4 / Enable SSH Access**
+**4/ Activer un accès SSH**
 
 > **Warning**
 >
-> For security reasons, SSH access is no longer enabled by default
-> on this distribution. It must therefore be activated.
+> Pour des raisons de sécurité, l’accès SSH n’est plus activé par défaut
+> sur cette distribution. Il faut donc l’activer.
 
-You have to create on the boot partition (the only one accessible under windows)
-an empty ssh file.
+Il faut créer sur la partition boot (la seule accessible sous windows)
+un fichier ssh vide.
 
-Just right click: new / text document and the
-rename to "ssh" **without extension**
+Il suffit de faire un clic droit : nouveau / document texte et le
+renommer en "ssh" **sans extension**
 
 > **Important**
 >
-> In windows, in the explorer, you have to check your
-> setting in display / options / change options of
-> records and research /
+> Sous windows, dans l’explorateur il faut donc vérifier votre
+> paramétrage dans affichage / options / modifier les options de
+> dossiers et de recherche /
 
 ![ExtensionFichier](../images/ExtensionFichier.PNG)
 
-**5 / Start the PI**
+**5/ Démarrer le PI**
 
 Insérez votre carte SD, branchez le cable réseau, branchez
 l’alimentation.
 
-**6 / Login in SSH**
+**6/ Se connecter en SSH**
 
 Identifiez votre Pi sur le réseau
 
@@ -304,50 +186,50 @@ Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
 -   Consultez la configuration DHCP dans votre routeur
 
 -   Utilisez un scanner de port type "angyipscanner"
-    [right here](http://angryip.org/download/#windows)
+    [ici](http://angryip.org/download/#windows)
 
-Establish the connection
+Etablir la connexion
 
 Ensuite utilisez par exemple putty pour établir votre connexion
 [Ici](http://www.putty.org/)
 
-Enter the IP address of your IP (here 192.168.0.10) and click on
-open. Accept the default message about security when
-first connection.
+Rentrer l’adresse de Ip de votre PI (ici 192.168.0.10) et cliquez sur
+open. Accepter le message par défaut relatif à la sécurité lors de la
+première connexion.
 
-Sign in with the **pi / raspberry** credentials
+Connectez-vous avec les identifiants **pi / raspberry**
 
 > **Important**
 >
-> For security reasons, it is imperative to modify the word
-> passes by default. Cases of piracy based on the exploitation of
-> default login / password of the Raspberry are
-> particularly widespread. (passwd and sudo passwd command)
+> Pour des raisons de sécurité, il est impératif de modifier le mot de
+> passe par défaut. Les cas de piratages basés sur l’exploitation du
+> couple login/mot de passe par défaut du Raspberry sont
+> particulièrement répandus. (commande passwd et sudo passwd)
 
-**7 / Run the jeedom installation script**
+**7/ Lancer le script d’installation jeedom**
 
-    wget -O- https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh | sudo bash
+    wget -O- https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh | sudo bash
 
-**The sudo password is also raspberry**
-
-> **Note**
->
-> Depending on your internet speed, the installation may take 45
-> 90 minutes. You should not interrupt the process before
-> the end. Otherwise, it will be necessary to resume the entire procedure.
-
-Then you just have to go to IP \ _MACHINE \ _JEEDOM
+**Le mot de passe sudo est également raspberry**
 
 > **Note**
 >
-> The default credentials are admin / admin
+> En fonction de votre débit internet, l’installation peut prendre de 45
+> à 90 minutes. Vous ne devez surtout pas interrompre le processus avant
+> la fin. A défaut, il faudra reprendre la totalité de la procédure.
+
+Il vous suffit ensuite d’aller sur IP\_MACHINE\_JEEDOM
 
 > **Note**
 >
-> The following arguments are usable: -w = webserver folder -z =
-> installation dependencies z-wave -m = desired mysql root password
+> Les identifiants par défaut sont admin/admin
 
-    ./install.sh -w / var / www / html -z -m Jeedom
+> **Note**
+>
+> Les arguments suivants sont utilisables : -w = dossier webserver -z =
+> installation dependances z-wave -m = mot de passe root mysql désiré
+
+    ./install.sh -w /var/www/html -z -m Jeedom
 
 **8/ Optimisation système
 
@@ -466,7 +348,7 @@ Etape 6 : Installation de jeedom
 
 -   Passez en root
 
-<! - ->
+<!-- -->
 
     su
 

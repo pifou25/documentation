@@ -1,57 +1,57 @@
-Présentation 
+Presentación 
 ============
 
-La Jeedom Smart est équipée d’un disque Emmc, garantissant une meilleur fiabilité qu'une carte SD, mais ce disque n’est pas directement accessible.
+El Jeedom Smart está equipado con un disco Emmc, lo que garantiza una mayor fiabilidad que una tarjeta SD, pero este disco no es directamente accesible.
 
-Le Recovery Mode USB englobe à la fois le système, l’OS, et aussi l’application Jeedom.
+El modo de recuperación USB incluye tanto el sistema, el sistema operativo y la aplicación Jeedom.
 
-Il permet :
+Eso permite :
 
-- La reinitialisation de la Jeedom Smart en configuration « usine » OS+Jeedom.
+- Reiniciar el Jeedom Smart a la configuración de fábrica el SO+Jeedom.
 
-- La reinitialisation de la Jeedom Smart en configuration « usine », en appliquant ensuite sa sauvegarde Jeedom.
+- Reiniciar el Jeedom Smart a la configuración de fábrica, y luego aplicar su copia de seguridad de Jeedom.
 
-Pour rappel la gestion des sauvegardes/restauration est disponible dans Jeedom dans le menu « roues crantées » en haut à droite, puis « Sauvegardes ».
+Como recordatorio, la gestión de copias de seguridad/restauraciones está disponible en Jeedom en el menú "Ruedas dentadas" en la parte superior derecha, luego "Copias de seguridad".
 
-Jeedom propose un service avec abonnement de sauvegarde automatique sur cloud privé Jeedom, pour ne plus vous soucier de rien. (Sur le Market, dans votre compte, menu à gauche « Backup Cloud »).
-
-
-
-
-Fonctionnement du recovery mode 
-===============================
-
-Matériel necessaire : une clé USB (minimum 8Go).
-
-N.B. pensez à mettre de côté (en local) une sauvegarde de configuration Jeedom
+Jeedom ofrece un servicio de suscripción automática de copia de seguridad en la nube privada de Jeedom, para que usted ya no tenga que preocuparse por nada. (En el Mercado, en su cuenta, menú izquierdo " Backup Cloud ").
 
 
 
 
-1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/x8ikHNd19M05qa2QCgJS90H9wyMq4xaxIUEola4iGSo?_encoding=UTF8&mgh=1&ref_=cd_ph_share_link_copy)
+Funcionamiento del modo recuperación 
+===================================
 
-2- copiez cette archive sans la modifier ni la dézipper, sur une clé USB formatée en FAT32 et vierge
+Hardware requerido: una llave USB (mínimo 8GB).
 
-3- arrêtez votre Smart proprement par Jeedom
+Nota. Considere la posibilidad de reservar (localmente) una copia de seguridad de la configuración de Jeedom.
 
-4- débranchez là
 
-5- insérez votre clé USB
 
-6- redémarrez la Smart
 
-7- patientez environ 30min, box non accessible **NE PAS DEBRANCHER**
+1- descargar el archivo que proporcionamos :[backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/x8ikHNd19M05qa2QCgJS90H9wyMq4xaxIUEola4iGSo?_encoding=UTF8&mgh=1&ref_=cd_ph_share_link_copy)
 
-8- cherchez votre Smart sur le réseau
+2- copiar este archivo sin modificarlo o descomprimirlo, en una llave USB formateada en FAT32 y en blanco
 
-9- vous reconnecter avec le login : admin et le mot de passe : admin
+3- Apague su Smart limpiamente desde Jeedom
 
-> **Important**
+4- desenchufarlo
+
+5- inserte su llave USB
+
+6- reiniciar el Smart
+
+7- esperar unos 30 minutos, la caja no es accesible **NO DESENCHUFAR**
+
+8- busque su Smart en la red
+
+9- reconectar con el login: admin y contraseña: admin
+
+> **Importante**
 >
 >
-> Attention ! Un Recovery Mode remet quoi qu’il arrive votre Smart en configuration « usine » neuve. Si vous avez une sauvegarde de votre configuration Jeedom il suffit après de la restaurer.
+> ¡Atención! El modo recuperación devuelve el Smart a una nueva configuración de "fábrica" sin configurar. Si tienes una copia de seguridad de tu configuración de Jeedom, sólo tienes que restaurarla después.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ce Recovery Mode n’est compatible qu’avec la Jeedom Smart.
+Este modo de recuperación sólo es compatible con Jeedom Smart.
 
 
