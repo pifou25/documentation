@@ -1,19 +1,19 @@
-**Documentation icône de plugins**
+**Documentación Iconos de plugins**
 
-Afin de pouvoir être publié sur le Market Jeedom, tout plugin doit disposer d’une icône.
+Para ser publicado en el Jeedom Market, cada plugin debe tener un icono.
 
-Cette icône sera celle affichée pour les utilisateurs, sur le market et depuis l’interface Jeedom.
+Este icono será el que se mostrará a los usuarios, tanto en el market como desde la interfaz de Jeedom.
 
-Il faut produire un fichier au format png, de 308 x 348 pixels.
+Debe ser un archivo en formato png, de 308 x 348 píxeles.
 
-Le nom du fichier est structuré ainsi : <plugin-id>_icon.png
+El nombre de fichero se estructura de la siguiente manera : <plugin-id>_icon.png
 
-Il doit être enregistré dans le dossier /plugin-info/
+Debe guardarse en la carpeta /plugin-info/.
 
-Ce fichier est obligatoire.
+Este archivo es obligatorio.
 
-Nous vous remercions par avance de ne pas utiliser le même code couleur que les icones des plugin officiels Jeedom.
+Le agradecemos de antemano que no utilice el mismo código de color que los iconos oficiales de los plugin de Jeedom.
 
-Modèle :
+Modelos :
 
 ![modele-icone](../images/plugin-Jeedom-px.jpg)

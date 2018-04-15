@@ -1,4 +1,4 @@
-**Documentation fichier info.json**
+**Dokumentation, info.json Datei**
 
 Intégré depuis la version 3.0 de Jeedom, le fichier **info.json** est obligatoire pour le bon fonctionnement des plugins, et leur bon déploiement sur le Market Jeedom.
 
