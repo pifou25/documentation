@@ -1,62 +1,62 @@
 **Dokumentation, info.json Datei**
 
-Intégré depuis la version 3.0 de Jeedom, le fichier **info.json** est obligatoire pour le bon fonctionnement des plugins, et leur bon déploiement sur le Market Jeedom.
+Seit Version 3.0 von Jeedom, ist die Datei **info.json** für das reibungslose Funktionieren der Plugins und ihrer erfolgreichen Bereitstellung auf dem  Jeedom Markt erforderlich.
 
-Le fichier info.json est enregistré dans le dossier /plugin_info/ de votre plugin.
+Die Datei info.json wird im Ordner /plugin_info/ Ihres Plugins gespeichert.
 
-Liste des variables du fichier info.json
+Liste der Variablen, der info.json Datei.
 
-Les champs marqués d’un * sont des champs obligatoires.
+Mit * gekennzeichnete Felder sind Pflichtfelder.
 
-Champs                   | Valeurs                                                                                                                   |
+Felder                   | Werte                                                                                                                   |
 ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-id *                     | Identifiant unique du plugin sur le Market Jeedom. Doit debuter par une lettre. Sans accents.                             |
-name *                   | Nom du plugin.                                                                                                            |
-description *            | Description du plugin, tel qu'il s’affichera sur le Market Jeedom Minimum 80 caractères.                                  |                                                                                     |
-usage                    | Informations complémentaires à la documentation sur l’usage du plugin.                                                    |
-licence *                | Type de licence.                                                                                                          |
-author *                 | Nom de l’auteur du plugin, tel qu’il sera affiché une fois le plugin installé, dans les informations de celui-ci.         |
-require *                | Version minimum de Jeedom.                                                                                                |
-category *               | Catégorie de classement du plugin sur le Market jeedom. **Respecter impérativement la nomenclature du tableau ci-dessous** |
-mobile                   | Si le plugin utilise un panel dédié sur l’application mobile Jeedom, il s’agit du nom du fichier principal de ce panel.   |
-changelog *              | Lien Html vers le Changelog.                                                                                              |
-Documentation *          | Lien Html vers la documentation du plugin.                                                                                |
-video_link               | Lien Html vers une vidéo de présentation.                                                                                 |
-forum_link               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
-languages                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
-compatibility            | Compatibilité du plugin : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
-hasDependency            | «true» si le plugin doit installer des dépendances, sinon «false» ou absent.                                              |
-hasOwnDeamon             | «true» si le plugin doit exécuter des deamons, sinon «false» ou absent.                                                   |
-maxDependancyInstallTime | Temps maximum imparti pour l’installation des dépendances, exprimé en minutes.                                            |
+id *                     | Eindeutige Kennung des Plugins auf dem Jeedom Markt. Muss mit einem Buchstaben beginnen. Ohne Akzente.                             |
+name *                   | Name des Plugins.                                                                                                            |
+description *            | Beschreibung des Plugins, wie es auf dem Jeedom Markt angezeigt wird, mindestens 80 Zeichen.                                  |                                                                                     |
+usage                    | Weitere Informationen in der Dokumentation über die Verwendung des Plugins.                                                    |
+licence *                | Art der Lizenz.                                                                                                          |
+author *                 | Name des Plugin-Autors, wie er nach der Installation des Plugins angezeigt wird, in der Informationen von ihm.         |
+require *                | Minimale Version von Jeedom.                                                                                                |
+category *               | Kategorie-Ranking des Plugins, auf dem Jeedom Markt. **Es ist unbedingt erforderlich, die Kategorie in der Tabelle unten zu beachten** |
+mobile                   | Wenn das Plugin ein eigenes Panel in der Jeedom Mobile App verwendet, ist dies der Name der Hauptdatei dieses Panels.   |
+changelog *              | Html Link zum Änderungsprotokoll.                                                                                              |
+Documentation *          | Html Link zur Plugin Dokumentation.                                                                                |
+video_link               | Html  Link zu einer Video-Präsentation.                                                                                 |
+forum_link               | Html Link zum Forum, zum offiziellen Thema des Plugins.                                                                  |
+languages                | Liste der verfügbaren Sprachen, für das Plugin : Französisch, Englisch, Deutsch, Italienisch, Spanisch, Russisch, Indonesisch            |
+compatibility            | Die Plugin-Kompatibilität : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
+hasDependency            | «true» wenn das Plugin Abhängigkeiten installieren muss, sonst «false» oder nichts.                                              |
+hasOwnDeamon             | «true» wenn das Plugin Deamons ausführen soll, sonst «false» oder nichts.                                                   |
+maxDependancyInstallTime | Maximale Zeit für die Installation von Abhängigkeiten, ausgedrückt in Minuten.                                            |
 
 
-**Exemple** :
+**Beispiel** :
 
-Fichier plugin-template/plugin_info/info.json
+Datei plugin-template/plugin_info/info.json
 https://github.com/jeedom/plugin-template/blob/master/plugin_info/info.json
 
 
 
 
-**NOMENCLATURE CATEGORIES**
+**Kategorie Verzeichnis**
 
-Market Jeedom         | info.json               |
+Jeedom Markt         | info.json               |
 --------------------- | ----------------------- |
-Communication         | communication           |
-Confort               | wellness                |
-Energie               | energy                  |
-Météo                 | weather                 |
-Monitoring            | monitoring              |
-Multimédia            | multimedia              |
-Nature                | nature                  |
-Objets Connectés      | devicecommunication     |
-Organisation          | organization            |
-Passerelle domotique  | home automation protocol|
-Programmation         | programming             |
-Protocole domotique   | automation protocol     |
-Santé                 | health                  |
-Sécurité              | security                |
-Automatisme           | automatisation          |
+Kommunikation         | Kommunikation           |
+Komfort               | Wellness                |
+Energie               | Energie                  |
+Wetter                 | Wetter                 |
+Überwachung            | Überwachung              |
+Multimedia            | Multimedia              |
+Natur                | Natur                  |
+Gerätekommunikation      | Gerätekommunikation     |
+Organisation          | Organisation            |
+Hausautomatisierungsprotokoll  | Hausautomatisierungsprotokoll|
+Programmierung         | Programmierung             |
+Automatisierungsprotokoll   | Automatisierungsprotokoll     |
+Gesundheit                 | Gesundheit                  |
+Sicherheit              | Sicherheit                |
+Automatisierung           | Automatisierung          |
 
 
 
@@ -68,7 +68,7 @@ Automatisme           | automatisation          |
 
 
 
-  
+ 
 
 
 
