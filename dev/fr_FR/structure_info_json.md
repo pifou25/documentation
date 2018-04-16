@@ -20,7 +20,7 @@ require *                | Version minimum de Jeedom.                           
 category *               | Catégorie de classement du plugin sur le Market jeedom. **Respecter impérativement la nomenclature du tableau ci-dessous** |
 mobile                   | Si le plugin utilise un panel dédié sur l’application mobile Jeedom, il s’agit du nom du fichier principal de ce panel.   |
 changelog *              | Lien Html vers le Changelog.                                                                                              |
-Documentation *          | Lien Html vers la documentation du plugin.                                                                                |
+documentation *          | Lien Html vers la documentation du plugin.                                                                                |
 video_link               | Lien Html vers une vidéo de présentation.                                                                                 |
 forum_link               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
 languages                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
