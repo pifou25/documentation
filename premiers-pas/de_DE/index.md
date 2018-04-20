@@ -241,15 +241,15 @@ Auf ein Plugin klickend, erhalten Sie eine Karteikarte :
 
 ![premier plugin4](../images/premier-plugin4.png)
 
-Vous retrouvez alors : 
+In ihr sehen sie folgendes :
 
-- des boutons pour installer le plugin : la version stable est fortement recommandée, 
-- un bouton pour supprimer le plugin, 
-- une brève description, 
-- un lien vers la documentation du plugin, 
-- un lien vers le changelog (les dernières modifications apportées), 
-- la compatibilité avec les différentes plateformes, 
-- les avis des utilisateurs, 
+- Eine Schaltfläche zum installieren des Plugins : Die stabile Version wird dringend empfohlen,
+- eine Schaltfläche, um das Plugin zu entfernen,
+- eine kurze Beschreibung,
+- einen Link zur Dokumentation des Plugins,
+- einen Link zum Änderungsprotokoll (mit den letzten Änderungen),
+- Kompatibilität mit den verschiedenen Plattformen,
+- Nutzerbewertungen,
 - la façon d’utiliser le plugin, 
 - des informations complémentaires comme l’auteur, le lien vers la discussion du forum concernant ce plugin, la date de dernière mise à jour, etc.
 
