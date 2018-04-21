@@ -250,101 +250,98 @@ In ihr sehen sie folgendes :
 - einen Link zum Änderungsprotokoll (mit den letzten Änderungen),
 - Kompatibilität mit den verschiedenen Plattformen,
 - Nutzerbewertungen,
-- la façon d’utiliser le plugin, 
-- des informations complémentaires comme l’auteur, le lien vers la discussion du forum concernant ce plugin, la date de dernière mise à jour, etc.
+- wie man das Plugin benutzt,
+- zusätzliche Informationen wie der Autor, der Forum-Link zur Diskussion über dieses Plugin, das Datum der letzten Aktualisierung, etc.
 
-Pour plus d’informations sur les plugins cliquez [ici](https://jeedom.github.io/core/fr_FR/plugin).
+Für weitere Informationen zu den Plugins, klicken Sie [hier](https://jeedom.github.io/core/fr_FR/plugin).
 
 Support 
 =======
 
-Jeedom aborde des champs très vastes et évoluant de jour en jour.
-Cependant, de nombreux moyens sont mis à votre disposition pour trouver
-de l’aide et poser vos questions.
+Jeedom befasst sich mit sehr unterschiedlichen Bereichen und entwickelt
+sich von Tag zu Tag. Jedoch stehen viele Möglichkeiten zur Verfügung, um
+Hilfe zu bekommen und Fragen zu stellen.
 
-La documentation de Jeedom 
+Die Jeedom Dokumentation
 --------------------------
 
-Vous trouverez une documentation complète [ici](https://jeedom.fr/doc) :
+Sie finden die komplette Dokumentation [hier](https://jeedom.fr/doc) :
 
-Celle-ci se compose de plusieurs catégories :
+Diese besteht aus mehreren Kategorien :
 
--   Core : une partie pour le "coeur" de Jeedom,
+-   Core : Ein Abschnitt vom Jeedom "Kern",
 
--   Premiers-pas : Une partie (où vous êtes actuellement) pour les
-    premiers éléments à connaître,
+-   Erste Schritte : Ein Abschnitt (wo Sie jetzt sind), um die ersten Elemente
+    kennen zu lernen,
 
--   Installation : Tout ce qui concerne l’installation de Jeedom,
+-   Installation : Alles, was Sie über die Installation von Jeedom wissen müssen,
 
--   Howto : Des tutoriels pour progresser dans divers domaines,
+-   Howto : Anleitungen, um auf verschiedenen Gebieten Fortschritte zu machen,
 
--   Plugins : Les documentations des différents plugins officiels de
+-   Plugins : Die Dokumentationen der verschiedenen offiziellen Plugins von 
     Jeedom,
 
--   les autres : diverses pages sur les différents protocoles utilisés
-    dans Jeedom, la présentation de Jeedom, des listes de
-    compatibilité, etc.
+-   Die anderen : Diverse Seiten zu den verschiedenen in Jeedom 
+    verwendeten Protokollen, die Jeedom-Präsentation,
+    Kompatibilitätslisten usw.
 
-Vous trouverez également en dessous la liste des documentations pour les
-plugins tiers.
+Sie finden auch eine Liste von Dokumentationen für Plugins von
+Drittanbietern.
 
-N’hésitez pas à utiliser la fonction **rechercher** en haut à droite de
-la page pour trouver les pages en fonction d’un mot précis.
+Verwenden Sie die **Suchfunktion** oben rechts auf der Seite, um nach
+Seiten zu suchen, die auf einem bestimmten Wort basieren.
 
-Le forum 
+Das Forum
 --------
 
-Vous le trouverez [ici](https://jeedom.com/forum) .
+Sie finden es [hier](https://jeedom.com/forum) .
 
-Le forum est très actif et contient énormément d’informations. Si vous
-avez une question, n’hésitez pas à la poser. Vous aurez une réponse en
-moins d’une heure (en moyenne). Attention cependant, le forum est
-maintenu par la communauté Jeedom, composée de bénévoles, et non par la
-société Jeedom.
+Das Forum ist sehr aktiv und enthält viele Informationen. Wenn Sie eine
+Frage haben, zögern Sie nicht zu fragen. Sie werden eine Antwort in weniger
+als einer Stunde (im Durchschnitt) bekommen. Beachten Sie jedoch, dass
+das Forum von der Jeedom-Community gepflegt wird, die sich aus
+Freiwilligen zusammensetzt und nicht von dem Jeedom-Unternehmen.
 
 ![premier support3](../images/premier-support3.png)
 
-Les demandes de support (ou tickets) 
+Supportanfragen (oder Ticket)
 ------------------------------------
 
-> **Important**
+> **Wichtig**
 >
-> Attention, toute demande de support nécessite obligatoirement d’avoir
-> un compte sur le Market.
+> Achtung, jede Bitte um Unterstützung, erfordert unbedingt auf dem Markt
+> ein Konto zu haben. 
 
-Si vous n’avez pas trouvé de solution à votre problème, en dernier
-recours, vous pouvez faire une demande de support à l’équipe Jeedom.
-Cette demande passe par un ticket. Il est possible d’en ouvrir un de
-plusieurs façons :
+Wenn Sie keine Lösung für Ihr Problem gefunden haben, können Sie als letztes Mittel eine Supportanfrage an das Jeedom-Team richten. Diese Anfrage erfordert ein Ticket. Es ist möglich, dieses auf verschiedene Arten zu öffnen :
 
--   Directement à partir de Jeedom (méthode conseillée) : où que vous
-    soyez dans Jeedom, il y a un point d’exclamation en haut à droite
-    qui permet de faire une demande de support :
+-   Direkt in Jeedom (empfohlene Methode) : wo immer Sie
+    in Jeedom sind, gibt es oben rechts ein Ausrufezeichen,
+    das eine Support-Anfrage erlaubt :
 
 ![premier support4](../images/premier-support4.png)
 
--   Si pour une raison ou pour une autre vous n’avez pas accès à votre
-    Jeedom, vous pouvez toujours ouvrir un ticket à partir du Market :
+-   Wenn Sie aus irgendeinem Grund keinen Zugang zu Ihrem Jeedom haben,
+    können Sie noch ein Ticket vom Markt eröffnen :
 
-    -   soit avec le point d’exclamation en haut à droite,
+    -   mit dem Ausrufezeichen oben rechts,
 
-    -   soit en allant sur votre profil (cliquez ensuite sur le bouton
-        "Ouvrir une demande de support").
+    -   oder indem Sie auf Ihr Profil gehen (auf die Schaltfläche
+         "Support-Anfrage stellen" klicken).
 
 ![premier support5](../images/premier-support5.png)
 
-Toute la suite des échanges se fera par mail.
+Jedweder Schriftwechsel erfolgt per E-Mail
 
-> **Tip**
+> **Tipp**
 >
-> Si, lors de l’ouverture d’un ticket, vous obtenez une erreur indiquant
-> que vous avez atteint votre quota, c’est que vous êtes limités à un
-> certain nombre de demandes de support par mois, en fonction de votre
-> service pack.
+> Wenn beim Öffnen eines Tickets ein Fehler angezeigt wird, der besagt,
+> dass Sie Ihr Kontingent erreicht haben, sind Sie abhängig von Ihrem
+> Service Pack, auf eine bestimmte Anzahl von Supportanfragen pro Monat
+> begrenzt.
 
-Les différents services packs sont : \* Community (gratuit) : 2
-tickets/mois (sur plugins payants uniquement) \* Power : 10 tickets/mois
-\* Pro : 100 tickets/mois
+Die verschiedenen Service Packs sind : \* Gemeinschaft (kostenlos) : 2
+Tickets/Monat (nur bei kostenpflichtigen Plugins) \* Power : 10 Tickets/Monat
+\* Pro : 100 Tickets/Monat
 
-Vous pouvez retrouver le détail des services packs
-[ici](https://www.jeedom.com/site/fr/soft.html#obtenir)
+Sie können die Details der Service Packs
+[hier](https://www.jeedom.com/site/fr/soft.html#obtenir) finden
