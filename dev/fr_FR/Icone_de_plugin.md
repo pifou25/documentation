@@ -4,7 +4,7 @@ Afin de pouvoir être publié sur le Market Jeedom, tout plugin doit disposer d�
 
 Cette icône sera celle affichée pour les utilisateurs, sur le market et depuis l’interface Jeedom.
 
-Il faut produire un fichier au format png, de 308 x 348 pixels.
+Il faut produire un fichier au format png, de 309 x 348 pixels.
 
 Le nom du fichier est structuré ainsi : <plugin-id>_icon.png
 
