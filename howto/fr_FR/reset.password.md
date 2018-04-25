@@ -35,3 +35,11 @@ passe des autres comptes également.
 >**IMPORTANT**
 >
 >N'oubliez pas une fois fini de bien supprimer l'utilisateur adminTmp, le laisser pourrait etre une potentiel faille de sécurité
+
+>**IMPORTANT**
+>
+> Si vous avez activé l'authentification AD/LDAP cette méthode de remise à zéro ne marchera pas à moins de désactiver le mode AD/LDAP. Vous pouvez le faire en faisant : 
+>``` {.bash}
+>use jeedom;
+>REPLACE INTO `config` SET 'ldap:enable'='0';
+>```
