@@ -64,92 +64,84 @@ vollständiger Kontrolle der Installation.
 Jeedom Smart
 ===========
 
-Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom 
+Sie finden hier die Dokumentation Schritt für Schritt, um Jeedom zu installieren oder wiederherzustellen
 
 https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart
 
 Jeedom mini+
 ===========
 
-> **Tip**
+> **Tipp**
 >
-> Le nom de l’image Jeedom peut être différent de celui des captures
-> faites dans cette documentation
+> Der Name des heruntergeladenen Jeedom-Abbilds kann sich von dem in
+> dieser Dokumentation unterscheiden.
 
-Etape 1 : Installation de Etcher 
+Schritt 1 : Etcher installieren
 ---
 
-Vous devez télécharger le logicel Etcher [ici](https://etcher.io/) puis
-l’installer sur votre pc
+Sie müssen die Etcher Software [hier](https://etcher.io/) herunterladen und auf Ihrem PC installieren.
 
-Etape 2 : Récupération de l’image de Jeedom 
+Schritt 2 : Wiederherstellung Jeedom-Abbild
 ---
 
-Vous devez aller
-[ici](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog),
-puis dans le dossier Images récuperer l’image jeedom-jeeboard-\*.rar ou
-Jeedomboard\_\_Debian\_Jessie\*.rar
+Sie müssen
+[hier](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog) hin gehen,
+dann im Ordner Images das Abbild jeedom-jeeboard-\*.rar oder
+Jeedomboard\_\_Debian\_Jessie\*.rar herrunterladen.
 
 ![install humming 1](../images/install_humming_1.PNG)
 
-Etape 3 : Décompression de l’image de Jeedom 
+Schritt 3 : Jeedom-Abbild Dekomprimieren
 ---
 
-Décompresser l’image de Jeedom (si vous n’avez rien pour la décompresser
-vous pouvez installer
-[winrar](http://www.clubic.com/telecharger-fiche9632-winrar.html)), vous
-devez obtenir :
+Das Jeedom-Abbild dekomprimieren (falls Sie nichts zum dekomprimieren haben können Sie hier [winrar](http://www.clubic.com/telecharger-fiche9632-winrar.html) herunterladen), Sie müssen erhalten : 
 
 ![install humming 2](../images/install_humming_2.PNG)
 
 ![install humming 8](../images/install_humming_8.PNG)
 
-Etape 4 : Gravure de l’image sur la carte SD 
+Schritt 4: Das Abbild auf die SD-Karte brennen
 ---
 
-Insérez votre carte SD dans votre ordinateur puis lancez le logiciel
-Etcher, donnez-lui le chemin de l’image, le chemin de la carte SD et
-cliquez sur "Flash!". Le logiciel va graver la carte SD et vérifier la
-gravure.
+Legen Sie Ihre SD-Karte in Ihren Computer ein und starten Sie die Etcher
+Software, geben Sie den Pfad des Abbildes, den Pfad der SD-Karte und
+klicken Sie auf "Flash!". Die Software wird die SD-Karte brennen und die
+Gravur überprüfen.
 
-Vous n’avez plus qu’à mettre la carte SD dans la Jeedomboard (ou
-Hummingboard), à brancher le réseau et l’alimentation, votre Jeedom va
-démarrer (5 min) et vous devriez le voir sur le réseau.
+Sie müssen nur die SD-Karte in das Jeedomboard stecken (oder Hummingboard), das Netzwerk und die Stromversorgung anschließen, Ihr Jeedom wird starten (5 min) und Sie sollen es im Netzwerk sehen.
 
-> **Tip**
+> **Tipp**
 >
-> Les identifiants SSH sont jeedom/Mjeedom96
+> Die SSH Zugangsdaten sind jeedom/Mjeedom96 .
 
-Pour la suite, vous pouvez suivre la documentation [Premier pas avec
-Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
+Danach können Sie die Dokumentation [Erste Schritte mit Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html) folgen.
 
 
 Raspberrypi
 ===========
 
-Vous trouverez ici la documentation pour installer Jeedom sur un
-raspberry PI **avec une carte SD.**
+Sie finden hier die Dokumentation, um Jeedom auf einem Raspberry PI **mit einer SD-Karte** zu installieren.
 
-> **Important**
+> **Wichtig**
 >
-> Debian 9 (Stretch) est la distribution officiellement supportée pour
-> la version 3.1.5 de jeedom (mais Jessie reste parfaitement
-> fonctionnelle).
-
-**1/ Télécharger le dernière image "lite", c’est à dire sans interface
-graphique**
-[ICI](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-12-01/2017-11-29-raspbian-stretch-lite.zip)
-
-**2/ Décompresser l’image avec winrar** [Ici](http://www.win-rar.com)
-
-**3/ Gravez cette image sur une SD avec etcher par exemple**
-[ici](https://etcher.io/)
-
-> **Note**
+> Debian 9 (Stretch) ist die offiziell unterstützte Distribution für Version 3.1.5
+> von Jeedom (aber Jessie bleibt perfekt funktional).
 >
-> Si vous utilisez Etcher pour graver votre image, l’étape de
-> décompression est inutile (format Zip reconnu directement dans la
-> sélection du fichier image).
+
+**1/ Laden Sie das neueste Abbild "lite" herunter, das ist ohne Grafik 
+Schnittstelle**
+[Hier](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-12-01/2017-11-29-raspbian-stretch-lite.zip)
+
+**2/ Dekomprimieren Sie das Abbild mit Winrar** [Hier](http://www.win-rar.com)
+
+**3/ Brennen Sie dieses Abbild zum Beispiel mit Etcher auf eine SD-Karte**
+[Hier](https://etcher.io/)
+
+> **Notiz**
+>
+> Wenn Sie Etcher verwenden, um Ihr Abbild zu brennen, ist der
+> Dekomprimierungsschritt nutzlos (das Zip-Format wird direkt bei der Auswahl
+> der Abbilddatei erkannt).
 
 **4/ Activer un accès SSH**
 
