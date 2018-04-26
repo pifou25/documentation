@@ -143,47 +143,44 @@ Schnittstelle**
 > Dekomprimierungsschritt nutzlos (das Zip-Format wird direkt bei der Auswahl
 > der Abbilddatei erkannt).
 
-**4/ Activer un accès SSH**
+**4/ Einen SSH-Zugriff aktivieren**
 
-> **Warning**
+> **Warnung**
 >
-> Pour des raisons de sécurité, l’accès SSH n’est plus activé par défaut
-> sur cette distribution. Il faut donc l’activer.
+> Aus Sicherheitsgründen ist der SSH-Zugriff in dieser Distribution nicht mehr
+> standardmäßig aktiviert. Er muss daher aktiviert werden.
 
-Il faut créer sur la partition boot (la seule accessible sous windows)
-un fichier ssh vide.
+Es ist notwendig, auf der boot Partition (dem einzigen unter Windows zugänglichen) eine leere Datei ssh zu erstellen.
 
-Il suffit de faire un clic droit : nouveau / document texte et le
-renommer en "ssh" **sans extension**
+Nur Rechtsklick : neues / Textdokument und umbenennen in "ssh" **ohne Erweiterung**
 
-> **Important**
+> **Wichtig**
 >
-> Sous windows, dans l’explorateur il faut donc vérifier votre
-> paramétrage dans affichage / options / modifier les options de
-> dossiers et de recherche /
+> Unter Windows müssen Sie im Explorer Ihre Einstellungen 
+> in der Ansicht / Optionen /  Ordner- und Suchenoptionen
+>  ändern / überprüfen
 
 ![ExtensionFichier](../images/ExtensionFichier.PNG)
 
-**5/ Démarrer le PI**
+**5/ PI starten**
 
-Insérez votre carte SD, branchez le cable réseau, branchez
-l’alimentation.
+Legen Sie Ihre SD-Karte ein, verbinden Sie das Netzwerkkabel und schließen Sie das Netzteil an.
 
-**6/ Se connecter en SSH**
+**6/ Sich mit SSH verbinden**
 
-Identifiez votre Pi sur le réseau
+Identifizieren Sie Ihr Pi im Netzwerk
 
-Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
+Sie müssen die IP-Adresse Ihres Pi wissen. Es gibt mehrere Lösungen :
 
--   Consultez la configuration DHCP dans votre routeur
+-   Sehen Sie sich die DHCP-Konfiguration in Ihrem Router an
 
--   Utilisez un scanner de port type "angyipscanner"
-    [ici](http://angryip.org/download/#windows)
+-   Verwenden Sie einen Port-Scanner "Angyipscanner"
+    [Hier](http://angryip.org/download/#windows)
 
-Etablir la connexion
+Stellen Sie die Verbindung her
 
-Ensuite utilisez par exemple putty pour établir votre connexion
-[Ici](http://www.putty.org/)
+Verwenden Sie zum Beispiel putty, um Ihre Verbindung herstellen
+[Hier](http://www.putty.org/)
 
 Rentrer l’adresse de Ip de votre PI (ici 192.168.0.10) et cliquez sur
 open. Accepter le message par défaut relatif à la sécurité lors de la
