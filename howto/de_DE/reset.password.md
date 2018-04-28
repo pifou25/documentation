@@ -40,5 +40,5 @@ passe des autres comptes également.
 > Si vous avez activé l'authentification AD/LDAP cette méthode de remise à zéro ne marchera pas à moins de désactiver le mode AD/LDAP. Vous pouvez le faire en faisant : 
 >``` {.bash}
 >use jeedom;
->REPLACE INTO `config` SET 'ldap:enable'='0';
+>REPLACE INTO `config` SET `value`='0',`key`='ldap:enable',`plugin`='core';
 >```
