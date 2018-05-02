@@ -4,7 +4,7 @@ Um auf dem Jeedom Markt veröffentlicht zu werden, muss jedes Plugin ein Symbol 
 
 Dieses Symbol wird für Benutzer, auf dem Markt und von der Jeedom-Schnittstelle angezeigt.
 
-Il faut produire un fichier au format png, de 309 x 348 pixels.
+Es ist notwendig, eine Datei im PNG-Format von 309 x 348 Pixel zu erstellen.
 
 Der Name der Datei ist so aufgebaut : <plugin-id>_icon.png
 
