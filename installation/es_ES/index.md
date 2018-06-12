@@ -66,7 +66,7 @@ Jeedom Smart
 
 Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom 
 
-https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart
+[ici](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
 
 Jeedom mini+
 ===========
