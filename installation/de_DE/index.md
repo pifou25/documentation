@@ -66,7 +66,7 @@ Jeedom Smart
 
 Sie finden hier die Dokumentation Schritt für Schritt, um Jeedom zu installieren oder wiederherzustellen
 
-[ici](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
+[Hier](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
 
 Jeedom mini+
 ===========
@@ -128,9 +128,9 @@ Sie finden hier die Dokumentation, um Jeedom auf einem Raspberry PI **mit einer 
 > von Jeedom (aber Jessie bleibt perfekt funktional).
 >
 
-**1/ Télécharger le dernière image "lite", c’est à dire sans interface
-graphique**
-[ICI](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-04-19/2018-04-18-raspbian-stretch-lite.zip)
+**1/ Laden Sie das neueste Abbild "lite" herunter, das ist ohne Grafik 
+Schnittstelle**
+[Hier](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-04-19/2018-04-18-raspbian-stretch-lite.zip)
 
 **2/ Dekomprimieren Sie das Abbild mit Winrar** [Hier](http://www.win-rar.com)
 
