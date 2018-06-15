@@ -36,6 +36,13 @@ Fitbit
 |---|---|---|---|---|---|
 |<img src="../images/fitbit.jpg" width="60" />|Fitbit|Badge|Bracelet|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Flowerpower
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/flowerpower.jpg" width="60" />|Parrot|Power Flower|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Gigaset
 =====
 
@@ -135,6 +142,13 @@ Nut
 |---|---|---|---|---|---|
 |<img src="../images/nut.jpg" width="60" />|Nut|Nut|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Parrotpot
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/parrotpot.jpg" width="60" />|Parrot|Parrot Pot|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Playbulb
 =====
