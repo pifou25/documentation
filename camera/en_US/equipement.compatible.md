@@ -39,6 +39,7 @@
 | Vivotek 7xxx            |                         |                          |
 | Vivotek 8xxx            |                         |                          |
 | Wanscam HW00XX          |                         |                          |
+| Wanscam q3(s)           |                         |                          |
 | Wanscam motorisée       |                         |                          |
 | Y-Cam                   |                         |                          |
 | Zavio F3115             |                         |                          |
