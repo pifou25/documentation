@@ -27,6 +27,7 @@ Par default vous êtes prévenu par un mail sur votre mail configuré dans votre
 - Ajouter une alerte sur Télégram
 - Ajouter une alerte sur Slack (il faut juste donner l'adresse de Webhook)
 - Ajouter une alerte par SMS (attention cela necessite que vous ayez du crédit SMS sur le market)
+- Ajouter une alerte par Notification (nécessite l'app mobile) 
 
 ## Comment l'activer
 
@@ -46,6 +47,10 @@ Ensuite vous pouvez voir dans la partie santé de Jeedom si celui-ci est actif. 
 >**IMPORTANT**
 >
 > Une fois le service activé celui surveille tous les Jeedom relié à votre compte
+
+>**IMPORTANT**
+>
+> Pour les notifications il suffit de récupérer l'arn de votre mobile, il ce situe dans le plugin mobile, sur votre equipement mobile puis d'accéder à l'onglet "notification" puis copie la ligne "ARN" attention il faut prendre uniquement ce qu'il y a apres "arn:aws:sns:eu-west-1:507915066327:endpoint/"
 
 ## C'est compatible avec tout ?
 
