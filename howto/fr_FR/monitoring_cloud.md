@@ -4,6 +4,12 @@
 
 Le monitoring cloud est un service Jeedom SAS payant qui surveille en permanance votre ou vos Jeedoms et vous prévient en cas de soucis.
 
+En fonction du nombre de mois pris vous aurez le droits à des mois offerts : 
+
+- 12 mois : 1 mois offerts
+- 24 mois : 4 mois offerts
+- 36 mois : 8 mois offerts
+
 ## Qu'est ce qui est surveiller
 
 La liste de ce qui est surveiller évolue pour essayer d'etre le plus réactif/pro actif possible, dans les controles de base vous avez : 
