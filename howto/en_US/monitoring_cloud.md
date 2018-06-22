@@ -40,7 +40,7 @@ Par default vous êtes prévenu par un mail sur votre mail configuré dans votre
 La procedure est assez simple, il faut : 
 
 - avoir du crédit monitoring cloud (il s'achete par lot de 1 mois, vous pouvez donc en prendre 2 mois puis arreter 6 mois puis en reprendre après)
-- avoir jeedom 3.2.4 minium
+- avoir jeedom 3.2.9 minium
 
 Après avoir ajouté du crédit monitoring cloud, il faut soit attendre quelques heures (24h environ), soit dans Jeedom, sur la partie configuration puis mise à jour cliquer sur le bouton "test" pour la connexion au market (cela force le Jeedom a récuperer les informations du market et donc le faite que le service monitoring cloud est actif).
 
