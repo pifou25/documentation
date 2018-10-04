@@ -19,6 +19,8 @@ Configuration d’Apache
 Pour que le processus de letsEncrypt se termine correctement, il est
 nécessaire d’effectuer les trois étapes ci-dessous au préalable :
 
+Attention il est nécessaire d'ouvrir le port 80 sur le routeur (FAI) ! 
+
 -   Activer le module SSL d’apache de la box Jeedom.
 
 -   Activer le VirtualHost HTTPS d’apache de la box Jeedom .
