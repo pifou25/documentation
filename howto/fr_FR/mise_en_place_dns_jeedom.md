@@ -16,7 +16,7 @@ Ce principe à l'avantage de ne pas exposer votre Jeedom sur internet, pas d'ouv
 
 > **IMPORTANT**
 >
-> Pour que ca marche il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996 et 1997. En particulier pour les livebox il faut baisser le niveau du firewall.
+> Pour que ca marche il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996 et 1997. En particulier pour les Livebox et routeur 4g Huawei il faut baisser le niveau du firewall.
 
 Nous avons actuellement 5 serveurs DNS reparti sur 2 machines physique differente, ayant chacun une connexion 1Gbit/s. 
 
