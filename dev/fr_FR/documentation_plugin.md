@@ -43,8 +43,8 @@ La mise en ligne est assez simple il suffit dans sur votre dépot github puis "S
 
 Il vous faut maintenant mettre les liens de votre documentation dans le fichier info.json de votre plugin pour cela il faut : 
 
-- ajouter #language#/ pour le lien vers la documentation, cela donne donc sur notre exemple "https://jeedom.github.io/plugin-template/#langauge#/"
-- ajouter #language#/changelog pour le lien vers votre changement, cela donne donc sur notre exemple "https://jeedom.github.io/plugin-template/#langauge#/changelog"
+- ajouter #language#/ pour le lien vers la documentation, cela donne donc sur notre exemple "https://jeedom.github.io/plugin-template/#language#/"
+- ajouter #language#/changelog pour le lien vers votre changement, cela donne donc sur notre exemple "https://jeedom.github.io/plugin-template/#language#/changelog"
 
 > **Note**
 >
