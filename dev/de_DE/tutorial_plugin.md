@@ -1,14 +1,15 @@
-> **IMPORTANT**
+> **Wichtig**
 >
-> Ce tutorial a été écris par ZygOm4t1k que nous remercions vivement. Vous pouvez retrouver l'original [ici](https://www.jeedom.com/forum/viewtopic.php?f=27&t=37630#p621495)
+> Dieses Tutorial wurde von ZygOm4t1k geschrieben, für das wir uns herzlich bedanken. Das Original finden Sie [hier](https://www.jeedom.com/forum/viewtopic.php?f=27&t=37630#p621495)
 
-Voici un petit TP pour expliquer comment créer un plugin. Pour l’exemple nous allons créer un plugin qui retourne une phrase du site viedemerde.fr .(Le plugin sera évolutif)
+Hier ist ein kleiner TP, um zu erklären, wie man ein Plugin erstellt. Für das Beispiel erstellen wir ein Plugin, das einen Satz von der 
+Website viedemerde.fr zurückgibt (das Plugin wird skalierbar sein).
 
-Il ne remplace en aucun cas la [documentation officielle](https://jeedom.github.io/plugin-template/fr_FR/)
+Es ersetzt nicht die [offizielle Dokumentation](https://jeedom.github.io/plugin-template/fr_FR/)
 
-# Créer la base du plugin
+# Erstellen der Plugin-Datenbank
 
-Pour commencer il faut déterminer un nom et un id (qui ne doit pas exister)
+Um zu beginnen, müssen Sie einen Namen und eine ID festlegen (die nicht existieren darf).
 
 Nom : Vie de Merde
 Id : vdm
@@ -27,11 +28,11 @@ Renommer le dossier « plugin-template-master » en « vdm » (l’id) du plugin
 {
     "id" : "vdm",
     "name" : "Vie de Merde",
-    "description" : "Plugin pour récupérer les dernières vdm",
+    "description" : "Plugin zum Abrufen der neuesten vdm",
     "licence" : "AGPL",
     "author" : "Zyg0m4t1k",
     "require" : "3.2",
-    "category" : "monitoring",
+    "category" : "Überwachung",
     "changelog" : "",
     "documentation" : "",
     "language" : "",

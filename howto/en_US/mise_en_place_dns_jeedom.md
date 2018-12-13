@@ -16,7 +16,7 @@ Ce principe à l'avantage de ne pas exposer votre Jeedom sur internet, pas d'ouv
 
 > **IMPORTANT**
 >
-> Pour que ca marche il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996 et 1997. En particulier pour les livebox il faut baisser le niveau du firewall.
+> Pour que ca marche il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996 et 1997. En particulier pour les Livebox et routeur 4g Huawei il faut baisser le niveau du firewall.
 
 Nous avons actuellement 5 serveurs DNS reparti sur 2 machines physique differente, ayant chacun une connexion 1Gbit/s. 
 
@@ -69,3 +69,7 @@ Voila votre Jeedom est accessible de l'exterieure en https
 > **J'ai pas la page de connexion mais impossible de me connecter**
 >
 > Vérifiez que vous avez bien changé les identifiants par defaut de jeedom (admin/admin) et que votre utilisateur n'est pas restreint en local seulement.
+
+> **Ma configuration est bonne mais impossible d'avoir une page ca tourne à l'infini**
+>
+> Si votre configuration est bonne (Initialization Sequence Completed dans le log openvpn_DNS_Jeedom) mais que vous n'arrivez pas à avoir la page de connexion, qui marche avec l'application mobile de maniere aléatoire et vous etes en 4g ou en fin de ligne ADSL. Cela est du a une connexion de mauvaise qualité (les paquet arrive pas tous correctement il demande donc un renvoi a l'infini). Il faut changer la taille des packets (plus les packet sont petit moins il y a de chance qu'il soit corrompu et donc renvoyé par contre moins il y a de données transmise d'un coup donc ca peut ralentir). Pour changer la taille des packet aller dans Plugin -> Communication -> Openvpn puis cliquer sur l'équipement "DNS Jeedom" et dans "Commande post démarrage" mettre "sudo ip link set dev #interface# mtu 1300" (vous pouvez essayé avec 1400 au lieu de 1300, par defaut la taille est de 1500). Ne pas oublier de redemarrer le DNS Jeedom depuis la page d'Administration Jeedom puis partie réseaux.

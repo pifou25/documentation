@@ -33,6 +33,7 @@ A5-07
 |---|---|---|---|---|---|
 |<img src="../images/a5-07-01_eosca_mouvement.jpg" width="60" />|Eosca|Détecteur de mouvement EnOcean (position plafond)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_nodon_mouvement.jpg" width="60" />|Nodon|Détecteur de mouvement et luminosité EnOcean|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-07-03_avidsen_mouvement.jpg" width="60" />|Avidsen|Détecteur de mouvement|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-09
 =====
@@ -63,9 +64,19 @@ A5-12
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
+|<img src="../images/a5-12-00_avidsen_amp.jpg" width="60" />|Avidsen|Module Pince ampérimétrique|Compteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-12-01_eltako_fw12_65.jpg" width="60" />|Eltako|Module de comptage d'énergie 65A|Compteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2837-eltako-module-de-comptage-d-energie-65a-4010312311059.html)|
 |<img src="../images/a5-12-01_eltako_fw12_16.jpg" width="60" />|Eltako|Module de comptage d'énergie 16A|Compteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2836-eltako-module-de-comptage-d-energie-16a-4010312303184.html)|
+|<img src="../images/a5-12-01_avidsen_tic.jpg" width="60" />|Avidsen|Module Téléinfo|Compteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-12-10_ewattch.jpg" width="60" />|Ewattch|SQUID Sous-compteur electrique EnOcean - 12 entrées|Compteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2859-ewattch-squid-sous-compteur-electrique-enocean-12-entrees-3770002148045.html)|
+
+A5-14
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/a5-14-01_avidsen_rain.jpg" width="60" />|Avidsen|Rain Sensor|Détecteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-14-05_avidsen_sound.jpg" width="60" />|Avidsen|Détecteur de bruit|Détecteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-20
 =====
@@ -79,13 +90,17 @@ D2-01
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
+||Avidsen|Module Chaudière|Contacteur|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-08_flextron-aladin-prise.jpg" width="60" />|Flextron|ALADIN prise intermédiaire Pro|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-09_smartplug_ubiwizz_metering.jpg" width="60" />|UbiWizz|Smart Plug EnOcean|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2667-ubiwizz-smart-plug-enocean-schuko.html)|
 |<img src="../images/d2-01-0a_smartplug_nodon.jpg" width="60" />|Nodon|Prise intelligente EnOcean|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2631-nodon-prise-intelligente-enocean-type-eu-3700313920008.html)|
 |<img src="../images/d2-01-0b_smartplug_nodon_metering.jpg" width="60" />|Nodon|Prise intelligente + metering|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2633-nodon-prise-intelligente-metering-enocean-type-eu-3700313920022.html)|
+|<img src="../images/d2-01-0c_fil_pilote_avidsen.jpg" width="60" />|Avidsen|Module Fil Pilote|Fil Pilote|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-0e_microsmartplug_nodon.jpg" width="60" />|Nodon|Micro Smart Plug|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/4309-nodon-micro-smart-plug-enocean-prise-fr-3700313921401.html)|
 |<img src="../images/d2-01-0f_micromodule_nodon_1_canal.jpg" width="60" />|Nodon|Micromodule commutateur simple EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/d2-01-0f_micromodule_avidsen_1_canal.jpg" width="60" />|Avidsen|Micromodule commutateur simple EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-12_micromodule_nodon_2_canaux.jpg" width="60" />|Nodon|Micromodule commutateur double EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/3341-nodon-micromodule-commutateur-double-enocean-3700313920374.html)|
+|<img src="../images/d2-01-12_micromodule_avidsen_2_canaux.jpg" width="60" />|Avidsen|Micromodule commutateur double EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 D2-05
 =====
@@ -93,6 +108,7 @@ D2-05
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/d2-05-00_micromodule_nodon_volet.jpg" width="60" />|Nodon|Micromodule Volet Roulant EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/d2-05-00_micromodule_avidsen_volet.jpg" width="60" />|Avidsen|Micromodule Volet Roulant EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 D2-06
 =====
@@ -129,6 +145,7 @@ D5-00
 |<img src="../images/d5-00-01_eltako_FTK-RW_blanc.jpg" width="60" />|Eltako|Contact de porte/fenêtre - blanc - FTK-RW|Ouverture|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/3122-eltako-contact-de-portefenetre-blanc-4010312305010.html)|
 |<img src="../images/d5-00-01_eltako_FTK-SI_argent.jpg" width="60" />|Eltako|Contact de porte/fenêtre - argent - FTK-SI|Ouverture|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/3123-eltako-contat-de-portefenetre-argente-4010312305171.html)|
 |<img src="../images/d5-00-01_eltako_FTK-AN_anthracite.jpg" width="60" />|Eltako|Contact de porte/fenêtre - anthracite - FTK-AN|Ouverture|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/3121-eltako-contact-de-portefenetre-anthracite-4010312305164.html)|
+|<img src="../images/d5-00-01_avidsen_ouverture.jpg" width="60" />|Avidsen|Contact de porte/fenêtre|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 F6-02
 =====
@@ -148,6 +165,15 @@ F6-02
 |<img src="../images/f6-02-02.jpg" width="60" />|Eltako|Convertisseur infrarouge/EnOcean avec port USB pour télécommande Harmony Logitech - FIW-USB|Infrarouge|Créera autant d'équipement que de famille boutons disponibles dans la documentation de modules (à chaque famille une inclusion est nécessaire)|[Acheter](http://www.domadoo.fr/fr/peripheriques/3263-eltako-convertisseur-infrarougeenocean-avec-port-usb-4010312311158.html)|
 |<img src="../images/f6-02-02.mode_on_off.jpg" width="60" />|F6-02|||||
 |<img src="../images/f6-02-02.open_eltako_ouverture_FTKE.jpg" width="60" />|Eltako|Contact de porte/fenêtre avec levier - blanc - FTKE-RW|Ouverture|Bien choisir le bon profil après inclusion|[Acheter](http://www.domadoo.fr/fr/peripheriques/3125-eltako-contact-de-portefenetre-blanc-4010312315231.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue tech|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote cozy grey|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue lagoon|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote softberry|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2900-nodon-soft-remote-enocean-softberry-3700313920305.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote wasabi|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2899-nodon-soft-remote-enocean-wasabi-3700313920299.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blanc|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Interrupteur mural Z-Wave plus - Cozi White|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2995-nodon-interrupteur-mural-z-wave-plus-cozi-white-3700313920268.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Interrupteur mural EnOcean - Cozi Grey|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Acheter](http://www.domadoo.fr/fr/peripheriques/2628-nodon-interrupteur-mural-enocean-cozi-grey-3700313920084.html)|
+|<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Eltako|Convertisseur infrarouge/EnOcean avec port USB pour télécommande Harmony Logitech - FIW-USB|Infrarouge|Créera autant d'équipement que de famille boutons disponibles dans la documentation de modules (à chaque famille une inclusion est nécessaire)|[Acheter](http://www.domadoo.fr/fr/peripheriques/3263-eltako-convertisseur-infrarougeenocean-avec-port-usb-4010312311158.html)|
 |<img src="../images/f6-02-02.smoke_eltako_frw.jpg" width="60" />|Eltako|Détecteur de fumée optique EnOcean - FRW-WS|Fumée|Bien choisir le bon profil après inclusion|[Acheter](http://www.domadoo.fr/fr/peripheriques/2835-eltako-detecteur-de-fumee-optique-enocean-4010312312308.html)|
 
 F6-04

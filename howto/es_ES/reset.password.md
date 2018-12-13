@@ -28,17 +28,17 @@ use jeedom;
 REPLACE INTO user SET `login`='adminTmp',password='c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec',profils='admin', enable='1';
 ```
 
-Voilà. Vous pouvez vous déconnecter/reconnecter à votre Jeedom avec les
-identifiants adminTmp/admin ce qui vous permettra de modifier le mot de
-passe des autres comptes également.
+Ahí lo tienes. Puede desconectarse/reconectarse a su Jeedom con la
+identificación adminTmp/admin que le permitirán modificar la contraseña
+de otras cuentas también.
 
->**IMPORTANT**
+>**IMPORTANTE**
 >
->N'oubliez pas une fois fini de bien supprimer l'utilisateur adminTmp, le laisser pourrait etre une potentiel faille de sécurité
+>No olvide que una vez finalizado el proceso, borre del usuario adminTmp, dejarlo  se convierte en una potencial vulnerabilidad de seguridad.
 
->**IMPORTANT**
+>**IMPORTANTE**
 >
-> Si vous avez activé l'authentification AD/LDAP cette méthode de remise à zéro ne marchera pas à moins de désactiver le mode AD/LDAP. Vous pouvez le faire en faisant : 
+> Si ha activado la autenticación AD/LDAP, este método de reinicio no funcionará a menos que desactive el modo AD/LDAP. Puede hacerlo haciendo: 
 >``` {.bash}
 >use jeedom;
 >REPLACE INTO `config` SET `value`='0',`key`='ldap:enable',`plugin`='core';

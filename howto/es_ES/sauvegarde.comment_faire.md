@@ -110,8 +110,8 @@ Para su comodidad, se puede descargar el software
         -   Empezar a crear la imagen con el comando:
             `sudo dd if=/dev/disk1 of=~/Desktop/Backup_Jeedom.img bs=1m`
             * Nota: En este ejemplo, el nombre del disco del mapa
-            est `/dev/disk1`, il faut donc saisir dans la commande de
-            sauvegarde \`/dev/disk1\`*
+            es `/dev/disk1`, así que debes ingresar el comando de
+            salvar \`/dev/disk1\`*
 
 2.  ** ** Alimentos
 
@@ -134,8 +134,8 @@ Para su comodidad, se puede descargar el software
             :
             `sudo dd bs=1m if=~/Desktop/Backup_Jeedom.img of=/dev/disk1`
             * Nota: En este ejemplo, el nombre del disco del mapa
-            est `/dev/disk1`, il faut donc saisir dans la commande de
-            sauvegarde \`/dev/disk1\`*
+            es `/dev/disk1`, así que debes ingresar el comando de
+            salvar \`/dev/disk1\`*
 
 bajo Linux
 ----------
@@ -143,7 +143,7 @@ bajo Linux
 1.  ** ** Respaldo
 
     -   Para encontrar el disco que corresponda a la tarjeta, abrir una
-        terminal et saisissez la commande : `sudo fdisk -l | grep Dis`
+        terminal e introduzca el comando : `sudo fdisk -l | grep Dis`
 
         ``` {.bash}
         $ sudo fdisk -l | grep Dis
@@ -153,20 +153,20 @@ bajo Linux
         ```
 
     -   Empezar a crear la imagen con el comando:
-        `sudo dd if=/dev/sdc of=Backup_Jeedom.img bs=1m` *Remarque: Dans
+        `sudo dd if=/dev/sdc of=Backup_Jeedom.img bs=1m` *Nota: En el
         este ejemplo, el nombre de la unidad de la tarjeta es /dev/sdc.*
 
 2.  ** ** Alimentos
 
     -   Para encontrar el disco que corresponda a la tarjeta, abrir una
-        terminal et saisissez la commande : `sudo fdisk -l | grep Dis`
+        terminal e introduzca el comando: : `sudo fdisk -l | grep Dis`
 
     -   Retire el mapa de particiones escribiendo (en
         la sustitución de X con los números de partición):
         `sudo umount /dev/sdcX`
 
     -   Restaurar la imagen en la tarjeta microSD con el comando:
-        `sudo dd if=Backup_Jeedom.img of=/dev/sdc bs=1m` *Remarque: Dans
+        `sudo dd if=Backup_Jeedom.img of=/dev/sdc bs=1m` *Nota: En el
         este ejemplo, el nombre de la unidad de la tarjeta es /dev/sdc.*
 
 

@@ -15,10 +15,10 @@ Objectifs :
 -   fournir un minimum de règles pour harmoniser l’ensemble des
     documents Jeedom
 
-Fonctionnement de l’AsciiDoc 
+Die Funktionsweise von AsciiDoc 
 ============================
 
-A documenter
+Ein Dokument
 
 Généralité 
 ----------
@@ -33,7 +33,7 @@ en documents publiables.
 -   Le programme a2x permet d’obtenir d’autres formats tels que PDF,
     TeX, Unix manpages ou Epub.
 
-Site officiel : <http://www.methods.co.nz/asciidoc/>
+Offizielle Website : <http://www.methods.co.nz/asciidoc/>
 
 AsciiDoc & Jeedom 
 -----------------
@@ -209,4 +209,4 @@ Règles
 Les images 
 ----------
 
-A compléter
+Ergänzungen

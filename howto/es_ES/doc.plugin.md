@@ -38,7 +38,7 @@ sitio web oficial: <http://www.methods.co.nz/asciidoc/>
 AsciiDoc y Jeedom
 -----------------
 
-La documentation Jeedom s’appuie sur l’AsciiDoc et sur l’adjonction du
+La documentación de Jeedom se basa en AsciiDoc y en la adición de la directiva
 bootstrap de Laurent Laville :
 <http://laurent-laville.org/asciidoc/bootstrap/>
 
@@ -52,7 +52,7 @@ para validar el formato.
 algunos de sintaxis
 -----------------
 
-Ce lien est un pense-bête des syntaxes asciidoc :
+Este enlace es un recordatorio de la sintaxis de asciidoc:
 <http://powerman.name/doc/asciidoc>
 
 Estructura archivos AsciiDoc

@@ -253,60 +253,60 @@ Al hacer clic en un plugin se obtiene su tarjeta:
 
 ![premier plugin4](../images/premier-plugin4.png)
 
-Vous retrouvez alors : 
+Entonces puedes encontrar :
 
-- des boutons pour installer le plugin : la version stable est fortement recommandée, 
-- un bouton pour supprimer le plugin, 
-- une brève description, 
-- un lien vers la documentation du plugin, 
-- un lien vers le changelog (les dernières modifications apportées), 
-- la compatibilité avec les différentes plateformes, 
-- les avis des utilisateurs, 
-- la façon d’utiliser le plugin, 
-- des informations complémentaires comme l’auteur, le lien vers la discussion du forum concernant ce plugin, la date de dernière mise à jour, etc.
+- los botones para instalar el plugin: se recomienda encarecidamente la versión estable, 
+- un botón para borrar el plugin, 
+- una breve descripción, 
+- un enlace a la documentación del plugin, 
+- un enlace al registro de cambios (los últimos cambios realizados), 
+- compatibilidad con las diferentes plataformas, 
+- comentarios de los usuarios, 
+- cómo usar el plugin, 
+- información adicional como el autor, el enlace al foro de discusión sobre este plugin, la fecha de la última actualización, etc.
 
-Pour plus d’informations sur les plugins cliquez [ici](https://jeedom.github.io/core/fr_FR/plugin).
+Para obtener más información sobre los plugins, haga clic [aquí](https://jeedom.github.io/core/es_ES/plugin).
 
-Support 
+Soporte 
 =======
 
-Jeedom aborde des champs très vastes et évoluant de jour en jour.
-Cependant, de nombreux moyens sont mis à votre disposition pour trouver
-de l’aide et poser vos questions.
+Jeedom cubre campos muy amplios y en evolución día a día.
+Sin embargo, hay muchas maneras de averiguar
+ayudar y hacer sus preguntas.
 
-La documentation de Jeedom 
+La documentación de Jeedom 
 --------------------------
 
-Vous trouverez une documentation complète [ici](https://jeedom.fr/doc) :
+Encontrará una documentación completa [aquí]](https://jeedom.fr/doc) :
 
-Celle-ci se compose de plusieurs catégories :
+Ésta se compone de varias categorías :
 
--   Core : une partie pour le "coeur" de Jeedom,
+-   Core : una parte para el "corazón" de Jeedom,
 
--   Premiers-pas : Une partie (où vous êtes actuellement) pour les
-    premiers éléments à connaître,
+-   Primeros pasos : Una parte (donde estás ahora) para lo
+    primero que hay que saber,
 
--   Installation : Tout ce qui concerne l’installation de Jeedom,
+-   Instalación: Todo lo relacionado con la instalación de Jeedom,
 
--   Howto : Des tutoriels pour progresser dans divers domaines,
+-   Howto : Tutoriales para progresar en varios campos,
 
--   Plugins : Les documentations des différents plugins officiels de
+-   Plugins: La documentación de los diferentes plugins oficiales de
     Jeedom,
 
--   les autres : diverses pages sur les différents protocoles utilisés
-    dans Jeedom, la présentation de Jeedom, des listes de
-    compatibilité, etc.
+-   los otros: varias páginas sobre los diferentes protocolos utilizados
+    en Jeedom, la presentación de Jeedom, listas de
+    compatibilidad, etc.
 
-Vous trouverez également en dessous la liste des documentations pour les
-plugins tiers.
+También encontrará a continuación la lista de documentación para
+plugins de terceros.
 
-N’hésitez pas à utiliser la fonction **rechercher** en haut à droite de
-la page pour trouver les pages en fonction d’un mot précis.
+Siéntase libre de usar la función **buscar** en la esquina superior derecha de
+la página para encontrar las páginas de acuerdo a una palabra específica.
 
-Le forum 
+El foro 
 --------
 
-Vous le trouverez [ici](https://jeedom.com/forum) .
+Lo encontraras [aquí](https://jeedom.com/forum) .
 
 Le forum est très actif et contient énormément d’informations. Si vous
 avez une question, n’hésitez pas à la poser. Vous aurez une réponse en
