@@ -21,8 +21,8 @@ category *               | Catégorie de classement du plugin sur le Market jeed
 mobile                   | Si le plugin utilise un panel dédié sur la webApp Jeedom, il s’agit du nom du fichier principal de ce panel.   |
 changelog *              | Lien Html vers le Changelog.                                                                                              |
 documentation *          | Lien Html vers la documentation du plugin.                                                                                |
-video_link               | Lien Html vers une vidéo de présentation.                                                                                 |
-forum_link               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
+link -> video               | Lien Html vers une vidéo de présentation.                                                                                 |
+link -> forum               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
 languages                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
 compatibility            | Compatibilité du plugin : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
 hasDependency            | «true» si le plugin doit installer des dépendances, sinon «false» ou absent.                                              |
