@@ -28,7 +28,7 @@ Nota. Considere la posibilidad de reservar (localmente) una copia de seguridad d
 
 
 
-1- descargar el archivo que proporcionamos :[backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/x8ikHNd19M05qa2QCgJS90H9wyMq4xaxIUEola4iGSo?_encoding=UTF8&mgh=1&ref_=cd_ph_share_link_copy)
+1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/O4rQXmK16UNBtgcnIax2gzZZbNiLHaDiae8qtU6UPgb). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
 
 2- copiar este archivo sin modificarlo o descomprimirlo, en una llave USB formateada en FAT32 y en blanco
 
