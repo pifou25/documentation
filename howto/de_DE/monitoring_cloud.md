@@ -35,6 +35,10 @@ Par default vous êtes prévenu par un mail sur votre mail configuré dans votre
 - Ajouter une alerte par SMS (attention cela necessite que vous ayez du crédit SMS sur le market)
 - Ajouter une alerte par Notification (nécessite l'app mobile) 
 
+> **Telegram**
+>
+> Vous pouvez trouver votre chatid a partir de jeedom en allant dans l'équipement telegram puis configuration avancé de la commande du destinataire voulu puis le bouton information et la dans le champs configuration vous avez le chatid
+
 ## Comment l'activer
 
 La procedure est assez simple, il faut : 
