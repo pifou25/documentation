@@ -28,7 +28,7 @@ compatibility            | Compatibilité du plugin : miniplus, smart, docker, 
 hasDependency            | «true» si le plugin doit installer des dépendances, sinon «false» ou absent.                                              |
 hasOwnDeamon             | «true» si le plugin doit exécuter des deamons, sinon «false» ou absent.                                                   |
 maxDependancyInstallTime | Temps maximum imparti pour l’installation des dépendances, exprimé en minutes.                                            |
-
+issue                    | URL vers le bugtracker si externe (si non remplis alors vous receverez un mail)
 
 **Exemple** :
 
