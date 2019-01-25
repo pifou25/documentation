@@ -28,34 +28,34 @@ compatibility            | Die Plugin-Kompatibilität : miniplus, smart, docker
 hasDependency            | «true» wenn das Plugin Abhängigkeiten installieren muss, sonst «false» oder nichts.                                              |
 hasOwnDeamon             | «true» wenn das Plugin Deamons ausführen soll, sonst «false» oder nichts.                                                   |
 maxDependancyInstallTime | Maximale Zeit für die Installation von Abhängigkeiten, ausgedrückt in Minuten.                                            |
+issue                    | URL vers le bugtracker si externe (si non remplis alors vous receverez un mail)
+
+**Exemple** :
+
+[Fichier plugin-template/plugin_info/info.json](https://github.com/jeedom/plugin-template/blob/master/plugin_info/info.json)
 
 
-**Beispiel** :
-
-[Datei plugin-template/plugin_info/info.json](https://github.com/jeedom/plugin-template/blob/master/plugin_info/info.json)
 
 
+**NOMENCLATURE CATEGORIES**
 
-
-**Kategorie Verzeichnis**
-
-Jeedom Markt         | info.json               |
+Market Jeedom         | info.json               |
 --------------------- | ----------------------- |
-Kommunikation         | Kommunikation           |
-Komfort               | Wellness                |
-Energie               | Energie                  |
-Wetter                 | Wetter                 |
-Überwachung            | Überwachung              |
-Multimedia            | Multimedia              |
-Natur                | Natur                  |
-Gerätekommunikation      | Gerätekommunikation     |
-Organisation          | Organisation            |
-Hausautomatisierungsprotokoll  | Hausautomatisierungsprotokoll|
-Programmierung         | Programmierung             |
-Automatisierungsprotokoll   | Automatisierungsprotokoll     |
-Gesundheit                 | Gesundheit                  |
-Sicherheit              | Sicherheit                |
-Automatisierung           | Automatisierung          |
+Communication         | communication           |
+Confort               | wellness                |
+Energie               | energy                  |
+Météo                 | weather                 |
+Monitoring            | monitoring              |
+Multimédia            | multimedia              |
+Nature                | nature                  |
+Objets Connectés      | devicecommunication     |
+Organisation          | organization            |
+Passerelle domotique  | home automation protocol|
+Programmation         | programming             |
+Protocole domotique   | automation protocol     |
+Santé                 | health                  |
+Sécurité              | security                |
+Automatisme           | automatisation          |
 
 
 
@@ -67,7 +67,7 @@ Automatisierung           | Automatisierung          |
 
 
 
- 
+  
 
 
 
