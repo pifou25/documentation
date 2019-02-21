@@ -1,9 +1,9 @@
-# Sauvegarde cloud
+# Cloud backup
 
 
 ## FAQ
 
-> **Erreur Specification mandate value for attribute defer on line 19, column 146**
+> **Error Specification mandate value for attribute defer on line 19, column 146**
 >
-> Si vous avez cette erreur il faut contacter le support, c'est une erreur de notre coté au niveau (disque dur du serveur de backup en readonly).
-> Suite à la correction de notre coté il faudra surement forcer une reconfiguration du backup cloud sur votre page profils (onglet service puis backup cloud)
+> If you got this error it is necessary to contact the support, it is an error at our side (hard disk of the backup server in read only).
+> Following the correction at our side it will probably be needed to force a reconfiguration of the cloud backup on your profiles page (service tab then backup cloud)
