@@ -208,7 +208,7 @@ Connectez-vous avec les identifiants **pi / raspberry**
 
 **7/ Lancer le script d’installation jeedom**
 
-    wget -O- https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh | sudo bash
+    wget -O- https://raw.githubusercontent.com/jeedom/core/master/install/install.sh | sudo bash
 
 **Le mot de passe sudo est également raspberry**
 
@@ -358,7 +358,7 @@ Etape 6 : Installation de jeedom
 
 <!-- -->
 
-    wget https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh
+    wget https://raw.githubusercontent.com/jeedom/core/master/install/install.sh
 
     chmod +x install.sh
 
@@ -691,7 +691,7 @@ des systèmes linux (testée et approuvée sur la distribution Debian)
 
 Connectez-vous en SSH à votre système et faites :
 
-    wget https://raw.githubusercontent.com/jeedom/core/stable/install/install.sh
+    wget https://raw.githubusercontent.com/jeedom/core/master/install/install.sh
     chmod +x install.sh
     ./install.sh
 
