@@ -22,10 +22,10 @@ SSH, utilice:
 
     sudo su -
     cd /root
-    wget https://github.com/jeedom/core/archive/stable.zip
-    unzip stable.zip
-    cp -R core-stable/* /var/www/html
-    cp -R core-stable/.[^.]* /var/www/html
+    wget https://github.com/jeedom/core/archive/master.zip
+    unzip master.zip
+    cp -R core-master/* /var/www/html
+    cp -R core-master/.[^.]* /var/www/html
 
 Actualización
 ===========
