@@ -1,90 +1,83 @@
-> **Importante**
+> **Important**
 >
-> La activación del complemento beta es muy arriesgado y se
-> **prohibido todos ACCESO MEDIA**. También es, necesariamente,
-> Ir beta Jeedom y hacer actualizaciones frecuentes, incluso si
-> No hay nuevas actualizaciones disponibles.
+> L’activation des bêtas des plugins est très très risquée et vous
+> **INTERDIT TOUT ACCES AU SUPPORT**. Il faut aussi obligatoirement
+> passer Jeedom en bêta et faire des mises à jour fréquentes même s’il
+> n’y a pas de nouvelle mise à jour proposée.
 
-> **Importante**
+> **Important**
 >
-> Las versiones beta son a menudo inestables y pueden causar
-> Muchas preocupaciones, es importante no ponerlos en un sistema de
-> Producción. Si usted se preocupa, el equipo no JEEDOM y deberá
-> NO se hace responsable.
+> Les versions bêtas sont souvent instables et peuvent causer de
+> nombreux soucis, il ne faut surtout pas les mettre sur un système de
+> production. EN CAS DE SOUCIS, L’EQUIPE JEEDOM NE SERA PAS ET NE POURRA
+> PAS ETRE TENUE POUR RESPONSABLE.
 
-> **Nota**
+> **Note**
 >
-> Esta documentación es poco voluntariamente detallada para
-> La transacción no será fácil. De hecho, estar en beta requiere
-> Habilidades tanto en ordenador que registra o descifrado
-> Documentación.
+> Cette documentation est volontairement peu detaillée pour que
+> l’opération ne soit pas facile. En effet, être en bêta nécessite des
+> compétences aussi bien en informatique qu’en déchiffrage de logs ou
+> documentation.
 
 Saltar la beta núcleo
 ======================
 
-Se debe pasar primero Jeedom en fase beta. Para esto, asegúrese
-usted está en modo experto y adminitration → Configuración → Actualizaciones
-día. **** En la pestaña URL, haga clic en Habilitar** ** URL:
+Il faut d’abord passer Jeedom en version bêta. Pour cela rendez-vous
+dans le menu Adminitration→Configuration→Mises àjour.
+Sélectionnez "béta" dans la liste déroulante version du core.
 
--   Jeedom URL núcleo: <https://github.com/jeedom/core/archive/beta.zip>
+Sauvegardez. Il ne vous reste plus qu’à forcer une mise à jour du
+core pour passer sur la version bêta de Jeedom.
 
--   URL Jeedom versión de la base:
-    <Https://raw.githubusercontent.com/jeedom/core/beta/core/config/version>
-
-Guardar y actualizar la página. Todavía en el juego ** Actualizaciones
-día ****** En la actualización de selección de fuente URL ** **. Estás ahí
-sigue siendo para forzar una actualización del núcleo de seguir adelante
-beta de Jeedom.
-
-> **Importante**
+> **Important**
 >
-> Jeedom no beta indica que las actualizaciones importantes, que
-> Por lo tanto, a menudo forzar la actualización para el Jeedom
-> La última versión, aunque el centro de actualizaciones hace oferta
-> Nada.
+> Jeedom ne signale en bêta que les mises à jour importantes, il vous
+> faudra donc souvent forcer la mise à jour de Jeedom pour avoir la
+> dernière version, même si le centre de mise à jour ne vous propose
+> rien.
 
-> **Importante**
+> **Important**
 >
-> Una actualización beta puede romper por completo su Jeedom y
-> Que sea irrecuperable. En caso de problemas que no tendrá soporte, se
-> Saldrá adelante por su cuenta.
+> Une mise à jour en bêta peut complètement casser votre Jeedom et le
+> rendre irrécupérable. En cas de soucis vous n’aurez AUCUN SUPPORT, il
+> faudra vous débrouiller par vos propres moyens.
 
-> **Importante**
+> **Important**
 >
-> El paso de una versión estable de una beta es arriesgado (que hacemos
-> Nunca garantiza que su Jeedom sigue funcionando
-> Correctamente). La transición de una beta a la versión estable
-> PROHIBIDO De hecho, durante esta operación, que es 100% seguro de que
-> Su Jeedom romperse. No es posible hacer una vuelta
-> Volver al restaurar una copia de seguridad de una versión estable. En caso de
-> Las preocupaciones, no recibirá el apoyo.
+> Le passage d’une version stable à une version bêta est risqué (nous ne
+> garantissons jamais que votre Jeedom continue de fonctionner
+> correctement). Le passage d’une version bêta à une version stable est
+> INTERDIT, en effet, lors d’une telle opération, il est sûr à 100% que
+> votre Jeedom sera cassé. Il n’est pas possible de faire un retour
+> arrière en restaurant une sauvegarde d’une version stable. En cas de
+> soucis, vous ne bénéficierez d’AUCUN SUPPORT.
 
-Saltar los plugins beta
+Passer les plugins en bêta 
 ==========================
 
-Para esto, hay que ir a la Jeedom mercado y en su
-parte de perfil ** ** Mi perfil, marque la casilla de acceso
-plugins en beta.
+Pour cela, il faut vous rendre sur le Market Jeedom, puis dans votre
+profil, partie **Mon Profil**, cochez la case pour avoir accès aux
+plugins en version bêta.
 
-Luego, en su Jeedom, en los plugins de tarjetas, usted debe
-ver un botón "beta instalar".
+Ensuite, dans votre Jeedom, sur les fiches des plugins, vous devriez
+voir un bouton "installer bêta".
 
-> **Importante**
+> **Important**
 >
-> Todos los plugin instalado en beta permite el acceso completo a la
-> Soporte, incluso si su problema no es con el plugin.
+> Tout plugin installé en version bêta interdit l’accès complet au
+> support, même si votre problème ne concerne pas ce plugin.
 
-> **Importante**
+> **Important**
 >
-> Una versión estable plug-in puede no funcionar en una beta Jeedom.
+> Un plugin en version stable peut ne pas marcher sur un Jeedom bêta.
 
-> **Importante**
+> **Important**
 >
-> Un plugin en fase beta no funciona en un Jeedom estable.
+> Un plugin en version bêta NE FONCTIONNE PAS sur un Jeedom stable.
 
-> **Importante**
+> **Important**
 >
-> Cualquier solicitud de asistencia en el paso beta, o una inquietud
-> Con un componente beta, o en un sistema que ya tenía un núcleo o
-> Un plugin beta cerrada en el acto sin ninguna respuesta
-> Nosotros.
+> Toute demande de support portant sur le passage en bêta, ou un souci
+> avec un composant en bêta, ou sur un système ayant déjà eu un core ou
+> un plugin en bêta, sera immediatement fermé sans aucune réponse de
+> notre part.

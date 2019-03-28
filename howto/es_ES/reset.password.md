@@ -1,19 +1,18 @@
-Veremos cómo cambiar su contraseña si Jeedom
-han olvidado, directamente mediante la modificación en la base de datos
-datos.
+Nous allons voir ici comment changer le mot de passe Jeedom directement
+en modifiant celui-ci dans la base de données, dans le cas où vous l’auriez oublié 
 
 Lo primero que debe hacer es SSH en Jeedom (con
 software como masilla o gatito).
 
-Una vez conectado, es necesario recuperar los identificadores de la base
-datos:
+Une fois connecté, il faut récupérer les identifiants de la base de
+données :
 
 ``` {.bash}
 cat /var/www/html/core/config/common.config.php
 ```
 
-Aquí se puede encontrar la contraseña para acceder a la base de datos
-jeedom que hacer a continuación:
+Ici, vous trouverez le mot de passe pour accéder à la base de données
+Jeedom, il faut ensuite faire :
 
 ``` {.bash}
 mysql -ujeedom -p
@@ -32,13 +31,14 @@ Ahí lo tienes. Puede desconectarse/reconectarse a su Jeedom con la
 identificación adminTmp/admin que le permitirán modificar la contraseña
 de otras cuentas también.
 
->**IMPORTANTE**
+>**IMPORTANT**
 >
->No olvide que una vez finalizado el proceso, borre del usuario adminTmp, dejarlo  se convierte en una potencial vulnerabilidad de seguridad.
+>N'oubliez pas une fois vos accès récupéré de bien supprimer l'utilisateur adminTmp, le laisser pourrait être une potentielle
+faille de sécurité dont vous seriez seul responsable.
 
->**IMPORTANTE**
+>**IMPORTANT**
 >
-> Si ha activado la autenticación AD/LDAP, este método de reinicio no funcionará a menos que desactive el modo AD/LDAP. Puede hacerlo haciendo: 
+> Si vous avez activé l'authentification AD/LDAP cette méthode de remise à zéro ne marchera pas à moins de désactiver le mode AD/LDAP. Vous pouvez le faire en faisant : 
 >``` {.bash}
 >use jeedom;
 >REPLACE INTO `config` SET `value`='0',`key`='ldap:enable',`plugin`='core';
