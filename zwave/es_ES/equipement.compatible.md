@@ -8,17 +8,17 @@ Aeotec
 |<img src="../images/134.1.1_dsa07203.z-stick.lite.jpg" width="60" />|Aeotec|Z-Stick Lite (DSA07203)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.1.22_dsA22_key.fob.jpg" width="60" />|Aeotec|Key Fob (DSA22)|Télécommande|Remplacé dans les boutiques par le keyfob Gen5|[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
 |<img src="../images/134.1.38_dsa38_panic.button.jpg" width="60" />|Aeotec|Panic Button (DSA38)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/278-aeon-labs-telecommande-z-wave-porte-cles-1-bouton.html)|
-|<img src="../images/134.1.3_dsa03202_minimote.jpg" width="60" />|Aeotec|Minimote (DSA03202)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/291-aeon-labs-telecommande-z-wave-blanche-1220000010253.html)|
+|<img src="../images/134.1.3_dsa03202_minimote.jpg" width="60" />|Aeotec|Minimote (DSA03202)|Control remoto||[Acheter](http://www.domadoo.fr/fr/peripheriques/291-aeon-labs-telecommande-z-wave-blanche-1220000010253.html)|
 |<img src="../images/134.1.88_zw088.key.fob.gen5.jpg" width="60" />|Aeotec|Key Fob Gen5 (ZW088)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2677-aeon-labs-telecommande-porte-cles-z-wave-plus-4-boutons-gen5.html)|
 |<img src="../images/134.1.90_zw090.z-stick-gen5.jpg" width="60" />|Aeotec|Z-Stick Gen5 (ZW090)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2917-aeon-labs-controleur-usb-z-wave-plus-z-stick-gen5-1220000012813.html)|
 |<img src="../images/134.1.92_zw092.z-stick.lite.gen5.jpg" width="60" />|Aeotec|Z-Stick Lite Gen5 (ZW092)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.100_zw100_6in1.multisensor.jpg" width="60" />|Aeotec|MultiSensor 6 (ZW100)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/2921-aeon-labs-detecteur-multifonctions-6-en-1-multisensor-z-wave-plus-gen5-1220000013100.html)|
-|<img src="../images/134.2.112_zw112_door.window.sensor6.jpg" width="60" />|Aeotec|Door/Window Sensor 6 (ZW112)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3579-aeon-labs-capteur-pour-porte-et-fenetre-z-wave-dw-sensor-6-1220000013162.html)|
-|<img src="../images/134.2.120_zw120_door.window.sensor.gen5.jpg" width="60" />|Aeotec|Door/Window Sensor Gen5 (ZW120)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.2.112_zw112_door.window.sensor6.jpg" width="60" />|Aeotec|Door/Window Sensor 6 (ZW112)|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/3579-aeon-labs-capteur-pour-porte-et-fenetre-z-wave-dw-sensor-6-1220000013162.html)|
+|<img src="../images/134.2.120_zw120_door.window.sensor.gen5.jpg" width="60" />|Aeotec|Door/Window Sensor Gen5 (ZW120)|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.122_zw122_water.sensor6.jpg" width="60" />|Aeotec|Water Sensor 6 (ZW122)|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.129_zw129_wallmote.duo.jpg" width="60" />|Aeotec|WallMote Duo (ZW129)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.130_zw130_wallmote.quad.jpg" width="60" />|Aeotec|WallMote Quad (ZW130)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.2.1_dsa02203.z-stick-s2.jpg" width="60" />|Aeotec|Z-Stick S2 (DSA02203)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.2.1_dsa02203.z-stick-s2.jpg" width="60" />|Aeotec|Z-Stick S2 (DSA02203)|Contrôleur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.28_dsb28_hem.g2.jpg" width="60" />|Aeotec|Home Energy Meter 2nd Edition (DSB28)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/281-aeon-labs-compteur-de-consommation-electrique-z-wave-3c-60a-version-g2-1220000011670.html)|
 |<img src="../images/134.2.29_dsb29_door.window.sensor.jpg" width="60" />|Aeotec|Door/Window Sensor 2nd Edition (DSB29)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/2340-aeon-labs-detecteur-d-ouverture-z-wave-g2-1220000011830.html)|
 |<img src="../images/134.2.45_dsb45_water.sensor.jpg" width="60" />|Aeotec|Water Sensor (DSB45)|Fuite|Paramètre 121 doit être forcé a 4113|[Acheter](http://www.domadoo.fr/fr/peripheriques/3182-aeon-labs-capteur-d-eau-z-wave-1220000012486.html)|
@@ -26,49 +26,49 @@ Aeotec
 |<img src="../images/134.2.54_dsb54_recessed.door.sensor.jpg" width="60" />|Aeotec|Recessed Door Sensor (DSB54)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.5_dsb05_multi.sensor.jpg" width="60" />|Aeotec|MultiSensor (DSB05) |Multicapteurs|Attention ce module peut remonter de mauvaises données, il faut bien faire attention à la configuration. Remplacé en boutique par son équivalent Gen5|[Acheter](http://www.domadoo.fr/fr/peripheriques/2681-aeon-labs-detecteur-multifonction-multisensor-z-wave-plus-gen5-1220000012684.html)|
 |<img src="../images/134.2.74_zw074_multi-sensor.gen5.jpg" width="60" />|Aeotec|MultiSensor Gen5 (ZW074)|Multicapteurs|Attention ce module peut remonter de mauvaises données, il faut bien faire attention à la configuration|[Acheter](http://www.domadoo.fr/fr/peripheriques/2681-aeon-labs-detecteur-multifonction-multisensor-z-wave-plus-gen5-1220000012684.html)|
-|<img src="../images/134.2.89_zw089_recessed.door.sensor.jpg" width="60" />|Aeotec|Recessed Door Sensor Gen5 (ZW089)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/2680-aeon-labs-capteur-d-ouverture-de-porte-a-encastrer-z-wave-plus-gen5-1220000012721.html)|
+|<img src="../images/134.2.89_zw089_recessed.door.sensor.jpg" width="60" />|Aeotec|Recessed Door Sensor Gen5 (ZW089)|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/2680-aeon-labs-capteur-d-ouverture-de-porte-a-encastrer-z-wave-plus-gen5-1220000012721.html)|
 |<img src="../images/134.2.95_zw095_hem_gen5.jpg" width="60" />|Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.2.97_zw097_dry.contact.sensor.gen5.jpg" width="60" />|Aeotec|Dry Contact Sensor Gen5 (ZW097)|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.2.9_dsb09104_hem_2.jpg" width="60" />|Aeotec|Home Energy Meter (DSB09104)|Consommation|Remplacé par le Home Energy Meter 2G (DSB28)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.2.9_dsb09104_hem_2.jpg" width="60" />|Aeotec|Home Energy Meter (DSB09104)|Consommation|Remplacé par le Home Energy Meter 2G (DSB28)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.257.90_zw090.z-stick-gen5.jpg" width="60" />|Aeotec|Z-Stick Gen5 (ZW090)|Contrôleur||[Acheter](http://www.domadoo.fr/fr/peripheriques/2917-aeon-labs-controleur-usb-z-wave-plus-z-stick-gen5-1220000012813.html)|
 |<img src="../images/134.258.100_zw100_6in1.multisensor.jpg" width="60" />|Aeotec|MultiSensor 6 (ZW100)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/2921-aeon-labs-detecteur-multifonctions-6-en-1-multisensor-z-wave-plus-gen5-1220000013100.html)|
 |<img src="../images/134.258.112_zw112_door.window.sensor6.jpg" width="60" />|Aeotec|Door/Window Sensor 6 (ZW112)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3579-aeon-labs-capteur-pour-porte-et-fenetre-z-wave-dw-sensor-6-1220000013162.html)|
 |<img src="../images/134.258.120_zw120_door.window.sensor.gen5.jpg" width="60" />|Aeotec|Door/Window Sensor Gen5 (ZW120)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.258.122_zw122_water.sensor6.jpg" width="60" />|Aeotec|Water Sensor 6 (ZW122)|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.258.122_zw122_water.sensor6.jpg" width="60" />|Aeotec|Water Sensor 6 (ZW122)|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.258.129_zw129_wallmote.duo.jpg" width="60" />|Aeotec|WallMote Duo (ZW129)|Télécommande|Partiellement compatible: Fonctionne en association directe seulement |[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.258.130_zw130_wallmote.quad.jpg" width="60" />|Aeotec|WallMote Quad (ZW130)|Télécommande|Partiellement compatible: Fonctionne en association directe seulement |[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.258.89_zw089_recessed.door.sensor.jpg" width="60" />|Aeotec|Recessed Door Sensor Gen5 (ZW089)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/2680-aeon-labs-capteur-d-ouverture-de-porte-a-encastrer-z-wave-plus-gen5-1220000012721.html)|
 ||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Aeotec|Home Energy Meter Gen5 (ZW095)|Consommation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.258.97_zw097_dry.contact.sensor.gen5.jpg" width="60" />|Aeotec|Dry Contact Sensor Gen5 (ZW097)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.259.111_zw111.nano.dimmer.jpg" width="60" />|Aeotec|Nano Dimmer (ZW111)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.259.116_zw116.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW116)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.259.111_zw111.nano.dimmer.jpg" width="60" />|Aeotec|Nano Dimmer (ZW111)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.259.116_zw116.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW116)|Micromódulo||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.259.121_zw121_led_strip.jpg" width="60" />|Aeotec|Led Strip (ZW121)|RGBW||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.259.132_zw132.dual.nano.switch.jpg" width="60" />|Aeotec|Dual Nano Switch (ZW132)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.259.140_zw140.dual.nano.switch.jpg" width="60" />|Aeotec|Dual Nano Switch (ZW140)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.259.62_zw62.garage.door.controller.jpg" width="60" />|Aeotec|Garage Door Controller Gen5 (ZW062)|Porte||[Comprar](http://www.domadoo.fr/fr/peripheriques/3403-aeon-labs-controleur-de-porte-de-garage-z-wave-gen5.html)|
+|<img src="../images/134.259.62_zw62.garage.door.controller.jpg" width="60" />|Aeotec|Garage Door Controller Gen5 (ZW062)|Puerta||[Comprar](http://www.domadoo.fr/fr/peripheriques/3403-aeon-labs-controleur-de-porte-de-garage-z-wave-gen5.html)|
 |<img src="../images/134.259.75_zw075_switch.jpg" width="60" />|Aeotec|Smart Switch Gen5 (ZW075)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2594-aeon-labs-module-prise-commutateur-z-wave-plus-avec-mesure-d-energie-gen5-1220000012578.html)|
 |<img src="../images/134.259.78_zw078_heavy.duty.smart.switch.gen5.jpg" width="60" />|Aeotec|Heavy Duty Smart Switch Gen5 (ZW078)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2593-aeon-labs-module-commutateur-forte-charge-40a-z-wave-plus-gen5-1220000012547.html)|
 |<img src="../images/134.259.96_zw096_smart.switch.gen5.jpg" width="60" />|Aeotec|Smart Switch 6 (ZW096)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2918-aeon-labs-mini-prise-commutateur-z-wave-plus-avec-consometre-smart-switch-6-1220000013049.html)|
 |<img src="../images/134.259.98_zw098_rgbw_bulb.jpg" width="60" />|Aeotec|LED Bulb (ZW098)|Ampoule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2922-aeon-labs-ampoule-led-z-wave-plus-1220000012974.html)|
 |<img src="../images/134.259.99_zw099_smart.dimmer6.jpg" width="60" />|Aeotec|Smart Dimmer 6 (ZW099)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.260.117_zw117.range.extender.6.jpg" width="60" />|Aeotec|Range Extender (ZW117)|Répéteur|Module sans fonctionnalité hors mis le fait de relayer les infos du réseau|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.260.117_zw117.range.extender.6.jpg" width="60" />|Aeotec|Range Extender (ZW117)|Répéteur|Module sans fonctionnalité hors mis le fait de relayer les infos du réseau|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.260.37_dsd37_range.extender.jpg" width="60" />|Aeotec|Range Extender (DSD37)|Répéteur|Module sans fonctionnalité hors mis le fait de relayer les infos du réseau|[Acheter](http://www.domadoo.fr/fr/peripheriques/2342-aeon-labs-repeteur-de-signal-z-wave-1220000012660.html)|
 |<img src="../images/134.260.80_zw080.siren.jpg" width="60" />|Aeotec|Siren Gen5 (ZW080)|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/2592-aeon-labs-sirene-z-wave-plus-sur-prise-electrique-gen5-1220000012592.html)|
-|<img src="../images/134.3.10_dsc10_heavy.duty.smart.switch.jpg" width="60" />|Aeotec|Heavy Duty Smart Switch (DSC10)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.3.10_dsc10_heavy.duty.smart.switch.jpg" width="60" />|Aeotec|Heavy Duty Smart Switch (DSC10)|Enchufe||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.111_zw111.nano.dimmer.jpg" width="60" />|Aeotec|Nano Dimmer (ZW111)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.3.116_zw116.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW116)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.3.116_zw116.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW116)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.11_dsc11_smart.strip.jpg" width="60" />|Aeotec|Smart Strip (DSC11)|Multiprise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.121_zw121_led_strip.jpg" width="60" />|Aeotec|Led Strip (ZW121)|RGBW||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.12_dsc12103.micro.smart.energy.switch.jpg" width="60" />|Aeotec|Micro Smart Energy Switch (DSC12103)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/286-aeon-labs-micromodule-commutateur-et-compteur-d-energie-g2-1220000011014.html)|
 |<img src="../images/134.3.132_zw132.dual.nano.switch.jpg" width="60" />|Aeotec|Dual Nano Switch (ZW132)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/134.3.139_zw139.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW139)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.3.139_zw139.nano.switch.jpg" width="60" />|Aeotec|Nano Switch (ZW139)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.13_dsc13103.micro.smart.energy.illuminator.jpg" width="60" />|Aeotec|Micro Smart Energy Illuminator (DSC13103)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/287-aeon-labs-micromodule-variateur-et-compteur-d-energie-g2-1220000011120.html)|
-|<img src="../images/134.3.140_zw140.dual.nano.switch.jpg" width="60" />|Aeotec|Dual Nano Switch (ZW140)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/134.3.140_zw140.dual.nano.switch.jpg" width="60" />|Aeotec|Dual Nano Switch (ZW140)|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/134.3.14_dsc14104_blind.control.switch.jpg" width="60" />|Aeotec|Micro Motor Controller (DSC14104)|Volets||[Acheter](http://www.domadoo.fr/fr/peripheriques/284-aeon-labs-micromodule-z-wave-pour-volet-roulant-1220000010864.html)|
 |<img src="../images/134.3.17_dsc17103_micro.double.switch_g2.jpg" width="60" />|Aeotec|Micro Double Smart Switch (DSC17103)|Micromodule|Module pratiquement plus commercialisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/285-aeon-labs-micromodule-commutateur-double-et-compteur-d-energie-1220000010949.html)|
 |<img src="../images/134.3.18_dsc18103_micro.switch.2nd.edition.jpg" width="60" />|Aeotec|Micro Smart Switch 2nd Edition (DSC18103)|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/286-aeon-labs-micromodule-commutateur-et-compteur-d-energie-g2-1220000011014.html)|
@@ -92,7 +92,6 @@ Aeotec
 |<img src="../images/881.2.5_zwa005_trisensor.jpg" width="60" />|Aeotec|Trisensor (ZWA005)|Multicapteurs|||
 
 Aeotec
-=====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
@@ -113,19 +112,19 @@ Assa Abloy
 |<img src="../images/297.3.0_yrl210.doorlock.jpg" width="60" />|Assa Abloy|Yale Push Button Lever Lock (YRL210)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/297.4.0_yrd210.doorlock.jpg" width="60" />|Assa Abloy|Yale Push Button Deadbolt (YRD210)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/297.6.0_yrd240.doorlock.jpg" width="60" />|Assa Abloy|Yale Key Free Touchscreen Deadbolt (YRD240)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/297.7.0_ysl.doorlock.jpg" width="60" />|Assa Abloy|Yale Keyless Connected Smart Lock (YSL)|Serrure|Inclusion en mode sécurisé|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/297.7.0_ysl.doorlock.jpg" width="60" />|Assa Abloy|Yale Keyless Connected Smart Lock (YSL)|Cerradura|Inclusion en mode sécurisé|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/297.7151.37424_doorlock.jpg" width="60" />|Assa Abloy|Yale Keyless Connected Smart Lock (YSL)|Serrure|Inclusion en mode sécurisé|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Benext
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Imagen|Marca|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 ||Benext|Built In Dimmer|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2346-benext-module-variateur-z-wave-encastrable-avec-mesure-d-energie-0632181493762.html)|
 |<img src="../images/138.20.257_panic.button.jpg" width="60" />|Benext|Panic Button|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2349-benext-telecommande-bouton-d-urgence-z-wave-0632181493731.html)|
 |<img src="../images/138.21.257_panic.watch.jpg" width="60" />|Benext|Panic Watch|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2350-benext-bracelet-bouton-d-urgence-z-wave-0632181493748.html)|
-|<img src="../images/138.23.256_scene.controller.jpg" width="60" />|Benext|Scene Controller 7 boutons|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2534-benext-telecommande-7-boutons-z-wave-scene-controller-0632181493786.html)|
-||Benext|Plug In Dimmer|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2347-benext-module-prise-variateur-z-wave-avec-mesure-d-energie-0632181493779.html)|
+|<img src="../images/138.23.256_scene.controller.jpg" width="60" />|Benext|Scene Controller 7 boutons|Control remoto||[Acheter](http://www.domadoo.fr/fr/peripheriques/2534-benext-telecommande-7-boutons-z-wave-scene-controller-0632181493786.html)|
+||Benext|Plug In Dimmer|Enchufe||[Acheter](http://www.domadoo.fr/fr/peripheriques/2347-benext-module-prise-variateur-z-wave-avec-mesure-d-energie-0632181493779.html)|
 |<img src="../images/138.3.256_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.3.257_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.33.1_heating.control.jpg" width="60" />|Benext|Heating Control|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -138,7 +137,7 @@ Benext
 Chromagic
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Tipo|Remarque|Lien|
 |---|---|---|---|---|---|
 ||Chromagic|HSP02|Multicapteurs|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
 ||Chromagic|HSM02|Ouverture|Ce module est actuellement vendu sous la marque Everspring|[Acheter](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
@@ -158,11 +157,10 @@ Danfoss
 |<img src="../images/2.5.4_thermostat.014g0013.jpg" width="60" />|Danfoss|Thermostat Living Connect|Thermostat||[Acheter](http://www.domadoo.fr/fr/peripheriques/2495-danfoss-tete-electronique-living-connect-z-wave-lc-13-5013567421497.html)|
 
 Devolo
-=====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/373.1.17_mt02646.metering.plug.jpg" width="60" />|Devolo|Metering Plug (MT02646)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/373.1.17_mt02646.metering.plug.jpg" width="60" />|Devolo|Metering Plug (MT02646)|Prise||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.1.18_mt02792.metering.plug.jpg" width="60" />|Devolo|Smart Metering Plug (MT02792)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.13_mt02647.motion.sensor.jpg" width="60" />|Devolo|Motion Sensor MT02647|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.14_mt02648.contact.door.jpg" width="60" />|Devolo|Door/Window Contact MT02648|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -175,7 +173,7 @@ Dlink
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/264.2.13_dchz120.3in1.sensor.jpg" width="60" />|Dlink|DCH-Z120|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/264.2.13_dchz120.3in1.sensor.jpg" width="60" />|Dlink|DCH-Z120|Presencia||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/264.2.14_dchz110.doorsensor.jpg" width="60" />|Dlink|DCH-Z110|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/3692-d-link-capteur-de-portefenetre-z-wave-3-en-1-790069409844.html)|
 |<img src="../images/264.4.10_dchz510.siren.jpg" width="60" />|Dlink|DCH-Z510|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/3696-d-link-sirene-z-wave-6-sons-110-db--790069410758.html)|
 
@@ -188,7 +186,7 @@ Dome
 |<img src="../images/543.3.133_leak.sensor.jpg" width="60" />|Dome|Leak Sensor|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.134_mouser.jpg" width="60" />|Dome|Mouser|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.135_on_off_plug_in_switch.jpg" width="60" />|Dome|On/Off Plug-In Switch|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/543.3.136_siren.jpg" width="60" />|Dome|Siren|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/543.3.136_siren.jpg" width="60" />|Dome|Siren|Sirena||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.257_door.window.sensor.jpg" width="60" />|Dome|Door/Window Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.2_water_valve.jpg" width="60" />|Dome|Water Shut-Off Valve|Valve||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.513_door.window.sensor.pro.jpg" width="60" />|Dome|Door/Window Sensor Pro|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -206,14 +204,14 @@ Domux
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/540.32769.4096_dx1msz_motion_sensor.jpg" width="60" />|Domux|Motion Sensor (DX1MS-Z)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/540.32770.4096_dx1saz_smoke_sensor.jpg" width="60" />|Domux|Smart Smoke Sensor (DX1SA-Z)|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/540.32771.4096_dx1cgz_gaz_sensor.jpg" width="60" />|Domux|Gaz Sensor (DX1CG-Z)|Gaz|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/540.32770.4096_dx1saz_smoke_sensor.jpg" width="60" />|Domux|Smart Smoke Sensor (DX1SA-Z)|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/540.32771.4096_dx1cgz_gaz_sensor.jpg" width="60" />|Domux|Gaz Sensor (DX1CG-Z)|Gaz|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.32772.4096_dx1wlz_flood_sensor.jpg" width="60" />|Domux|Flood Sensor (DX1WL-Z)|Fuite||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.32773.4096_dx1caz_co_sensor.jpg" width="60" />|Domux|CO Sensor (DX1CA-Z)|CO||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/540.32774.4096_dx2skz_wallplug.jpg" width="60" />|Domux|Smart Metering Plug (DX2SK-Z)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/540.32774.4096_dx2skz_wallplug.jpg" width="60" />|Domux|Smart Metering Plug (DX2SK-Z)|Prise||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.32775.4096_dx1htz_2in1_sensor.jpg" width="60" />|Domux|Temperature & Humidity Sensor (DX1HT-Z)|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/540.32776.4096_dx2skz_wallplug.jpg" width="60" />|Domux|Smart Plug (DX2SK-Z)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/540.360.360_dx1dsz_door_sensor.jpg" width="60" />|Domux|Door Sensor (DX1DS-Z)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/540.360.360_dx1dsz_door_sensor.jpg" width="60" />|Domux|Door Sensor (DX1DS-Z)|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Duwi
 =====
@@ -232,14 +230,14 @@ Duwi
 Ecolink
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Tipo|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/330.1.2_door.window.sensor.jpg" width="60" />|Ecolink|Door/Window Sensor|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Electronicsolutions
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Imagen|Marca|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/51.21072.12338_dbmz.jpg" width="60" />|Electronicsolutions|DBMZ Motor Control|Volets||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -257,7 +255,7 @@ Eurotronic
 Everspring
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nombre|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/96.1.1_hsp02.motion.detector.jpg" width="60" />|Everspring|HSP02 Motion Detector|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
 |<img src="../images/96.1.2_sp814.motion.detector.jpg" width="60" />|Everspring|SP814 Motion Detector|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/857-everspring-detecteur-de-presence-z-wave-sp814-3700946500288.html)|
@@ -270,12 +268,12 @@ Everspring
 |<img src="../images/96.13.1_sf812.smoke.alarm.jpg" width="60" />|Everspring|SF812|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/848-everspring-detecteur-de-fumee-z-wave-sf812-3700946500219.html)|
 |<img src="../images/96.16.1_hac01.in-wall.remote.jpg" width="60" />|Everspring|HAC01|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/837-everspring-micromodule-emetteur-z-wave-hac01-3700946500110.html)|
 |<img src="../images/96.17.1_han01.in-wall.remote.jpg" width="60" />|Everspring|HAN01|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2497-everspring-micromodule-commutateur-z-wave-han01-3700946500042.html)|
-|<img src="../images/96.17.2_han02.in-wall.remote.jpg" width="60" />|Everspring|HAN02|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/96.17.2_han02.in-wall.remote.jpg" width="60" />|Everspring|HAN02|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/96.2.1_hsm02.jpg" width="60" />|Everspring|HSM02|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
 ||Everspring|SM103|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/851-everspring-capteur-d-ouverture-z-wave-sm103-3700946500233.html)|
 |<img src="../images/96.2.3_sm810.doorwindow.jpg" width="60" />|Everspring|SM810|Ouverture|||
-|<img src="../images/96.257.1_sp103.pir.motion.jpg" width="60" />|Everspring|SP103|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/854-everspring-detecteur-de-mouvement-pir-z-wave-sp-103-3700946500257.html)|
-|<img src="../images/96.260.1_an145.lamp.screw.in.jpg" width="60" />|Everspring|AN145|Douille||[Acheter](http://www.domadoo.fr/fr/peripheriques/829-everspring-module-douille-e27-z-wave-3700946500059.html)|
+|<img src="../images/96.257.1_sp103.pir.motion.jpg" width="60" />|Everspring|SP103|Mouvement||[Comprar](http://www.domadoo.fr/fr/peripheriques/854-everspring-detecteur-de-mouvement-pir-z-wave-sp-103-3700946500257.html)|
+|<img src="../images/96.260.1_an145.lamp.screw.in.jpg" width="60" />|Everspring|AN145|Socket||[Acheter](http://www.domadoo.fr/fr/peripheriques/829-everspring-module-douille-e27-z-wave-3700946500059.html)|
 |<img src="../images/96.3.1_ad142.plug-in.dimmer.jpg" width="60" />|Everspring|AD142-6|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/825-everspring-module-lampe-z-wave-french-3700946500035.html)|
 |<img src="../images/96.3.3_ad147.miniplug.dimmer.jpg" width="60" />|Everspring|Miniplug Dimmer|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2687-everspring-mini-prise-variateur-z-wave-plus-ad147-6-prise-francaise-3700946500370.html)|
 |<img src="../images/96.4.1_an157.plug-in.appliance.jpg" width="60" />|Everspring|AN157-6|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/831-everspring-module-prise-on-off-z-wave-an157-6-french-3700946500080.html)|
@@ -284,7 +282,7 @@ Everspring
 |<img src="../images/96.514.1_hsm02.doorwindow.jpg" width="60" />|Everspring|HSM02|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
 ||Everspring|SM103|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/851-everspring-capteur-d-ouverture-z-wave-sm103-3700946500233.html)|
 |<img src="../images/96.6.1_st814.temperature.and.humidity.sensor.jpg" width="60" />|Everspring|ST814|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/861-everspring-capteur-de-temperature-et-d-humidite-z-wave-st814-3700946500325.html)|
-|<img src="../images/96.7.1_st815.jpg" width="60" />|Everspring|ST815|Luminosité||[Acheter](http://www.domadoo.fr/fr/peripheriques/2498-everspring-capteur-de-luminosite-z-wave-avec-ecran-lcd-st815-3700946500349.html)|
+|<img src="../images/96.7.1_st815.jpg" width="60" />|Everspring|ST815|Luminosité||[Comprar](http://www.domadoo.fr/fr/peripheriques/2498-everspring-capteur-de-luminosite-z-wave-avec-ecran-lcd-st815-3700946500349.html)|
 |<img src="../images/96.9.1_tse03.door.bell.jpg" width="60" />|Everspring|TSE03 Door Bell|Carillon||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Evolve

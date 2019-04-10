@@ -29,7 +29,7 @@ L’url de push est de la forme :
 
 [https://serveur/emoncms/input/post.json?json={power:\#value\#}&apikey=xxx](https://serveur/emoncms/input/post.json?json={power:#value#}&apikey=xxx)
 
-Avec les paramètres :
+Con los parámetros :
 
 -   id : l’id de la feed qu’on trouve sur emoncms
 

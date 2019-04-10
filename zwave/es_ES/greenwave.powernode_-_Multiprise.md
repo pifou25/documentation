@@ -7,7 +7,7 @@ Greenwave nodo de poder - 6 puntos de venta
 
 \
 
-![module](../images/greenwave.powernode/module.jpg)
+![módulo](../images/greenwave.powernode/module.jpg)
 
 \
 
@@ -15,7 +15,7 @@ Greenwave nodo de poder - 6 puntos de venta
 
 \
 
-![vuedefaut1](../images/greenwave.powernode/vuedefaut1.jpg)
+![vistadefecto1](../images/greenwave.powernode/vuedefaut1.jpg)
 
 \
 
@@ -153,7 +153,7 @@ inclusión se refiere a este
 
 \
 
-![inclusion](../images/greenwave.powernode/inclusion.jpg)
+![inclusión](../images/greenwave.powernode/inclusion.jpg)
 
 \
 
@@ -174,15 +174,15 @@ disponible.
 
 \
 
-![Commandes](../images/greenwave.powernode/commandes.jpg)
+![Commandos](../images/greenwave.powernode/commandes.jpg)
 
 ![Commandes](../images/greenwave.powernode/commandes2.jpg)
 
-![Commandes](../images/greenwave.powernode/commandes3.jpg)
+![Commandos](../images/greenwave.powernode/commandes3.jpg)
 
-![Commandes](../images/greenwave.powernode/commandes4.jpg)
+![Commandos](../images/greenwave.powernode/commandes4.jpg)
 
-![Commandes](../images/greenwave.powernode/commandes5.jpg)
+![Commandos](../images/greenwave.powernode/commandes5.jpg)
 
 \
 
@@ -355,7 +355,7 @@ salida. Esto tendrá el efecto de elevar los dos (Conso y potencia)
 
 \
 
-![consocumul](../images/greenwave.powernode/consocumul.jpg)
+![consumo acumulado](../images/greenwave.powernode/consocumul.jpg)
 
 \
 

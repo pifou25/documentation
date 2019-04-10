@@ -685,7 +685,7 @@ Maintenant que vous avez bien lu vous savez qu’Il faut utiliser la méthode pr
 Enregistrer un équipement et rafraîchissez le dashboard.
 
 
-# Les paramètres. Les options
+# Los parámetros. Las opciones
 
 > **IMPORTANT**
 >
