@@ -8,7 +8,7 @@ Pourquoi ?
     Jeedom
 
 -   Corrige certains soucis d’accès et de stabilité (notamment pour ceux
-    qui ont beaucoup de caméras)
+    que tienen muchas camaras)
 
 -   Améliore les performances globales de Jeedom.
 
@@ -16,9 +16,9 @@ Prérequis
 =========
 
 -   Savoir se connecter en SSH sur la box (vous trouverez les
-    identifiants sur la documentation d’installation)
+    identificadores en la documentación de instalación)
 
--   Etre connecté à internet.
+-   Estar conectado a internet.
 
 > **Important**
 >
@@ -31,7 +31,7 @@ Prérequis
 > Attention certains plugins non officiels ne sont pas compatibles
 > Apache, renseignez-vous bien avant.
 
-Comment faire 
+Como hacer
 =============
 
 Désactivation des services Jeedom et nginx 
@@ -77,7 +77,7 @@ Copie de Jeedom
     chmod 775 -R /var/www/html
     chown www-data:www-data -R /var/www/html
 
-Test d’accès 
+Prueba de acceso
 ------------
 
     systemctl start mysql
@@ -89,15 +89,15 @@ PAS FAIRE LA SUITE.
 Mise à jour de la crontab 
 -------------------------
 
-Faire :
+Hacer :
 
     crontab -e
 
 Puis mettre à jour le chemin d’accès à Jeedom, remplacer :
 
-    * * * * * su --shell=/bin/bash - www-data -c '/usr/bin/php /usr/share/nginx/www/jeedom/core/php/jeeCron.php' >> /dev/null 2>&1
+* * * * * su --shell=/bin/bash - www-data -c '/usr/bin/php /usr/share/nginx/www/jeedom/core/php/jeeCron.php' >> /dev/null 2>&1
 
-Par :
+Por :
 
     * * * * * su --shell=/bin/bash - www-data -c '/usr/bin/php /var/www/html/core/php/jeeCron.php' >> /dev/null 2>&1
 

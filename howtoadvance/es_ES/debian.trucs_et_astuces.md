@@ -100,7 +100,7 @@ support de stockage.
 
 -   Installer Debian Stretch sur votre box.
 
--   Reconfigurez votre réseau local, vérifiez que votre machine est
+-   Reconfigure su red local, verifique que su máquina esté
     opérationnelle et à jour.
 
 -   Installez Jeedom en suivant la doc :
@@ -148,11 +148,11 @@ MYSQL, sous Stretch :
 A vous d’adapter cette commande en fonction de votre configuration
 précédente :
 
-    GRANT ALL PRIVILEGES ON *.* TO root@'localhost' IDENTIFIED BY 'monpass';
+GRANT ALL PRIVILEGES ON *.* TO root@'localhost' IDENTIFIED BY 'monpass';
 
 ou
 
-    GRANT ALL PRIVILEGES ON *.* TO jeedom@'localhost' IDENTIFIED BY 'monpass';
+GRANT ALL PRIVILEGES ON *.* TO jeedom@'localhost' IDENTIFIED BY 'monpass';
 
 -   Copiez votre sauvegarde dans le dossier `/var/www/html/backup`
 
@@ -160,7 +160,7 @@ ou
     `chown -R www-data: /var/www/html/backup/*`
 
 -   Lancez la restauration via l’interface de Jeedom (Administration →
-    Sauvegardes → Sauvegardes Locales : Choisissez la bonne sauvegarde
+    Copias de seguridad → Copias de seguridad locales : elija la copia de seguridad correcta
     et cliquez sur **Restaurer** juste en dessous)
 
 -   Patientez pendant la restauration

@@ -62,7 +62,7 @@ Après avoir téléchargé votre iso d’installation
 par exemple pour debian 8.5 en netinstall), il vous faut le mettre sur
 votre datastore.
 
-Pour cela cliquez sur datastore :
+Para esto haz clic en datastore :
 
 ![vmware.createvm18](../images/vmware.createvm18.PNG)
 
@@ -133,7 +133,7 @@ chapitre précedent) et validez :
 
 ![vmware.createvm11](../images/vmware.createvm11.PNG)
 
-Faites ensuite suivant :
+Haz despues lo siguiente :
 
 ![vmware.createvm12](../images/vmware.createvm12.PNG)
 

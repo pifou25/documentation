@@ -6,7 +6,7 @@ pour parler à Jeedom. On utilisera le moteur des interactions Jeedom qui
 permet de formuler des demandes et que Jeedom y réponde (et aussi, si on
 le souhaite, active différents scénarios ou éléments).
 
-Installation 
+Instalación
 ============
 
 Les prérequis 
@@ -35,7 +35,7 @@ Tasker d’exécuter 2 actions. La première sera d’appeler Jeedom et lui
 transmettre le résultat texte de la reconnaissance vocale. La deuxième
 sera d’énoncer le retour de Jeedom.
 
-Création du profil 
+Creación del perfil
 ==================
 
 On ajoute un nouveau profil avec un **état** comme déclencheur.

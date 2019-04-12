@@ -99,16 +99,16 @@ Puis créez ce fichier db.192.168.0.inv
 
 Et mettez :
 
-    $TTL 604800
-    @ IN SOA ojn.raspberry.pi. root.localhost. (
-     2 ; Serial
-     604800 ; Refresh
-     86400 ; Retry
-     2419200 ; Expire
-     604800 ) ; Negative Cache TTL
-    ;
-    @ IN NS ojn.raspberry.pi.
-    162 IN PTR ojn.raspberry.pi.
+$TTL 604800
+ @ IN SOA ojn.raspberry.pi. root.localhost. (
+ 2 ; Serial
+ 604800 ; Refresh
+ 86400 ; Retry
+ 2419200 ; Expire
+ 604800 ) ; Negative Cache TTL
+ ;
+ @ IN NS ojn.raspberry.pi.
+ 162 IN PTR ojn.raspberry.pi.
 
 > **Important**
 >
@@ -391,7 +391,7 @@ la configuration à mettre:
 
 ![installation.openjabnab10](../images/installation.openjabnab10.PNG)
 
-Voilà votre lapin a maintenant son propre terrier en local !!!!!
+¡Aquí está, tu conejo ahora tiene su propia madriguera en local!
 
 Mettre le TTS en local 
 ======================

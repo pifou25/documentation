@@ -17,7 +17,7 @@ Télécharger le plugin template pour avoir la [base](https://github.com/jeedom/
 
 Dé zipper le fichier . Vous obtiendrez un dossier « plugin-template-master » contenant des dossiers 3rparty , core , desktop…
 
-On y va.
+Vamos.
 
 Renommer le dossier « plugin-template-master » en « vdm » (l’id) du plugin.
 
@@ -66,7 +66,7 @@ par
 class vdm extends eqLogic {
 ```
 
-et
+y
 
 ```
 class templateCmd extends cmd
@@ -81,7 +81,7 @@ class vdmCmd extends cmd
 - Renommer le fichier core/php/template.inc.php en core/php/vdm.inc.php
 - Renommer le fichier desktop/php/template.php en desktop /php/vdm.php et ouvrez le
 
-Remplacer
+Reemplazar
 
 ```
 $plugin = plugin::byId('template');
@@ -97,7 +97,7 @@ $plugin = plugin::byId(‘vdm’);
 {{Ajouter un template}}
 ```
 
-Par 
+Por
 
 ```
 {{Ajouter un équipement}}
@@ -107,7 +107,7 @@ Par
 <legend>{{Mes templates}}</legend>
 ```
 
-Par
+Por
 
 ```
 <legend>{{Mes équipement}}</legend>
@@ -117,7 +117,7 @@ Par
 {{Nom de l'équipement template}}
 ```
 
-Par
+Por
 
 ```
 {{Nom de l'équipement }} 
@@ -202,7 +202,7 @@ Je remplace
 color:#94ca02;"
 ```
 
-par 
+por
 
 ```
 color:#00A9EC;"
@@ -224,7 +224,7 @@ par
 
 Voilà la base est prête. Vous devriez avoir le plugin d'actif mais pour le moment il ne fait rien.
 
-# Les commandes
+# Los comandos
 
 Le but du plugin sera de récupérer une vdm aléatoire et l’afficher sur le dashboard. 
 
@@ -561,7 +561,7 @@ L’information se met à jour.
 
 C’est bien mais ça ne me convient pas. A la création de l’équipement, la commande « story » ne se met pas à jour.
 
-On améliore donc le code.
+Así que mejoramos el código.
 
 Pour la création des commandes nous avons utilisé la méthode postSave(). On va utiliser la méthode postUpdate() pour mettre à jour l’information.
 
@@ -707,7 +707,7 @@ $this->setConfiguration("type","mon_type"); // si on veut  définir un paramètr
 
 Pour laisser le choix à l’utilisateur , on retourne sur le fichier desktop.php que vous avez laissé ouvert car vous suivez ce TP au pied de la lettre :D
 
-Chercher 
+Buscar
 
 ```
 <input type="text" class="eqLogicAttr form-control" data-l1key="configuration" data-l2key="city" placeholder="param1"/>
