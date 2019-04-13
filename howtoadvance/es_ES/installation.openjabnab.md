@@ -373,7 +373,7 @@ activer (type TTS ou contrôle des oreilles) :
 
 ![installation.openjabnab9](../images/installation.openjabnab9.PNG)
 
-Configuration de Jeedom 
+Configuración de Jeedom
 =======================
 
 La configuration dans Jeedom est assez simple, il faut tout d’abord se

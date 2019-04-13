@@ -74,7 +74,7 @@ nécessaire de récupérer les informations suivantes :
 -   Dans la page santé du plugin Zwave sur le **Jeedom Maître**, choisir
     votre **Esclave** dans le menu déroulant et faire une copie d’écran,
     ceci afin de disposer d’une liste des équipements qui viennent
-    de celui-ci.
+    de este.
 
 -   Noter pour chaque équipement venant de **l’Esclave** : l’objet
     parent, le nom, l’ID (Node), le modèle.
@@ -155,7 +155,7 @@ Installation du **Jeedom Source** :
 -   Vérifier dans la page Santé que la configuration réseau interne (et
     externe si besoin) du **Jeedom Source** est OK.
 
-Configuration du Jeedom Source 
+Configuración de la fuente Jeedom
 ------------------------------
 
 -   Changer le mot de passe de l’utilisateur admin ou/et configurer un
@@ -177,7 +177,7 @@ Configuration du Jeedom Source
 
 -   Recréer l’arborescence des objets (juste ceux qui vont vous
     être utiles) du **Jeedom Cible** (Ancien Maître) sur votre nouveau
-    **Jeedom Source** (Ancien Esclave).
+    **Fuente Jeedom** (Antiguo Esclavo).
 
 Configuration des équipements sur le **Jeedom Source** 
 ------------------------------------------------------
@@ -207,24 +207,24 @@ Source**.
 
 -   Cliquer sur le bouton "Synchroniser" afin de récupérer les modules
     associés à votre contrôleur. (Ils sont gardés dans la mémoire
-    de celui-ci)
+    de este)
 
 -   Remplacer le fichier *Zwcfg* : *Plugins ⇒ Gestion des Plugins ⇒
     Z-wave*. Cliquer sur le bouton rouge *Zwcfg* et coller le contenu du
     fichier texte précédemment créé sur votre ordinateur. *Sauvegarder
-    les changements*.
+    los cambios*.
 
 -   Renommer vos modules et les placer dans les objets souhaités en vous
     aidant de votre mémo de migration.
 
-### Plugin Rfxcom : 
+### Plugin Rfxcom :
 
 #### Sondes, capteurs, détecteurs,…​ : 
 
 -   Passer le plugin en mode inclusion.
 
 -   Recommencer l’inclusion jusqu’à obtenir tous vos équipements de
-    ce type.
+    este tipo.
 
 -   Renommer vos équipements et les placer dans les objets souhaités en
     vous aidant de votre mémo de migration.
@@ -360,10 +360,10 @@ Recopie des configurations avancées des commandes
     onglets/fenêtres d’ouverts sur votre navigateur.
 
 -   Ouvrir les commandes des équipements de l’ancien **Esclave** dans un
-    onglet (Jeedom Cible).
+    pestaña (Jeedom Target).
 
 -   Ouvrir les commandes des équipements jeeLink dans l’autre onglet
-    (Jeedom Cible).
+    (Target Jeedom).
 
 -   Et recopier à la main les paramètres voulus.
 

@@ -14,9 +14,9 @@ id *                     | Identifiant unique du plugin sur le Market Jeedom. Do
 name *                   | Nom du plugin.                                                                                                            |
 description *            | Description du plugin, tel qu'il s’affichera sur le Market Jeedom Minimum 80 caractères. (`<br/>` pour le retour à la ligne.)                                  |                                                                                     |
 usage                    | Informations complémentaires à la documentation sur l’usage du plugin.                                                    |
-licence *                | Type de licence.                                                                                                          |
+licence *                | Tipo de licencia.                                                                                                          |
 author *                 | Nom de l’auteur du plugin, tel qu’il sera affiché une fois le plugin installé, dans les informations de celui-ci.         |
-require *                | Version minimum de Jeedom.                                                                                                |
+require *                | Versión mínima de Jeedom.                                                                                                |
 category *               | Catégorie de classement du plugin sur le Market jeedom. **Respecter impérativement la nomenclature du tableau ci-dessous** |
 mobile                   | Si le plugin utilise un panel dédié sur la webApp Jeedom, il s’agit du nom du fichier principal de ce panel.   |
 changelog *              | Lien Html vers le Changelog.                                                                                              |

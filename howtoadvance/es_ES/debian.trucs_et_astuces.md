@@ -103,7 +103,7 @@ support de stockage.
 -   Reconfigure su red local, verifique que su máquina esté
     opérationnelle et à jour.
 
--   Installez Jeedom en suivant la doc :
+-   Instala Jeedom siguiendo el documento :
     <https://github.com/jeedom/documentation/blob/master/installation/fr_FR/other.asciidoc>
 
 \[ATTENTION\] MariaDB n’autorise plus l’accès au profil 'root', ce qui
@@ -201,7 +201,7 @@ Bascule en MariaDB.
 
     apt-get -y install mariadb-server mariadb-client mariadb-common
 
-Mise à jour de Jeedom
+Actualización de Jeedom
 
     sh /var/www/html/install/install.sh -s 2
     sh /var/www/html/install/install.sh -s 5

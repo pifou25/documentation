@@ -159,7 +159,7 @@ Voilà votre installation de debian est finie. Vous pouvez arrêter le
 tuto là si vous le voulez ou suivre les étapes suivantes pour quelques
 modifications du système (utile surtout pour jeedom).
 
-Optimisation pour Jeedom 
+Optimización para Jeedom
 ========================
 
 Pour préparer l’installation de Jeedom vous pouvez faire quelques

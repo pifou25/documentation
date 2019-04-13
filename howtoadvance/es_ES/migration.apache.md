@@ -1,7 +1,7 @@
 Pourquoi ? 
 ==========
 
--   Apache va devenir petit à petit la norme avec Jeedom
+-   Apache se convertirá gradualmente en la norma con Jeedom.
 
 -   Permet d’avoir les dernières mises à jour de sécurité au niveau de
     l’accès aux fichiers (grâce au .htaccess) lors des mises à jour de
@@ -68,7 +68,7 @@ Installation et configuration d’Apache
 > non garder une version modifiée d’un fichier, faites : "Keep the local
 > version currently installed".
 
-Copie de Jeedom 
+Copia de Jeedom
 ---------------
 
     cp -R /usr/share/nginx/www/jeedom/* /var/www/html/

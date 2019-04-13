@@ -1,6 +1,6 @@
 # Mise en place du DNS Jeedom
 
-## Objectif
+## Objetivo
 
 Mettre en place le DNS Jeedom pour avoir un accès à son Jeedom en externe par une URL en HTTPS
 
@@ -48,7 +48,7 @@ Jeedom va démarrer le DNS et vous donner votre url d'accès à votre Jeedom
 
 Voilà votre Jeedom est accessible de l'exterieure en https
 
-## FAQ
+## Preguntas frecuentes
 
 > **Mon status sur le market est bien en "Connexion possible" mais mon Jeedom ne se connecte pas**
 >
