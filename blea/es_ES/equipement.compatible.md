@@ -155,17 +155,17 @@ Playbulb
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/bluelabel.jpg" width="60" />|Playbulb|BlueLabel|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/candle.jpg" width="60" />|Playbulb|Candle|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/candle6.jpg" width="60" />|Playbulb|Candle|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/bluelabel.jpg" width="60" />|Playbulb|BlueLabel|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/candle.jpg" width="60" />|Playbulb|Candle|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/candle6.jpg" width="60" />|Playbulb|Candle|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/color.jpg" width="60" />|Playbulb|Color|Luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/garden.jpg" width="60" />|Playbulb|Garden|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/garden.jpg" width="60" />|Playbulb|Garden|Luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/garden19.jpg" width="60" />|Playbulb|Garden v1.9|Luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/original.jpg" width="60" />|Playbulb|Original|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/rainbow.jpg" width="60" />|Playbulb|Rainbow|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/smart.jpg" width="60" />|Playbulb|Smart|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/sphere.jpg" width="60" />|Playbulb|Sphere|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/sphere17.jpg" width="60" />|Playbulb|Sphère|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/original.jpg" width="60" />|Playbulb|Original|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/rainbow.jpg" width="60" />|Playbulb|Rainbow|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/smart.jpg" width="60" />|Playbulb|Smart|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/sphere.jpg" width="60" />|Playbulb|Sphere|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/sphere17.jpg" width="60" />|Playbulb|Sphère|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ropot
 =====
@@ -207,14 +207,14 @@ Xiaomiht
 
 |Image|Marca|Nom|Tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Temperatura Humedad|Capteurs|Sensores de Temperatura Humedad con pantalla|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Yeelight
 =====
 
 |Image|marca|Nombre|Tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Bed|Lumières|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Bed|luces|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
 Cette liste est basee sur des retours utilisateurs, l'équipe Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionnels

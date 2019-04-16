@@ -4,12 +4,12 @@ A5-02
 
 |imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/a5-02-05_nodon_capteur_de_temperature_blanc.jpg" width="60" />|Nodon|Capteur de température blanc|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2627-nodon-capteur-de-temperature-sans-fils-et-sans-piles-blanc-3700313920183.html)|
-| <img src="../images/a5-02-05_nodon_capteur_de_temperature_black.jpg" width="60" />|Nodon|Capteur de température black|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2637-nodon-capteur-de-temperature-enocean-black-3700313920169.html)|
-| <img src="../images/a5-02-05_nodon_capteur_de_temperature_alu.jpg" width="60" />|Nodon|Capteur de température alu|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2634-nodon-capteur-de-temperature-enocean-alu-3700313920176.html)|
-| <img src="../images/a5-02-05_nodon_capteur_de_temperature_wood.jpg" width="60" />|Nodon|Capteur de température wood|Température|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2635-nodon-capteur-de-temperature-enocean-wood-3700313920145.html)|
+| <img src="../images/a5-02-05_nodon_capteur_de_temperature_blanc.jpg" width="60" />|Nodon|Sensor de temperatura blanco|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2627-nodon-capteur-de-temperature-sans-fils-et-sans-piles-blanc-3700313920183.html)|
+| <img src="../images/a5-02-05_nodon_capteur_de_temperature_black.jpg" width="60" />|Nodon|Sensor de temperatura negro|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2637-nodon-capteur-de-temperature-enocean-black-3700313920169.html)|
+| <img src="../images/a5-02-05_nodon_capteur_de_temperature_alu.jpg" width="60" />|Nodon|Sensor de temperatura alu|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2634-nodon-capteur-de-temperature-enocean-alu-3700313920176.html)|
+| <img src="../images/a5-02-05_nodon_capteur_de_temperature_wood.jpg" width="60" />|Nodon|Capteur de température wood|Temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2635-nodon-capteur-de-temperature-enocean-wood-3700313920145.html)|
 | <img src="../images/a5-02-05_nodon_capteur_de_temperature_varnish.jpg" width="60" />|Nodon|Capteur de température varnish|temperatura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2636-nodon-capteur-de-temperature-enocean-varnish-3700313920152.html)|
-| <img src="../images/a5-02-17_thermokon_capteur_de_temperature.jpg" width="60" />|Thermokon|Capteur de température tuyau|Température||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/a5-02-17_thermokon_capteur_de_temperature.jpg" width="60" />|Thermokon|Sensor de temperatura tubo|Temperatura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-04
 =====
@@ -128,7 +128,7 @@ D2-05
 D2-06
 =====
 
-|imagen|marca|Nom|tipo|observación|enlace|
+|imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 ||Soda|Poignée intelligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/2.html)|
 
