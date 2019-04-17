@@ -1,31 +1,31 @@
-# Monitoring cloud
+# Monitoreo en la nube
 
-## Description
+## Descripción
 
 Le monitoring cloud est un service Jeedom SAS payant qui surveille en permanance votre ou vos Jeedoms et vous prévient en cas de soucis.
 
 En fonction du nombre de mois pris vous aurez le droits à des mois offerts : 
 
 - 12 mois : 1 mois offerts
-- 24 mois : 4 mois offerts
-- 36 mois : 8 mois offerts
+- 24 meses : 4 meses ofrecidos
+- 36 meses : 8 meses ofrecidos
 
-## Qu'est ce qui est surveillé
+## Que es lo que se monitorea
 
 La liste de ce qui est surveillé évolue pour essayer d'etre le plus réactif/pro actif possible, dans les controles de base vous avez : 
 
-- Système disponible
+- Sistema disponible
 - Serveur web (apache2) démarré
 - Base de données (mysql) démarré
 - Charge CPU
-- Charge mémoire
+- Carga de memoria
 - Charge SWAP
-- Entrée/Sortie disques
-- Espace disque libre
+- Entrada/Salida discos
+- Espacio libre en disco
 
 Vous êtes aussi prévenu lors d'un redemarrage de votre Jeedom.
 
-## Comment suis-je prévenu
+## Como soy notificado
 
 Par default vous êtes prévenu par un mail sur votre mail configuré dans votre profils mais vous pouvez dans la configuration du monitoring cloud (sur votre page profils du market) : 
 
@@ -62,9 +62,9 @@ Ensuite vous pouvez voir dans la partie santé de Jeedom si celui-ci est actif. 
 >
 > Pour les notifications il suffit de récupérer l'arn de votre mobile, il se situe dans le plugin mobile, sur votre equipement mobile puis d'accéder à l'onglet "notification" puis copie la ligne "ARN" attention il faut prendre uniquement ce qu'il y a apres "arn:aws:sns:eu-west-1:507915066327:endpoint/"
 
-## C'est compatible avec tout ?
+## ¿Es compatible con todo?
 
-- Smart (testé)
-- Debian x64 Stretch (testé)
+- Smart (probado)
+- Debian x64 Stretch (probado)
 - Debian x64 Jessie
 - RPI

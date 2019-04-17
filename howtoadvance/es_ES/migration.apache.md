@@ -12,7 +12,7 @@ Pourquoi ?
 
 -   Améliore les performances globales de Jeedom.
 
-Prérequis 
+Requisitos previos
 =========
 
 -   Savoir se connecter en SSH sur la box (vous trouverez les

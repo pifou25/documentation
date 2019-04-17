@@ -205,16 +205,16 @@ Wistiki
 Xiaomiht
 =====
 
-|Image|Marca|Nom|Tipo|observación|enlace|
+|Imagen|Marca|Nombre|Tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Temperatura Humedad|Capteurs|Sensores de Temperatura Humedad con pantalla|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Temperatura Humedad|Sensores|Sensores de Temperatura Humedad con pantalla|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Yeelight
 =====
 
-|Image|marca|Nombre|Tipo|observación|enlace|
+|Imagen|marca|Nombre|Tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Bed|luces|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Cama|luces|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 
 Cette liste est basee sur des retours utilisateurs, l'équipe Jeedom ne peut donc garantir que tous les modules de cette liste sont 100% fonctionnels

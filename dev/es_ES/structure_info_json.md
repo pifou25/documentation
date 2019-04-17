@@ -21,7 +21,7 @@ category *               | Catégorie de classement du plugin sur le Market jeed
 mobile                   | Si le plugin utilise un panel dédié sur la webApp Jeedom, il s’agit du nom du fichier principal de ce panel.   |
 changelog *              | Lien Html vers le Changelog.                                                                                              |
 documentation *          | Lien Html vers la documentation du plugin.                                                                                |
-link -> video               | Lien Html vers une vidéo de présentation.                                                                                 |
+enlace -> video               | Lien Html vers une vidéo de présentation.                                                                                 |
 link -> forum               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
 languages                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
 compatibility            | Compatibilité du plugin : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
@@ -44,17 +44,17 @@ Market Jeedom         | info.json               |
 Communication         | communication           |
 Confort               | wellness                |
 Energie               | energy                  |
-Météo                 | weather                 |
-Monitoring            | monitoring              |
+Météo                 | tiempo                 |
+Monitoreo            | monitoreo              |
 Multimédia            | multimedia              |
 Nature                | nature                  |
 Objets Connectés      | devicecommunication     |
-Organisation          | organization            |
+Organisation          | organización            |
 Passerelle domotique  | home automation protocol|
-Programmation         | programming             |
-Protocole domotique   | automation protocol     |
-Santé                 | health                  |
-Sécurité              | security                |
+Programación         | programming             |
+Protocolo domótico   | protocolo de automatización     |
+Santé                 | salud                  |
+Sécurité              | seguridad                |
 Automatisme           | automatisation          |
 
 

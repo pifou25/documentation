@@ -6,7 +6,7 @@ Voici un petit TP pour expliquer comment créer un plugin. Pour l’exemple nous
 
 Il ne remplace en aucun cas la [documentation officielle](https://jeedom.github.io/plugin-template/fr_FR/)
 
-# Créer la base du plugin
+# Crear la base del plugin
 
 Pour commencer il faut déterminer un nom et un id (qui ne doit pas exister)
 
@@ -174,7 +174,7 @@ Ajouter l'icône dans le dossier plugin_info sous le nom vdm_icon.png
 
 dans mon cas 
 
-![image](../images/tutorial_vdm_icon.png)
+![imagen](../images/tutorial_vdm_icon.png)
 
 Maintenant on peut copier le dossier vdm dans le dossier plugin de Jeedom et aller dans la gestion des plugins. On retrouve bien le plugin.
 
@@ -220,7 +220,7 @@ par
 <span style="font-size : 1.1em;position:relative;top : 23px;word-break: break-all;white-space: pre-wrap;word-wrap: break-word;color:#767676">{{Configuration}}</span>
 ```
 
-![image](../images/tutorial_vdm_desktop2.png)
+![imagen](../images/tutorial_vdm_desktop2.png)
 
 Voilà la base est prête. Vous devriez avoir le plugin d'actif mais pour le moment il ne fait rien.
 
@@ -335,7 +335,7 @@ J’édite le code html du tableau dans le fichier desktop.php en ajoutant une c
 <th>{{Nom}}</th><th>{{Type}}</th><th>{{Configuration}}</th><th>{{Action}}</th>
 ```
 
-Puis éditer desktop.js ,trouver
+Luego edita desktop.js, encuentra
 
 ```
     tr += '<span class="subType" subType="' + init(_cmd.subType) + '"></span>';
@@ -480,7 +480,7 @@ Il y en a plusieurs :
 - cron15 : rafraichissement toutes les 15 minutes
 - cron30 : rafraichissement toutes les 30 minutes
 - cronHourly : euh.. toutes les heures
-- cronDaily : ben 1/jour
+- cronDaily : ben 1/día
 
 Vu le plugin on va effectuer une mise à jour toutes les heures (soyons fous). On va donc utiliser la fonction cronHourly().
 
@@ -666,7 +666,7 @@ C'’est mieux mais le widget prend toujours la largeur du dashboard. On va donc
 
 On va donc changer la largeur du widget(équipement => eqLogic) en utilisant la méthode setDisplay() héritée de la class eqLogic .On laisse la hauteur en auto.
 
-Pour cela il suffit d’ajouter
+Para eso solo agregue
 
 ```
 $this->setDisplay("width","800px");

@@ -40,7 +40,7 @@ Comme vous pouvez le voir l’interface est plutôt sympa et permet de
 faire pas mal de choses, je ne rentrerai pas dans les détails mais vous
 pouvez déja à partir de cette écran :
 
--   arrêter/redémarrer l’ESXi
+-   detener/reiniciar el ESXi
 
 -   voir l’utilisation des ressources (CPU,mémoire et disque)
 
@@ -52,7 +52,7 @@ pouvez déja à partir de cette écran :
 -   un bouton action qui permet en autre de passer en mode maintenance
     (pratique si vous avez un cluster d’ESXi sinon vous ne vous en
     servirez jamais), activer/désactiver le service SSH (est utilisé
-    dans le tutoriel de configuration des backups)
+    en el tutorial de configuración de las copias de seguridad)
 
 Envoi de l’iso d’installation 
 =============================
@@ -91,14 +91,14 @@ datastore :
 
 ![vmware.createvm24](../images/vmware.createvm24.PNG)
 
-Création de votre premiere VM 
+Creando tu primera máquina virtual
 =============================
 
 Cliquez sur le bouton "Créer/Enregistrer une VM" :
 
 ![vmware.createvm5](../images/vmware.createvm5.PNG)
 
-Cliquez sur suivant :
+Haga clic en siguiente :
 
 ![vmware.createvm6](../images/vmware.createvm6.PNG)
 

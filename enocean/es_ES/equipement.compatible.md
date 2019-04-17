@@ -130,7 +130,7 @@ D2-06
 
 |imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
-||Soda|Poignée intelligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/2.html)|
+||Soda|Manija inteligente EnOcean|Manija|Asegúrese de que la manija emita un pitido después de la inclusión. De lo contrario, excluir antes|[Comprar](http://www.domadoo.fr/fr/peripheriques/2.html)|
 
 D2-14
 =====
@@ -218,8 +218,8 @@ F6-10
 
 |Image|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Aluminium|Poignée|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
-|<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Blanche|Poignée|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
+|<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Aluminio|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
+|<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Blanca|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
 
 Recepteur
 =====

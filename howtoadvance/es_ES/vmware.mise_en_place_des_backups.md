@@ -26,7 +26,7 @@ d’aller sur IP\_ESXI/ui
 > version 6.0 update 2. Pour rappels pour acceder à cette interface il
 > suffit d’aller sur IP\_ESXI/ui
 
-Installation de ghettoVCB 
+Instalación de ghettoVCB
 =========================
 
 Il faut récupérer ce
@@ -40,7 +40,7 @@ accueillir les backups par exemple).
 > ghettoVCB.sh dans /vmfs/volumes/Backup/ghettoVCB.sh. A vous d’adapter
 > en fonction de votre configuration les commandes/scripts fournis.
 
-Connexion en ssh 
+Conexión en ssh
 ================
 
 Il va falloir vous connecter en SSH sur l’ESXi, pour ce faire il faut à
@@ -91,7 +91,7 @@ WORKDIR_DEBUG=0
  VM_SHUTDOWN_ORDER=
  VM_STARTUP_ORDER=
 
-Les paramètres que vous devez adapter sont :
+Los parámetros que necesitas adaptar son:
 
 -   **VM\_BACKUP\_VOLUME** ⇒ emplacement de votre datastore de backup
 
@@ -140,7 +140,7 @@ Voici d’autre possibilité pour la ligne de commande :
 
     /vmfs/volumes/Backup/ghettoVCB.sh -d dryrun -a -g /vmfs/volumes/Backup/ghettoVCB.conf
 
--   Lancement en mode debug :
+-   Lanzamiento en modo debug :
 
 <!-- -->
 
@@ -152,7 +152,7 @@ Voici d’autre possibilité pour la ligne de commande :
 
     /vmfs/volumes/Backup/ghettoVCB.sh -m toto -a -g /vmfs/volumes/Backup/ghettoVCB.conf
 
-Lancement automatique des backups 
+Lanzamiento automático de las copias de seguridad
 =================================
 
 Il faut ajouter la ligne de commande à la crontab mais sous VMware la

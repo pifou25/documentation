@@ -1,6 +1,6 @@
 # Comment faire la documentation d'un plugin
 
-## Introduction
+## Introducción
 
 Nous allons voir dans cette documentation comment faire la documentation de votre plugin.
 
@@ -10,7 +10,7 @@ Le principe est très simple la documentation du plugin doit etre un simple lien
 
 A noter que vous avez aussi un champs changelog qui doit fonctionne de la meme maniere que le champs documentation.
 
-## Comment faire ?
+## Como hacer ?
 
 Comme vu plus haut vous devez juste indiquer dans le fichier info.json le lien http(s) vers votre documentation vous etes donc libre sur la présentation, l'hébergeur ou meme le mode : 
 
@@ -22,13 +22,13 @@ Comme vu plus haut vous devez juste indiquer dans le fichier info.json le lien h
 
 Le plus simple pour votre documentation est d'utiliser le systeme de page de github qui à l'avantage d'etre très facile à utiliser.
 
-### Langage de la documentation
+### Idioma de la documentación
 
 Github support asciidoc et markedown (md) pour les pages, nous ne verrons ici que le markedown.
 
 On ne va pas vous decrire la syntaxe complete du markdown, d'autre site le font déja très bien dont [celui-ci](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-### Emplacement
+### Ubicación
 
 Nous vous recommandons dans votre plugin (hebergé sur github) de faire un dossier et d'y copier les fichiers et repertoire du dossier docs dans le plugin template (voir [ici](https://github.com/jeedom/plugin-template/tree/master/docs) )
 
