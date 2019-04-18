@@ -4,7 +4,7 @@
 
 Nous allons voir dans cette documentation comment faire la documentation de votre plugin.
 
-## Principe
+## Principio
 
 Le principe est très simple la documentation du plugin doit etre un simple lien web a indiquer dans votre fichier info.json (voir le détail [ici](https://jeedom.github.io/documentation/dev/fr_FR/structure_info_json) ) dans le champs documentation.
 
@@ -15,7 +15,7 @@ A noter que vous avez aussi un champs changelog qui doit fonctionne de la meme m
 Comme vu plus haut vous devez juste indiquer dans le fichier info.json le lien http(s) vers votre documentation vous etes donc libre sur la présentation, l'hébergeur ou meme le mode : 
 
 - un blog
-- un simple serveur web
+- un simple servidor web 
 - github (seul méthode que nous verrons ici)
 
 ## Github
@@ -37,7 +37,7 @@ Une fois cela fait vous allez avoir dans le dossier docs un dossier fr_FR (le se
 - changelog.md => votre changelog
 - index.md => votre documentation
 
-### Mise en ligne
+### Publicación
 
 La mise en ligne est assez simple il suffit dans sur votre dépot github puis "Settings" et dans la partie "GitHub Pages" d'activer celle sur "master branch /docs folder" (comme l'indique le libellé seul les fichiers dans le dossier /docs de la branche master de votre plugin seront en ligne). Github va ensuite vous fournir un lien de type "https://jeedom.github.io/plugin-template/" (au bout de quelques minutes en allant dessus vous devriez voir votre documentation mise en page correctement).
 

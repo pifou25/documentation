@@ -1,14 +1,14 @@
-# Assistants vocaux cloud
+# Asistentes vocales cloud
 
-## Description
+## Descripción
 
 C'est un service Jeedom SAS, gratuit le temps des tests en beta, qui deviendra payant par la suite une fois celui-ci stabilisé. Il prends en compte les assistants vocaux de Google et d'Amazon.
 
-## Comment l'utiliser 
+## Cómo utilizarlo
 
-Il faut : 
+Hay que :
 
-- avoir du crédit (quand il sera payant)
+- tener crédito (cuando será de pago)
 - avoir le plugin Dialogflow, [documentation](https://jeedom.github.io/plugin-dialogflow/fr_FR/)
 - ou le plugin Google Smarthome, [documentation](https://jeedom.github.io/plugin-gsh/fr_FR/)
 - ou le plugin Alexa, [documentation](https://jeedom.github.io/plugin-ash//fr_FR/)

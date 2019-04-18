@@ -204,7 +204,7 @@ F6-04
 
 |Image|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/f6-04-01_ nodon_lecteur_de_carte.jpg" width="60" />|Nodon|Interrupteur à carte EnOcean|Interrupteur|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3066-nodon-interrupteur-a-carte-enocean-3700313920329.html)|
+| <img src="../images/f6-04-01_ nodon_lecteur_de_carte.jpg" width="60" />|Nodon|Interrupteur à carte EnOcean|Interruptor|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3066-nodon-interrupteur-a-carte-enocean-3700313920329.html)|
 
 F6-05
 =====
@@ -216,7 +216,7 @@ F6-05
 F6-10
 =====
 
-|Image|marca|Nom|tipo|observación|enlace|
+|Image|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Aluminio|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
 |<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Blanca|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
@@ -224,7 +224,7 @@ F6-10
 Recepteur
 =====
 
-|Image|marca|Nom|tipo|observación|enlace|
+|Image|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/recepteur_1_canal_trio2sys_recepteur_1_canal.jpg" width="60" />|Trio2sys|Récepteur 1 canal O2line|micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/recepteur_1_canal_vitec_ubid1008.jpg" width="60" />|Vitec|Récepteur 1 canal Vitec|micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|

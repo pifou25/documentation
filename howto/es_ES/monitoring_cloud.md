@@ -6,7 +6,7 @@ Le monitoring cloud est un service Jeedom SAS payant qui surveille en permanance
 
 En fonction du nombre de mois pris vous aurez le droits à des mois offerts : 
 
-- 12 mois : 1 mois offerts
+- 12 meses : 1 mes ofrecido
 - 24 meses : 4 meses ofrecidos
 - 36 meses : 8 meses ofrecidos
 
@@ -17,9 +17,9 @@ La liste de ce qui est surveillé évolue pour essayer d'etre le plus réactif/p
 - Sistema disponible
 - Serveur web (apache2) démarré
 - Base de données (mysql) démarré
-- Charge CPU
+- Carga CPU
 - Carga de memoria
-- Charge SWAP
+- Carga SWAP
 - Entrada/Salida discos
 - Espacio libre en disco
 
@@ -30,7 +30,7 @@ Vous êtes aussi prévenu lors d'un redemarrage de votre Jeedom.
 Par default vous êtes prévenu par un mail sur votre mail configuré dans votre profils mais vous pouvez dans la configuration du monitoring cloud (sur votre page profils du market) : 
 
 - Mettre une autre adresse mail (une seule possible)
-- Ajouter une alerte sur Télégram
+- Añadir una alerta en Télégram
 - Ajouter une alerte sur Slack (il faut juste donner l'adresse de Webhook)
 - Ajouter une alerte par SMS (attention cela necessite que vous ayez du crédit SMS sur le market)
 - Ajouter une alerte par Notification (nécessite l'app mobile) 
@@ -39,7 +39,7 @@ Par default vous êtes prévenu par un mail sur votre mail configuré dans votre
 >
 > Vous pouvez trouver votre chatid a partir de jeedom en allant dans l'équipement telegram puis configuration avancé de la commande du destinataire voulu puis le bouton information et la dans le champs configuration vous avez le chatid
 
-## Comment l'activer
+## Cómo activarlo
 
 La procedure est assez simple, il faut : 
 

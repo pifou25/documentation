@@ -39,7 +39,7 @@ Renommer le dossier « plugin-template-master » en « vdm » (l’id) du plugin
 }
 ```
 
-Copier coller le code ci-dessus.
+Copia pegar el código de arriba.
 
 J’ai changé l’id (vdm) , le nom , ajouter une description , l’auteur et la catégorie.
 
@@ -53,13 +53,13 @@ Changelog, documentation, language , compatibility nuls pour le moment. J’y re
 
 -   Renommer le fichier core/class/template.class.php en vdm.class.php et ouvrez le pour l’éditer. 
 
-Remplacer
+Reemplazar
 
 ```
 class template extends eqLogic {
 ```
 
-par
+por
 
 
 ```
@@ -72,7 +72,7 @@ y
 class templateCmd extends cmd
 ```
 
-par
+por
 
 ```
 class vdmCmd extends cmd
@@ -87,7 +87,7 @@ Reemplazar
 $plugin = plugin::byId('template');
 ```
 
-Par 
+Por
 
 ```
 $plugin = plugin::byId(‘vdm’);
@@ -127,7 +127,7 @@ Por
 {{template param 1}}
 ```
 
-Par
+Por
 
 ```
 {{Paramètres}}
@@ -196,7 +196,7 @@ J'ouvre le fichier desktop/php/desktop.php pour corriger.
       </div>
 ```
 
-Je remplace
+Sustituyo
 
 ```
 color:#94ca02;"
@@ -214,7 +214,7 @@ On remarque aussi que les textes ne sont pas alignés donc on rectifie le style 
 <span style="font-size : 1.1em;position:relative; top : 15px;word-break: break-all;white-space: pre-wrap;word-wrap: break-word;color:#767676">{{Configuration}}</span>
 ```
 
-par 
+por
 
 ```
 <span style="font-size : 1.1em;position:relative;top : 23px;word-break: break-all;white-space: pre-wrap;word-wrap: break-word;color:#767676">{{Configuration}}</span>
@@ -238,7 +238,7 @@ A ce moment, il n’y a pas de commandes qui apparaissent dans l’onglet comman
 
 Ouvrir le fichier core/class/vdm.class.php et chercher la fonction postSave() (Lire la doc du plugin template si pas encore fait)
 
-On crée les 2 commandes
+Creamos los 2 comandos
 
 ```
 public function postSave() {
@@ -325,7 +325,7 @@ function addCmdToTable(_cmd) {
 }
 ```
 
-Cela se fait automatiquement. 
+Esto se hace automáticamente.
 
 Je souhaite ajouter les options Affichage et historiser pour chaque commande.
 
@@ -347,14 +347,14 @@ Luego edita desktop.js, encuentra
 On ajoute les informations souhaitées.
 
 ```
-    tr += '<span class="subType" subType="' + init(_cmd.subType) + '"></span>';
-    tr += '</td>';
-    tr += '<td>';
-    tr += '<span><input type="checkbox" class="cmdAttr checkbox-inline" data-l1key="isHistorized" /> {{Historiser}}<br/></span>';
-   tr += '<span><input type="checkbox" class="cmdAttr checkbox-inline" data-l1key="isVisible" /> {{Affichage}}<br/></span>';
-   tr += '</td>';       
-    tr += '<td>';
-    if (is_numeric(_cmd.id)) {
+    tr + = '<span class="subType" subType="' + init(_cmd.subType) + '"> </span>';
+    tr + = '</td>';
+    tr + = '<td>';
+    tr + = '<span> <input type="checkbox" class="cmdAttr checkbox-inline" data-l1key="isHistorized" /> {{Historize}} <br/> </span>';
+   tr + = '<span> <input type="checkbox" class="cmdAttr checkbox-inline" data-l1key="isVisible" /> {{Display}} <br/> </span>';
+   tr + = '</td>';
+    tr + = '<td>';
+    if (is_numeric (_cmd.id)) {
 ```
 
 Je laisse le bouton pour créer une commande mais je souhaite qu’il soit à gauche. 
@@ -376,7 +376,7 @@ Voici le rendu.Les options de configuration (Affichage et historiser) sont bien 
 Voilà il reste à récupérer une vdm aléatoire et à utiliser les commandes.
 
 
-# Récupération des informations
+# Recuperando informaciones
 
 Pour récupérer une vdm de manière aléatoire.
 
@@ -443,7 +443,7 @@ On met à jour la commande « story » avec la variable $info. On va utiliser la
 $eqlogic->checkAndUpdateCmd('story', $info);
 ```
 
-Ce qui donne au final
+Lo que da al final
 
 ```
     public function execute($_options = array()) {
@@ -465,7 +465,7 @@ On va définir ensuite la taille du widget et le customiser un peu
 
 Puis automatiser le refresh.
 
-# Update des informations (cron)
+# Update de las informaciones (cron)
 
 Le plugin est fonctionnel mais pour l’instant il ne fait pas grand-chose. Si vous cliquer sur la commande « refresh » , la commande « story » se met à jour mais sinon rien. 
 
@@ -473,7 +473,7 @@ A noter que pour la commande je la nomme par logicalId. Et c’est important. Av
 
 On va voir maintenant comment mettre à jour la commande en utilisant les fonctions natives du core : Les crons
 
-Il y en a plusieurs : 
+Hay varios :
 
 - cron : rafraichissement toutes les minutes
 - cron5 : rafraichissement toutes les 5 minutes
@@ -503,7 +503,7 @@ Décommenter le code
       }
 ```
 
-Notre fonction est opérationnelle
+Nuestra función es operativa
 
 Maintenant il faut récupérer tous les équipements de notre plugin,
 
@@ -511,7 +511,7 @@ Maintenant il faut récupérer tous les équipements de notre plugin,
 self::byType('vdm') //array contenant tous les équipements du plugin 
 ```
 
-et les trier 1 par 1
+y ordenarlos 1 por 1
 
 ```
 foreach (self::byType('vdm') as $vdm) {
@@ -576,7 +576,7 @@ La manière la plus simple vu qu’il n’y a qu’une commande et qu’elle est
     }
 ```    
 
-Il faut tester, ça fonctionne?
+Tienes que probar, funciona?
 
 Mais voici une alternative qui peut s’avérer plus utile dans des cas plus complexe
 
@@ -622,7 +622,7 @@ Le plugin est fonctionnel en l'état.
 
 Je prendrai le temps d'ajouter la façon de mettre en place un cron personnalisé selon l'équipement .
 
-# Le widget
+# El widget
 
 Pas une mince affaire le widget mais on va rester sur le widget par défaut pour le moment.
 
@@ -636,7 +636,7 @@ Mais je n’ai pas mes lunettes et actuellement le rendu sur le widget ne me per
 
 Donc on va changer le style en affectant un template à la commande « story»
 
-Rien de plus simple.
+Nada más sencillo.
 
 Je vais voir ==> [ICI](https://github.com/jeedom/core/tree/alpha/core/template/dashboard)
 
@@ -709,11 +709,11 @@ Pour laisser le choix à l’utilisateur , on retourne sur le fichier desktop.ph
 
 Buscar
 
-```
-<input type="text" class="eqLogicAttr form-control" data-l1key="configuration" data-l2key="city" placeholder="param1"/>
-```
+`` `
+ <input type="text" class="eqLogicAttr form-control" data-l1key="configuration" data-l2key="city" placeholder="param1"/>
+`` `
 
-Et remplacer par
+Y reemplazar por
 
 ```
 <input type="text" class="eqLogicAttr form-control" data-l1key="configuration" data-l2key="type" placeholder="option"/> //Important de laisser la classe eqLogicAttr 
@@ -744,7 +744,7 @@ Si vous regardez de plus près le fichier desktop.php il y a
                     <input type="text" class="eqLogicAttr form-control" data-l1key="name" placeholder="{{Nom de l'équipement}}"/>// retourne le nom de l’eqLogic(équipement) . Qu’on va pouvoir récupérer via $this->getName() ;
 ```
 
-Etc…
+Etc...
 
 Si vous avez bien assimilé tout ça on va pouvoir passer à la suite. Mais avant on va changer dans le fichier desktop.php 
 
@@ -752,7 +752,7 @@ Si vous avez bien assimilé tout ça on va pouvoir passer à la suite. Mais avan
 <label class="col-sm-3 control-label">{{Paramètre}}</label>
 ```
 
-Par 
+Por
 
 ```
 <label class="col-sm-3 control-label">{{Type de vdm}}</label>
@@ -799,13 +799,13 @@ Ici le paramètre « type» prendra la valeur du select choisi soit aleatoire ou
 
 Maintenant on va tenir compte de notre paramètre dans la fonction randomVdm() dans le fichier vdm.class.php
 
-Chercher
+Buscar
 
 ```
 $url = "http://www.viedemerde.fr/aleatoire";
 ```
 
-Et remplacer par
+Y reemplazar con
 
 ```
     $type = $this->getConfiguration("type ");
