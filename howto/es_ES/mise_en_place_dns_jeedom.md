@@ -4,11 +4,11 @@
 
 Mettre en place le DNS Jeedom pour avoir un accès à son Jeedom en externe par une URL en HTTPS
 
-## Pré-requis
+## Requisitos previos
 
 Pour avoir accès aux DNS Jeedom il faut absolument avoir un service pack power ou plus.
 
-## Principe
+## Principio
 
 Le principe du DNS Jeedom est très simple, votre Jeedom va se connecter sur un de nos serveurs en VPN (connexion cryptée). Ensuite ce serveur en question chez nous fait du "reverse proxy" lors de la demande : il prend votre demande de connexion à votre jeedom et la transfert vers celui-ci.
 
@@ -36,7 +36,7 @@ Vous devriez normalement voir votre Jeedom, avec devant une indication "Statut d
 >
 > Si votre status n'est pas à "Connexion possible" cela ne sert à rien de faire les étapes suivantes. Il faut attendre, si au bout de 48h votre status n'est toujours pas à "Connexion possible" vérifiez que vous avez bien un service pack power ou plus (onglet Mon profils sur le market puis partie Résumé)
 
-### Retour à Jeedom
+### Regresar a Jeedom
 
 Une fois le status du market à "Connexion possible", allez sur votre Jeedom, dans l'administration de celui-ci allez sur l'onglet Réseaux et cochez "Utiliser les DNS Jeedom" puis sauvegardez.
 

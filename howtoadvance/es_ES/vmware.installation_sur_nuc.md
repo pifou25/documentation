@@ -1,7 +1,7 @@
 Voici un tuto pour installer VMware sur un Intel NUC (gen6). Nous
 verrons par la suite comment ajouter Jeedom dessus
 
-Le matériel 
+El material
 ===========
 
 Intel NUC 
@@ -19,7 +19,7 @@ noyau VMware):
     TDP 15W)
 
 -   Intel Core i5-6260U (Dual-Core 1.8 GHz - Turbo 2.9 GHz - 4 threads -
-    Cache 4 Mo)
+    Caché 4 Mo)
 
 Le i5 est nettement plus puissant car il a un peu plus de mémoire cache
 et surtout un mode turbo qui lui permet de monter beaucoup plus haut en
@@ -32,7 +32,7 @@ A cela se rajoute 2 types de boitier :
 -   Un boitier plus épais pouvant contenir un disque de type M2 et un
     disque 2.5 pouces
 
-Cela fait donc 4 références :
+Por lo tanto, son 4 referencias :
 
 -   i3 M2 : [Intel NUC
     NUC6I3SYK](http://www.ldlc.com/fiche/PB00203086.html) \~ 320€
@@ -46,7 +46,7 @@ Cela fait donc 4 références :
 -   i5 M2 + 2.5pouces : [Intel NUC
     NUC6I5SYH](http://www.ldlc.com/fiche/PB00202760.html) \~ 430€
 
-SSD 
+SSD
 ---
 
 Il faut à cela rajouter un SSD et de la mémoire. Niveau SSD je vous
@@ -76,7 +76,7 @@ cela 40Go pour le VMware en lui-même ça se remplit vite.
 -   [LDLC SSD M.2 2280 F6 PLUS 480
     GB](http://www.ldlc.com/fiche/PB00207301.html) \~ 190€
 
-Mémoire 
+Memoria
 -------
 
 Attention pour la mémoire il faut absolument de la DDR4 en So-DIMM 260
@@ -113,23 +113,23 @@ Téléchargement de VMware
 C’est le plus dur en fait je crois, pour vous simplifier la vie il faut
 :
 
--   aller sur
-    [ici](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
-    et vous inscrire
+-   ir a 
+    [aquí](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
+    y registrarse
 
 -   attendre le mail pour bien valider l’inscription
 
--   retourner
-    [ici](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
+-   regresar
+    [aquí](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
     et vous connecter (il va peut être vous demander d’accepter les
     conditions, il faut valider)
 
--   ensuite aller
-    [là](https://my.vmware.com/fr/web/vmware/details?productId=491&downloadGroup=ESXI60U2)
+-   despues ve
+    [aqui](https://my.vmware.com/fr/web/vmware/details?productId=491&downloadGroup=ESXI60U2)
     et ajouter à votre compte "ESXi ISO image (Includes VMware Tools)"
 
 -   enfin retourner
-    [ici](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
+    [aquí](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6)
     et là vous devez avoir dans "Downlaod Packages", un package "ESXi
     ISO image (Includes VMware Tools)" qu’il vous faut télécharger
 
@@ -167,11 +167,11 @@ Voilà les 3 composants pour mon NUC :
 
 ![installation.vmware.nuc3](../images/installation.vmware.nuc3.jpg)
 
-La boite du NUC :
+La caja del NUC :
 
 ![installation.vmware.nuc4](../images/installation.vmware.nuc4.jpg)
 
-Ouverture de celle-ci :
+Apertura de esta:
 
 ![installation.vmware.nuc5](../images/installation.vmware.nuc5.jpg)
 

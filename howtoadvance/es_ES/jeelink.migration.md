@@ -57,11 +57,11 @@ Mises à jour et Vérification de la Configuration
     aucune mise à jour ne vous est proposée).
 
 -   Mettre à jour les plugins du **Jeedom Maître** aux dernières
-    versions disponibles.
+    versiones disponibles.
 
 -   Vérifier dans la page Santé que la configuration réseau interne du
     **Jeedom Maître**est OK (Et externe si vos**Jeedoms Sources**
-    seront distants).
+    serán distantes).
 
 Rassemblement des informations utiles 
 -------------------------------------
@@ -83,7 +83,7 @@ nécessaire de récupérer les informations suivantes :
     Z-wave*. Cliquer sur le bouton rouge *Zwcfg* et copier le contenu
     dans un fichier texte sur votre ordinateur.
 
-### Plugin RFXcom 
+### Plugin RFXcom
 
 -   Noter pour chaque équipement venant de **l’Esclave** : l’objet
     parent, le nom, l’ID (Logique), Le type, Le modèle.
@@ -96,12 +96,12 @@ nécessaire de récupérer les informations suivantes :
 Sauvegardes préventives 
 -----------------------
 
--   Faire une [sauvegarde
+-   Hacer una [copia de seguridad
     Jeedom](https://jeedom.github.io/documentation/core/fr_FR/doc-core-backup.html)
     de votre **Jeedom Maître**et de votre (vos)**Jeedom Esclave(s)**
     et récupérer celle(s)-ci sur votre PC/NAS…​.
 
--   Faire une [sauvegarde
+-   Hacer una [copia de seguridad
     SD/Disque](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-sauvegarde.comment_faire.html#_sauvegarde_restauration_de_la_carte_microsd)
     de votre **Jeedom Maître**et de votre (vos)**Jeedom Esclave(s)**
     et les récupérer sur votre PC/NAS…​.
@@ -150,7 +150,7 @@ Installation du **Jeedom Source** :
     d’installation](https://jeedom.github.io/documentation/installation/fr_FR/doc-installation.html).
 
 -   Mettre à jour le **Jeedom Source** à la dernière version (même si
-    aucune mise à jour ne vous est proposée).
+    no se ofrece ninguna actualización).
 
 -   Vérifier dans la page Santé que la configuration réseau interne (et
     externe si besoin) du **Jeedom Source** est OK.
@@ -159,7 +159,7 @@ Configuración de la fuente Jeedom
 ------------------------------
 
 -   Changer le mot de passe de l’utilisateur admin ou/et configurer un
-    nouvel utilisateur.
+    nuevo usuario.
 
 -   Configurer votre compte Jeedom Market (*Configuration ⇒ Mises à jour
     et fichiers ⇒ onglet "Market"*). Cliquer sur tester après avoir
@@ -167,7 +167,7 @@ Configuración de la fuente Jeedom
     Jeedom Market).
 
 -   Installation et activation du plugin "Jeedom Link" sur le nouveau
-    **Jeedom Source**.
+    **Fuente Jeedom**.
 
 ![jeelink.migration2](../images/jeelink.migration2.png)
 
@@ -203,7 +203,7 @@ Source**.
 > avec un équipement déjà présent dans les objets du **Jeedom Cible**,
 > le plugin ajoutera "remote XXXX" au nom de l’équipement.
 
-### Plugin Zwave : 
+### Plugin Zwave :
 
 -   Cliquer sur le bouton "Synchroniser" afin de récupérer les modules
     associés à votre contrôleur. (Ils sont gardés dans la mémoire
@@ -219,9 +219,9 @@ Source**.
 
 ### Plugin Rfxcom :
 
-#### Sondes, capteurs, détecteurs,…​ : 
+#### Sondas, sensores, detectores,...:
 
--   Passer le plugin en mode inclusion.
+-   Poner el plugin en modo inclusión.
 
 -   Recommencer l’inclusion jusqu’à obtenir tous vos équipements de
     este tipo.
@@ -229,9 +229,9 @@ Source**.
 -   Renommer vos équipements et les placer dans les objets souhaités en
     vous aidant de votre mémo de migration.
 
-#### Actionneurs, prises, …​. : 
+#### Actuadores, enchufes, ... :
 
--   Ajouter un nouvel équipement.
+-   Añadir un nuevo equipo.
 
 -   Définir le nom, l’ID, l’objet parent, le type d’équipement et le
     modèle en vous aidant de votre mémo de migration.
@@ -262,7 +262,7 @@ le plugin "Jeedom Link" en spécifiant :
 
 -   La clé API du **Jeedom Cible**.
 
-Et sauvegarder la configuration.
+Y guardar la configuración.
 
 ![jeelink.migration3](../images/jeelink.migration3.png)
 
@@ -301,15 +301,15 @@ Récupération des historiques
 > l’historique.
 
 -   Aller dans la configuration de la commande (*Roue crantée à
-    droite*).
+    derecha*).
 
 -   Aller dans l’onglet *Configuration Avancée*.
 
 -   Cliquer sur le bouton *Copier l’historique de cette commande sur une
-    autre commande*.
+    otro comando*.
 
 -   Chercher la commande correspondante du nouvel équipement JeeLink
-    correspondant et valider.
+    correspondiente y validar.
 
 Remplacement des anciens équipements esclaves dans les Scénarios/virtuels/…​ 
 ----------------------------------------------------------------------------
@@ -321,9 +321,9 @@ Remplacement des anciens équipements esclaves dans les Scénarios/virtuels/…�
 > remplacer les occurrences dans les scénarios/virtuels/…​.
 
 -   Aller dans la configuration de la commande (*Roue crantée à
-    droite*).
+    derecha*).
 
--   Aller dans l’onglet *Informations*.
+-   Vaya a la pestaña *Informaciones*.
 
 -   Cliquer sur le bouton *Remplacer cette commande par la commande*.
 
@@ -340,7 +340,7 @@ Récupération des configurations d’affichage avancées des commandes
 > récupérer les paramètres d’affichage avancés.
 
 -   Aller dans la configuration de la commande (*Roue crantée à
-    droite*).
+    derecha*).
 
 -   Cliquer sur le bouton *appliquer à*.
 

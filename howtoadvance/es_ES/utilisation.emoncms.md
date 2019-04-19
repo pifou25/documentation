@@ -36,7 +36,7 @@ Con los parámetros :
 -   apikey : la clef api de read&write pour emoncms
 
 -   value : il faut bien laisser *value* pour que Jeedom envoie la
-    valeur de l’info
+    valor de la información
 
 -   power : c’est à modifier pour
 
@@ -59,7 +59,7 @@ Pour prendre une donnée de emoncms dans Jeedom, il y a deux possibilités
     directement récupérée par emoncms (par exemple OpenBEM) Avec
     l’avantage de ne notifier qu’en cas de besoin, par contre le plugin
     event ne permet pas de faire de push et il faudra passer par MQTT
-    pour la connexion Jeedom
+    para la conexión Jeedom
 
 Mémo pour l’installation EmonCMS 
 ================================

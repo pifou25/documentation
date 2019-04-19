@@ -19,7 +19,7 @@ Script et une commande info de type json
 
 Pour l’état du relais le nom de la propriété du json : door
 
-Pour le capteur de distance : dist
+Para el sensor de distancia : dist
 
 Action sur le OpenGarage 
 ========================
@@ -30,7 +30,7 @@ L’adresse pour l’activation du relais est :
 
 dkey est la clef de l’api, par défaut c’est opendoor
 
-Plus d’infos 
+Mas informaciones 
 ============
 
 La documentation complète de l’API est disponible sur github :

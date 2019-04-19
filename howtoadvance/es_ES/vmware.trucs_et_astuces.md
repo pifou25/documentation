@@ -78,7 +78,7 @@ du partage (voir au-dessus) et enfin validez :
 
 ![vmware.tips11](../images/vmware.tips11.PNG)
 
-Cliquez sur terminer :
+Haz clic en finalizar :
 
 ![vmware.tips12](../images/vmware.tips12.PNG)
 
@@ -282,7 +282,7 @@ Certificat SSL
 Il est possible d’importer les certificats de vmware directement dans
 votre pc pour ne plus avoir l’alerte.
 
-Dans l’ordre il faut :
+En orden, debes :
 
 -   avoir une url (dns) d’accès a votre esxi, ici on va prendre
     esxi1.lan

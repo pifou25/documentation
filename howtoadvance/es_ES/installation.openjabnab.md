@@ -30,7 +30,7 @@ Il faut ensuite récupérer l’addresse IP du système :
 
     ifconfig
 
-Le résultat est :
+El resultado es :
 
     eth0      Link encap:Ethernet  HWaddr d0:63:b4:00:54:98
               inet addr:192.168.0.162  Bcast:192.168.0.255  Mask:255.255.255.0
@@ -79,7 +79,7 @@ Créez le fichier db.raspberry.pi
 
 vim db.raspberry.pi ---
 
-Et mettez dedans :
+Y poner dentro :
 
     $TTL 604800
     @ IN SOA ojn.raspberry.pi. root.raspberry.pi. (
@@ -97,7 +97,7 @@ Puis créez ce fichier db.192.168.0.inv
 
     vim db.192.168.0.inv
 
-Et mettez :
+Y ponga :
 
 $TTL 604800
  @ IN SOA ojn.raspberry.pi. root.localhost. (
@@ -115,15 +115,15 @@ $TTL 604800
 > Pensez bien à remplacer le 162 de la dernière ligne par la dernière
 > partie de l’ip de votre système
 
-Lancer le DNS :
+Ejecutar el DNS :
 
     /etc/init.d/bind9 start
 
-Testez si c’est bon :
+Prueba si es bueno :
 
     ping ojn.raspberry.pi
 
-Vous devriez avoir :
+Deberías tener :
 
     root@cubox-i:/home/ojn# ping ojn.raspberry.pi
     PING ojn.raspberry.pi (192.168.0.162) 56(84) bytes of data.
@@ -151,7 +151,7 @@ Et ajoutez :
 Récupération d’openjabnab 
 =========================
 
-On va d’abord créer l’utilisateur :
+Primero crearemos el usuario :
 
     adduser ojn
     cd /home/ojn
@@ -165,12 +165,12 @@ Puis cloner openjabnab :
 Configuration du serveur web 
 ============================
 
-Faites :
+Haz : 
 
     cd /etc/apache2/sites-available/
     vim ojn.conf
 
-Et ajoutez :
+Y añade :
 
     <VirtualHost *:80>
             DocumentRoot /home/ojn/OpenJabNab/http-wrapper/
@@ -187,7 +187,7 @@ Et ajoutez :
              </Directory>
     </VirtualHost>
 
-Puis activez le site :
+Y activa el sitio :
 
     a2ensite ojn
 
@@ -195,7 +195,7 @@ Il faut ensuite autoriser le répertoire du serveur openjabnab, faites :
 
     vim /etc/apache2/apache2.conf
 
-Et ajoutez :
+Y añade :
 
     <Directory /home/ojn/>
             Options Indexes FollowSymLinks
@@ -210,7 +210,7 @@ Puis on redémarre apache :
 Installation d’openjabnab 
 =========================
 
-Faites :
+Haz : 
 
     su ojn
     cd /home/ojn/OpenJabNab/server
@@ -246,11 +246,11 @@ C:\\Windows\\System32\\drivers\\etc et rajouter :
 
     192.168.0.162 ojn.raspberry.pi
 
-Puis allez sur :
+Entonces ve a :
 
     http://ojn.raspberry.pi/ojn_admin/install.php
 
-Validez le tout
+Validarlo todo
 
 Lancement du serveur 
 ====================
@@ -261,7 +261,7 @@ Voilà tout est prêt il ne reste plus qu’à lancer le serveur :
     cd ~/OpenJabNab/server/bin
     ./openjabnab
 
-Maintenant allez sur :
+Ahora ve a:
 
     http://ojn.raspberry.pi/ojn_admin/index.php
 
@@ -298,13 +298,13 @@ surveiller le serveur et le démarrer automatiquement. Faites :
     cd /home/ojn
     vim checkojn.sh
 
-Et ajoutez dedans :
+Y añadir dentro :
 
     if [ $(ps ax | grep openjabnab | grep -v grep | wc -l) -eq 0 ]; then
         su ojn; cd /home/ojn/OpenJabNab/server/bin;nohup ./openjabnab >> /dev/null 2>&1 &
     fi
 
-Puis faites :
+Entonces haz :
 
     chmod +x checkojn.sh
 
@@ -313,7 +313,7 @@ toute les 15min par exemple :
 
     crontab -e
 
-Et ajoutez :
+Y añadir :
 
     @reboot /home/ojn/checkojn.sh
     */15 * * * * /home/ojn/checkojn.sh
@@ -326,7 +326,7 @@ Et ajoutez :
 Configuration de votre lapin dans openjabnab 
 ============================================
 
-Allez sur :
+Vamos en :
 
     http://ojn.raspberry.pi/ojn_admin/index.php
 
@@ -343,7 +343,7 @@ Renseignez les informations demandées et connectez-vous :
 
 ![installation.openjabnab3](../images/installation.openjabnab3.PNG)
 
-Une fois connecté allez sur server :
+Una vez conectado vaya al servidor :
 
 ![installation.openjabnab4](../images/installation.openjabnab4.PNG)
 
@@ -382,7 +382,7 @@ sont dans la doc d’installation). Puis editer le fichier /etc/hosts
 
     vim /etc/hosts
 
-Et ajouter la ligne suivante :
+Y añadir la línea siguiente :
 
     192.168.0.162 ojn.raspberry.pi
 
@@ -450,29 +450,29 @@ Il faut ensuite faire 3 fichiers :
 
 <!-- -->
 
-    #ifndef _TTSACAPELA_H_
-    #define _TTSACAPELA_H_
+#ifndef _TTSACAPELA_H_
+ #define _TTSACAPELA_H_
 
-    #include <QHttp>
-    #include <QMultiMap>
-    #include <QTextStream>
-    #include <QThread>
-    #include "ttsinterface.h"
+   #include <QHttp>
+   #include <QMultiMap>
+   #include <QTextStream>
+   #include <QThread>
+   #include "ttsinterface.h"
 
-    class TTSJeedom : public TTSInterface
-    {
-      Q_OBJECT
-      Q_INTERFACES(TTSInterface)
+ class TTSJeedom : public TTSInterface
+ {
+ Q_OBJECT
+ Q_INTERFACES(TTSInterface)
 
-    public:
-      TTSJeedom();
-      virtual ~TTSJeedom();
-      QByteArray CreateNewSound(QString, QString, bool);
+ public:
+ TTSJeedom();
+ virtual ~TTSJeedom();
+ QByteArray CreateNewSound(QString, QString, bool);
 
-    private:
-    };
+ private:
+ };
 
-    #endif
+ #endif
 
 -   tts\_jeedom.cpp
 
@@ -559,7 +559,7 @@ Il faut ensuite activer le tts jeedom en modifiant le fichier
     TEMPLATE = subdirs
     SUBDIRS = acapela google jeedom
 
-Recompilation 
+Recompilación
 -------------
 
     cd /home/ojn/OpenJabNab/server
@@ -574,11 +574,11 @@ et changer :
 
     TTS=acapela
 
-Par
+Por
 
     TTS=jeedom
 
 Relance d’openjabnab 
 --------------------
 
-Le plus simple est ici de redémarrer la machine pour relancer openjabnab
+La forma más fácil aquí es reiniciar la máquina para reiniciar openjabnab

@@ -135,7 +135,7 @@ D2-06
 D2-14
 =====
 
-|imagen|marca|Nom|tipo|observación|enlace|
+|imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 | <img src="../images/d2-14-30_insafe_nexelec.jpg" width="60" />|Nexelec|Insafe|humo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -144,48 +144,48 @@ D2-32
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/d2-32-00_pressac_1_pince.jpg" width="60" />|PressacSensing|Pince Ampérimétrique Enocean|Courant||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/d2-32-02_pressac_3_pinces.jpg" width="60" />|PressacSensing|Pince Ampérimétrique Enocean 3 voies|Courant||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/d2-32-00_pressac_1_pince.jpg" width="60" />|PressacSensing|Pince Ampérimétrique Enocean|Corriente||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/d2-32-02_pressac_3_pinces.jpg" width="60" />|PressacSensing|Pince Ampérimétrique Enocean 3 voies|Corriente||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 D5-00
 =====
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/d5-00-01_nodon_ouverture_blanc.jpg" width="60" />|Nodon|Capteur d'ouverture blanc|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2626-nodon-detecteur-d-ouverture-sans-fils-et-sans-piles-blanc-3700313920138.html)|
-| <img src="../images/d5-00-01_nodon_ouverture_black.jpg" width="60" />|Nodon|Capteur d'ouverture black|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2640-nodon-detecteur-d-ouverture-enocean-black-3700313920114.html)|
-| <img src="../images/d5-00-01_nodon_ouverture_alu.jpg" width="60" />|Nodon|Capteur d'ouverture alu|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2641-nodon-detecteur-d-ouverture-enocean-alu-3700313920121.html)|
-| <img src="../images/d5-00-01_nodon_ouverture_wood.jpg" width="60" />|Nodon|Capteur d'ouverture wood|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2638-nodon-detecteur-d-ouverture-enocean-wood-3700313920091.html)|
-| <img src="../images/d5-00-01_nodon_ouverture_varnish.jpg" width="60" />|Nodon|Capteur d'ouverture varnish|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2639-nodon-detecteur-d-ouverture-enocean-varnish-3700313920107.html)|
-| <img src="../images/d5-00-01_eltako_FTK-RW_blanc.jpg" width="60" />|Eltako|Contact de porte/fenêtre - blanc - FTK-RW|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3122-eltako-contact-de-portefenetre-blanc-4010312305010.html)|
-| <img src="../images/d5-00-01_eltako_FTK-SI_argent.jpg" width="60" />|Eltako|Contact de porte/fenêtre - argent - FTK-SI|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3123-eltako-contat-de-portefenetre-argente-4010312305171.html)|
-| <img src="../images/d5-00-01_eltako_FTK-AN_anthracite.jpg" width="60" />|Eltako|Contact de porte/fenêtre - anthracite - FTK-AN|Ouverture|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3121-eltako-contact-de-portefenetre-anthracite-4010312305164.html)|
-| <img src="../images/d5-00-01_avidsen_ouverture.jpg" width="60" />|Avidsen|Contact de porte/fenêtre|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/d5-00-01_nodon_ouverture_blanc.jpg" width="60" />|Nodon|Capteur d'ouverture blanc|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2626-nodon-detecteur-d-ouverture-sans-fils-et-sans-piles-blanc-3700313920138.html)|
+| <img src="../images/d5-00-01_nodon_ouverture_black.jpg" width="60" />|Nodon|Capteur d'ouverture black|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2640-nodon-detecteur-d-ouverture-enocean-black-3700313920114.html)|
+| <img src="../images/d5-00-01_nodon_ouverture_alu.jpg" width="60" />|Nodon|Capteur d'ouverture alu|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2641-nodon-detecteur-d-ouverture-enocean-alu-3700313920121.html)|
+| <img src="../images/d5-00-01_nodon_ouverture_wood.jpg" width="60" />|Nodon|Capteur d'ouverture wood|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2638-nodon-detecteur-d-ouverture-enocean-wood-3700313920091.html)|
+| <img src="../images/d5-00-01_nodon_ouverture_varnish.jpg" width="60" />|Nodon|Capteur d'ouverture varnish|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/2639-nodon-detecteur-d-ouverture-enocean-varnish-3700313920107.html)|
+| <img src="../images/d5-00-01_eltako_FTK-RW_blanc.jpg" width="60" />|Eltako|Contact de porte/fenêtre - blanc - FTK-RW|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3122-eltako-contact-de-portefenetre-blanc-4010312305010.html)|
+| <img src="../images/d5-00-01_eltako_FTK-SI_argent.jpg" width="60" />|Eltako|Contact de porte/fenêtre - argent - FTK-SI|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3123-eltako-contat-de-portefenetre-argente-4010312305171.html)|
+| <img src="../images/d5-00-01_eltako_FTK-AN_anthracite.jpg" width="60" />|Eltako|Contact de porte/fenêtre - anthracite - FTK-AN|Apertura|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/3121-eltako-contact-de-portefenetre-anthracite-4010312305164.html)|
+| <img src="../images/d5-00-01_avidsen_ouverture.jpg" width="60" />|Avidsen|Contact de porte/fenêtre|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 F6-02
 =====
 
-|imagen|marca|Nom|tipo|observación|enlace|
+|imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 ||F6-02|||||
 ||F6-02|||||
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blue tech|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote cozy grey|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blue lagoon|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote softberry|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2900-nodon-soft-remote-enocean-softberry-3700313920305.html)|
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote wasabi|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2899-nodon-soft-remote-enocean-wasabi-3700313920299.html)|
-| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blanc|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blue tech|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote cozy grey|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blue lagoon|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote softberry|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2900-nodon-soft-remote-enocean-softberry-3700313920305.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote wasabi|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2899-nodon-soft-remote-enocean-wasabi-3700313920299.html)|
+| <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Soft Remote blanc|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html)|
 | <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Interrupteur mural Z-Wave plus - Cozi White|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2995-nodon-interrupteur-mural-z-wave-plus-cozi-white-3700313920268.html)|
 | <img src="../images/f6-02-02.jpg" width="60" />|Nodon|Interrupteur mural EnOcean - Cozi Grey|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2628-nodon-interrupteur-mural-enocean-cozi-grey-3700313920084.html)|
 | <img src="../images/f6-02-02.jpg" width="60" />|Eltako|Convertisseur infrarouge/EnOcean avec port USB pour télécommande Harmony Logitech - FIW-USB|Infrarouge|Créera autant d'équipement que de famille boutons disponibles dans la documentation de modules (à chaque famille une inclusion est nécessaire)|[Comprar](http://www.domadoo.fr/fr/peripheriques/3263-eltako-convertisseur-infrarougeenocean-avec-port-usb-4010312311158.html)|
 | <img src="../images/f6-02-02.mode_on_off.jpg" width="60" />|F6-02|||||
-| <img src="../images/f6-02-02.open_eltako_ouverture_FTKE.jpg" width="60" />|Eltako|Contact de porte/fenêtre avec levier - blanc - FTKE-RW|Ouverture|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3125-eltako-contact-de-portefenetre-blanc-4010312315231.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue tech|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote cozy grey|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue lagoon|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote softberry|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2900-nodon-soft-remote-enocean-softberry-3700313920305.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote wasabi|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2899-nodon-soft-remote-enocean-wasabi-3700313920299.html)|
-| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blanc|Télécommande|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html)|
+| <img src="../images/f6-02-02.open_eltako_ouverture_FTKE.jpg" width="60" />|Eltako|Contact de porte/fenêtre avec levier - blanc - FTKE-RW|Apertura|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3125-eltako-contact-de-portefenetre-blanc-4010312315231.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue tech|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote cozy grey|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue lagoon|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote softberry|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2900-nodon-soft-remote-enocean-softberry-3700313920305.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote wasabi|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2899-nodon-soft-remote-enocean-wasabi-3700313920299.html)|
+| <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blanco|mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2648-ubiwizz-telecommande-ubi-remote-blanc-3553740015966.html)|
 | <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Interrupteur mural Z-Wave plus - Cozi White|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2995-nodon-interrupteur-mural-z-wave-plus-cozi-white-3700313920268.html)|
 | <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Interrupteur mural EnOcean - Cozi Grey|Interrupteur|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2628-nodon-interrupteur-mural-enocean-cozi-grey-3700313920084.html)|
 | <img src="../images/f6-02-02.poussoir.jpg" width="60" />|Eltako|Convertisseur infrarouge/EnOcean avec port USB pour télécommande Harmony Logitech - FIW-USB|Infrarouge|Créera autant d'équipement que de famille boutons disponibles dans la documentation de modules (à chaque famille une inclusion est nécessaire)|[Comprar](http://www.domadoo.fr/fr/peripheriques/3263-eltako-convertisseur-infrarougeenocean-avec-port-usb-4010312311158.html)|
@@ -196,27 +196,27 @@ F6-03
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/f6-03-01.impulsion_eltako_F8S12-12VDC.jpg" width="60" />|Eltako|Module F8S12-12VDC|Impulsion|Bien choisir le bon profil après inclusion et créer un équipement par canal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/f6-03-01.impulsion_eltako_F8S12-12VDC.jpg" width="60" />|Eltako|Module F8S12-12VDC|Impulso|Bien choisir le bon profil après inclusion et créer un équipement par canal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||F6-03|||||
 
 F6-04
 =====
 
-|Image|marca|Nom|tipo|observación|enlace|
+|Imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 | <img src="../images/f6-04-01_ nodon_lecteur_de_carte.jpg" width="60" />|Nodon|Interrupteur à carte EnOcean|Interruptor|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3066-nodon-interrupteur-a-carte-enocean-3700313920329.html)|
 
 F6-05
 =====
 
-|Image|marca|Nom|tipo|observación|enlace|
+|Imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/f6-05-01_eltako_innondation_fws81.jpg" width="60" />|Eltako|Détecteur d'inondation Enocean FWS81|Fuite|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3132-eltako-detecteur-d-inondation-enocean-4010312316061.html)|
+| <img src="../images/f6-05-01_eltako_innondation_fws81.jpg" width="60" />|Eltako|Détecteur d'inondation Enocean FWS81|Fuga|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/3132-eltako-detecteur-d-inondation-enocean-4010312316061.html)|
 
 F6-10
 =====
 
-|Image|marca|Nombre|tipo|observación|enlace|
+|Imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Aluminio|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
 |<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Manija de ventana Sécusignal Atlanta Blanca|Manija|Bien choisir le bon profil après inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
@@ -224,7 +224,7 @@ F6-10
 Recepteur
 =====
 
-|Image|marca|Nombre|tipo|observación|enlace|
+|Imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/recepteur_1_canal_trio2sys_recepteur_1_canal.jpg" width="60" />|Trio2sys|Récepteur 1 canal O2line|micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/recepteur_1_canal_vitec_ubid1008.jpg" width="60" />|Vitec|Récepteur 1 canal Vitec|micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -232,8 +232,8 @@ Recepteur
 | <img src="../images/recepteur_dimmer_eltako_dimmer_sans_neutre.jpg" width="60" />|Eltako|Actionneur radio télévariateur universel sans neutre - FUD61NP-230V|micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/2424-eltako-actionneur-radio-variateur-rlc-encastrable-sans-neutre-4010312300183.html)|
 | <img src="../images/recepteur_dimmer_eltako_variateur_ballast_fsg71.jpg" width="60" />|Eltako|Variateur pour ballasts électroniques 1-10V|Ballast|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/3208-eltako-variateur-pour-ballasts-electroniques-1-10v-4010312316283.html)|
 | <img src="../images/recepteur_dimmer_eltako_dimmer.jpg" width="60" />|Eltako|Actionneur radio, variateur universel, encastrable - FUD61NPN-230V|micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/1936-eltako-actionneur-radio-variateur-rlcesl-et-led-encastrable-4010312300299.html)|
-| <img src="../images/recepteur_dimmer_eltako_prise_dimmer_FSUD230V.jpg" width="60" />|Eltako|Prise variateur - FSUD-230V|Prise|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/recepteur_dimmer_eltako_FUD71.jpg" width="60" />|Eltako|Variateur Ballast - FUD71-230V|Ballast|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/recepteur_dimmer_eltako_prise_dimmer_FSUD230V.jpg" width="60" />|Eltako|Prise variateur - FSUD-230V|Enchufe|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/recepteur_dimmer_eltako_FUD71.jpg" width="60" />|Eltako|Variateur Ballast - FUD71-230V|Lastre|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 | <img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61NP.jpg" width="60" />|Eltako|Actionneur Enocean télérupteur - FSR61NP-230V|micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3112-eltako-actionneur-enocean-telerupteur-4010312300190.html)|
 | <img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61.jpg" width="60" />|Eltako|Actionneur télérupteur EnOcean - FSR61-230V|micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3109-eltako-actionneur-telerupteur-enocean-4010312301531.html)|
 | <img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61_8-24.jpg" width="60" />|Eltako|Actionneur EnOcean télérupteur à alimentation en 8 à 24V UC - FSR61/8-24V|micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3110-eltako-actionneur-enocean-telerupteur-a-alimentation-en-8-a-24v-uc-4010312301357.html)|
