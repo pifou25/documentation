@@ -1,12 +1,12 @@
-Ce tutorial vous présente :
+Este tutorial te presenta:
 
--   Création d’un compte GitHub
+-   Creación de una cuenta GitHub
 
 -   Fork de Jeedom Core ou de la documentation
 
--   Modification d’un ou plusieurs fichiers
+-   Edición de uno o varios archivos
 
--   Soumettre une modification
+-   Enviar un cambio
 
 -   La mise à jour de votre fork
 
@@ -46,7 +46,7 @@ aussi afin de pouvoir soumettre des modifications. Je vous laisse
 Fork de Jeedom Core ou de la documentation 
 ==========================================
 
-**Fork - Pourquoi - Comment**
+**Fork - Por qué - Cómo**
 
 Fork c’est copier un projet dans votre espace github, afin de pouvoir
 modifier les fichiers de code, de documentation pour ensuite soumettre
@@ -69,13 +69,13 @@ Dans mon cas, je souhaite donc pousser une modification sur le fichier
 précisément ici : core/class/
 
 1.  On est donc sur mon dépôt (TaGGoU91 / core) qui est indiqué comme
-    étant un fork de Jeedom/core
+    siendo un fork de Jeedom/core
 
 2.  On se rend donc dans /core/class (le premier core est en gras, c’est
     le dépôt ou je suis (core, cf Petit 1)
 
 3.  On a donc notre fichier *history.class.php* - On clique sur le
-    fichier
+    archivo
 
 ![tuto.github5](../images/tuto.github5.png)
 
@@ -141,9 +141,9 @@ il faut effecter un PR (Pull Request)
     suis remis à jour depuis jeedom, le second concernant justement le
     changement de la fonction lastchangestateduration, parfait !!!)
 
-3.  L’ancien code
+3.  El antiguo código 
 
-4.  Le nouveau code
+4.  El nuevo código
 
 5.  On crée le Pull Request (PR)
 
@@ -160,7 +160,7 @@ demande.
 3.  Idem, on recopie (d’où l’utilisation des …​ à l’étape 1 pour
     s’éviter une réécriture)
 
-4.  On clique sur Create Pull Request
+4.  Hacemos clic en Create Pull Request
 
 ![tuto.github11](../images/tuto.github11.png)
 
@@ -182,4 +182,4 @@ nôtre
 La mise à jour de votre fork 
 ============================
 
-A compléter
+Para completar

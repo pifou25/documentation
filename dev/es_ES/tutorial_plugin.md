@@ -495,7 +495,7 @@ On va donc ouvrir le fichier vdm.class.php et chercher
      */
 ```
 
-Décommenter le code
+Descomenta el código
 
 ```
       public static function cronHourly() {
@@ -540,7 +540,7 @@ continue;
 $cmd->execCmd();
 ``` 
 
-Ce qui donne au final
+Lo que da al final
 
 ```
       public static function cronHourly () {

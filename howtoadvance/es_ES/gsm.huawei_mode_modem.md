@@ -9,7 +9,7 @@ périphériques USB que vous pouvez faire passer à la VM.
 >
 > Ce tuto a été fait sur un Windows 10
 
-Installation des drivers 
+Instalación de los drivers
 ========================
 
 Une fois la clef connectée à un PC Windows 10 vous devez avoir un

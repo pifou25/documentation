@@ -33,7 +33,7 @@ pour un utilisateur
 Enfin entrer une clef de partage NB : il s’agit d’un mot de passe qu’il
 faudra entrer à la configuration du VPN sur le mobile ou la tablette.
 
-Puis faire apply
+Y haz apply
 
 ![synology.utilisation vpn3](../images/synology.utilisation_vpn3.png)
 
@@ -71,7 +71,7 @@ Freebox
 
 ![synology.utilisation vpn6](../images/synology.utilisation_vpn6.png)
 
-Sélectionner le mode avancé
+Selecciona el modo avanzado
 
 ![synology.utilisation vpn7](../images/synology.utilisation_vpn7.png)
 
@@ -79,7 +79,7 @@ Sélectionner Gestion de port
 
 ![synology.utilisation vpn8](../images/synology.utilisation_vpn8.png)
 
-Ajouter une redirection
+Añadir una redirección
 
 ![synology.utilisation vpn9](../images/synology.utilisation_vpn9.png)
 
@@ -90,7 +90,7 @@ Entrer les paramètres comme suit.
 > ID de destination est le seul truc qui dépend de votre installation,
 > il faut y mettre l’IP de votre NAS Synology
 
-Faire sauvegarder
+Guardar
 
 ![synology.utilisation vpn10](../images/synology.utilisation_vpn10.png)
 
@@ -107,11 +107,11 @@ Aller dans application et sélectionner Paramètres
 
 ![synology.utilisation vpn12](../images/synology.utilisation_vpn12.png)
 
-Cliquer sur … Plus
+Haz clic en ... Más
 
 ![synology.utilisation vpn13](../images/synology.utilisation_vpn13.png)
 
-Cliquer sur VPN
+Haz clic en VPN
 
 ![synology.utilisation vpn14](../images/synology.utilisation_vpn14.png)
 

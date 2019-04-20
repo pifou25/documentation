@@ -1,10 +1,10 @@
-Paquets utiles 
+Paquetes utiles
 ==============
 
 Voici quelques paquets utiles à mettre sur une installation vierge :
 
 -   **fail2ban** : Permet de bannir des IP qui essaient de se connecter
-    à la machine.
+    a la maquina.
 
 -   **vim** : C’est un éditeur de texte en ligne de commande, on peut
     également le remplacer par nano ou bien d’autres.
@@ -38,7 +38,7 @@ Il faut éditer le fichier /etc/ssh/sshd\_config et changer :
 
     PermitRootLogin without-password
 
-Par :
+Por :
 
     PermitRootLogin yes
 
@@ -150,7 +150,7 @@ précédente :
 
 GRANT ALL PRIVILEGES ON *.* TO root@'localhost' IDENTIFIED BY 'monpass';
 
-ou
+o
 
 GRANT ALL PRIVILEGES ON *.* TO jeedom@'localhost' IDENTIFIED BY 'monpass';
 
@@ -168,10 +168,10 @@ GRANT ALL PRIVILEGES ON *.* TO jeedom@'localhost' IDENTIFIED BY 'monpass';
 -   Redonnez les droits à www-data sur tout Jeedom :
     `chown -R www-data: /var/www/html/`
 
--   Redémarrez la box : `reboot`
+-   Reinicia el controlador : `reboot`
 
 -   Connectez vous à Jeedom avec vos anciens identifiants via
-    l’interface web
+    la interfaz web
 
 -   Passer sur chaque plugin pour réinstaller les dépendances (notamment
     sur ceux ou le daemon est "NOK" KO).

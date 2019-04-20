@@ -8,27 +8,27 @@ Liste des variables du fichier info.json
 
 Les champs marqués d’un * sont des champs obligatoires.
 
-Champs                   | Valeurs                                                                                                                   |
+Campos                   | Valores                                                                                                                   |
 ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 id *                     | Identifiant unique du plugin sur le Market Jeedom. Doit debuter par une lettre. Sans accents.                             |
-name *                   | Nom du plugin.                                                                                                            |
-description *            | Description du plugin, tel qu'il s’affichera sur le Market Jeedom Minimum 80 caractères. (`<br/>` pour le retour à la ligne.)                                  |                                                                                     |
-usage                    | Informations complémentaires à la documentation sur l’usage du plugin.                                                    |
-licence *                | Tipo de licencia.                                                                                                          |
-author *                 | Nom de l’auteur du plugin, tel qu’il sera affiché une fois le plugin installé, dans les informations de celui-ci.         |
-require *                | Versión mínima de Jeedom.                                                                                                |
-category *               | Catégorie de classement du plugin sur le Market jeedom. **Respecter impérativement la nomenclature du tableau ci-dessous** |
-mobile                   | Si le plugin utilise un panel dédié sur la webApp Jeedom, il s’agit du nom du fichier principal de ce panel.   |
+nombre *                   | Nombre del plugin.                                                                                                            |
+descripción *            | Description du plugin, tel qu'il s’affichera sur le Market Jeedom Minimum 80 caractères. (`<br/>` pour le retour à la ligne.)                                  |                                                                                     |
+uso                    | Informations complémentaires à la documentation sur l’usage du plugin.                                                    |
+licencia *                | Tipo de licencia.                                                                                                          |
+autor *                 | Nom de l’auteur du plugin, tel qu’il sera affiché une fois le plugin installé, dans les informations de celui-ci.         |
+requiere *                | Versión mínima de Jeedom.                                                                                                |
+categoría *               | Catégorie de classement du plugin sur le Market jeedom. **Respecter impérativement la nomenclature du tableau ci-dessous** |
+móvil                   | Si le plugin utilise un panel dédié sur la webApp Jeedom, il s’agit du nom du fichier principal de ce panel.   |
 changelog *              | Lien Html vers le Changelog.                                                                                              |
-documentation *          | Lien Html vers la documentation du plugin.                                                                                |
+documentación *          | Lien Html vers la documentation du plugin.                                                                                |
 enlace -> video               | Lien Html vers une vidéo de présentation.                                                                                 |
-link -> forum               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
-languages                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
-compatibility            | Compatibilité du plugin : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
+enlace -> foro               | Lien Html vers le forum sur le sujet officiel du plugin.                                                                  |
+lenguajes                | Liste des langues disponibles pour le plugin : french, english, german, italian, spanish , russian, indonesian            |
+compatibilidad            | Compatibilité du plugin : miniplus, smart, docker, rpi, diy, mobileapp.                                                   |
 hasDependency            | «true» si le plugin doit installer des dépendances, sinon «false» ou absent.                                              |
 hasOwnDeamon             | «true» si le plugin doit exécuter des deamons, sinon «false» ou absent.                                                   |
 maxDependancyInstallTime | Temps maximum imparti pour l’installation des dépendances, exprimé en minutes.                                            |
-issue                    | URL vers le bugtracker si externe (si non remplis alors vous receverez un mail)
+resultado                    | URL vers le bugtracker si externe (si non remplis alors vous receverez un mail)
 
 **Exemple** :
 
@@ -41,21 +41,21 @@ issue                    | URL vers le bugtracker si externe (si non remplis alo
 
 Market Jeedom         | info.json               |
 --------------------- | ----------------------- |
-Communication         | communication           |
+Comunicación         | comunicación           |
 Confort               | wellness                |
-Energie               | energy                  |
-Météo                 | tiempo                 |
+Energía               | energía                  |
+Tiempo                 | tiempo                 |
 Monitoreo            | monitoreo              |
-Multimédia            | multimedia              |
-Nature                | nature                  |
-Objets Connectés      | devicecommunication     |
-Organisation          | organización            |
-Passerelle domotique  | home automation protocol|
-Programación         | programming             |
+Multimedia            | multimedia              |
+Naturaleza                | naturaleza                  |
+Objetos conectados      | devicecommunication     |
+Organización          | organización            |
+Pasarela domótica  | home automation protocol|
+Programación         | programación             |
 Protocolo domótico   | protocolo de automatización     |
-Santé                 | salud                  |
-Sécurité              | seguridad                |
-Automatisme           | automatisation          |
+Salud                 | salud                  |
+Seguridad              | seguridad                |
+Automatismo           | automatisation          |
 
 
 

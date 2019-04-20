@@ -41,7 +41,7 @@ Par default vous êtes prévenu par un mail sur votre mail configuré dans votre
 
 ## Cómo activarlo
 
-La procedure est assez simple, il faut : 
+El proceso es bastante simple, es necesario :
 
 - avoir du crédit monitoring cloud (il s'achete par lot de 1 mois, vous pouvez donc en prendre 2 mois puis arreter 6 mois puis en reprendre après)
 - tener jeedom 3.2.9 minimo

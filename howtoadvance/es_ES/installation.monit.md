@@ -4,7 +4,7 @@ vérifier qu’un service est toujours démarré.
 Pour cela on lui indique les critères d’évaluation et les actions à
 prendre.
 
-Installation de Monit 
+Instalación de Monit
 =====================
 
 Voici les commandes à lancer pour installer monit :
@@ -16,7 +16,7 @@ Exemples de conf
 
 Voici des exemples de configuration pour Monit avec Jeedom.
 
-Supervision Apache 
+Supervisión Apache
 ==================
 
     # Apache (test sur port 80)
