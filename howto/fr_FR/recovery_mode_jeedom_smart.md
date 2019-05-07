@@ -28,7 +28,7 @@ N.B. pensez à mettre de côté (en local) une sauvegarde de configuration Jeedo
 
 
 
-1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://content-eu.drive.amazonaws.com/v2/download/presigned/H8AeldkF_iyniUyIQxJYAYtDh3L5sBETvuSDwu4jY38eJxFPc?download=true&ownerId=A6F1DV2AL99AL). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
+1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/TdRZNbOL0x6YJGsMZkJvTTA1oLfWWKRbsc0ZUI3g4p5). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
 
 2- copiez cette archive sans la modifier ni la dézipper, sur une clé USB formatée en FAT32 et vierge
 
