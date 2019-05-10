@@ -41,7 +41,7 @@ Flowerpower
 
 |Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-| <img src="../images/flowerpower.jpg" width="60" />|Parrot|Power Flower|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/flowerpower.jpg" width="60" />|Parrot|Power Flower|Sensores|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Gigaset
 =====
@@ -55,7 +55,7 @@ Hector
 
 |Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-| <img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/hector.jpg" width="60" />|Hector|Hector|Sensores|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Itag
 =====
@@ -73,7 +73,7 @@ Jinlin
 
 |Imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Luz|Uniquement pour de la présence (le reste viendra)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Logiswitch
 =====
@@ -91,9 +91,9 @@ Miband
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
 | <img src="../images/miband1.jpg" width="60" />|Xiaomi|Miband|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Salud|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 | <img src="../images/miband2.jpg" width="60" />|Xiaomi|Miband2|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/mibandcolor.jpg" width="60" />|Xiaomi|Miband (avec led couleur)|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/mibandcolor.jpg" width="60" />|Xiaomi|Miband (con led color)|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miflora
 =====
@@ -114,7 +114,7 @@ Myfox
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/myfox.jpg" width="60" />|Myfox|Badge|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/myfox.jpg" width="60" />|Myfox|Tag|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Niu
 =====
@@ -124,16 +124,16 @@ Niu
 | <img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 | <img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Boutons|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 | <img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-| <img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Botones|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Noke
 =====
 
 |imagen|marca|Nom|tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/noke.jpg" width="60" />|Noke|Noke|Cadenas|Visible que sur appui du bouton (peut fonctionner via un hack des trames pour récupérer la clé) mais ne sera pas fait car illégal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/noke.jpg" width="60" />|Noke|Noke|Candado|Visible que sur appui du bouton (peut fonctionner via un hack des trames pour récupérer la clé) mais ne sera pas fait car illégal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Nut
 =====
@@ -153,7 +153,7 @@ Parrotpot
 Playbulb
 =====
 
-|imagen|marca|Nom|tipo|observación|enlace|
+|imagen|marca|Nombre|tipo|observación|enlace|
 |---|---|---|---|---|---|
 | <img src="../images/bluelabel.jpg" width="60" />|Playbulb|BlueLabel|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 | <img src="../images/candle.jpg" width="60" />|Playbulb|Candle|luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -172,19 +172,19 @@ Ropot
 
 |Imagen|marca|Nombre|Tipo|observación|enlace|
 |---|---|---|---|---|---|
-| <img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+| <img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Sensores|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Smartplug
 =====
 
-|imagen|marca|Nom|tipo|Observación|enlace|
+|imagen|marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Prises||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Enchufes||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Tb05
 =====
 
-|imagen|marca|Nom|tipo|Observación|enlace|
+|imagen|marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/tb05.jpg" width="60" />|E-Diffuser|Tb05|Diffuseur|Il est recommandé d'utiliser l'option garder la connection. Obligatoire pour tenter expérimentalement l'accès au couleur direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
