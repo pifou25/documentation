@@ -82,7 +82,7 @@ Interfaz RFXCOM:
 
 -   RFXtrx433E USB (recomendado)
 
-EDISIO puerta de enlace:
+Pasarela EDISIO :
 
 -   Dongle Edisio (Otro)
 

@@ -49,7 +49,7 @@ a fin de mantener mejor la temperatura establecida sin
 puede proporcionar un importante ahorro energético en comparación con
 controladores de calefacción tradicionales.
 
-El SRT323 es un socio ideal para su uso con puerta de enlace
+El SRT323 es un socio ideal para su uso con una pasarela
 domótica, que le permite controlar de forma remota el sistema de
 calefacción. Usted no tendrá que preocuparse de ir a casa de
 una casa fría, siempre y cuando usted tiene un teléfono inteligente, tableta o
