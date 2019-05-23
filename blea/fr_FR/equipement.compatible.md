@@ -8,6 +8,13 @@ Awoxmesh
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Lumières|Compatible avec Awox Mesh technologie.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Télécommande|Lumières|Compatible avec Awox Mesh technologie. Il faut activer le mode bluetooth pour utiliser les commande.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Beewismartdoor
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Default
 =====
 
@@ -174,6 +181,13 @@ Ropot
 |---|---|---|---|---|---|
 |<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Ruuvi
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+||Ruuvi|Ruuvi|Beacon|Capteurs beacon|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Smartplug
 =====
 
@@ -194,6 +208,13 @@ Ticatag
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ticatag.jpg" width="60" />|Tibe|Ticatag|Boutons|Le relachement est envoyé même après un appui simple ou appui double|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Tile
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/tile.jpg" width="60" />|Tile|Tile|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Wistiki
 =====

@@ -8,24 +8,31 @@ Awoxmesh
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Beleuchtung|Kompatibel mit der Awox Mesh-Technologie.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Fernbedienung|Beleuchtung|Compatible avec Awox Mesh technologie. Il faut activer le mode bluetooth pour utiliser les commande.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Standard
+Beewismartdoor
 =====
 
 |Bild|Marke|Name|Typ|Bemerkungen|Link|
 |---|---|---|---|---|---|
-|<img src="../images/default.jpg" width="60" />|unbekannt|unbekannt|Standard|Nur für Geräte, die noch nicht im Plugin hinzugefügt wurden, um mindestens die Präsenz und rssi und die Rohdaten zu haben.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Default
+=====
+
+|Bild|Marke|Name|Typ|Bemerkungen|Link|
+|---|---|---|---|---|---|
+|<img src="../images/default.jpg" width="60" />|Inconnu|Inconnu|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
 
 |Bild|Marke|Name|Typ|Bemerkungen|Link|
 |---|---|---|---|---|---|
-|<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Anzeige|Wird mit Optionen viel besser funktionieren, um die Verbindung zu halten.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dreamscreen
 =====
 
-|Bild|Marke|Name|Typ|Bemerkungen|Link|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/dreamscreen.jpg" width="60" />|DreamScreen|DreamScreen|Lumières||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -48,14 +55,14 @@ Gigaset
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/gigaset.jpg" width="60" />|Gigaset|G-Tag|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/gigaset.jpg" width="60" />|Gigaset|G-Tag|Présence|Uniquement pour de la présence|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Hector
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Itag
 =====
@@ -66,14 +73,14 @@ Itag
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Vert|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Bleu|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Bleu|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Jinlin
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Logiswitch
 =====
@@ -83,7 +90,7 @@ Logiswitch
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop vert|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop gris|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop gris|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miband
 =====
@@ -107,14 +114,14 @@ Miscale
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Myfox
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/myfox.jpg" width="60" />|Myfox|Badge|Présence|Uniquement pour de la présence|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/myfox.jpg" width="60" />|Myfox|Badge|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Niu
 =====
@@ -141,7 +148,7 @@ Nut
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/nut.jpg" width="60" />|Nut|Nut|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Parrotpot
 =====
@@ -174,6 +181,13 @@ Ropot
 |---|---|---|---|---|---|
 |<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Ruuvi
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+||Ruuvi|Ruuvi|Beacon|Capteurs beacon|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Smartplug
 =====
 
@@ -194,6 +208,13 @@ Ticatag
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ticatag.jpg" width="60" />|Tibe|Ticatag|Boutons|Le relachement est envoyé même après un appui simple ou appui double|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Tile
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/tile.jpg" width="60" />|Tile|Tile|Présence|Uniquement pour de la présence|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Wistiki
 =====
