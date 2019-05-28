@@ -186,9 +186,9 @@ Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
 -   Consultez la configuration DHCP dans votre routeur
 
 -   Utilisez un scanner de port type "angyipscanner"
-    [ici](http://angryip.org/download/#windows)
+    [aquí](http://angryip.org/download/#windows)
 
-Etablir la connexion
+Establecer la conexión
 
 Ensuite utilisez par exemple putty pour établir votre connexion
 [Ici](http://www.putty.org/)
@@ -293,25 +293,25 @@ Cliquez sur nouvelle et renseignez les champs comme ci dessous :
 -   Cliquez sur suivant, Choisissez une taille pour l’espace
     (4Go suffisent)
 
--   Cliquez sur créer
+-   Haga clic en crear
 
 Etape 4 : Lancement de la VM 
 ---
 
--   Cliquez sur configuration
+-   Haga clic en configuración
 
--   Sélectionnez stockage
+-   Seleccione almacenamiento
 
--   Ajoutez un lecteur optique
+-   Añade un lector óptico
 
--   Choisissez un disque
+-   Elige un disco
 
 ![VirtualBox2](../images/VirtualBox2.PNG)
 
 -   Indiquez l’image précédemment téléchargée
 
 -   Sélectionnez ensuite réseau et choisissez "accès par pont" dans le mode
-    d’accès réseau.
+    de acceso a la red.
 
 ![VirtualBox3](../images/VirtualBox3.PNG)
 
@@ -320,7 +320,7 @@ Etape 4 : Lancement de la VM
 Etape 5 : Installation de debian 9 
 ---
 
-C’est du classique …​
+Es clasico...
 
 ![VirtualBox4](../images/VirtualBox4.PNG)
 
@@ -331,7 +331,7 @@ C’est du classique …​
     plupart des écrans, il suffit de valider le choix par défaut. Vous
     pouvez laissez des champs vides, ce n’est pas bloquant.
 
--   Pour la sélection des logiciels :
+-   Para la selección de los software :
 
 ![VirtualBox5](../images/VirtualBox5.PNG)
 
@@ -344,7 +344,7 @@ Etape 6 : Installation de jeedom
 -   Lancez votre VM
 
 -   Identifiez-vous avec l’utilisateur et le mot de passe choisis
-    pendant l’installation
+    durante la instalación
 
 -   Passez en root
 
@@ -364,7 +364,7 @@ Etape 6 : Installation de jeedom
 
     ./install.sh
 
--   et laissez faire…​
+-   y déjalo hacer...
 
 Etape 7 : Lancement de jeedom 
 ---
@@ -434,19 +434,19 @@ Puis la lancer :
 
     sudo docker run --name jeedom-mysql -v /opt/jeedom/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=your-mysql-password -d mysql:latest
 
-Avec :
+Con :
 
 -   jeedom-mysql : le nom du conteneur mysql
 
 -   /opt/jeedom/mysql : le dossier de l’hote ou l’on doit stoker les
-    données de MySql
+    datos de MySql
 
 -   your-mysql-password : le mot de passe root de l’instance MySql
 
 Etape 3 : Installation d’une image Jeedom 
 ---
 
-Installation de l’image :
+Instalación de la imagen :
 
     docker pull jeedom/jeedom
 
@@ -514,7 +514,7 @@ Lancez l’application Docker :
 MYSQL 
 -----
 
-Cliquez sur "Registre" :
+Haga clic en "Registro" :
 
 ![install synology 5](../images/install_synology_5.PNG)
 
@@ -569,7 +569,7 @@ cliquez sur "Appliquer".
 Jeedom 
 ------
 
-Cliquez sur "Registre" :
+Haga clic en "Registro" :
 
 ![install synology 5](../images/install_synology_5.PNG)
 
@@ -596,11 +596,11 @@ suivant :
 
 ![install synology 23](../images/install_synology_23.PNG)
 
-Faites suivant :
+Haga siguiente :
 
 ![install synology 24](../images/install_synology_24.PNG)
 
-Cliquez sur "Paramètres avancés"
+Haga clic en "Parámetros avanzados"
 
 ![install synology 25](../images/install_synology_25.PNG)
 
@@ -669,7 +669,7 @@ du Docker mysql installé précédemment) et validez.
 Ensuite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
-Autres
+Otros
 ======
 
 Vous trouverez ici la documentation pour installer Jeedom sur la plupart
