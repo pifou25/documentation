@@ -13,7 +13,7 @@ De plus ces 2 services nous demandes beaucoup de temps de maintient/developpemen
 
 Il faut : 
 
-- avoir du crédit
+- avoir du crédit (voir [ici](https://www.jeedom.com/market/index.php?v=d&p=profils#services) pour l'abonnement)
 - avoir le plugin Dialogflow, [documentation](https://jeedom.github.io/plugin-dialogflow/fr_FR/)
 - ou le plugin Google Smarthome, [documentation](https://jeedom.github.io/plugin-gsh/fr_FR/)
 - ou le plugin Alexa, [documentation](https://jeedom.github.io/plugin-ash//fr_FR/)
