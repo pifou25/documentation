@@ -39,7 +39,11 @@ Une fois cela fait vous allez avoir dans le dossier docs un dossier fr_FR (le se
 
 ### Publicación
 
-La mise en ligne est assez simple il suffit dans sur votre dépot github puis "Settings" et dans la partie "GitHub Pages" d'activer celle sur "master branch /docs folder" (comme l'indique le libellé seul les fichiers dans le dossier /docs de la branche master de votre plugin seront en ligne). Github va ensuite vous fournir un lien de type "https://jeedom.github.io/plugin-template/" (au bout de quelques minutes en allant dessus vous devriez voir votre documentation mise en page correctement).
+La mise en ligne est assez simple il suffit dans sur votre dépot github puis "Settings" et dans la partie "GitHub Pages" d'activer celle sur "master branch /docs folder" (comme l'indique le libellé seul les fichiers dans le dossier /docs de la branche master de votre plugin seront en ligne). 
+
+![doc-github](../images/tutoDoc.png)
+
+Github va ensuite vous fournir un lien de type "https://jeedom.github.io/plugin-template/" (au bout de quelques minutes en allant dessus vous devriez voir votre documentation mise en page correctement).
 
 Il vous faut maintenant mettre les liens de votre documentation dans le fichier info.json de votre plugin pour cela il faut : 
 
