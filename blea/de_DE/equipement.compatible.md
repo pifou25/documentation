@@ -92,6 +92,13 @@ Logiswitch
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop vert|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop gris|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Lywsd02
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/lywsd02.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran (Lywsd02)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Miband
 =====
 
@@ -107,14 +114,14 @@ Miflora
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miscale
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Myfox
 =====
