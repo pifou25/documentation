@@ -16,8 +16,9 @@ A5-04
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/a5-04-01_trio2sys-capteur-temperature-humidite-o2line-blanc.jpg" width="60" />|Trio2sys|Sonde radio humidité et température pour montage interieur|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/a5-04-02_eltako_temperature_humidite_FAFT60.jpg" width="60" />|Eltako|Sonde radio humidité et température pour montage extérieur - FAFT60|Température||[Buy](http://www.domadoo.fr/fr/peripheriques/1931-eltako-sonde-radio-humidite-et-temperature-montage-exterieur-faft60-4010312310120.html)|
+||Trio2sys|Sonde radio humidité et température pour montage interieur|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-04-01_nexelec_insafe+_pilot_temperature_humidite.jpg" width="60" />|Nexelec|Insafe+ Pilot Sonde humidité et température|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-04-02_eltako_temperature_humidite_FAFT60.jpg" width="60" />|Eltako|Sonde radio humidité et température pour montage extérieur - FAFT60|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/1931-eltako-sonde-radio-humidite-et-temperature-montage-exterieur-faft60-4010312310120.html)|
 
 A5-06
 =====
@@ -32,6 +33,7 @@ A5-07
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/a5-07-01_eosca_mouvement.jpg" width="60" />|Eosca|Détecteur de mouvement EnOcean (position plafond)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-07-01_pressac_underdesk.jpg" width="60" />|Pressac|Détecteur de mouvement Sous bureau (underdesk)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_nodon_mouvement.jpg" width="60" />|Nodon|Détecteur de mouvement et luminosité EnOcean|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_avidsen_mouvement.jpg" width="60" />|Avidsen|Détecteur de mouvement|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -40,10 +42,12 @@ A5-09
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/a5-09-04_nanosense_e4000_CO2.jpg" width="60" />|Nanosense|Sonde qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+||Nanosense|Sonde CO2 qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-09-04_pressac_co2_humidite_temperature.jpg" width="60" />|PressacSensing|Sonde Co2 Température Humidité|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-09-04_nexelec_insafe+_carbon_co2_humidite_temperature.jpg" width="60" />|Nexelec|Insafe+ Carbon Sonde Co2 Température Humidité|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Nanosense|Sonde qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-09-07_nanosense_p4000.jpg" width="60" />|Nanosense|Sonde particules fines P4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+||Nanosense|Sonde qualité d'air E4000NG|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-10
 =====
@@ -51,6 +55,7 @@ A5-10
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/a5-10-06_eltako_regulateur_de_temperature_FTR65HS-WG.jpg" width="60" />|Eltako|Régulateur de température avec fonctions jour/nuit/OFF|Régulateur||[Acheter](http://www.domadoo.fr/fr/peripheriques/3128-eltako-regulateur-de-temperature-avec-fonctions-journuitoff-4010312315859.html)|
+||Avidsen|Sonde de température et d'humidité avec affichage numérique|Régulateur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-11
 =====
@@ -115,7 +120,7 @@ D2-04
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-||Nanosens|E4000-NG|Capteur|||
+|<img src="../images/d2-04-08_nanosense_e4000_NG.jpg" width="60" />|Nanosens|E4000-NG|Capteur|||
 
 D2-05
 =====
