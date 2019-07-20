@@ -240,6 +240,7 @@ Xiaomiht
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité Cleargrass|Micromodule|Capteurs de Température Humidité avec écran e-ink|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Yeelight
 =====
