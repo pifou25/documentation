@@ -129,6 +129,7 @@ Miscale
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestion de profils complète|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale 2019|Scale|Gestion de profils complète|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miscale2
 =====
