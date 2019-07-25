@@ -8,17 +8,23 @@ Awoxmesh
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Luces|Compatible con la tecnología Awox Mesh.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Mando a distancia|Luces|Compatible con la tecnología Awox Mesh. Debes activar el modo bluetooth para usar el comando.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Beewismartdoor
+Beagle
 =====
 
 |Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|sensor de apertura|Capteurs|Capteurs d'ouverture de porte|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Beewismartdoor
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Blpnr
 =====
 
-|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/blpnr.jpg" width="60" />|Jardibric|BLP NR|Plante||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -34,12 +40,12 @@ Dotti
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dreamscreen
 =====
 
-|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/dreamscreen.jpg" width="60" />|DreamScreen|DreamScreen|Lumières||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -76,9 +82,9 @@ Itag
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Botones|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Botones|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Vert|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Bleu|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -94,8 +100,8 @@ Logiswitch
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Botones|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Botones|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop vert|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop gris|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -112,7 +118,7 @@ Miband
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/miband1.jpg" width="60" />|Xiaomi|Miband|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miband2.jpg" width="60" />|Xiaomi|Miband2|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miband3.jpg" width="60" />|Xiaomi|Miband 3|Santé|Uniquement de la présence pour le moment|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miband4.jpg" width="60" />|Xiaomi|Miband 4|Santé|Uniquement de la présence pour le moment|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -152,7 +158,7 @@ Niu
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|

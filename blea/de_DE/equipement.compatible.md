@@ -8,17 +8,23 @@ Awoxmesh
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Beleuchtung|Kompatibel mit der Awox Mesh-Technologie.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Fernbedienung|Beleuchtung|Compatible avec Awox Mesh technologie. Il faut activer le mode bluetooth pour utiliser les commande.|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
 
-Beewismartdoor
+Beagle
 =====
 
 |Bild|Marke|Name|Typ|Bemerkungen|Link|
 |---|---|---|---|---|---|
-|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Beewismartdoor
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Blpnr
 =====
 
-|Bild|Marke|Name|Typ|Bemerkungen|Link|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/blpnr.jpg" width="60" />|Jardibric|BLP NR|Plante||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -78,7 +84,7 @@ Itag
 |---|---|---|---|---|---|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[kaufen](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Vert|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Bleu|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 

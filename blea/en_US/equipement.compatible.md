@@ -8,6 +8,12 @@ Awoxmesh
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Lumières|Compatible avec Awox Mesh technologie.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Télécommande|Lumières|Compatible avec Awox Mesh technologie. Il faut activer le mode bluetooth pour utiliser les commande.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Beagle
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+
 Beewismartdoor
 =====
 
