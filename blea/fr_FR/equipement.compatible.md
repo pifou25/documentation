@@ -95,6 +95,13 @@ Jinlin
 |---|---|---|---|---|---|
 |<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Kst1
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/kst1.jpg" width="60" />|Koogeek|Kst1|Santé||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Logiswitch
 =====
 
