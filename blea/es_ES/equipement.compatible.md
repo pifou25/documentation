@@ -119,6 +119,13 @@ Lywsd02
 |---|---|---|---|---|---|
 |<img src="../images/lywsd02.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran (Lywsd02)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
+Meyerdom4Contacts
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs et 2 analogiques|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 Miband
 =====
 
