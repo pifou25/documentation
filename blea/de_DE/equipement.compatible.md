@@ -75,7 +75,7 @@ Hector
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne dois pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne doit pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Itag
 =====
