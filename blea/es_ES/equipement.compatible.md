@@ -1,17 +1,24 @@
 
-Awoxmesh
+Amazfit
 =====
 
 |imagen|marca|apellido|tipo|observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/awox.jpg" width="60" />|Awox Eglo|SmartLight Mesh|Luces|Compatible con la tecnología Awox Mesh.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Luces|Compatible con la tecnología Awox Mesh.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Mando a distancia|Luces|Compatible con la tecnología Awox Mesh. Debes activar el modo bluetooth para usar el comando.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/amazfitgtr.jpg" width="60" />|Huami|Amazfit GTR|Santé|Uniquement de la présence pour le moment|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Awoxmesh
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/awox.jpg" width="60" />|Awox Eglo|SmartLight Mesh|Lumières|Compatible avec Awox Mesh technologie.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Lumières|Compatible avec Awox Mesh technologie.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/awoxremote.jpg" width="60" />|Awox Eglo|Télécommande|Lumières|Compatible avec Awox Mesh technologie. Il faut activer le mode bluetooth pour utiliser les commande.|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Beagle
 =====
 
-|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 
 Beewismartdoor
@@ -34,6 +41,20 @@ Default
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/default.jpg" width="60" />|Inconnu|Inconnu|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Divoompixoo
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+||Divoom|Pixoo|Afficheur|Fonction garder la connection recommandée|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Divoomtimeboxmini
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/divoomtimeboxmini.jpg" width="60" />|Divoom|TimeBox Mini|Afficheur|Fonction garder la connection obligatoire pour pas avoir le logo bluetooth|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
@@ -118,6 +139,15 @@ Lywsd02
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/lywsd02.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran (Lywsd02)|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+Meyerdom
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/meyerdom2analog.jpg" width="60" />|MeyerDom|2 Analogiques|Contacteurs|2 analogiques|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/meyerdomcontactvocal.jpg" width="60" />|MeyerDom|Contact Vocal|Contacteurs|Contacteur Vocal|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Meyerdom4Contacts
 =====
