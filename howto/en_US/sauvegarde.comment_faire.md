@@ -29,9 +29,9 @@ regular backup of Jeedom.
 Jeedom Backup / Restore
 =================================
 
-Documentation is already present to explain the page
-Administration → Backups. You will find it
-[Here] (https://github.com/jeedom/documentation/blob/master/howto/fr_FR/sauvegarde.comment_faire.asciidoc).
+Une documentation est déjà présente pour expliquer la page
+Administration→Sauvegardes. Vous la trouverez
+[ici](https://jeedom.github.io/core/fr_FR/backup).
 
 Backup / Restore the microSD card
 ===========================================

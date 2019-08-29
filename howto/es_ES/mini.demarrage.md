@@ -58,11 +58,11 @@ El plug-in tiempo.
 Todavía se pueden encontrar muchos otros plugins directamente a través
 Jeedom la interfaz en el Jeedom mercado.
 
-Además, recuerde que usted tiene 2 cupones
-(Enviado por correo electrónico), que le permite instalar plugins que pagan 2
-libre (RFXCOM y alarma). Para usarlo, debe crear una
-cuenta en el Mercado Jeedom, consulte la documentación [Doc
-Mercado] (https://jeedom.fr/doc_market.php).
+Par ailleurs, n’oubliez pas que vous disposez de 2 bons de réduction
+(envoyés par courriel), vous permettant d’installer 2 plugins payants
+gratuitement (RFXCOM et Alarme). Pour s’en servir vous devez créer un
+compte sur le Market Jeedom, voir la documentation : [Doc
+Market](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index).
 
 En el correo electrónico que recibió, también se incluye el número de servicio
 Pack asociado con Jeedom Mini +. Usted puede aprender acerca de su
@@ -71,16 +71,16 @@ correpondants diferentes servicios a su paquete de servicios.
 
 ![mini.demarrage09](../images/mini.demarrage09.png)
 
-Ahora puede seguir la documentación: [Cómo comenzar a usar
-Jeedom] (https://www.jeedom.fr/doc/documentation/premiers-pas/fr_FR/doc-premiers-pas.html)
-Quien le ayudará a encontrar la dirección IP de su Jeedom Mini + y
-se conecta a parametrizar el inicio y el uso.
+Vous pouvez maintenant suivre la documentation : [Premiers pas avec
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
+Qui vous permettra de trouver l’adresse IP de votre Jeedom Mini+ et de
+vous y connecter afin de commencer à la paramètrer et à l’utiliser.
 
-Para profundizar en el descubrimiento y uso de Jeedom, usted tiene
-documentación completa: [Documentación
-Jeedom] (https://jeedom.fr/doc) y también una sección en
-tutoriales en vídeo: [Video tutoriales] (https://jeedom.fr/video.php).
-No dude en visitar el foro Jeedom por cualquier otra
-pregunta [Foro Jeedom] (https://forum.jeedom.fr/).
+Pour approfondir la découverte et l’utilisation de Jeedom, vous disposez
+d’une documentation complète : [Documentation
+Jeedom](https://jeedom.fr/doc) et également d’une section répertoriant
+les tutoriels vidéos : [Tutos vidéos](https://jeedom.github.io/documentation/presentation/fr_FR/index#tocAnchor-1-3).
+N’hésitez pas à vous rendre sur le Forum de Jeedom pour toute autre
+question : [Forum Jeedom](https://www.jeedom.com/forum/).
 
 Gracias, y buena descubrimiento de automatización del hogar con Jeedom.

@@ -29,9 +29,9 @@ Jeedom copia de seguridad regular.
 Backup / Restore Jeedom
 =================================
 
-Documentación ya está presente para explicar la página
-Administración → copias de seguridad. Puede encontrar
-[Aquí] (https://github.com/jeedom/documentation/blob/master/howto/fr_FR/sauvegarde.comment_faire.asciidoc).
+Une documentation est déjà présente pour expliquer la page
+Administration→Sauvegardes. Vous la trouverez
+[ici](https://jeedom.github.io/core/fr_FR/backup).
 
 Copia de seguridad / restauración de la tarjeta microSD
 ===========================================
