@@ -11,7 +11,7 @@ Inscription sur le market
 
 La première chose à faire est de se créer un compte sur le Market pour
 pouvoir enregistrer votre Jeedom sur celui-ci, cliquez
-[ici](https://market.jeedom.fr) pour commencer
+[ici](https://www.jeedom.com/market) pour commencer
 
 ![premier market](../images/premier-market.png)
 
