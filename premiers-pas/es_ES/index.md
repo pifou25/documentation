@@ -9,9 +9,9 @@ ayudar a configurar su Jeedom.
 Registro de empresa en el mercado
 =========================
 
-Lo primero que debe hacer es crear una cuenta en el mercado de
-para registrar su Jeedom en él, haga clic
-[Aquí] (https://market.jeedom.fr) para comenzar
+La première chose à faire est de se créer un compte sur le Market pour
+pouvoir enregistrer votre Jeedom sur celui-ci, cliquez
+[ici](https://www.jeedom.com/market) pour commencer
 
 ![premier market](../images/premier-market.png)
 

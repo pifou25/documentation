@@ -8,7 +8,9 @@ Willkommen bei der Dokumentation "Ersten Schritte", sie wird Ihnen helfen Ihr Je
 Registrierung auf dem Markt 
 =========================
 
-Als erstes müssen Sie ein Konto auf dem Markt erstellen, um Ihr Jeedom zu registrieren. Klicken Sie [hier](https://market.jeedom.fr), um zu beginnen
+La première chose à faire est de se créer un compte sur le Market pour
+pouvoir enregistrer votre Jeedom sur celui-ci, cliquez
+[ici](https://www.jeedom.com/market) pour commencer
 
 ![premier market](../images/premier-market.png)
 

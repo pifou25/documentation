@@ -9,9 +9,9 @@ help put your Jeedom into operation.
 Registration on the market
 =========================
 
-The first thing to do is to create an account on the Market for
-to be able to record your Jeedom on this one, click
-[here] (https://market.jeedom.fr) to get started
+La première chose à faire est de se créer un compte sur le Market pour
+pouvoir enregistrer votre Jeedom sur celui-ci, cliquez
+[ici](https://www.jeedom.com/market) pour commencer
 
 ![premier market](../images/premier-market.png)
 
