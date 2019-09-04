@@ -13,9 +13,9 @@ L'important est surtout les 1er lignes :
 
 ````
 $replace = $this->preToHtml($_version);
-  if (!is_array($replace)) {
-    return $replace;
-  }
+if (!is_array($replace)) {
+	return $replace;
+}
 ````
 
 La fonction preToHtml renvoi :
@@ -30,18 +30,18 @@ Le systeme de template de widget dans la code est en faite exactement le meme qu
 Voici un exemple :
 
 ````
-	public static function templateWidget(){
-		$return = array('info' => array('string' => array()));
-		$return['info']['string']['state'] = array(
-			'template' => 'tmplmultistate',
-			'test' => array(
-				array('operation' => '#value# == 2','state' => '<i class="icon maison-vacuum6"></i>'),
-				array('operation' => '#value# == 3','state' => '<i class="fa fa-pause"></i>'),
-				array('operation' => '#value# > 3 || #value# < 2','state' => '<i class="fa fa-home"></i>')
-			)
-		);
-		return $return;
-	}
+public static function templateWidget(){
+	$return = array('info' => array('string' => array()));
+	$return['info']['string']['state'] = array(
+		'template' => 'tmplmultistate',
+		'test' => array(
+			array('operation' => '#value# == 2','state' => '<i class="icon maison-vacuum6"></i>'),
+			array('operation' => '#value# == 3','state' => '<i class="fa fa-pause"></i>'),
+			array('operation' => '#value# > 3 || #value# < 2','state' => '<i class="fa fa-home"></i>')
+		)
+	);
+	return $return;
+}
 ````
 
 Ici on va creer un nouveau widget basé sur le template "tmplmultistate" (vous avez la liste des templates [ici](https://github.com/jeedom/core/tree/alpha/core/template/dashboard) c'est ceux avec tmpl dans leur nom), pour une commande de type info et sous type string.
@@ -57,17 +57,17 @@ Exemple : pour le premier test on dit si la valeur de la commande vaut 2 alors i
 Un autre exemple basé sur un autre template pourrait être : 
 
 ````
-	public static function templateWidget(){
-		$return = array('info' => array('string' => array()));
-		$return['info']['binary']['toto'] = array(
-			'template' => 'tmplicon',
-			'replace' => array(
-        '#_icon_on_#' => '<i class=\'icon_green icon jeedom-porte-ferme\'></i>',
-        '#_icon_off_#' => '<i class=\'icon_red icon jeedom-porte-ouverte\'></i>'
-       )
-		);
-		return $return;
-	}
+public static function templateWidget(){
+	$return = array('info' => array('string' => array()));
+	$return['info']['binary']['toto'] = array(
+		'template' => 'tmplicon',
+		'replace' => array(
+			'#_icon_on_#' => '<i class=\'icon_green icon jeedom-porte-ferme\'></i>',
+			'#_icon_off_#' => '<i class=\'icon_red icon jeedom-porte-ouverte\'></i>'
+			)
+	);
+	return $return;
+}
 ````
   
 Ici je crée un widget toto basé sur le template "tmplicon" en type info et sous type binaire. Quand il vaut 1 alors l'icone sera <i class='icon_green icon jeedom-porte-ferme'></i> et quand il faut 0 ca sera <i class='icon_red icon jeedom-porte-ouverte'></i>
