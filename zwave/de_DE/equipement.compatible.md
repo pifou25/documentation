@@ -96,7 +96,10 @@ Aeotec
 |<img src="../images/881.2.3_zwa003_nanomote.quad.jpg" width="60" />|Aeotec|NanoMote Quad (ZWA003)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.2.4_zwa004_nanomote.one.jpg" width="60" />|Aeotec|NanoMote One (ZWA004)|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.2.5_zwa005_trisensor.jpg" width="60" />|Aeotec|Trisensor (ZWA005)|Multicapteurs|||
+|<img src="../images/881.2.7_zwa008.door7.jpg" width="60" />|Aeotec|Door/Window Sensor 7 (ZWA008)|Ouverture||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.3.162_zw162_doorbell6.jpg" width="60" />|Aeotec|Doorbell 6 (ZW162)|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/881.3.175_zw175_switch.jpg" width="60" />|Aeotec|Smart Switch 7 (ZW175)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/881.3.180_zwa006.smart.boost.timer.switch.jpg" width="60" />|Aeotec|Smart Boost Timer Switch(ZWA006)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.3.1_zwa001_led.bulb6.white.jpg" width="60" />|Aeotec|LED Bulb 6 Multi-White (ZWA001)|Ampoule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.3.2_zwa002_led.bulb6.color.jpg" width="60" />|Aeotec|LED Bulb 6 Multi-Color(ZWA002)|Ampoule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -122,7 +125,7 @@ Benext
 |<img src="../images/138.20.257_panic.button.jpg" width="60" />|Benext|Panic Button|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2349-benext-telecommande-bouton-d-urgence-z-wave-0632181493731.html)|
 |<img src="../images/138.21.257_panic.watch.jpg" width="60" />|Benext|Panic Watch|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2350-benext-bracelet-bouton-d-urgence-z-wave-0632181493748.html)|
 |<img src="../images/138.23.256_scene.controller.jpg" width="60" />|Benext|Scene Controller 7 boutons|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/2534-benext-telecommande-7-boutons-z-wave-scene-controller-0632181493786.html)|
-||Benext|Plug In Dimmer|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2347-benext-module-prise-variateur-z-wave-avec-mesure-d-energie-0632181493779.html)|
+|<img src="../images/138.24.256_plug.in.dimmer.jpg" width="60" />|Benext|Plug In Dimmer|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/2347-benext-module-prise-variateur-z-wave-avec-mesure-d-energie-0632181493779.html)|
 |<img src="../images/138.3.256_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.3.257_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.33.1_heating.control.jpg" width="60" />|Benext|Heating Control|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -218,7 +221,7 @@ Domux
 Duwi
 =====
 
-|Image|Marke|Name|Typ|Bemerkungen|Link|
+|Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/100.1.0_zw.edan.300.flush.mounted.dimmer.jpg" width="60" />|Duwi|ZW EDAN 300 Dimmer|Interrupteur|Il faut activer le polling pour avoir une remonté d'état|[Acheter](http://www.domadoo.fr/fr/peripheriques/749-duwi-interrupteur-variateur-everlux-z-wave-4008297054337.html)|
 |<img src="../images/100.12289.0_zw.zs.3500.plugin.switch.jpg" width="60" />|Duwi|ZW ZS 3500 Plugin Switch|Prise|Il faut activer le polling pour avoir une remonté d'état|[Acheter](http://www.domadoo.fr/fr/peripheriques/752-duwi-module-prise-on-off-z-wave-pour-l-exterieur-4008297054382.html)|
@@ -657,7 +660,9 @@ Popp
 |<img src="../images/340.256.257_009303_wall_controller.jpg" width="60" />|Popp|009303 Z-Wave Plus Battery Wall Controller|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/3074-popp-controleur-mural-sans-fil-z-wave.html)|
 |<img src="../images/340.256.259_key.fob.jpg" width="60" />|Popp|KFOB-C|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/3071-popp-telecommande-porte-cles-4-boutons-z-wave-0019962009204.html)|
 |<img src="../images/340.256.513_popp.smoke.sensor.jpg" width="60" />|Popp|Smoke Detector and Siren|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/3073-popp-detecteur-de-fumee-et-sirene-d-interieur-z-wave-0019962004100.html)|
+|<img src="../images/340.3.10_700397.wall.plug.ip44.jpg" width="60" />|Popp|700397 Wall Plug Switch Outdoor Schuko (IP44) |Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/340.3.1_009105.wall.plug.switch.jpg" width="60" />|Popp|009105 Wall Plug Switch Schuko (IP44)|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/3070-popp-z-wave-plugin-switch-ip44-outdoor-use.html)|
+|<img src="../images/340.3.4098_700793.power.plug.jpg" width="60" />|Popp|700793 Smart Plug|Prise||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/340.4.17_rainsensor.jpg" width="60" />|Popp|Pluviomètre|Pluviomètre||[Acheter](http://www.domadoo.fr/fr/peripheriques/4094-popp-pluviometre-z-wave-z-rain-4251295700168.html)|
 |<img src="../images/340.4.2_popp.solar.siren.jpg" width="60" />|Popp|Solar Powered Outdoor Siren|Sirène||[Acheter](http://www.domadoo.fr/fr/peripheriques/3180-popp-sirene-exterieure-solaire-z-wave-0019962005107.html)|
 |<img src="../images/340.4.3_co_detector.jpg" width="60" />|Popp|POPE004407 CO Detector|CO||[Acheter](http://www.domadoo.fr/fr/peripheriques/3852-popp-detecteur-de-monoxyde-de-carbone-z-wave-0019962004407.html)|
@@ -744,6 +749,16 @@ Smarthome By Everspring
 |<img src="../images/96.3.2_ad.146.in.wall.dimmer.jpg" width="60" />|Smarthome By Everspring|AD146-0 Variateur|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2688-smarthome-europe-micromodule-variateur-mural-z-wave-plus-ad146-3700946500356.html)|
 ||Smarthome By Everspring|AD146-0 Variateur|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2688-smarthome-europe-micromodule-variateur-mural-z-wave-plus-ad146-3700946500356.html)|
 |<img src="../images/96.4.8_an.179.in.wall.on.off.jpg" width="60" />|Smarthome By Everspring|AN179-0 On/Off|Micromodule||[Acheter](http://www.domadoo.fr/fr/peripheriques/2689-smarthome-europe-micromodule-mural-onoff-z-wave-plus-an179-3700946500387.html)|
+
+Steinel
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/625.1.6771_xled.home2.jpg" width="60" />|Steinel|XLED Home2|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/625.1.6772_rs.led2.d2.jpg" width="60" />|Steinel|RS LED D2|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/625.1.6773_l810.led.ihf.jpg" width="60" />|Steinel|L 810 LED iHF|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/625.2.6770_is140-2.jpg" width="60" />|Steinel|RS LED D2|Multicapteurs||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Stelpro
 =====
