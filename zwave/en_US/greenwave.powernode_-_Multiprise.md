@@ -90,7 +90,7 @@ Technical characteristics
 
 \
 
--   Alimentation : 250V \~ AC, 50Hz
+-   Power supply : 250V \~ AC, 50Hz
 
 -   Maximum charging current: 10A
 
