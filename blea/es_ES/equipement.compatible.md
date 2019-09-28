@@ -9,7 +9,7 @@ Amazfit
 Awoxmesh
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|SmartLight Mesh|Lumières|Compatible avec Awox Mesh technologie.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Lumières|Compatible avec Awox Mesh technologie.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -18,90 +18,90 @@ Awoxmesh
 Beagle
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 
 Beewismartdoor
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Blpnr
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/blpnr.jpg" width="60" />|Jardibric|BLP NR|Plante||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Default
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/default.jpg" width="60" />|Inconnu|Inconnu|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Divoompixoo
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 ||Divoom|Pixoo|Afficheur|Fonction garder la connection recommandée|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Divoomtimeboxmini
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/divoomtimeboxmini.jpg" width="60" />|Divoom|TimeBox Mini|Afficheur|Fonction garder la connection obligatoire pour pas avoir le logo bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dreamscreen
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/dreamscreen.jpg" width="60" />|DreamScreen|DreamScreen|Lumières||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Fitbit
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/fitbit.jpg" width="60" />|Fitbit|Badge|Bracelet|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Flowerpower
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/flowerpower.jpg" width="60" />|Parrot|Power Flower|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Gigaset
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/gigaset.jpg" width="60" />|Gigaset|G-Tag|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Hector
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne doit pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Itag
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -112,21 +112,21 @@ Itag
 Jinlin
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Kst1
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/kst1.jpg" width="60" />|Koogeek|Kst1|Santé||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Logiswitch
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -136,14 +136,14 @@ Logiswitch
 Lywsd02
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/lywsd02.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran (Lywsd02)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Meyerdom
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/meyerdom2analog.jpg" width="60" />|MeyerDom|2 Analogiques|Contacteurs|2 analogiques|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -152,14 +152,14 @@ Meyerdom
 Meyerdom4Contacts
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs et 2 analogiques|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miband
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/miband1.jpg" width="60" />|Xiaomi|Miband|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|

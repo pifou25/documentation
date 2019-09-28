@@ -22,14 +22,14 @@ A5-04
 A5-06
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-06-01_eltako_FAH60_luminosite.jpg" width="60" />|Eltako|Sonde de luminosité extérieure FAH60|Luminosité||[Comprar](http://www.domadoo.fr/fr/peripheriques/3084-eltako-sonde-de-luminosite-exterieure-4010312305218.html)|
 
 A5-07
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-07-01_eosca_mouvement.jpg" width="60" />|Eosca|Détecteur de mouvement EnOcean (position plafond)|Mouvement||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_nodon_mouvement.jpg" width="60" />|Nodon|Détecteur de mouvement et luminosité EnOcean|Mouvement||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -38,7 +38,7 @@ A5-07
 A5-09
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-09-04_nanosense_e4000_CO2.jpg" width="60" />|Nanosense|Sonde qualité d'air E4000|Capteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-09-04_pressac_co2_humidite_temperature.jpg" width="60" />|PressacSensing|Sonde Co2 Température Humidité|Capteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -48,21 +48,21 @@ A5-09
 A5-10
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-10-06_eltako_regulateur_de_temperature_FTR65HS-WG.jpg" width="60" />|Eltako|Régulateur de température avec fonctions jour/nuit/OFF|Régulateur||[Comprar](http://www.domadoo.fr/fr/peripheriques/3128-eltako-regulateur-de-temperature-avec-fonctions-journuitoff-4010312315859.html)|
 
 A5-11
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-11-02_altecon_regulateur_de_climatisation.jpg" width="60" />|Altecon|Régulateur de climatisaton/chauffage|Régulateur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-12
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-12-00_avidsen_amp.jpg" width="60" />|Avidsen|Module Pince ampérimétrique|Compteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-12-01_eltako_fw12_65.jpg" width="60" />|Eltako|Module de comptage d'énergie 65A|Compteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/2837-eltako-module-de-comptage-d-energie-65a-4010312311059.html)|
@@ -73,7 +73,7 @@ A5-12
 A5-14
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-14-01_avidsen_rain.jpg" width="60" />|Avidsen|Rain Sensor|Détecteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-14-05_avidsen_sound.jpg" width="60" />|Avidsen|Détecteur de bruit|Détecteur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -81,14 +81,14 @@ A5-14
 A5-20
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/a5-20-01_micropelt.jpg" width="60" />|Micropelt|Vanne thermostatique EnOcean sans pile|Vanne|Bien s'assurer que la vanne clignote une fois en réponse à l'inclusion|[Comprar](http://www.domadoo.fr/fr/peripheriques/3259-micropelt-vanne-thermostatique-enocean-4260413370022.html)|
 
 D2-01
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 ||Avidsen|Module Chaudière|Contacteur|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-08_flextron-aladin-prise.jpg" width="60" />|Flextron|ALADIN prise intermédiaire Pro|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -105,7 +105,7 @@ D2-01
 D2-03
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 ||Nodon|Soft Button|Bouton|5 appuis rapides en mode inclusion||
 |<img src="../images/d2-03-0a_soft_button_nodon.jpg" width="60" />|Avidsen|Micromodule commutateur double EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -113,14 +113,14 @@ D2-03
 D2-04
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 ||Nanosens|E4000-NG|Capteur|||
 
 D2-05
 =====
 
-|Image|Marque|Nom|Type|Remarque|Lien|
+|Image|Marque|Nom|Type|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/d2-05-00_micromodule_nodon_volet.jpg" width="60" />|Nodon|Micromodule Volet Roulant EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-05-00_micromodule_avidsen_volet.jpg" width="60" />|Avidsen|Micromodule Volet Roulant EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
