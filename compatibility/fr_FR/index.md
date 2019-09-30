@@ -73,13 +73,11 @@ Clef USB/Module d’extension
 Contrôleur ENOCEAN :
 
 -   Clef USB EnOcean USB300
-
 -   Clef USB EnOcean USB310 (Recommandé)
 
 Interface RFXCOM :
 
 -   RFXtrx433 USB
-
 -   RFXtrx433E USB (Recommandé)
 
 Passerelle EDISIO :
@@ -93,20 +91,20 @@ Indicateur Led :
 Dongle GSM :
 
 -   HUAWEI E220 (Recommandé)
-
 -   Alcatel one touch X220L
-
 -   HSDPA 7.2MBPS 3G Wireless
 
 Contrôleur Z-WAVE :
 
 -   SIGMA DESIGNS Contrôleur Z-Wave Plus USB
-
 -   Z-WAVE.ME - Mini contrôleur USB Z-Wave Plus UZB1
-
 -   AEON LABS Contrôleur Z-Wave Aeon Labs Z-Stick S2
-
 -   AEON LABS - Contrôleur USB Z-Wave Plus Z-Stick GEN5 (Recommandé)
+
+
+Contrôleur Zigbee :
+
+- [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
 
 Modules Zwave 
 -------------
