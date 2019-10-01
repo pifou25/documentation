@@ -277,17 +277,17 @@ Dans l’onglet commandes , vous devriez voir.
 Ouvrir desktop/php/vdm.php pour trouver le code html de ce tableau.
 
 ```
-<a class="btn btn-success btn-sm cmdAction pull-right" data-action="add" style="margin-top:5px;"><i class="fa fa-plus-circle"></i> {{Commandes}}</a><br/><br/>
+<a class="btn btn-success btn-sm cmdAction pull-right" data-action="add" style="margin-top:5px;"><i class="fa fa-plus-circle"></i> {{Comandos}} </a> <br/><br/>
 <table id="table_cmd" class="table table-bordered table-condensed">
-    <thead>
-        <tr>
-            <th>{{Nom}}</th><th>{{Type}}</th><th>{{Action}}</th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
-```
+   <thead>
+      <tr>
+         <th>{{Nombre}}</th><th> {{Tipo}}</th><th> {{Acción}}</th>
+      </tr>
+   </thead>
+   <tbody>
+   </tbody>
+</table> 
+``` 
 
 Au moment de l’affichage , c’est le script desktop/js/vdm.js qui est appelé et lance la fonction addCmdToTable.
 
@@ -755,7 +755,7 @@ Si vous avez bien assimilé tout ça on va pouvoir passer à la suite. Mais avan
 Por
 
 ```
-<label class="col-sm-3 control-label">{{Type de vdm}}</label>
+ <label class="col-sm-3 control-label">{{Tipo de vdm}}</label>
 ```
 
 Important : Le texte entre accolades correspond au texte qui sera traduit si vous poussez le plugin sur le market

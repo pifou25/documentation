@@ -73,13 +73,11 @@ USB Key / Expansion Module
 ENOCEAN controller:
 
 -   EnOcean USB300 USB Key
-
 -   EnOcean USB310 USB Key (Recommended)
 
 RFXCOM interface:
 
 -   RFXtrx433 USB
-
 -   RFXtrx433E USB (Recommended)
 
 EDISIO gateway:
@@ -93,61 +91,61 @@ Led indicator:
 GSM Dongle:
 
 -   HUAWEI E220 (Recommended)
-
 -   Alcatel one touch X220L
-
 -   HSDPA 7.2MBPS 3G Wireless
 
 Z-WAVE controller:
 
 -   SIGMA DESIGNS USB Z-Wave Plus Controller
-
 -   Z-WAVE.ME - UZB1 Z-Wave Plus USB Mini Controller
-
 -   AEON LABS Z-Wave Controller Aeon Labs Z-Stick S2
-
 -   AEON LABS - Z-Wave USB Controller Z-Wave Plus GEN5 (Recommended)
 
-Zwave modules
+
+Contrôleur Zigbee :
+
+- [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
+
+Modules Zwave 
 -------------
 
-You will find the list
-[Here](https://jeedom.github.io/documentation/zwave/en_US/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-EnOcean modules
+Modules EnOcean 
 ---------------
 
-You will find the list
-[Here](https://jeedom.github.io/documentation/enocean/en_US/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-Edisio modules
+Modules Edisio 
 --------------
 
-You will find the list
-[Here](https://jeedom.github.io/documentation/edisio/en_US/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-RFXcom modules
+Modules RFXcom 
 --------------
 
-You will find the list
-[Here](https://jeedom.github.io/documentation/rfxcom/en_US/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-cameras
+Caméras 
 -------
 
-You will find the list
-[Here](https://jeedom.github.io/documentation/camera/en_US/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
 
-Recommended hardware platform
+Plateforme matérielle recommandée 
 ---------------------------------
 
-The jeedom team recommends (depending on your budget):
+L’équipe jeedom vous recommande (en fonction de votre budget) :
 
--   Jeedom Smart (everything is preinstalled, you have nothing to do)
+-   Jeedom Smart (tout est préinstallé, vous n’avez rien à faire)
 
--   Odroid C2 (best price / performance ratio)
+-   Odroid C2 (meilleur rapport performance/prix)
 
--   Intel Nuc gen6 (extreme performance, see category tutorial
-    for choice in different models and installation)
+-   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
+    pour le choix dans les differents modèles et l’installation)
 
 

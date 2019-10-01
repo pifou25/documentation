@@ -73,13 +73,11 @@ llave USB / módulo de expansión
 Controller ENOCEAN:
 
 -   EnOcean USB300 llave USB
-
 -   EnOcean clave USB310 USB (recomendado)
 
 Interfaz RFXCOM:
 
 -   RFXtrx433 USB
-
 -   RFXtrx433E USB (recomendado)
 
 Pasarela EDISIO :
@@ -93,61 +91,61 @@ Indicador LED:
 Dongle GSM:
 
 -   HUAWEI E220 (Otro)
-
 -   Alcatel One Touch X220L
-
 -   HSDPA 7,2 Mbps inalámbrica 3G
 
 Controlador de Z-WAVE:
 
 -   Sigma Designs USB controlador Z-Wave Más
-
 -   Z-WAVE.ME - Mini USB controlador Z-Wave Más UZB1
-
 -   AEON LABS controlador Z-Wave Aeon Labs de Z-Stick S2
-
 -   AEON LABS - controlador USB Z-Wave Z-Stick Más GEN5 (Recomendado)
 
-módulos Zwave
+
+Contrôleur Zigbee :
+
+- [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
+
+Modules Zwave 
 -------------
 
-Una lista
-[Aquí](https://jeedom.github.io/documentation/zwave/es_ES/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-módulos EnOcean
+Modules EnOcean 
 ---------------
 
-Una lista
-[Aquí](https://jeedom.github.io/documentation/enocean/es_ES/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-módulos Edisio
+Modules Edisio 
 --------------
 
-Una lista
-[Aquí](https://jeedom.github.io/documentation/edisio/es_ES/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-módulos RFXCOM
+Modules RFXcom 
 --------------
 
-Una lista
-[Aquí](https://jeedom.github.io/documentation/rfxcom/es_ES/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-cámaras
+Caméras 
 -------
 
-Una lista
-[Aquí](https://jeedom.github.io/documentation/camera/es_ES/equipement.compatible)
+Vous trouverez la liste
+[ici](https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
 
-Plataforma de hardware recomendados
+Plateforme matérielle recommandée 
 ---------------------------------
 
-El equipo recomienda que jeedom (dependiendo de su presupuesto)
+L’équipe jeedom vous recommande (en fonction de votre budget) :
 
--   Jeedom inteligente (todo es pre-instalado, no tiene nada que ver)
+-   Jeedom Smart (tout est préinstallé, vous n’avez rien à faire)
 
--   ODROID C2 (mejor rendimiento / precio)
+-   Odroid C2 (meilleur rapport performance/prix)
 
--   Intel NUC Gen6 (rendimiento extremo, véase la categoría tutorial
-    la elección de los diferentes modelos y la instalación)
+-   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
+    pour le choix dans les differents modèles et l’installation)
 
 
