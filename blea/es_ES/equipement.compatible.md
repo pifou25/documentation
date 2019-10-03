@@ -171,14 +171,14 @@ Miband
 Miflora
 =====
 
-|Image|Marque|Nom|tipo|Remarque|Lien|
+|Image|Marque|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Sensores|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miscale
 =====
 
-|Image|Marque|Nom|tipo|Remarque|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale|Scale|Gestión completa de perfiles|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miscale.jpg" width="60" />|Xiaomi|MiScale 2019|Scale|Gestion de profils complète|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -186,16 +186,16 @@ Miscale
 Miscale2
 =====
 
-|Image|Marque|Nom|tipo|Remarque|Lien|
+|Image|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/miscale2.jpg" width="60" />|Xiaomi|MiScale V2|Scale|Gestion de profils complète|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Myfox
 =====
 
-|Image|Marque|Nom|tipo|Remarque|Lien|
+|Image|Marca|Nombre|tipo|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/myfox.jpg" width="60" />|Myfox|Badge|Présence|Solo por la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/myfox.jpg" width="60" />|Myfox|Tag|Presencia|Solo por la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Niu
 =====
@@ -203,9 +203,9 @@ Niu
 |Image|Marque|Nom|tipo|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Boutons|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Botones|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -257,7 +257,7 @@ Smartplug
 
 |Imagen|Marque|Nom|Tipo|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Prises||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Enchufes||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Tb05
 =====
