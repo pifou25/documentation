@@ -285,12 +285,12 @@ Patientez pendant le téléchargement de l'image
 Etape 4 : Connectez-vous à votre Jeedom
 ---
 
-Vous pouvez vous connecter grâce à l'adresse indiqué sur la page:
+Vous pouvez vous connecter grâce à l'adresse indiquée sur la page:
 ![delta6](../images/delta6.png)
 
 Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser une antenne.
 
-l'adresse ip de votre Jeedom sur la Freebox Delta est ecrit en haut, sous son nom.
+l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
 
 
 VM
