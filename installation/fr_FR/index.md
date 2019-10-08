@@ -292,6 +292,10 @@ Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser u
 
 l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
 
+les login et mot de passe par défaut sont admin/admin. 
+
+Pour la suite, vous pouvez suivre la documentation [Premier pas avec
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
 
 VM
 ==
