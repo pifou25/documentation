@@ -9,6 +9,8 @@ Jeedom peut être installé sur différents composants hardware :
 
 -   tout système Linux basé sur Debian 9 (stretch)
 
+-   Freebox Delta
+
 Vous pouvez aussi acheter une box toute faite avec Jeedom préinstallé
 qui contient en plus un service pack (plus de support et de services) et
 des plugins offerts :
@@ -272,7 +274,7 @@ Configurez les caractéristiques.
 Nous vous recommandons de mettre 2 CPUs et le maximum en RAM.
 ![delta3](../images/delta3.png)
 
-Configurez l'utilisateur et le mot de passe:
+Configurez l'utilisateur et le mot de passe, **il faut bien les garder en mémoire ils vous seront demander lors d'une connexion SSH**:
 ![delta4](../images/delta4.png)
 
 Etape 3 : Installation en cours
@@ -291,7 +293,7 @@ Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser u
 
 l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
 
-les login et mot de passe par défaut sont admin/admin.
+les login et mot de passe par défaut sont admin/admin quand vous accédez a jeedom via votre navigateur.
 
 Pour la suite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
