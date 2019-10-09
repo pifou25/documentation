@@ -1,4 +1,4 @@
-Présentation 
+Présentation
 ============
 
 La Jeedom Smart est équipée d’un disque Emmc, garantissant une meilleur fiabilité qu'une carte SD, mais ce disque n’est pas directement accessible.
@@ -10,15 +10,15 @@ Il permet :
 - La reinitialisation de la Jeedom Smart en configuration « usine » OS+Jeedom.
 
 - La reinitialisation de la Jeedom Smart en configuration « usine », en appliquant ensuite sa sauvegarde Jeedom.
-  
+
 Pour rappel la gestion des sauvegardes/restauration est disponible dans Jeedom dans le menu « roues crantées » en haut à droite, puis « Sauvegardes ».
-  
+
 Jeedom propose un service avec abonnement de sauvegarde automatique sur cloud privé Jeedom, pour ne plus vous soucier de rien. (Sur le Market, dans votre compte, menu à gauche « Backup Cloud »).
 
 
 
 
-Fonctionnement du recovery mode 
+Fonctionnement du recovery mode
 ===============================
 
 Matériel necessaire : une clé USB (minimum 8Go).
@@ -28,7 +28,7 @@ N.B. pensez à mettre de côté (en local) une sauvegarde de configuration Jeedo
 
 
 
-1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/TdRZNbOL0x6YJGsMZkJvTTA1oLfWWKRbsc0ZUI3g4p5). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
+1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://images.jeedom.com/smart/backupJeedom.tar.gz). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
 
 2- copiez cette archive sans la modifier ni la dézipper, sur une clé USB formatée en FAT32 et vierge
 
@@ -53,5 +53,3 @@ N.B. pensez à mettre de côté (en local) une sauvegarde de configuration Jeedo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ce Recovery Mode n’est compatible qu’avec la Jeedom Smart.
-
- 
