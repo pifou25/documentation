@@ -251,6 +251,52 @@ Rebootez votre RPI
 Ensuite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
+Freebox Delta
+=============
+
+Il est possible d'installer sur Freebox Delta Jeedom via le système de VMs.
+
+Etape 1 : Connexion à la Delta
+---
+
+Vous devez vous rendre sur l'interface de configuration de votre Freebox Delta.
+Cliquez ensuite sur VMs.
+![delta1](../images/delta1.png)
+
+Etape 2 : Paramétrer les différentes options 
+---
+
+Cliquez sur "Ajouter une VM"
+![delta2](../images/delta2.png)
+
+Configurez les caractéristiques.
+Nous vous recommandons de mettre 2 CPUs et le maximum en RAM.
+![delta3](../images/delta3.png)
+
+Configurez l'utilisateur et le mot de passe:
+![delta4](../images/delta4.png)
+
+Etape 3 : Installation en cours
+---
+
+Patientez pendant le téléchargement de l'image
+![delta5](../images/delta5.png)
+
+Etape 4 : Connectez-vous à votre Jeedom
+---
+
+Vous pouvez vous connecter grâce à l'adresse indiquée sur la page:
+![delta6](../images/delta6.png)
+
+Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser une antenne.
+
+l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
+
+les login et mot de passe par défaut sont admin/admin. 
+
+Pour la suite, vous pouvez suivre la documentation [Premier pas avec
+Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
+
 VM
 ==
 
@@ -292,25 +338,25 @@ Cliquez sur nouvelle et renseignez les champs comme ci dessous :
 -   Cliquez sur suivant, Choisissez une taille pour l’espace
     (4Go suffisent)
 
--   Haga clic en crear
+-   Cliquez sur créer
 
 Etape 4 : Lancement de la VM 
 ---
 
--   Haga clic en configuración
+-   Cliquez sur configuration
 
--   Seleccione almacenamiento
+-   Sélectionnez stockage
 
--   Añade un lector óptico
+-   Ajoutez un lecteur optique
 
--   Elige un disco
+-   Choisissez un disque
 
 ![VirtualBox2](../images/VirtualBox2.PNG)
 
 -   Indiquez l’image précédemment téléchargée
 
 -   Sélectionnez ensuite réseau et choisissez "accès par pont" dans le mode
-    de acceso a la red.
+    d’accès réseau.
 
 ![VirtualBox3](../images/VirtualBox3.PNG)
 
@@ -319,7 +365,7 @@ Etape 4 : Lancement de la VM
 Etape 5 : Installation de debian 9 
 ---
 
-Es clasico...
+C’est du classique …​
 
 ![VirtualBox4](../images/VirtualBox4.PNG)
 
@@ -330,7 +376,7 @@ Es clasico...
     plupart des écrans, il suffit de valider le choix par défaut. Vous
     pouvez laissez des champs vides, ce n’est pas bloquant.
 
--   Para la selección de los software :
+-   Pour la sélection des logiciels :
 
 ![VirtualBox5](../images/VirtualBox5.PNG)
 
@@ -343,7 +389,7 @@ Etape 6 : Installation de jeedom
 -   Lancez votre VM
 
 -   Identifiez-vous avec l’utilisateur et le mot de passe choisis
-    durante la instalación
+    pendant l’installation
 
 -   Passez en root
 
@@ -363,7 +409,7 @@ Etape 6 : Installation de jeedom
 
     ./install.sh
 
--   y déjalo hacer...
+-   et laissez faire…​
 
 Etape 7 : Lancement de jeedom 
 ---
@@ -433,19 +479,19 @@ Puis la lancer :
 
     sudo docker run --name jeedom-mysql -v /opt/jeedom/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=your-mysql-password -d mysql:latest
 
-Con :
+Avec :
 
 -   jeedom-mysql : le nom du conteneur mysql
 
 -   /opt/jeedom/mysql : le dossier de l’hote ou l’on doit stoker les
-    datos de MySql
+    données de MySql
 
 -   your-mysql-password : le mot de passe root de l’instance MySql
 
 Etape 3 : Installation d’une image Jeedom 
 ---
 
-Instalación de la imagen :
+Installation de l’image :
 
     docker pull jeedom/jeedom
 
@@ -513,7 +559,7 @@ Lancez l’application Docker :
 MYSQL 
 -----
 
-Haga clic en "Registro" :
+Cliquez sur "Registre" :
 
 ![install synology 5](../images/install_synology_5.PNG)
 
@@ -568,7 +614,7 @@ cliquez sur "Appliquer".
 Jeedom 
 ------
 
-Haga clic en "Registro" :
+Cliquez sur "Registre" :
 
 ![install synology 5](../images/install_synology_5.PNG)
 
@@ -595,11 +641,11 @@ suivant :
 
 ![install synology 23](../images/install_synology_23.PNG)
 
-Haga siguiente :
+Faites suivant :
 
 ![install synology 24](../images/install_synology_24.PNG)
 
-Haga clic en "Parámetros avanzados"
+Cliquez sur "Paramètres avancés"
 
 ![install synology 25](../images/install_synology_25.PNG)
 
@@ -668,7 +714,7 @@ du Docker mysql installé précédemment) et validez.
 Ensuite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index)
 
-Otros
+Autres
 ======
 
 Vous trouverez ici la documentation pour installer Jeedom sur la plupart
