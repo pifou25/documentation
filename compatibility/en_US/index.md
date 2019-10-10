@@ -14,12 +14,12 @@ RPI3                    | Unofficial / Stable     | Attention if you use a Razbe
 32 bits                 | Unsupported            |                          
 vmware                  | Stable                  | No support for VMware, only for Jeedom. CAUTION VmWare 6.5 requires the installation of a VMWare patch for Zwave support.
 
-imagery
+Images
 ======
 
-You can find all Jeedom images
-[Here](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
-then in the Pictures folder
+Vous pouvez retrouver toutes les images Jeedom
+[ici](https://images.jeedom.com/),
+puis dans le dossier Images
 
 > **Note**
 >
@@ -45,7 +45,7 @@ after installing a linux distribution corresponding to your
 Hardware: Debian (vm, pc, ...), Raspbian Lite (Raspberry pi), Armbian
 (Ordoid, ...), ...
 
-Software
+Logiciel
 ========
 
 > **Important**
@@ -67,7 +67,7 @@ Software
 Other
 =====
 
-USB Key / Expansion Module
+Clef USB/Module d’extension
 ---------------------------
 
 ENOCEAN controller:
@@ -106,37 +106,37 @@ Contrôleur Zigbee :
 
 - [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
 
-Modules Zwave 
+Modules Zwave
 -------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-Modules EnOcean 
+Modules EnOcean
 ---------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-Modules Edisio 
+Modules Edisio
 --------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-Modules RFXcom 
+Modules RFXcom
 --------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-Caméras 
+Caméras
 -------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
 
-Plateforme matérielle recommandée 
+Plateforme matérielle recommandée
 ---------------------------------
 
 L’équipe jeedom vous recommande (en fonction de votre budget) :
@@ -147,5 +147,3 @@ L’équipe jeedom vous recommande (en fonction de votre budget) :
 
 -   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
     pour le choix dans les differents modèles et l’installation)
-
-

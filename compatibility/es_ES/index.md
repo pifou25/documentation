@@ -1,4 +1,4 @@
-hardware
+Hardware
 ========
 
 hardware | estado | observaciones
@@ -14,12 +14,12 @@ RPI3                    | No oficial / Estable     | Advertencia si utiliza una 
 32 bits                 | no es compatible            |                          
 VMware                  | estable                  | No hay soporte para VMware solamente Jeedom. PRECAUCIÓN VMware 6.5 requiere la instalación de una solución para el apoyo de VMWare para Zwave.
 
-imágenes
+Images
 ======
 
-Usted puede encontrar todas las imágenes Jeedom
-[Aquí](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog)
-a continuación, en la carpeta Imágenes
+Vous pouvez retrouver toutes les images Jeedom
+[ici](https://images.jeedom.com/),
+puis dans le dossier Images
 
 > **Nota**
 >
@@ -45,7 +45,7 @@ Después de instalar una distribución Linux para su
 Hardware: Debian (vm, PC, ...), Raspbian Lite (Frambuesa Pi), Armbian
 (Ordoid, ...), ...
 
-software
+Logiciel
 ========
 
 > **Importante**
@@ -67,7 +67,7 @@ software
 otro
 =====
 
-llave USB / módulo de expansión
+Clef USB/Module d’extension
 ---------------------------
 
 Controller ENOCEAN:
@@ -106,37 +106,37 @@ Contrôleur Zigbee :
 
 - [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
 
-Modules Zwave 
+Modules Zwave
 -------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-Modules EnOcean 
+Modules EnOcean
 ---------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-Modules Edisio 
+Modules Edisio
 --------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-Modules RFXcom 
+Modules RFXcom
 --------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-Caméras 
+Caméras
 -------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/camera/fr_FR/equipement.compatible)
 
-Plateforme matérielle recommandée 
+Plateforme matérielle recommandée
 ---------------------------------
 
 L’équipe jeedom vous recommande (en fonction de votre budget) :
@@ -147,5 +147,3 @@ L’équipe jeedom vous recommande (en fonction de votre budget) :
 
 -   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
     pour le choix dans les differents modèles et l’installation)
-
-

@@ -6,7 +6,7 @@ Par défaut, celle-ci est configurée en mode Modem afin d'être compatible avec
 
 > sudo rm /etc/udev/rules.d/40-modemswitch.rules
 
-2.Ajout de la configuration 
+2.Adición de la configuración 
 ============================
 
 > sudo nano /etc/usb_modeswitch.conf

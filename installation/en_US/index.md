@@ -9,25 +9,27 @@ Jeedom can be installed on different hardware components:
 
 -   tout système Linux basé sur Debian 9 (stretch)
 
-You can also buy a ready made box with Jeedom preinstalled
-which also contains a service pack (more support and services) and
-Plugins offered:
+-   Freebox Delta
+
+Vous pouvez aussi acheter une box toute faite avec Jeedom préinstallé
+qui contient en plus un service pack (plus de support et de services) et
+des plugins offerts :
 
 -   [Jeedom Smart
-    Z-Wave +](https://www.domadoo.fr/fr/box-domotique/3959-jeedom-controleur-domotique-jeedom-smart-z-wave.html)
+    Z-Wave+](https://www.domadoo.fr/fr/box-domotique/3959-jeedom-controleur-domotique-jeedom-smart-z-wave.html)
 
--   [Jeedom Smart Z-Wave + and
+-   [Jeedom Smart Z-Wave+ et
     RFXCOM](https://www.domadoo.fr/fr/box-domotique/4043-jeedom-controleur-domotique-jeedom-smart-z-wave-et-interface-rfxcom.html)
 
 -   [Jeedom Smart
     EnOcean](https://www.domadoo.fr/fr/box-domotique/4041-jeedom-controleur-domotique-jeedom-smart-enocean.html)
 
--   [Jeedom Smart EnOcean and
+-   [Jeedom Smart EnOcean et
     RFXCOM](https://www.domadoo.fr/fr/box-domotique/4044-jeedom-controleur-domotique-jeedom-smart-enocean-et-interface-rfxcom.html)
 
-Here is a configuration "type" to start well with Jeedom Z-Wave:
+Voici une configuration "type" pour bien débuter avec Jeedom en Z-Wave :
 
-1.  Raspberry pi 3:
+1.  Raspberry pi 3 :
 
     -   Un raspberry+boitier \~ 50 €
 
@@ -37,34 +39,34 @@ Here is a configuration "type" to start well with Jeedom Z-Wave:
 
     -   Une alimentation USB \~ 8 €
 
-That's a total of 125 € for an open source home automation box with a
-complete control of his installation.
+Soit un total de 125 € pour une box domotique open source avec une
+maîtrise complète de son installation.
 
 > **Tip**
 >
-> It is possible to add or change via an Rfxcom antenna, or a
-> key inOcean.
+> Il est possible d’ajouter ou de changer par une antenne Rfxcom, ou une
+> clef enOcean.
 
 > **Tip**
 >
-> Jeedom is software that is and will remain open source, its use
-> is completely free and does not depend on a cloud or a
-> subscription. However, some plugins that allow to increase the
-> Jeedom's capabilities or usage may be subject to pay ** and
-> may need an internet connection **. You can find
-> the list of plugins
-> [here](http://market.jeedom.fr/index.php?v=d&p=market&type=plugin).
+> Jeedom est un logiciel qui est et restera open source, son utilisation
+> est entièrement gratuite et ne dépend pas d’un cloud ou d’un
+> abonnement. Cependant, certains plugins qui permettent d’augmenter les
+> capacités de Jeedom ou son utilisation peuvent être payants **et
+> peuvent avoir besoin d’une connexion internet**. Vous pouvez retrouver
+> la liste des plugins
+> [ici](http://market.jeedom.fr/index.php?v=d&p=market&type=plugin).
 
 > **Tip**
 >
-> Service pack? Quezako? You can see
-> [here](https://blog.jeedom.fr/?p=1215) the benefits of service packs.
+> Service pack ? Quézako ? Vous pouvez voir
+> [ici](https://blog.jeedom.fr/?p=1215) les avantages des service packs.
 
 
 Jeedom Smart
 ===========
 
-Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom 
+Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom
 
 [ici](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
 
@@ -76,23 +78,22 @@ Jeedom mini+
 > Le nom de l’image Jeedom peut être différent de celui des captures
 > faites dans cette documentation
 
-Etape 1 : Installation de Etcher 
+Etape 1 : Installation de Etcher
 ---
 
 Vous devez télécharger le logicel Etcher [ici](https://etcher.io/) puis
 l’installer sur votre pc
 
-Etape 2 : Récupération de l’image de Jeedom 
+Etape 2 : Récupération de l’image de Jeedom
 ---
 
 Vous devez aller
-[ici](https://www.amazon.fr/clouddrive/share/OwYXPEKiIMdsGhkFeI3eUQ0VcvTEBq0qxQevlXPvPIy/folder/IT3WZ3N0RqGzaLBnBo0qog),
-puis dans le dossier Images récuperer l’image jeedom-jeeboard-\*.rar ou
-Jeedomboard\_\_Debian\_Jessie\*.rar
+[ici](https://images.jeedom.com/jeeboard/),
+puis dans le dossier Images récuperer l’image jeedom-jeeboard-\*.rar
 
 ![install humming 1](../images/install_humming_1.PNG)
 
-Etape 3 : Décompression de l’image de Jeedom 
+Etape 3 : Décompression de l’image de Jeedom
 ---
 
 Décompresser l’image de Jeedom (si vous n’avez rien pour la décompresser
@@ -104,7 +105,7 @@ devez obtenir :
 
 ![install humming 8](../images/install_humming_8.PNG)
 
-Etape 4 : Gravure de l’image sur la carte SD 
+Etape 4 : Gravure de l’image sur la carte SD
 ---
 
 Insérez votre carte SD dans votre ordinateur puis lancez le logiciel
@@ -236,7 +237,7 @@ Si vous utilisez votre Raspberry pour Jeedom sans écran connecté, il est recom
 
 Il suffit de se connecter en **SSH** et de modifier le fichier config : `sudo nano /boot/config.txt`
 
-Ajoutez **et/ou**De-commentez (en supprimant le #)**et/ou** Modifiez les lignes : 
+Ajoutez **et/ou**De-commentez (en supprimant le #)**et/ou** Modifiez les lignes :
 
 `gpu_mem=16`
 
@@ -263,7 +264,7 @@ Vous devez vous rendre sur l'interface de configuration de votre Freebox Delta.
 Cliquez ensuite sur VMs.
 ![delta1](../images/delta1.png)
 
-Etape 2 : Paramétrer les différentes options 
+Etape 2 : Paramétrer les différentes options
 ---
 
 Cliquez sur "Ajouter une VM"
@@ -273,7 +274,7 @@ Configurez les caractéristiques.
 Nous vous recommandons de mettre 2 CPUs et le maximum en RAM.
 ![delta3](../images/delta3.png)
 
-Configurez l'utilisateur et le mot de passe:
+Configurez l'utilisateur et le mot de passe, **il faut bien les garder en mémoire ils vous seront demander lors d'une connexion SSH**:
 ![delta4](../images/delta4.png)
 
 Etape 3 : Installation en cours
@@ -292,7 +293,7 @@ Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser u
 
 l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
 
-les login et mot de passe par défaut sont admin/admin. 
+les login et mot de passe par défaut sont admin/admin quand vous accédez a jeedom via votre navigateur.
 
 Pour la suite, vous pouvez suivre la documentation [Premier pas avec
 Jeedom](https://jeedom.github.io/documentation/premiers-pas/fr_FR/index.html)
@@ -304,13 +305,13 @@ Si vous voulez découvrir Jeedom sans risque, vous pouvez aussi le
 virtualiser sur votre PC, voici la démarche à suivre. Vous ne prenez
 aucun risque dans une VM, l’intégrité de votre Pc est protégé :
 
-Etape 1 : Téléchargement et installation de VMware Player 
+Etape 1 : Téléchargement et installation de VMware Player
 ---
 
 Vous devez télécharger le logicel Virtual Box
 [ICI](http://download.virtualbox.org/virtualbox/5.1.28/VirtualBox-5.1.28-117968-Win.exe)
 
-Etape 2 : Téléchargement d’une image Debian strecht - netinstall 
+Etape 2 : Téléchargement d’une image Debian strecht - netinstall
 ---
 
 Téléchargez une image minimaliste debian 9 Stretch
@@ -319,7 +320,7 @@ Téléchargez une image minimaliste debian 9 Stretch
 Téléchargez le pack d’extensions, et installez-le.
 [ICI](http://download.virtualbox.org/virtualbox/5.1.28/Oracle_VM_VirtualBox_Extension_Pack-5.1.28.vbox-extpack)
 
-Etape 3 : Configuration de l’environnement de la VM 
+Etape 3 : Configuration de l’environnement de la VM
 ---
 
 Cliquez sur nouvelle et renseignez les champs comme ci dessous :
@@ -340,7 +341,7 @@ Cliquez sur nouvelle et renseignez les champs comme ci dessous :
 
 -   Cliquez sur créer
 
-Etape 4 : Lancement de la VM 
+Etape 4 : Lancement de la VM
 ---
 
 -   Cliquez sur configuration
@@ -362,7 +363,7 @@ Etape 4 : Lancement de la VM
 
 -   Cliquez sur OK \*Cliquez sur démarrer
 
-Etape 5 : Installation de debian 9 
+Etape 5 : Installation de debian 9
 ---
 
 C’est du classique …​
@@ -383,7 +384,7 @@ C’est du classique …​
 -   Pour Grub, pas d’inquiétude, le secteur de démarrage est celui de la
     VM, pas celui de votre PC. Aucun risque de casser quoi que ce soit.
 
-Etape 6 : Installation de jeedom 
+Etape 6 : Installation de jeedom
 ---
 
 -   Lancez votre VM
@@ -411,7 +412,7 @@ Etape 6 : Installation de jeedom
 
 -   et laissez faire…​
 
-Etape 7 : Lancement de jeedom 
+Etape 7 : Lancement de jeedom
 ---
 
 -   Pour connaitre l’adresse Ip Lan de la VM
@@ -442,7 +443,7 @@ Pour découvrir Jeedom, vous pouvez aussi le faire tourner dans un
 conteneur Docker :
 
 
-Etape 1 : Installation de docker 
+Etape 1 : Installation de docker
 ---
 
 Docker est maintenant disponible sur toutes les distributions récentes.
@@ -462,7 +463,7 @@ Pour l’installer sur une distribution
     $ apt-get install docker
     $ apt-get install docker.io
 
-Etape 2 : Installation d’une image mysql 
+Etape 2 : Installation d’une image mysql
 ---
 
 > **Note**
@@ -488,7 +489,7 @@ Avec :
 
 -   your-mysql-password : le mot de passe root de l’instance MySql
 
-Etape 3 : Installation d’une image Jeedom 
+Etape 3 : Installation d’une image Jeedom
 ---
 
 Installation de l’image :
@@ -526,7 +527,7 @@ Synology
 Vous trouverez ici la documentation pas à pas pour installer Jeedom sur un
 Synology (DSM 5.2 minimum).
 
-Etape 1 : Installation de Docker 
+Etape 1 : Installation de Docker
 ================================
 
 Allez sur le centre des paquets :
@@ -546,7 +547,7 @@ Attendez jusqu’à ce que l’installation soit finie :
 > Pour avoir accès au paquet Docker, il faut absolument avoir DSM 5.2 et
 > un NAS compatible
 
-Etape 2 : Récupération et installation des images Jeedom 
+Etape 2 : Récupération et installation des images Jeedom
 ========================================================
 
 Il faut Docker pour faire tourner Jeedom, le premier un Docker Mysql qui
@@ -556,7 +557,7 @@ Lancez l’application Docker :
 
 ![install synology 4](../images/install_synology_4.PNG)
 
-MYSQL 
+MYSQL
 -----
 
 Cliquez sur "Registre" :
@@ -611,7 +612,7 @@ passe de BDD voulu (il servira plus tard). Puis validez :
 Cochez "Exécuter ce conteneur lorsque l’assistant a terminé" puis
 cliquez sur "Appliquer".
 
-Jeedom 
+Jeedom
 ------
 
 Cliquez sur "Registre" :
@@ -683,7 +684,7 @@ cliquez sur "Appliquer".
 >
 > Certain plugin on besoin d'avoir le broadcast du réseaux (type plugin Xioami), pour cela il faut ABSOLUMENT passer en le réseaux en mode host (possible uniquement lors de la création), changer le port d'écoute par defaut du serveur web et ssh par des ports non utilisé (type 9080 pour le serveur web et 9022 pour le ssh), et mettre la variable MODE_HOST à 1
 
-Etape 3 : Configuration de Jeedom 
+Etape 3 : Configuration de Jeedom
 ---
 
 Il vous faut maintenant installer Jeedom, c’est très simple, allez sur

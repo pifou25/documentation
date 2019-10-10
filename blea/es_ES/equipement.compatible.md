@@ -38,28 +38,28 @@ Blpnr
 Default
 =====
 
-|Imagen|Marque|Nom|tipo|Remarque|enlace|
+|Imagen|Marque|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/default.jpg" width="60" />|Inconnu|Inconnu|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Divoompixoo
 =====
 
-|Image|Marque|Nom|tipo|Remarque|enlace|
+|Image|Marca|Nom|tipo|Remarque|enlace|
 |---|---|---|---|---|---|
 ||Divoom|Pixoo|Afficheur|Fonction garder la connection recommandée|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Divoomtimeboxmini
 =====
 
-|Image|Marque|Nom|tipo|Remarque|enlace|
+|Imagen|Marque|Nom|tipo|Remarque|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/divoomtimeboxmini.jpg" width="60" />|Divoom|TimeBox Mini|Afficheur|Fonction garder la connection obligatoire pour pas avoir le logo bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
 
-|Image|Marque|Nom|tipo|Remarque|enlace|
+|Image|Marque|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -103,7 +103,7 @@ Itag
 
 |Imagen|Marque|Nom|tipo|Remarque|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Botones|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Rose|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Vert|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -234,14 +234,14 @@ Parrotpot
 Playbulb
 =====
 
-|Imagen|Marque|Nom|Tipo|Remarque|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-||Playbulb|Sphère|Lumières|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+||Playbulb|Esfera|Luces|Portée capricieuse, qui peut justifier un traitement des actions un tout petit peu long. Peut être détecté à la place d'un autre playbulb si c'est le cas changez dans le menu déroulant|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ropot
 =====
 
-|Imagen|Marque|Nom|Tipo|Remarque|Lien|
+|Imagen|Marque|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 

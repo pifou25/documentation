@@ -1,38 +1,38 @@
-# Comment publier le plugin sur le market
+# Cómo publicar el plugin en el market
 
-## Pré-requis
+## Requisitos previos
 
 - S'etre inscrit en tant que dev, voir [ici](https://www.jeedom.com/site/fr/dev.html)
 - Avoir attendu la validation du compte market comme developpeur
 - Avoir mis votre plugin sur github (dépot privé ou non)
 
-## Configuration
+## Configuración
 
 Une fois connecté avec votre compte dev sur le market il faut : 
 
 - cliquer sur market puis sur ajouter
 - renseigner les informations sur votre plugin : 
-  - Général : 
-    - Prix
+  - General :
+    - Precio
     - Id (celui dans le fichier info.json)
-    - Nom
-    - Catégorie
+    - Nombre
+    - Categoría
     - Si il est privé ou non pour commencer
-  - Documentation et liens
+  - Documentación y enlaces
     - la description (bien mettre les point important, la plupart des utilisateurs ne vont pas voir la documentation avant l'achat)
-    - les langues
-    - le matériel compatible
+    - los idiomas 
+    - el material compatible
     - une note sur l'utilisation si necessaire
   - Github : c'est ici que vous aller mettre les information entre le market et Github
     - le token (a ne mettre que si votre plugin est sur un dépot privé)
     - votre nom d'utilisateur github
-    - le nom du dépot sur github
+    - el nombre del depósito en github
     - cocher la case pour que le market gere la traduction de votre plugin et de la documentation (attention dans ce cas à bien donner tous les droits à l'utilisateur zoic21 de github sur votre dépot github)
 
    Une fois sauvegardé en retournant dans l'onglet github vous aurez 3-4 champs pour indiquer les branches : 
 
    - beta
-   - stable
+   - estable
    - pro (ne sert a rien dans 99% des cas)
    - stablev3 (bientot)
 

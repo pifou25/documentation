@@ -238,7 +238,7 @@ Detalles de los parámetros:
 \
 
 -   1: se utiliza para bloquear el módulo (para congelar un panel) (abogados en el caso
-    y presionar un interruptor)
+    de una presión de un interruptor)
 
 -   2: igual, pero para los pedidos Zwave
 

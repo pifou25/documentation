@@ -1,4 +1,4 @@
-Presentación 
+Présentation
 ============
 
 El Jeedom Smart está equipado con un disco Emmc, lo que garantiza una mayor fiabilidad que una tarjeta SD, pero este disco no es directamente accesible.
@@ -18,8 +18,8 @@ Jeedom ofrece un servicio de suscripción automática de copia de seguridad en l
 
 
 
-Funcionamiento del modo recuperación 
-===================================
+Fonctionnement du recovery mode
+===============================
 
 Hardware requerido: una llave USB (mínimo 8GB).
 
@@ -28,7 +28,7 @@ Nota. Considere la posibilidad de reservar (localmente) una copia de seguridad d
 
 
 
-1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://www.amazon.fr/clouddrive/share/TdRZNbOL0x6YJGsMZkJvTTA1oLfWWKRbsc0ZUI3g4p5). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
+1- téléchargez l’archive que nous fournissons  : [backupJeedom.tar.gz](https://images.jeedom.com/smart/backupJeedom.tar.gz). Attention de bien vérifier que le fichier à pour nom backupJeedom.tar.gz pour que la restauration marche.
 
 2- copiar este archivo sin modificarlo o descomprimirlo, en una llave USB formateada en FAT32 y en blanco
 
@@ -53,5 +53,3 @@ Nota. Considere la posibilidad de reservar (localmente) una copia de seguridad d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Este modo de recuperación sólo es compatible con Jeedom Smart.
-
-
