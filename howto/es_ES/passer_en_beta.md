@@ -52,7 +52,7 @@ core pour passer sur la version bêta de Jeedom.
 > arrière en restaurant une sauvegarde d’une version stable. En cas de
 > soucis, vous ne bénéficierez d’AUCUN SUPPORT.
 
-Passer les plugins en bêta 
+Poner los plugins en beta 
 ==========================
 
 Pour cela, il faut vous rendre sur le Market Jeedom, puis dans votre
