@@ -14,7 +14,7 @@ RPI3                    | No oficial / Estable     | Advertencia si utiliza una 
 32 bits                 | no es compatible            |                          
 VMware                  | estable                  | No hay soporte para VMware solamente Jeedom. PRECAUCIÓN VMware 6.5 requiere la instalación de una solución para el apoyo de VMWare para Zwave.
 
-Images
+Imágenes
 ======
 
 Vous pouvez retrouver toutes les images Jeedom
@@ -102,7 +102,7 @@ Controlador de Z-WAVE:
 -   AEON LABS - controlador USB Z-Wave Z-Stick Más GEN5 (Recomendado)
 
 
-Contrôleur Zigbee :
+Controlador Zigbee :
 
 - [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
 
@@ -118,13 +118,13 @@ Modules EnOcean
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/enocean/fr_FR/equipement.compatible)
 
-Modules Edisio
+Módulos Edisio
 --------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/edisio/fr_FR/equipement.compatible)
 
-Modules RFXcom
+Módulos RFXcom
 --------------
 
 Vous trouverez la liste

@@ -208,7 +208,7 @@ por
 color:#00A9EC;"
 ```
 
-On remarque aussi que les textes ne sont pas alignés donc on rectifie le style de la configuration (propriété top)
+También notamos que los textos no están alineados, por lo que rectificamos el estilo de la configuración (propiedad top)
 
 ```
 <span style="font-size : 1.1em;position:relative; top : 15px;word-break: break-all;white-space: pre-wrap;word-wrap: break-word;color:#767676">{{Configuration}}</span>
