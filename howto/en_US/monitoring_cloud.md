@@ -68,3 +68,9 @@ Ensuite vous pouvez voir dans la partie santé de Jeedom si celui-ci est actif. 
 - Debian x64 Stretch (testé)
 - Debian x64 Jessie
 - RPI
+
+# FAQ
+
+>**Je recois toute les 10 minutes un message m'indiquant que jeedom à redemarré alors que c'est pas vrai**
+>
+>Cela arrive si vous avez plusieurs box Jeedom dont 2 (ou plus) on la meme clef d'installation (page Réglage -> Systeme -> Configuration). Dans ce cas le market ne voit que une box, le systeme de monitoring aussi sauf qu'une fois sur 2 le temps depuis lequel la machines a démarré change (un coup la box 1, un coup la box 2), d'ou les alertes. Pour corrigé il suffit dans un des jeedoms sur la page ou il y a la clef d'installation de faire "Remise à zéro"
