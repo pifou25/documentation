@@ -291,6 +291,8 @@ Vous pouvez vous connecter grâce à l'adresse indiquée sur la page:
 
 Pensez à affecter le port USB de la Delta à la VM si vous souhaitez utiliser une antenne.
 
+Ne **pas** cocher "Écran", ceci ne sert à rien sur l'image Jeedom (a part une surconsommation). 
+
 l'adresse ip de votre Jeedom sur la Freebox Delta est ecrite en haut, sous son nom.
 
 les login et mot de passe par défaut sont admin/admin quand vous accédez a jeedom via votre navigateur.

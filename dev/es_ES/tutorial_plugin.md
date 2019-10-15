@@ -779,7 +779,7 @@ Si vous avez tout suivi ,vous devriez avoir dans le fichier desktop.php
     </div>
 ``` 
 
-Qu’on va remplacer par
+Lo que reemplazaremos con
 
 ```
     <div class="form-group">

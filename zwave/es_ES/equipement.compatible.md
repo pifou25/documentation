@@ -91,7 +91,7 @@ Aeotec
 Aeotec
 =====
 
-|Image|Marque|Nombre|tipo|Observación|enlace|
+|Image|Marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/881.2.3_zwa003_nanomote.quad.jpg" width="60" />|Aeotec|NanoMote Quad (ZWA003)|Mando a distancia||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/881.2.4_zwa004_nanomote.one.jpg" width="60" />|Aeotec|NanoMote One (ZWA004)|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -119,9 +119,9 @@ Assa Abloy
 Benext
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|enlace|
+|Imagen|Marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
-||Benext|Built In Dimmer|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2346-benext-module-variateur-z-wave-encastrable-avec-mesure-d-energie-0632181493762.html)|
+||Benext|Built In Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2346-benext-module-variateur-z-wave-encastrable-avec-mesure-d-energie-0632181493762.html)|
 |<img src="../images/138.20.257_panic.button.jpg" width="60" />|Benext|Panic Button|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/2349-benext-telecommande-bouton-d-urgence-z-wave-0632181493731.html)|
 |<img src="../images/138.21.257_panic.watch.jpg" width="60" />|Benext|Panic Watch|Mando a distancia||[Comprar](http://www.domadoo.fr/fr/peripheriques/2350-benext-bracelet-bouton-d-urgence-z-wave-0632181493748.html)|
 |<img src="../images/138.23.256_scene.controller.jpg" width="60" />|Benext|Scene Controller 7 boutons|Mando a distancia||[Comprar](http://www.domadoo.fr/fr/peripheriques/2534-benext-telecommande-7-boutons-z-wave-scene-controller-0632181493786.html)|
@@ -129,24 +129,24 @@ Benext
 |<img src="../images/138.3.256_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multisensores||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.3.257_zw-snmt-01.multi.sensor.jpg" width="60" />|Benext|MoLite Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.33.1_heating.control.jpg" width="60" />|Benext|Heating Control|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/138.33.256_heating.control.jpg" width="60" />|Benext|Heating Control|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/138.33.256_heating.control.jpg" width="60" />|Benext|Heating Control|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.4.256_door.sensor.jpg" width="60" />|Benext|Door sensor|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.4.257_door.sensor.jpg" width="60" />|Benext|Door sensor|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/138.7.256_minikeypad.jpg" width="60" />|Benext|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas. Ce module est actuellement vendu sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
-|<img src="../images/138.7.257_minikeypad.jpg" width="60" />|Benext|Mini Keypad RFID|Teclado RFID|Le badge utilisé ne remonte pas. Ce module est actuellement vendu sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
+|<img src="../images/138.7.257_minikeypad.jpg" width="60" />|Benext|Mini Keypad RFID|Teclado RFID|El TAG utilizado no transmite informaciones. Este módulo se vende actualmente bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
 
 Chromagic
 =====
 
-|Image|Marque|Nombre|tipo|Observación|enlace|
+|Image|Marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
-||Chromagic|HSP02|Multicapteurs|Ce module est actuellement vendu sous la marque Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
-||Chromagic|HSM02|Ouverture|Ce module est actuellement vendu sous la marque Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
+||Chromagic|HSP02|Multicapteurs|Este módulo se vende actualmente bajo la marca Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/842-everspring-detecteur-de-mouvement-z-wave-hsp02-3700946500165.html)|
+||Chromagic|HSM02|Ouverture|Este módulo se vende actualmente bajo la marca Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/838-everspring-mini-detecteur-d-ouverture-z-wave-hsm02-3700946500134.html)|
 
 Danfoss
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/2.100.1_ra.plus-w.radiator.thermostat.jpg" width="60" />|Danfoss|RA Plus-W Radiator Thermostat|Thermostat||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/2.277.40976_pop.radiator.thermostat.jpg" width="60" />|Danfoss|Popp Radiator Thermostat|Termostato||[Comprar](http://www.domadoo.fr/fr/peripheriques/3683-popp-tete-thermostatique-sans-fil-z-wave-0019962010101.html)|
@@ -160,14 +160,14 @@ Danfoss
 Devolo
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/373.1.17_mt02646.metering.plug.jpg" width="60" />|Devolo|Metering Plug (MT02646)|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.1.18_mt02792.metering.plug.jpg" width="60" />|Devolo|Smart Metering Plug (MT02792)|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.13_mt02647.motion.sensor.jpg" width="60" />|Devolo|Motion Sensor MT02647|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.14_mt02648.contact.door.jpg" width="60" />|Devolo|Door/Window Contact MT02648|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.32_mt02755.humidity.jpg" width="60" />|Devolo|Flood Sensor MT02756|Multisensor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/373.2.33_mt02756.flood.jpg" width="60" />|Devolo|Flood Sensor MT02756|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/373.2.33_mt02756.flood.jpg" width="60" />|Devolo|Flood Sensor MT02756|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.256.257_mt2652.scene_switch.jpg" width="60" />|Devolo|Scene Switch MT 2652|Mando a distancia||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.256.258_mt2653.keyfob.jpg" width="60" />|Devolo|Keyfob (MT2653)|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.4.10_mt02758.siren.jpg" width="60" />|Devolo|Siren MT02758|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -199,7 +199,7 @@ Dome
 Domitech
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/526.19522.12596_ze27eu.jpg" width="60" />|Domitech|Smart LED Retrofit Kit ZE27EU|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/3226-domitech-ampoule-led-dimmable-z-wave-zbulb-869166000060.html)|
 
@@ -221,7 +221,7 @@ Domux
 Duwi
 =====
 
-|Image|Marque|Nombre|tipo|Observación|enlace|
+|Image|Marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/100.1.0_zw.edan.300.flush.mounted.dimmer.jpg" width="60" />|Duwi|ZW EDAN 300 Dimmer|Interruptor|Il faut activer le polling pour avoir une remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/749-duwi-interrupteur-variateur-everlux-z-wave-4008297054337.html)|
 |<img src="../images/100.12289.0_zw.zs.3500.plugin.switch.jpg" width="60" />|Duwi|ZW ZS 3500 Plugin Switch|Enchufe|Il faut activer le polling pour avoir une remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/752-duwi-module-prise-on-off-z-wave-pour-l-exterieur-4008297054382.html)|
@@ -249,7 +249,7 @@ Electronicsolutions
 Eurotronic
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|enlace|
+|Imagen|Marca|Nombre|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/328.1.1_eur_stellaz.jpg" width="60" />|Eurotronic|Vanne Thermostatique Z-Wave StellaZ|Termostato||[Comprar](http://www.domadoo.fr/fr/peripheriques/2361-eurotronic-vanne-thermostatique-z-wave-stellaz.html)|
 |<img src="../images/328.2.1_eur_cometz.jpg" width="60" />|Eurotronic|Vanne thermostatique Z-Wave+ Comet|Thermostat||[Comprar](http://www.domadoo.fr/fr/peripheriques/3228-eurotronic-vanne-thermostatique-z-wave-comet-4260012711011.html)|
@@ -267,7 +267,7 @@ Everspring
 |<img src="../images/96.1.4_sp815.petimmunepirmotiondetector.jpg" width="60" />|Everspring|SP815|Mouvement||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/96.1.5_sp816.outdoormotiondetector.jpg" width="60" />|Everspring|SP816 Motion Detector|Mouvement|||
 |<img src="../images/96.1.6_sp817.motion.detector.jpg" width="60" />|Everspring|SP817 Motion Detector|Multicapteurs|||
-|<img src="../images/96.11.1_st812.flood.detector.jpg" width="60" />|Everspring|ST812|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
+|<img src="../images/96.11.1_st812.flood.detector.jpg" width="60" />|Everspring|ST812|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
 |<img src="../images/96.12.1_se812.siren.jpg" width="60" />|Everspring|SE812|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/845-everspring-sirene-z-wave-se812-3700946500189.html)|
 |<img src="../images/96.12.3_se813.indoor.voice.siren.jpg" width="60" />|Everspring|Indoor voice Siren SE813|Sirène|||
 |<img src="../images/96.13.1_sf812.smoke.alarm.jpg" width="60" />|Everspring|SF812|Humo||[Comprar](http://www.domadoo.fr/fr/peripheriques/848-everspring-detecteur-de-fumee-z-wave-sf812-3700946500219.html)|
@@ -293,9 +293,9 @@ Everspring
 Evolve
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Enlace|
+|Imagen|Marca|Nombre|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/275.21079.13619_LSM-15.jpg" width="60" />|Evolve|LSM-15|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/275.21079.13619_LSM-15.jpg" width="60" />|Evolve|LSM-15|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Fakro
 =====
@@ -312,22 +312,22 @@ Fibaro =====
 |Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/271.1024.260_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
-|<img src="../images/271.1024.261_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromodule|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
-|<img src="../images/271.1024.262_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromodule|Módulo reemplazado por el FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
-|<img src="../images/271.1024.263_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromodule|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
-|<img src="../images/271.1024.264_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromodule|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
+|<img src="../images/271.1024.261_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
+|<img src="../images/271.1024.262_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Módulo reemplazado por el FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
+|<img src="../images/271.1024.263_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
+|<img src="../images/271.1024.264_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
 |<img src="../images/271.1024.265_fgs221.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
 |<img src="../images/271.1024.4106_fgs211.switch.3kw.jpg" width="60" />|Fibaro|FGS-211 Simple Charge|Micromódulo|Module remplacé par le FGS-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
 |<img src="../images/271.1026.12290_fgs212.simple.relay.jpg" width="60" />|Fibaro|FGS-212 Simple Charge|Micromódulo|Remplace le FGS-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
-|<img src="../images/271.1026.4098_fgs212.simple.relay.jpg" width="60" />|Fibaro|FGS-212 Simple Carga|Micromodule|Remplace le FGS-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
+|<img src="../images/271.1026.4098_fgs212.simple.relay.jpg" width="60" />|Fibaro|FGS-212 Simple Carga|Micromódulo|Remplace le FGS-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2862-fibaro-micromodule-commutateur-z-wave-fgs-212-5902020528272.html)|
 |<img src="../images/271.1027.4096_fgs213.switch.jpg" width="60" />|Fibaro|FGS-213 Switch|micromódulo|Les notification de scènes ne sont pas remontées, elles requièrent le support de la CC Central Scene|[Comprar](http://www.domadoo.fr/fr/peripheriques/3727-fibaro-micromodule-commutateur-z-wave-fgs-213-5902020528722.html)|
-|<img src="../images/271.1027.8192_fgs213.switch.jpg" width="60" />|Fibaro|FGS-213 Switch|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3727-fibaro-micromodule-commutateur-z-wave-fgs-213-5902020528722.html)|
-|<img src="../images/271.1281.16386_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
-|<img src="../images/271.1281.257_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
+|<img src="../images/271.1027.8192_fgs213.switch.jpg" width="60" />|Fibaro|FGS-213 Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3727-fibaro-micromodule-commutateur-z-wave-fgs-213-5902020528722.html)|
+|<img src="../images/271.1281.16386_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
+|<img src="../images/271.1281.257_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
 |<img src="../images/271.1281.258_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
 |<img src="../images/271.1281.265_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
 |<img src="../images/271.1281.4098_fgbs001.universal.binary.sensor.jpg" width="60" />|Fibaro|FGBS-001 Universal Relay|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/916-fibaro-detecteur-universel-z-wave-fgbs-001-5902020528074.html)|
-|<img src="../images/271.1282.4096_fgbs222.smart.implant.jpg" width="60" />|Fibaro|FGBS-222 Smart Implant|Micromodule|||
+|<img src="../images/271.1282.4096_fgbs222.smart.implant.jpg" width="60" />|Fibaro|FGBS-222 Smart Implant|Micromódulo|||
 |<img src="../images/271.1536.4096_fgwpe.wall.plug.jpg" width="60" />|Fibaro|FGWPE/FGWPF Wall Plug|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/2934-fibaro-module-prise-commutateur-z-wave-avec-mesure-d-energie-fgwpf-102-schuko-5902020528302.html)|
 |<img src="../images/271.1538.4097_fgwpe.wall.plug.zw5.jpg" width="60" />|Fibaro|FGWPE/FGWPF Wall Plug Gen5|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/3909-fibaro-module-prise-commutateur-et-consometre-z-wave-fibaro-wall-plug-fgwpf-102-zw5-schuko-5902020528647.html)|
 |<img src="../images/271.1538.4099_fgwpe.wall.plug.zw5.jpg" width="60" />|Fibaro|FGWPE/FGWPF Wall Plug Gen5|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/3909-fibaro-module-prise-commutateur-et-consometre-z-wave-fibaro-wall-plug-fgwpf-102-zw5-schuko-5902020528647.html)|
@@ -353,17 +353,17 @@ Fibaro =====
 |<img src="../images/271.256.260_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromódulo|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
 |<img src="../images/271.256.262_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromódulo|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
 |<img src="../images/271.256.263_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromódulo|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
-|<img src="../images/271.256.265_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromodule|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
-|<img src="../images/271.256.4106_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromodule|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
-|<img src="../images/271.258.4096_fgd212.dimmer.jpg" width="60" />|Fibaro|FGD-212 Dimmer 2|Micromodule|Remplace le FGD-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
+|<img src="../images/271.256.265_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromódulo|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
+|<img src="../images/271.256.4106_fgd211.universal.dimmer.500w.jpg" width="60" />|Fibaro|FGD-211 Dimmer|Micromódulo|Ce module est remplacé dans les boutiques par le FGD-212|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
+|<img src="../images/271.258.4096_fgd212.dimmer.jpg" width="60" />|Fibaro|FGD-212 Dimmer 2|Micromódulo|Remplace le FGD-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
 |<img src="../images/271.258.8192_fgd212.dimmer.jpg" width="60" />|Fibaro|FGD-212 Dimmer 2|Micromódulo|Reemplaza el FGD-211|[Comprar](http://www.domadoo.fr/fr/peripheriques/2965-fibaro-micromodule-variateur-z-wave-fgd-212.html)|
 |<img src="../images/271.2816.12289_fgfs101.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/2365-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528142.html)|
-|<img src="../images/271.2816.40448_fgfs101.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 Flood Sensor|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/2365-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528142.html)|
+|<img src="../images/271.2816.40448_fgfs101.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/2365-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528142.html)|
 |<img src="../images/271.2816.4097_fgfs101.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/2365-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528142.html)|
 |<img src="../images/271.2817.4098_fgfs101zw5.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 ZW5 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/3582-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528357.html)|
 |<img src="../images/271.2817.4099_fgfs101zw5.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 ZW5 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/3582-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528357.html)|
 |<img src="../images/271.2817.8194_fgfs101zw5.flood.sensor.jpg" width="60" />|Fibaro|FGFS-101 ZW5 Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/3582-fibaro-detecteur-d-inondation-z-wave-fgfs-101-5902020528357.html)|
-|<img src="../images/271.3072.4096_fgss101.smoke.sensor.jpg" width="60" />|Fibaro|FGSS-001 Smoke Sensor|Fumée|Remplacé par son équivalent aux normes le FGSD-002|[Comprar](http://www.domadoo.fr/fr/peripheriques/2751-fibaro-detecteur-de-fumee-z-wave-plus-fgsd-002-5902020528265.html)|
+|<img src="../images/271.3072.4096_fgss101.smoke.sensor.jpg" width="60" />|Fibaro|FGSS-001 Smoke Sensor|Humo|Remplacé par son équivalent aux normes le FGSD-002|[Comprar](http://www.domadoo.fr/fr/peripheriques/2751-fibaro-detecteur-de-fumee-z-wave-plus-fgsd-002-5902020528265.html)|
 |<img src="../images/271.3074.4098_fgsd002.smoke.sensor.jpg" width="60" />|Fibaro|FGSD-002 Smoke Sensor CE|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/2751-fibaro-detecteur-de-fumee-z-wave-plus-fgsd-002-5902020528265.html)|
 |<img src="../images/271.3074.4099_fgsd002.smoke.sensor.jpg" width="60" />|Fibaro|FGSD-002 Smoke Sensor CE|Humo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2751-fibaro-detecteur-de-fumee-z-wave-plus-fgsd-002-5902020528265.html)|
 |<img src="../images/271.3329.4096_fggc001.swipe.jpg" width="60" />|Fibaro|FGGC-001 Swipe|Controlador gestual||[Comprar](http://www.domadoo.fr/fr/peripheriques/3423-fibaro-controleur-gestuel-z-wave-swipe-blanc-fggc-001-5902020528821.html)|
@@ -377,27 +377,27 @@ Fibaro =====
 |<img src="../images/271.4865.4096_fgt001.heat.controller.jpg" width="60" />|Fibaro|FGT-001 HEAT CONTROLLER|Thermostat|||
 ||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Double charge|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Double charge|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Doble carga|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Doble carga|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-221 Doble carga|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Double charge|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Doble carga|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Doble carga|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Double charge|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
-||Fibaro|FGS-221 Doble carga|Micromodule|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
+||Fibaro|FGS-221 Doble carga|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-221 Double charge|Micromódulo|Ce module est remplacé dans les boutiques par le FGS-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 ||Fibaro|FGS-222 Double charge|Micromódulo|Remplace le FGS-221|[Comprar](http://www.domadoo.fr/fr/peripheriques/2863-fibaro-micromodule-commutateur-double-z-wave-fgs-222-5902020528289.html)|
 |<img src="../images/271.515.4096_fgs223.double.switch.jpg" width="60" />|Fibaro|FGS-223 Double charge|Micromódulo|Le rafraîchissement manuel est requis sur l'instance 1 (Switch S2) pour la remonté de puissance et l'état du S2. Les notification de scènes ne sont pas remontées, elles requièrent le support de la CC Central Scene.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3728-fibaro-micromodule-commutateur-double-z-wave-fgs-223-5902020528661.html)|
 ||Fibaro|FGS-223 Double charge|Micromódulo|Le rafraîchissement manuel est requis sur l'instance 1 (Switch S2) pour la remonté de puissance et l'état du S2. Les notification de scènes ne sont pas remontées, elles requièrent le support de la CC Central Scene.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3728-fibaro-micromodule-commutateur-double-z-wave-fgs-223-5902020528661.html)|
 |<img src="../images/271.6145.4096_fgwpg111.uk.wall.plug.jpg" width="60" />|Fibaro|FGWPGE UK Wall Plug Gen5|Enchufe|||
-|<img src="../images/271.6913.4096_fgwdseu221.walli.switch.jpg" width="60" />|Fibaro|Walli Switch FGWDSEU-221|Micromodule|||
-|<img src="../images/271.7169.4096_walli.dimmer.jpg" width="60" />|Fibaro|Walli Dimmer|Micromodule|||
+|<img src="../images/271.6913.4096_fgwdseu221.walli.switch.jpg" width="60" />|Fibaro|Walli Switch FGWDSEU-221|Micromódulo|||
+|<img src="../images/271.7169.4096_walli.dimmer.jpg" width="60" />|Fibaro|Walli Dimmer|Micromódulo|||
 |<img src="../images/271.7425.4096_fgwreu111.walli.roller.shutter.jpg" width="60" />|Fibaro|Walli Volet roulant|Persianas|||
 |<img src="../images/271.768.260_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Volets|Module équivalent au FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.768.262_fgrm-221.volet.roulant.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Volets|Module équivalent au FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
-|<img src="../images/271.768.263_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Persianas|Module équivalent au FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
+|<img src="../images/271.768.263_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Persianas|Módulo equivalente al FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.768.265_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Volets|Module équivalent au FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.768.4106_fgr221.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-221 Volet roulant|Persianas|Module équivalent au FGRM-222|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
 |<img src="../images/271.769.4097_fgrm222.roller.shutter.controller.jpg" width="60" />|Fibaro|FGRM-222 Volet roulant|Volets|Nouveau nom du module FGRM-221|[Comprar](http://www.domadoo.fr/fr/peripheriques/2604-fibaro-micromodule-pour-volet-roulant-z-wave-fgrm-222-5902020528227.html)|
@@ -433,7 +433,7 @@ Ge
 
 |Imagen|Marca|Nombre|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/99.18756.12337_12724.dimmer.jpg" width="60" />|Ge|12724 3 Way Dimmer|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/99.18756.12337_12724.dimmer.jpg" width="60" />|Ge|12724 3 Way Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/99.18756.12340_smart.fan.control.jpg" width="60" />|Ge|12730 Smart Fan Control|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/99.18756.12344_12344.dimmer.jpg" width="60" />|Ge|12344 In-Wall Smart Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/99.18770.12338_relay.jpg" width="60" />|Ge|12722 On/Off Relay Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -441,14 +441,14 @@ Ge
 Gig
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Lien|
+|Imagen|Marca|Nom|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/152.25857.12_ct101.thermostat.iris.jpg" width="60" />|Gig|CT101 Termostato Iris|Thermostat||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Gr-Smarthome
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Enlace|
+|Imagen|Marca|Nombre|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/338.3.1298_gr.auto_valve.jpg" width="60" />|Gr-Smarthome|Vanne 1/4 de tour (GR-105N)|Válvula||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/338.514.1297_gr.auto_valve.jpg" width="60" />|Gr-Smarthome|Vanne 1/4 de tour (GR-105)|Vanne||[Comprar](http://www.domadoo.fr/fr/peripheriques/2958-gr-smarthome-motorisation-z-wave-pour-vanne-14-de-tour.html)|
@@ -479,12 +479,12 @@ Hank
 Heiman
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/608.32769.4096_dx1msz_motion_sensor.jpg" width="60" />|Heiman|Motion Sensor (HS1MS-Z)|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/608.32770.4096_dx1saz_smoke_sensor.jpg" width="60" />|Heiman|Smart Smoke Sensor (HS1SA-Z)|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/608.32771.4096_dx1cgz_gaz_sensor.jpg" width="60" />|Heiman|Gaz Sensor (HS1CG-Z)|Gas|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/608.32772.4096_dx1wlz_flood_sensor.jpg" width="60" />|Heiman|Flood Sensor (HS1WL-Z)|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/608.32772.4096_dx1wlz_flood_sensor.jpg" width="60" />|Heiman|Flood Sensor (HS1WL-Z)|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/608.32773.4096_dx1caz_co_sensor.jpg" width="60" />|Heiman|CO Sensor (HS1CA-Z)|CO||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/608.32774.4096_dx2skz_wallplug.jpg" width="60" />|Heiman|Smart Metering Plug (HS2SK-Z)|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/608.32775.4096_dx1htz_2in1_sensor.jpg" width="60" />|Heiman|Temperature & Humidity Sensor (HS1HT-Z)|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -512,14 +512,14 @@ Horstmann
 
 |Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/89.1.3_hrt4_srt321.jpg" width="60" />|Horstmann|HRT4-ZW Transmitter|Thermostat|Module vendu sous la marque Secure SRT321|[Comprar](http://www.domadoo.fr/fr/peripheriques/1982-secure-thermostat-srt321-avec-ecran-lcd-z-wave-5015914250071.html)|
-|<img src="../images/89.1.4_srt323.jpg" width="60" />|Horstmann|SRT 323 Electronic Room Thermostat and Temperature|Termostato|Module vendu sous la marque Secure SRT323|[Comprar](http://www.domadoo.fr/fr/peripheriques/3218-secure-thermostat-srt323-avec-ecran-lcd-et-relai-integre-5015914250569.html)|
-|<img src="../images/89.13.2_ses302.jpg" width="60" />|Horstmann|SES 302 Temperature Sensor|Température|Module vendu sous la marque Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/3211-secure-sonde-de-temperature-sur-piles-z-wave-5015914840081.html)|
-|<img src="../images/89.13.3_ses303.jpg" width="60" />|Horstmann|SES 303 Temperature and Humidity Sensor|Multicapteurs|Module vendu sous la marque Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/3227-secure-sonde-de-temperature-et-d-humidite-sur-piles-z-wave-5015914840098.html)|
+|<img src="../images/89.1.3_hrt4_srt321.jpg" width="60" />|Horstmann|HRT4-ZW Transmitter|Thermostat|Módulo vendido bajo la marca Secure SRT321|[Comprar](http://www.domadoo.fr/fr/peripheriques/1982-secure-thermostat-srt321-avec-ecran-lcd-z-wave-5015914250071.html)|
+|<img src="../images/89.1.4_srt323.jpg" width="60" />|Horstmann|SRT 323 Electronic Room Thermostat and Temperature|Termostato|Módulo vendido bajo la marca Secure SRT323|[Comprar](http://www.domadoo.fr/fr/peripheriques/3218-secure-thermostat-srt323-avec-ecran-lcd-et-relai-integre-5015914250569.html)|
+|<img src="../images/89.13.2_ses302.jpg" width="60" />|Horstmann|SES 302 Temperature Sensor|Température|Módulo vendido bajo la marca Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/3211-secure-sonde-de-temperature-sur-piles-z-wave-5015914840081.html)|
+|<img src="../images/89.13.3_ses303.jpg" width="60" />|Horstmann|SES 303 Temperature and Humidity Sensor|Multicapteurs|Módulo vendido bajo la marca Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/3227-secure-sonde-de-temperature-et-d-humidite-sur-piles-z-wave-5015914840098.html)|
 |<img src="../images/89.16.1_sir321.jpg" width="60" />|Horstmann|SIR 321 RF Countdown Timer|Timer|Pas de gestion de Schedule, pas de remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/3216-secure-minuterie-manuelle-3060120-minutes-z-wave-5015914083563.html)|
 |<img src="../images/89.16.2_sir321.jpg" width="60" />|Horstmann|SIR 321 RF Countdown Timer|Temporizador||[Comprar](http://www.domadoo.fr/fr/peripheriques/3216-secure-minuterie-manuelle-3060120-minutes-z-wave-5015914083563.html)|
-|<img src="../images/89.3.1_ssr303.jpg" width="60" />|Horstmann|SSR303 ASR-ZW Receiver|Termostato|Module vendu sous la marque Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/1987-secure-actionneur-de-chaudiere-ssr303-z-wave-5015914250095.html)|
-|<img src="../images/89.4.1_scsc17.jpg" width="60" />|Horstmann|SCS317, 7 Day Programmable Room Thermostat|Thermostat|Module vendu sous la marque Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/2419-secure-thermostat-electronique-programmable-z-wave-scs317-5015914370083.html)|
+|<img src="../images/89.3.1_ssr303.jpg" width="60" />|Horstmann|SSR303 ASR-ZW Receiver|Termostato|Módulo vendido bajo la marca Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/1987-secure-actionneur-de-chaudiere-ssr303-z-wave-5015914250095.html)|
+|<img src="../images/89.4.1_scsc17.jpg" width="60" />|Horstmann|SCS317, 7 Day Programmable Room Thermostat|Thermostat|Módulo vendido bajo la marca Secure|[Comprar](http://www.domadoo.fr/fr/peripheriques/2419-secure-thermostat-electronique-programmable-z-wave-scs317-5015914370083.html)|
 
 Inovelli
 =====
@@ -530,7 +530,7 @@ Inovelli
 Kaipule
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/532.2.1_im20.door.window.sensor.jpg" width="60" />|Kaipule|IM20 Magnetic Contact|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/3871-kaipule-detecteur-d-ouverture-portefenetre-z-wave.html)|
 |<img src="../images/532.3.2_pir.celing.sensor.jpg" width="60" />|Kaipule|PIR celing sensor|Présence||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -538,7 +538,7 @@ Kaipule
 Kwikset
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/144.1.1_smartcode912.jpg" width="60" />|Kwikset|Electronic Deadbolt Smartcode|Cerradura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -576,13 +576,13 @@ Mco
 Neocoolcam
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/600.3.131_nas-pd01z.jpg" width="60" />|Neocoolcam|PIR Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.136_ab01z.siren.jpg" width="60" />|Neocoolcam|Siren Alarm NAS-AB01Z|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.4226_nas-ds01z.jpg" width="60" />|Neocoolcam|Door Sensor|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.4227_nas-pd01z.jpg" width="60" />|Neocoolcam|PIR Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/600.3.4229_nas.ws02z.jpg" width="60" />|Neocoolcam|Flood Sensor|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/600.3.4229_nas.ws02z.jpg" width="60" />|Neocoolcam|Flood Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.4231_nas.wr01ze.power.plug.jpg" width="60" />|Neocoolcam|Smart Power Plug NAS-WR01ZE|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.4232_ab01z.siren.jpg" width="60" />|Neocoolcam|Siren Alarm NAS-AB01Z|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/600.3.4237_nas-pd01zt.jpg" width="60" />|Neocoolcam|PIR Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -591,7 +591,7 @@ Neocoolcam
 Nodon
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/357.1.1_smartplug.nodon.jpg" width="60" />|Nodon|Smartplug|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/2892-nodon-prise-intelligente-z-wave-type-schuko-3700313920206.html)|
 |<img src="../images/357.1.3_micro.smartplug.nodon.jpg" width="60" />|Nodon|MicroSmartplug|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -602,7 +602,7 @@ Nodon
 Northq
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/150.1.1_nq-92021.power.reader.jpg" width="60" />|Northq|Power Reader|Compteur|Activer le rafraichissement manuel à 5 minutes sur la valeur Energy pour avoir les rapports|[Comprar](http://www.domadoo.fr/fr/peripheriques/1538-northq-compteur-optique-de-consommation-z-wave-adaptateur-ac-dc-5707162002242.html)|
 |<img src="../images/150.1.2_nq-9021.power.reader.jpg" width="60" />|Northq|Power Reader|Contador|Activer le rafraichissement manuel à 5 minutes sur la valeur Energy pour avoir les rapports|[Comprar](http://www.domadoo.fr/fr/peripheriques/1537-northq-compteur-optique-de-consommation-z-wave.html)|
@@ -618,32 +618,32 @@ Oomi
 Philio
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/316.1.15_pan03.jpg" width="60" />|Philio|PAN03 Switch Module with meter 3 KW X1|Micromodule|También se vende bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2959-zipato-micromodule-commutateur-z-wave-avec-mesure-d-energie-3858890733242.html)|
-|<img src="../images/316.1.18_pan04-1.double.relay.switch.jpg" width="60" />|Philio|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromodule|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
-|<img src="../images/316.1.21_pan08-1.in.wall.roller.shutter.jpg" width="60" />|Philio|PAN08-1 In Wall Roller Shutter Controller|Volets||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/316.1.3_pan04-1.double.relay.switch.jpg" width="60" />|Philio|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromódulo|Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
-|<img src="../images/316.1.4_pan06.in.wall.dual.relay.1.way.jpg" width="60" />|Philio|PAN06 In Wall Switch Module 2X1.5KW|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2482-philio-micromodule-commutateur-double-z-wave-4713698570019.html)|
+|<img src="../images/316.1.15_pan03.jpg" width="60" />|Philio|PAN03 Switch Module with meter 3 KW X1|Micromódulo|También se vende bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2959-zipato-micromodule-commutateur-z-wave-avec-mesure-d-energie-3858890733242.html)|
+|<img src="../images/316.1.18_pan04-1.double.relay.switch.jpg" width="60" />|Philio|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromódulo|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
+|<img src="../images/316.1.21_pan08-1.in.wall.roller.shutter.jpg" width="60" />|Philio|PAN08-1 In Wall Roller Shutter Controller|Persianas||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/316.1.3_pan04-1.double.relay.switch.jpg" width="60" />|Philio|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromódulo|También se vende bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
+|<img src="../images/316.1.4_pan06.in.wall.dual.relay.1.way.jpg" width="60" />|Philio|PAN06 In Wall Switch Module 2X1.5KW|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2482-philio-micromodule-commutateur-double-z-wave-4713698570019.html)|
 |<img src="../images/316.1.6_pan08-1.in.wall.roller.shutter.jpg" width="60" />|Philio|PAN08-1 In Wall Roller Shutter Controller|Persianas||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/316.2.12_pst02-a.4.in.1.jpg" width="60" />|Philio|PST02-A 4in1 Multi-Sensor|Multisensores|Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
-|<img src="../images/316.2.13_pst02-b.pirmotion.3.in.1.jpg" width="60" />|Philio|PST02-B PIR/Motion 3in1 Sensor|Multicapteurs|Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/3067-philio-detecteur-z-wave-3-en-1-mouvement-luminosite-temperature-4713698570170.html)|
-|<img src="../images/316.2.14_pst02-c.doorwindow.3.in.1.jpg" width="60" />|Philio|PST02-C Door/Window 3in1 sensor|Multicapteurs|Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2606-zipato-detecteur-z-wave-3-en-1-ouverture-luminosite-temperature-3858890730371.html)|
+|<img src="../images/316.2.12_pst02-a.4.in.1.jpg" width="60" />|Philio|PST02-A 4in1 Multi-Sensor|Multisensores|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
+|<img src="../images/316.2.13_pst02-b.pirmotion.3.in.1.jpg" width="60" />|Philio|PST02-B PIR/Motion 3in1 Sensor|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3067-philio-detecteur-z-wave-3-en-1-mouvement-luminosite-temperature-4713698570170.html)|
+|<img src="../images/316.2.14_pst02-c.doorwindow.3.in.1.jpg" width="60" />|Philio|PST02-C Door/Window 3in1 sensor|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2606-zipato-detecteur-z-wave-3-en-1-ouverture-luminosite-temperature-3858890730371.html)|
 |<img src="../images/316.2.2_psm02-1.slim.multi-sensor.jpg" width="60" />|Philio|PSP01/PSM02|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
 |<img src="../images/316.2.30_phpsg01.smoke.detector.jpg" width="60" />|Philio|PH-PSG01 Smoke Sensor|Humo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3149-zipato-capteur-de-fumee-z-wave--3858890733051.html)|
-|<img src="../images/316.2.31_phpat02a.flood.3in1.jpg" width="60" />|Philio|PAT02-C Flood Sensor|Multicapteurs|Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/3152-zipato-detecteur-d-inondation-3-en-1-z-wave-plus-3858890733112.html)|
-|<img src="../images/316.2.32_phpat02b.multisensor.2in1.jpg" width="60" />|Philio|PAT02-B 2in1 Multi Sensor|Multicapteurs|La première valeur d'humidité peut mettre un certain temps à remonter. Vendu aussi sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/316.2.31_phpat02a.flood.3in1.jpg" width="60" />|Philio|PAT02-C Flood Sensor|Multicapteurs|También se vende bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/3152-zipato-detecteur-d-inondation-3-en-1-z-wave-plus-3858890733112.html)|
+|<img src="../images/316.2.32_phpat02b.multisensor.2in1.jpg" width="60" />|Philio|PAT02-B 2in1 Multi Sensor|Multicapteurs|El primer valor de humedad puede tardar un tiempo en recuperarse. También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/316.2.80_psp05.motionsensor.jpg" width="60" />|Philio|PSP05 B, C & D version|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/4108-philio-detecteur-de-mouvement-exterieur-z-wave-4713698573508.html)|
 |<img src="../images/316.4.10_pse02.indoor.siren.jpg" width="60" />|Philio|PH-PSE02 Sirène Z-Wave+|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/2960-zipato-sirene-d-interieur-z-wave-3858890733310.html)|
 |<img src="../images/316.5.49.Smart.Dimmer.E27.jpg" width="60" />|Philio|Smart Dimmer E27|Portalámpara||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/316.5.49_Smart.Dimmer.E27.jpg" width="60" />|Philio|Smart Dimmer E27|Portalámpara||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/316.6.26_phpab01.micromodule.energy.meter.jpg" width="60" />|Philio|Micromodule Energy Meter (PH-PAB01)|Consommation|Vendu sous la marique Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/3576-zipato-micromodule-compteur-d-energie-z-wave-3858890732689.html)|
+|<img src="../images/316.6.26_phpab01.micromodule.energy.meter.jpg" width="60" />|Philio|Micromódulo medidor de energía (PH-PAB01)|Consommation|Vendu sous la marique Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/3576-zipato-micromodule-compteur-d-energie-z-wave-3858890732689.html)|
 |<img src="../images/316.9.34_psr04.smart.color.button.jpg" width="60" />|Philio|PSR04 Smart Color Button|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/3207-philio-interrupteurtelecommande-mural-z-wave-4713698571542.html)|
 
 Polycontrol
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/270.1.1_polylock.jpg" width="60" />|Polycontrol|Polylock|Cerradura|Inclusion en mode sécurisé|[Comprar](http://www.domadoo.fr/fr/peripheriques/1752-poly-control-serrure-motorisee-poly-lock-z-wave.html)|
 |<img src="../images/270.3.2_danalock.jpg" width="60" />|Polycontrol|Danalock|Cerradura|Inclusion en mode sécurisé|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -672,7 +672,7 @@ Popp
 Qees
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 ||Qees|Turtle Dimmer|Dimmer||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/149.12545.1_turtle.switch.jpg" width="60" />|Qees|Turtle Switch|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -681,27 +681,27 @@ Qees
 Qubino
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/345.1.1_zmnhda2.dimmer.jpg" width="60" />|Qubino|ZMNHDA2 Dimmer|Micromodule|Remplacé par le ZMNHDDx Dimmer|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/345.1.1_zmnhda2.dimmer.jpg" width="60" />|Qubino|ZMNHDA2 Dimmer|Micromódulo|Remplacé par le ZMNHDDx Dimmer|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/345.1.81_zmnhddx_dimmer.jpg" width="60" />|Qubino|ZMNHDDx Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3063-qubino-micromodule-variateur-et-consometre-z-wave-zmnhdd1-3830062070096.html)|
 |<img src="../images/345.1.82_zmnhsdx.din.dimmer.jpg" width="60" />|Qubino|ZMNHSDx Din Dimmer|Rail-din||[Comprar](http://www.domadoo.fr/fr/peripheriques/3256-qubino-module-rail-din-variateur-z-wave-zmnhsd1-3830062070386.html)|
 |<img src="../images/345.1.84_zmnhwd1_flush_rgbw_dimmer.jpg" width="60" />|Qubino|Variateur RGBW|RGBW||[Comprar](http://www.domadoo.fr/fr/peripheriques/3990-qubino-micromodule-variateur-rgbw-z-wave.html)|
-|<img src="../images/345.2.1_zmnhba2.flush.2.relays.jpg" width="60" />|Qubino|ZMNHBA2 Double Charge|Micromodule|Problème connue de remonté d'état, Switch1 et Puissance. Remplacé par ZMNHBD1|[Comprar](http://www.domadoo.fr/fr/peripheriques/3062-qubino-micromodule-commutateur-2-relais-et-consometre-z-wave-zmnhbd1-3830062070119.html.html)|
-|<img src="../images/345.2.2_zmnhaa2.flush.1.relay.jpg" width="60" />|Qubino|ZMNHAA2 Simple Charge|Micromodule|Remplacé par ZMNHAD1|[Comprar](http://www.domadoo.fr/fr/peripheriques/3060-qubino-micromodule-commutateur-1-relai-et-consometre-z-wave-zmnhad1-3830062070102.html)|
-|<img src="../images/345.2.81_zmnhbdx.flush.2.relay.jpg" width="60" />|Qubino|ZMNHBDx Double Charge|Micromodule|Problème connue de remonté d'état, Switch1 et Puissance|[Comprar](http://www.domadoo.fr/fr/peripheriques/3062-qubino-micromodule-commutateur-2-relais-et-consometre-z-wave-zmnhbd1-3830062070119.html)|
+|<img src="../images/345.2.1_zmnhba2.flush.2.relays.jpg" width="60" />|Qubino|ZMNHBA2 Double Charge|Micromódulo|Problème connue de remonté d'état, Switch1 et Puissance. Remplacé par ZMNHBD1|[Comprar](http://www.domadoo.fr/fr/peripheriques/3062-qubino-micromodule-commutateur-2-relais-et-consometre-z-wave-zmnhbd1-3830062070119.html.html)|
+|<img src="../images/345.2.2_zmnhaa2.flush.1.relay.jpg" width="60" />|Qubino|ZMNHAA2 Simple Charge|Micromódulo|Remplacé par ZMNHAD1|[Comprar](http://www.domadoo.fr/fr/peripheriques/3060-qubino-micromodule-commutateur-1-relai-et-consometre-z-wave-zmnhad1-3830062070102.html)|
+|<img src="../images/345.2.81_zmnhbdx.flush.2.relay.jpg" width="60" />|Qubino|ZMNHBDx Double Charge|Micromódulo|Problème connue de remonté d'état, Switch1 et Puissance|[Comprar](http://www.domadoo.fr/fr/peripheriques/3062-qubino-micromodule-commutateur-2-relais-et-consometre-z-wave-zmnhbd1-3830062070119.html)|
 |<img src="../images/345.2.82_zmnhadx.flush.1.relay.jpg" width="60" />|Qubino|ZMNHADx Simple Charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3060-qubino-micromodule-commutateur-1-relai-et-consometre-z-wave-zmnhad1-3830062070102.html)|
-|<img src="../images/345.2.83_zmnhndx.flush.1d.relay.jpg" width="60" />|Qubino|ZMNHNDx Contact sec Z-Wave+|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2950-qubino-micromodule-contact-sec-z-wave-zmnhnd1-3830062070072.html)|
+|<img src="../images/345.2.83_zmnhndx.flush.1d.relay.jpg" width="60" />|Qubino|ZMNHNDx Contact sec Z-Wave+|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2950-qubino-micromodule-contact-sec-z-wave-zmnhnd1-3830062070072.html)|
 |<img src="../images/345.2.84_zmnydx.smart.wall.plug.jpg" width="60" />|Qubino|Smartplug ZMNYDx|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/345.3.2_zmnhca2.flush.shutter.jpg" width="60" />|Qubino|ZMNHCA2 Volets|Persianas|Remplacé par ZMNHCD1|[Comprar](http://www.domadoo.fr/fr/peripheriques/3061-qubino-micromodule-pour-volet-roulant-et-consometre-z-wave-zmnhcd1-3830062070126.html)|
 |<img src="../images/345.3.82_zmnhcdx.volets.roulants.jpg" width="60" />|Qubino|ZMNHCDx Volets|Persianas||[Comprar](http://www.domadoo.fr/fr/peripheriques/3061-qubino-micromodule-pour-volet-roulant-et-consometre-z-wave-zmnhcd1-3830062070126.html)|
 |<img src="../images/345.3.83_zmnhodx.flush.shutter.dc.jpg" width="60" />|Qubino|ZMNHOD1 Flush shutter DC|Persianas||[Comprar](http://www.domadoo.fr/fr/peripheriques/2951-qubino-z-wave-flush-shutter-dc-zmnhod1-3830062070089.html)|
-|<img src="../images/345.4.1_zmnhja2.flush.dimmer.fil.pilote.jpg" width="60" />|Qubino|ZMNHJA2 Fil Pilote|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2654-qubino-module-fil-pilote-encastrable-z-wave-zmnhja2.html)|
-|<img src="../images/345.4.81_zmnhjd1.flush.dimmer.fil.pilote.jpg" width="60" />|Qubino|ZMNHJD1 Fil Pilote|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3210-qubino-module-fil-pilote-encastrable-z-wave-zmnhjd1.html)|
+|<img src="../images/345.4.1_zmnhja2.flush.dimmer.fil.pilote.jpg" width="60" />|Qubino|ZMNHJA2 Fil Pilote|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2654-qubino-module-fil-pilote-encastrable-z-wave-zmnhja2.html)|
+|<img src="../images/345.4.81_zmnhjd1.flush.dimmer.fil.pilote.jpg" width="60" />|Qubino|ZMNHJD1 Fil Pilote|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3210-qubino-module-fil-pilote-encastrable-z-wave-zmnhjd1.html)|
 |<img src="../images/345.4.82_zmnhud1.din.fil.pilote.plus.jpg" width="60" />|Qubino|ZMNHUD1 DIN Pilot Wire|Rail-din||[Comprar](http://www.domadoo.fr/fr/peripheriques/3409-qubino-module-rail-din-fil-pilote-z-wave-zmnhud1.html)|
-|<img src="../images/345.5.1_zmnhia2.onoff.thermostat.jpg" width="60" />|Qubino|Termostato ZMNHIA2|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2653-qubino-micromodule-thermostat-encastrable-z-wave-zmnhia2-3830062070041.html)|
-|<img src="../images/345.5.3_zmnhlax.pwm.thermostat.jpg" width="60" />|Qubino|ZMNHLAx PWM Thermostat|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2941-qubino-micromodule-thermostat-pwm-encastrable-z-wave-zmnhla2-3830062070065.html)|
-|<img src="../images/345.5.81_zmnhid1.onoff.thermostat.jpg" width="60" />|Qubino|ZMNHID1 On/Off Thermostat|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3319-qubino-micromodule-thermostat-encastrable-z-wave-zmnhid1.html)|
+|<img src="../images/345.5.1_zmnhia2.onoff.thermostat.jpg" width="60" />|Qubino|Termostato ZMNHIA2|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2653-qubino-micromodule-thermostat-encastrable-z-wave-zmnhia2-3830062070041.html)|
+|<img src="../images/345.5.3_zmnhlax.pwm.thermostat.jpg" width="60" />|Qubino|ZMNHLAx PWM Thermostat|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2941-qubino-micromodule-thermostat-pwm-encastrable-z-wave-zmnhla2-3830062070065.html)|
+|<img src="../images/345.5.81_zmnhid1.onoff.thermostat.jpg" width="60" />|Qubino|ZMNHID1 On/Off Thermostat|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3319-qubino-micromodule-thermostat-encastrable-z-wave-zmnhid1.html)|
 |<img src="../images/345.5.82_zmnhkdx.heatcool.thermostat.jpg" width="60" />|Qubino|ZMNHKDx Heat and Cool Thermostat Z-Wave+|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2948-qubino-micromodule-thermostat-chaud-froid-encastrable-z-wave-zmnhka2.html)|
 |<img src="../images/345.5.83_zmnhldx.pwm.thermostat.jpg" width="60" />|Qubino|ZMNHLDx PWM Thermostat Z-Wave+|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2949-qubino-micromodule-thermostat-pwm-encastrable-z-wave-zmnhld1.html)|
 |<img src="../images/345.7.82_zmnhtdx.smart.meter.jpg" width="60" />|Qubino|ZMNHTDx Smart meter|Rail-din|Le module doit être inclus en mode sécurisé pour pouvoir contrôler les relais|[Comprar](http://www.domadoo.fr/fr/peripheriques/3251-qubino-module-rail-din-compteur-d-energie-z-wave-3830062070362.html)|
@@ -722,8 +722,8 @@ Schlage
 
 |Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/151.24881.17665_mini.keypad.rfid.jpg" width="60" />|Schlage|Mini Keypad RFID|Clavier RFID|Le badge utilisé ne remonte pas. Ce module est actuellement vendu sous la marque Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
-|<img src="../images/151.26947.17665_on_wall_power_socket.jpg" width="60" />|Schlage|On-Wall Power Socket|Enchufe|Ce module est actuellement vendu sous la marque TapHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/151.24881.17665_mini.keypad.rfid.jpg" width="60" />|Schlage|Mini Keypad RFID|Clavier RFID|El TAG utilizado no transmite informaciones. Este módulo se vende actualmente bajo la marca Zipato|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
+|<img src="../images/151.26947.17665_on_wall_power_socket.jpg" width="60" />|Schlage|On-Wall Power Socket|Enchufe|Este módulo se vende actualmente bajo la marca TapHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Sensative
 =====
@@ -736,7 +736,7 @@ Sensative
 Sigma
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/0.1.1_usb adapter.jpg" width="60" />|Sigma|Z-Wave Plus USB Controller|Controlador||[Comprar](http://www.domadoo.fr/fr/peripheriques/3171-sigma-designs-controleur-z-wave-plus-usb.html)|
 
@@ -746,13 +746,13 @@ Smarthome By Everspring
 |Imagen|Marca|Nom|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/96.3.2_ad.146.in.wall.dimmer.jpg" width="60" />|Smarthome By Everspring|AD146-0 Variateur|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2688-smarthome-europe-micromodule-variateur-mural-z-wave-plus-ad146-3700946500356.html)|
-||Smarthome By Everspring|AD146-0 Dimmer|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2688-smarthome-europe-micromodule-variateur-mural-z-wave-plus-ad146-3700946500356.html)|
+||Smarthome By Everspring|AD146-0 Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2688-smarthome-europe-micromodule-variateur-mural-z-wave-plus-ad146-3700946500356.html)|
 |<img src="../images/96.4.8_an.179.in.wall.on.off.jpg" width="60" />|Smarthome By Everspring|AN179-0 On/Off|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/2689-smarthome-europe-micromodule-mural-onoff-z-wave-plus-an179-3700946500387.html)|
 
 Steinel
 =====
 
-|Imagen|Marque|Nombre|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/625.1.6771_xled.home2.jpg" width="60" />|Steinel|XLED Home2|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/625.1.6772_rs.led2.d2.jpg" width="60" />|Steinel|RS LED D2|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -762,7 +762,7 @@ Steinel
 Stelpro
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Lien|
+|Imagen|Marca|Nom|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/569.1.1_STZW402.plus.electronic.thermostat.jpg" width="60" />|Stelpro|STZW402+ Electronic Thermostat|Termostato||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -790,15 +790,15 @@ Vision Security
 |<img src="../images/265.4097.260_zu1401.z-wave.usb.stick.jpg" width="60" />|Vision Security|USB Stick ZU 1401|Contrôleur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/265.4097.261_zu1401.z-wave.usb.stick.jpg" width="60" />|Vision Security|USB Stick ZU 1401|Controlador||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/265.8193.257_zd2102.us.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
-|<img src="../images/265.8193.258_zd2102.au.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
-|<img src="../images/265.8193.260_zd2102.jp.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
-|<img src="../images/265.8193.261_zd2102.eu.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
-|<img src="../images/265.8193.262_zd2102.eu.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
+|<img src="../images/265.8193.258_zd2102.au.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
+|<img src="../images/265.8193.260_zd2102.jp.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
+|<img src="../images/265.8193.261_zd2102.eu.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
+|<img src="../images/265.8193.262_zd2102.eu.doorwindow.sensor.jpg" width="60" />|Vision Security|ZD2102|Apertura|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
 |<img src="../images/265.8194.513_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
-|<img src="../images/265.8194.514_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multicapteurs|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
-|<img src="../images/265.8194.515_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multisensores|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
-|<img src="../images/265.8194.516_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multisensores|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
-|<img src="../images/265.8194.517_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multicapteurs|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
+|<img src="../images/265.8194.514_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
+|<img src="../images/265.8194.515_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multisensores|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
+|<img src="../images/265.8194.516_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multisensores|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
+|<img src="../images/265.8194.517_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Vision Security|ZP3102|Multicapteurs|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
 |<img src="../images/265.8195.769_zs5101.shock.and.vibration.sensor.jpg" width="60" />|Vision Security|ZS5101|Vibración||[Comprar](http://www.domadoo.fr/fr/peripheriques/2157-vision-security-detecteur-de-choc-z-wave.html)|
 |<img src="../images/265.8195.770_zs5101.shock.and.vibration.sensor.jpg" width="60" />|Vision Security|ZS5101|Vibración||[Comprar](http://www.domadoo.fr/fr/peripheriques/2157-vision-security-detecteur-de-choc-z-wave.html)|
 |<img src="../images/265.8195.774_zs5101.shock.and.vibration.sensor.jpg" width="60" />|Vision Security|ZS5101|Vibration||[Comprar](http://www.domadoo.fr/fr/peripheriques/2157-vision-security-detecteur-de-choc-z-wave.html)|
@@ -816,49 +816,49 @@ Vision Security
 |<img src="../images/265.8202.2562_zg8101.garage.door.detector.jpg" width="60" />|Vision Security|ZG8101|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/2434-vision-security-detecteur-de-porte-de-garage-z-wave-zg8101-0696859123412.html.html)|
 |<img src="../images/265.8207.3842_zs6301.co.detector.jpg" width="60" />|Vision Security|ZS 6301 Wireless CO Detector|CO||[Comprar](http://www.domadoo.fr/fr/peripheriques/2159-vision-security-detecteur-de-monoxyde-de-carbone-z-wave.html)|
 |<img src="../images/265.8207.3843_zs6301.co.detector.jpg" width="60" />|Vision Security|ZS 6301 Wireless CO Detector|CO||[Comprar](http://www.domadoo.fr/fr/peripheriques/2159-vision-security-detecteur-de-monoxyde-de-carbone-z-wave.html)|
-|<img src="../images/265.8220.7169_zf5201.water.sensor.jpg" width="60" />|Vision Security|Flood-Sensor (ZF5201)|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/265.8223.7952_zd2201.multisensor.4in1.jpg" width="60" />|Vision Security|ZD2201 Multisensor 4in1|Ouverture|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3150-zipato-detecteur-z-wave-plus-4-en-1-3858890732931.html)|
-|<img src="../images/265.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Vision Security|ZD2301 Multisensor 4in1|Ouverture|Vendu aussi sous la marque Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
+|<img src="../images/265.8220.7169_zf5201.water.sensor.jpg" width="60" />|Vision Security|Flood-Sensor (ZF5201)|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/265.8223.7952_zd2201.multisensor.4in1.jpg" width="60" />|Vision Security|ZD2201 Multisensor 4in1|Ouverture|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3150-zipato-detecteur-z-wave-plus-4-en-1-3858890732931.html)|
+|<img src="../images/265.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Vision Security|ZD2301 Multisensor 4in1|Ouverture|También se vende bajo la marca Zipato.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
 
 Vitrum
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 ||Vitrum|ZWE060 6 boutons|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Wenzhou
 =====
 
-|Image|Marque|Nom|Tipo|Observación|Lien|
+|Image|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/280.1.1_tz88.smart.energy.plug.jpg" width="60" />|Wenzhou|TZ88|Enchufe|Vendu aussi sous la marque TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/280.11.1_st812.flood.detector.jpg" width="60" />|Wenzhou|ST812|Fuite|Vendu sous la marque Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
+|<img src="../images/280.1.1_tz88.smart.energy.plug.jpg" width="60" />|Wenzhou|TZ88|Enchufe|También se vende bajo la marca TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/280.11.1_st812.flood.detector.jpg" width="60" />|Wenzhou|ST812|Fuga|Vendido bajo la marca Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
 |<img src="../images/280.2056.2056_tz65d.dual.wall.dimmer.jpg" width="60" />|Wenzhou|TZ65D|Interruptor|Vendu aussi sous la marque TkbHome. Bouton de droit fonctionne en association seulement.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2056-tkb-home-tz65d-interrupteur-variateur-double-z-wave-blanc-6959174465006.html)|
-|<img src="../images/280.257.259_tz68e.wall.plug.jpg" width="60" />|Wenzhou|TZ68e|Enchufe|Vendu aussi sous la marque TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/280.257.259_tz68e.wall.plug.jpg" width="60" />|Wenzhou|TZ68e|Enchufe|También se vende bajo la marca TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.258.4128_tz66d.double.switch.jpg" width="60" />|Wenzhou|TZ66D|Interruptor|Vendu aussi sous la marque TkbHome. Bouton de droit fonctionne en association seulement.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2058-tkb-home-tz66d-interrupteur-double-z-wave-blanc-6959174466010.html)|
 |<img src="../images/280.3.3_tz56.double.switch.jpg" width="60" />|Wenzhou|TZ56|Interruptor|Le deuxième Bouton sert uniquement en association direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.3.4_tz55.double.switch.dimmer.jpg" width="60" />|Wenzhou|TZ55|Interruptor|Le deuxième Bouton sert uniquement en association direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/280.514.1553_tz67.wall.plug.dimmer.jpg" width="60" />|Wenzhou|TZ67|Enchufe|Vendu aussi sous la marque TkbHome.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/280.514.1553_tz67.wall.plug.dimmer.jpg" width="60" />|Wenzhou|TZ67|Enchufe|También se vende bajo la marca TkbHome.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.785.515_tz57.double.switch.jpg" width="60" />|Wenzhou|TZ57|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/280.785.772_tz74.double.switch.jpg" width="60" />|Wenzhou|TZ74 Double charge|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/280.785.772_tz74.double.switch.jpg" width="60" />|Wenzhou|TZ74 Double charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Widom
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/329.18.260_ubs.switch.jpg" width="60" />|Widom|USB Single charge|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/329.4628.1284_wds.double.switch.jpg" width="60" />|Widom|WDS Double charge|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3694-widom-micromodule-commutateur-double-z-wave-8059265060047.html)|
-||Widom|WPMC Energy Driven Switch|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3693-widom-micromodule-commutateur-z-wave-avec-pince-amperemetrique.html)|
-|<img src="../images/329.4628.772_wpms.energy.driven.switch.jpg" width="60" />|Widom|WPMS Energy Driven Switch|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/3688-widom-micromodule-z-wave-commutateur-avec-mesure-d-energie.html)|
+|<img src="../images/329.18.260_ubs.switch.jpg" width="60" />|Widom|USB Single charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/329.4628.1284_wds.double.switch.jpg" width="60" />|Widom|WDS Double charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3694-widom-micromodule-commutateur-double-z-wave-8059265060047.html)|
+||Widom|WPMC Energy Driven Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3693-widom-micromodule-commutateur-z-wave-avec-pince-amperemetrique.html)|
+|<img src="../images/329.4628.772_wpms.energy.driven.switch.jpg" width="60" />|Widom|WPMS Energy Driven Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3688-widom-micromodule-z-wave-commutateur-avec-mesure-d-energie.html)|
 
 Zipato
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/305.1.18_pan04-eu.wallSwitch.jpg" width="60" />|Zipato|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromodule|Vendu aussi sous la marque Philio|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
+|<img src="../images/305.1.18_pan04-eu.wallSwitch.jpg" width="60" />|Zipato|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromódulo|También se vende bajo la marca Philio|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
 |<img src="../images/305.1.21_pan08-1.in.wall.roller.shutter.jpg" width="60" />|Zipato|PAN08-1 In Wall Roller Shutter Controller|Volets||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/305.2.12_psm02-eu.4.in.1.jpg" width="60" />|Zipato|PSM02 4in1 Multi-Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
 |<img src="../images/305.2.2_rgbw_bulb.jpg" width="60" />|Zipato|Bulb RGBW|Ampoule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2541-zipato-ampoule-led-rgbw-z-wave-3858890731026.html)|
@@ -870,17 +870,17 @@ Zipato
 |<img src="../images/305.3.4233_nas-pd01zt.jpg" width="60" />|Zipato|PIR Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/305.32770.4096_hs1saz_smoke_sensor.jpg" width="60" />|Zipato|Smart Smoke Sensor (HS1SA-Z)|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/4149-zipato-capteur-de-fumee-z-wave--3858890733594.html)|
 |<img src="../images/305.32771.4096_hs1cgz_gaz_sensor.jpg" width="60" />|Zipato|Gaz Sensor (HS1CG-Z)|Gaz|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Comprar](http://www.domadoo.fr/fr/peripheriques/4153-zipato-capteur-de-gaz-z-wave-3858890733587.html)|
-|<img src="../images/305.32772.4096_hs1wlz_flood_sensor.jpg" width="60" />|Zipato|Flood Sensor (HS1WL-Z)|Fuite||[Comprar](http://www.domadoo.fr/fr/peripheriques/4159-zipato-capteur-d-inondation-z-wave--3858890733624.html)|
+|<img src="../images/305.32772.4096_hs1wlz_flood_sensor.jpg" width="60" />|Zipato|Flood Sensor (HS1WL-Z)|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/4159-zipato-capteur-d-inondation-z-wave--3858890733624.html)|
 |<img src="../images/305.32773.4096_hs1caz_co_sensor.jpg" width="60" />|Zipato|CO Sensor (HS1CA-Z)|CO||[Comprar](http://www.domadoo.fr/fr/peripheriques/4151-zipato-capteur-de-monoxyde-de-carbone-z-wave-3858890733563.html)|
 |<img src="../images/305.4.10_pse02.indoor.siren.jpg" width="60" />|Zipato|PH-PSE02 Sirène Z-Wave+|Sirène||[Comprar](http://www.domadoo.fr/fr/peripheriques/2960-zipato-sirene-d-interieur-z-wave-3858890733310.html)|
 |<img src="../images/305.8193.262_vszd2102.eu.doorwindow.sensor.jpg" width="60" />|Zipato|VS-ZD2102 Door/Window Sensor|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
 |<img src="../images/305.8194.517_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Zipato|ZP3102|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
-|<img src="../images/305.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Zipato|ZD2301 Multisensor 4in1|Ouverture|Vendu aussi sous la marque Vision.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
+|<img src="../images/305.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Zipato|ZD2301 Multisensor 4in1|Ouverture|También se vende bajo la marca Vision.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
 
 Zwaveme
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/277.1.105_key.fob_1.jpg" width="60" />|Zwaveme|KFOB|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||Zwaveme|004308 Smoke Detector|Fumée|Détecté comme le Zwave-me USB Stick. Pas d'assistant pour les parametrès.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -896,8 +896,8 @@ Zwaveme
 |<img src="../images/277.256.512_smoke.detector.jpg" width="60" />|Zwaveme|Smoke Sensor|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/277.256.513_smoke.detector.jpg" width="60" />|Zwaveme|Smoke Sensor|Fumée||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/277.272.1_z-uno.jpg" width="60" />|Zwaveme|Z-Uno|Carte de développeur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/277.4096.1_zme_054313z.flush-mountable.switch.jpg" width="60" />|Zwaveme|ZME-054313 Flush mountable switch|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/277.4096.2_zme_06433.wall.flush-mountable.dimmer.jpg" width="60" />|Zwaveme|ZME 06433 Dimmer|Micromodule||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/277.4096.1_zme_054313z.flush-mountable.switch.jpg" width="60" />|Zwaveme|ZME-054313 Flush mountable switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/277.4096.2_zme_06433.wall.flush-mountable.dimmer.jpg" width="60" />|Zwaveme|ZME 06433 Dimmer|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/277.4096.3_zme_06436.motor.control.jpg" width="60" />|Zwaveme|Micro Motor Controller (ZME06436)|Volets||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/277.4096.4_zme_064435.wall.controller.jpg" width="60" />|Zwaveme|Wall Controller (ZME064435)|Telecommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/277.4096.768_zme_rc2.jpg" width="60" />|Zwaveme|Remote Control 2|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/3075-z-waveme-telecommande-z-wave-10-canaux.html)|
@@ -910,7 +910,7 @@ Zwaveme
 Zwaveme
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/327.1024.1_RaZberry Controller ZWavePlus.jpg" width="60" />|Zwaveme|RaZberry Controller ZWave+|Contrôleur||[Comprar](http://www.domadoo.fr/fr/peripheriques/2312-z-waveme-carte-d-extension-razberry-z-wave-pour-raspberry-pi-696859123290.html)|
 |<img src="../images/327.2.3_RaZberry Controller.jpg" width="60" />|Zwaveme|RaZberry Controller|Contrôleur||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|

@@ -9,7 +9,7 @@ Amazfit
 Awoxmesh
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|SmartLight Mesh|Lumières|Compatible avec Awox Mesh technologie.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/awox.jpg" width="60" />|Awox Eglo|Eglo Fueva|Lumières|Compatible avec Awox Mesh technologie.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -18,27 +18,27 @@ Awoxmesh
 Beagle
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 
 Beewismartdoor
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/beewismartdoor.jpg" width="60" />|BeeWi|capteur d'ouverture|Capteurs|Capteurs d'ouverture de porte|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Blpnr
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/blpnr.jpg" width="60" />|Jardibric|BLP NR|Plante||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Default
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/default.jpg" width="60" />|Inconnu|Inconnu|Defaut|Uniquement pour les équipements non encore rajouté dans le plugin, pour a minima avoir la présence et les rssi ainsi que la data brute|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -52,56 +52,56 @@ Divoompixoo
 Divoomtimeboxmini
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/divoomtimeboxmini.jpg" width="60" />|Divoom|TimeBox Mini|Afficheur|Fonction garder la connection obligatoire pour pas avoir le logo bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dotti
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/dotti.jpg" width="60" />|Dotti|Dotti|Afficheur|Fonctionnera beaucoup mieux avec option garder la connection|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Dreamscreen
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/dreamscreen.jpg" width="60" />|DreamScreen|DreamScreen|Lumières||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Fitbit
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/fitbit.jpg" width="60" />|Fitbit|Badge|Bracelet|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Flowerpower
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/flowerpower.jpg" width="60" />|Parrot|Power Flower|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Gigaset
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/gigaset.jpg" width="60" />|Gigaset|G-Tag|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Hector
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/hector.jpg" width="60" />|Hector|Hector|Capteurs|Ne doit pas rester connecté en permanence sur votre téléphone si vous voulez l'interaction dans Jeedom|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Itag
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Noir|Botones|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/itag.jpg" width="60" />|Itag|Itag Blanc|Boutons|Attention pour que le bouton fonctionne il faut cocher garder la connection, a partir de ce moment là la connection est gardée et le bouton n'est plus visible des autres antennes. La connection se fait dès que le bouton est visible dans un délai de 20 secondes (cela se confirme par l'arrêt du clignotement) et cela uniquement sur l'antenne choisi en emission (dans ce cas la il faut bien evidemment choisir la même en réception et émission)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -112,21 +112,21 @@ Itag
 Jinlin
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/jinlin.jpg" width="60" />|Lyl Smart|Jinlin|Lumière|Uniquement pour de la présence (le reste viendra)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Kst1
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/kst1.jpg" width="60" />|Koogeek|Kst1|Santé||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Logiswitch
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop rouge|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/logiswitch.jpg" width="60" />|Logitech|Logitech Pop blanc|Boutons|Ne doit absolument pas être connecté sur un autre appareil|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -136,14 +136,14 @@ Logiswitch
 Lywsd02
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/lywsd02.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran (Lywsd02)|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Meyerdom
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/meyerdom2analog.jpg" width="60" />|MeyerDom|2 Analogiques|Contacteurs|2 analogiques|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -152,14 +152,14 @@ Meyerdom
 Meyerdom4Contacts
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|enlace|
+|Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/meyerdom4contacts.jpg" width="60" />|MeyerDom|4 contacteurs|Contacteurs|4 contacteurs et 2 analogiques|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Miband
 =====
 
-|Image|Marque|Nom|tipo|Observación|enlace|
+|Image|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
 |<img src="../images/miband1.jpg" width="60" />|Xiaomi|Miband|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/miband1s.jpg" width="60" />|Xiaomi|Miband1s|Santé|Selon les firmwares peut ne plus fonctionner. Attention si le bracelet est connecté à votre smartphone il est plus visible en bluetooth|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -171,7 +171,7 @@ Miband
 Miflora
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Enlace|
+|Imagen|Marca|Nom|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/miflora.jpg" width="60" />|Xiaomi|Miflora|Sensores|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -200,7 +200,7 @@ Myfox
 Niu
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Lien|
+|Imagen|Marca|Nom|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/niu_wazabi.jpg" width="60" />|Nodon|Niu Wazabi|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_cozygrey.jpg" width="60" />|Nodon|Niu Gris|Botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -212,14 +212,14 @@ Niu
 Noke
 =====
 
-|Imagen|Marque|Nom|tipo|Observación|Lien|
+|Imagen|Marca|Nom|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/noke.jpg" width="60" />|Noke|Noke|Cadenas|Visible que sur appui du bouton (peut fonctionner via un hack des trames pour récupérer la clé) mais ne sera pas fait car illégal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Nut
 =====
 
-|Image|Marque|Nom|Type|Observación|Lien|
+|Image|Marca|Nom|Type|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/nut.jpg" width="60" />|Nut|Nut|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -227,7 +227,7 @@ Nut
 Parrotpot
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/parrotpot.jpg" width="60" />|Parrot|Parrot Pot|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -241,64 +241,64 @@ Playbulb
 Ropot
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ruuvi
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ruuvi.jpg" width="60" />|Ruuvi|Ruuvi|Beacon|Capteurs beacon|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Smartplug
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/smartplug.jpg" width="60" />|Awox|Smartplug|Enchufes||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Tb05
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/tb05.jpg" width="60" />|E-Diffuser|Tb05|Diffuseur|Il est recommandé d'utiliser l'option garder la connection. Obligatoire pour tenter expérimentalement l'accès au couleur direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ticatag
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/ticatag.jpg" width="60" />|Tibe|Ticatag|Boutons|Le relachement est envoyé même après un appui simple ou appui double|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Tile
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/tile.jpg" width="60" />|Tile|Tile|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Wistiki
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/wistiki.jpg" width="60" />|Wistiki|Wistiki|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Xiaomiht
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité|Capteurs|Capteurs de Température Humidité avec écran|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité Cleargrass|Micromodule|Capteurs de Température Humidité avec écran e-ink|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/xiaomiht.jpg" width="60" />|Xiaomi|Température Humidité Cleargrass|Micromódulo|Capteurs de Température Humidité avec écran e-ink|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Yeelight
 =====
 
-|Imagen|Marque|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nom|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/yeelight_bed.jpg" width="60" />|Yeelight|Bed|Lumières|Il faut valider l'appairage en appuyant sur le bouton. Si éteint il faut allumer avant de choisir une couleur|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
