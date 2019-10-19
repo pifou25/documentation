@@ -207,7 +207,7 @@ Niu
 |<img src="../images/niu_lagoon.jpg" width="60" />|Nodon|Niu Lagoon|Botones|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_softberry.jpg" width="60" />|Nodon|Niu Softberry|Botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/niu_techblue.jpg" width="60" />|Nodon|Niu Techblue|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Boutons|Disponible en plusieurs coloris|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/niu_white.jpg" width="60" />|Nodon|Niu Blanc|Botones|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Noke
 =====
