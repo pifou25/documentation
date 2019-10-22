@@ -4,8 +4,8 @@ en modifiant celui-ci dans la base de données, dans le cas où vous l’auriez 
 Lo primero que debe hacer es SSH en Jeedom (con
 software como masilla o gatito).
 
-Une fois connecté, il faut récupérer les identifiants de la base de
-données :
+Una vez que haya iniciado sesión, debe recuperar los identificadores de la base de
+datos :
 
 ``` {.bash}
 cat /var/www/html/core/config/common.config.php
