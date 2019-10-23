@@ -130,7 +130,7 @@ D2-06
 
 |Imagen|Marca|Nombre|tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-||Soda|Manilla de puerta inteligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/2.html)|
+||Soda|Manilla de puerta inteligente EnOcean|Manija|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Comprar](http://www.domadoo.fr/fr/peripheriques/2.html)|
 
 D2-14
 =====
@@ -156,9 +156,9 @@ D5-00
 |<img src="../images/d5-00-01_nodon_ouverture_black.jpg" width="60" />|Nodon|Sensor de apertura black|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2640-nodon-detecteur-d-ouverture-enocean-black-3700313920114.html)|
 |<img src="../images/d5-00-01_nodon_ouverture_alu.jpg" width="60" />|Nodon|Sensor de apertura aluminio|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2641-nodon-detecteur-d-ouverture-enocean-alu-3700313920121.html)|
 |<img src="../images/d5-00-01_nodon_ouverture_wood.jpg" width="60" />|Nodon|Sensor de apertura wood|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2638-nodon-detecteur-d-ouverture-enocean-wood-3700313920091.html)|
-|<img src="../images/d5-00-01_nodon_ouverture_varnish.jpg" width="60" />|Nodon|Capteur d'ouverture varnish|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2639-nodon-detecteur-d-ouverture-enocean-varnish-3700313920107.html)|
+|<img src="../images/d5-00-01_nodon_ouverture_varnish.jpg" width="60" />|Nodon|Sensor de apertura barniz|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/2639-nodon-detecteur-d-ouverture-enocean-varnish-3700313920107.html)|
 |<img src="../images/d5-00-01_eltako_FTK-RW_blanc.jpg" width="60" />|Eltako|Contact de porte/fenêtre - blanc - FTK-RW|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/3122-eltako-contact-de-portefenetre-blanc-4010312305010.html)|
-|<img src="../images/d5-00-01_eltako_FTK-SI_argent.jpg" width="60" />|Eltako|Contact de porte/fenêtre - argent - FTK-SI|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/3123-eltako-contat-de-portefenetre-argente-4010312305171.html)|
+|<img src="../images/d5-00-01_eltako_FTK-SI_argent.jpg" width="60" />|Eltako|Contacto de puerta/ventana - plateado - FTK-SI|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/3123-eltako-contat-de-portefenetre-argente-4010312305171.html)|
 |<img src="../images/d5-00-01_eltako_FTK-AN_anthracite.jpg" width="60" />|Eltako|Contact de porte/fenêtre - anthracite - FTK-AN|Apertura|Disponible en varios colores|[Comprar](http://www.domadoo.fr/fr/peripheriques/3121-eltako-contact-de-portefenetre-anthracite-4010312305164.html)|
 |<img src="../images/d5-00-01_avidsen_ouverture.jpg" width="60" />|Avidsen|Contacto de puerta/ventana|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -179,7 +179,7 @@ F6-02
 |<img src="../images/f6-02-02.jpg" width="60" />|Nodon|Interruptor de pared EnOcean - Cozi Gray|Interruptor|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2628-nodon-interrupteur-mural-enocean-cozi-grey-3700313920084.html)|
 |<img src="../images/f6-02-02.jpg" width="60" />|Eltako|Convertisseur infrarouge/EnOcean avec port USB pour télécommande Harmony Logitech - FIW-USB|Infrarrojo|Créera autant d'équipement que de famille boutons disponibles dans la documentation de modules (à chaque famille une inclusion est nécessaire)|[Comprar](http://www.domadoo.fr/fr/peripheriques/3263-eltako-convertisseur-infrarougeenocean-avec-port-usb-4010312311158.html)|
 |<img src="../images/f6-02-02.mode_on_off.jpg" width="60" />|F6-02|||||
-|<img src="../images/f6-02-02.open_eltako_ouverture_FTKE.jpg" width="60" />|Eltako|Contact de porte/fenêtre avec levier - blanc - FTKE-RW|Apertura|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/3125-eltako-contact-de-portefenetre-blanc-4010312315231.html)|
+|<img src="../images/f6-02-02.open_eltako_ouverture_FTKE.jpg" width="60" />|Eltako|Contacto de puerta/ventana con palanca - blanco - FTKE-RW|Apertura|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/3125-eltako-contact-de-portefenetre-blanc-4010312315231.html)|
 |<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue tech|Mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2624-nodon-soft-remote-enocean-tech-blue-3700313920053.html)|
 |<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote cozy grey|Mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2625-nodon-soft-remote-enocean-cozy-grey-3700313920060.html)|
 |<img src="../images/f6-02-02.poussoir.jpg" width="60" />|Nodon|Soft Remote blue lagoon|Mando a distancia|Disponible en plusieurs coloris. Deux modes de fonctionnement possible dans Jeedom (on/off sur deux boutons ou toggle sur 4 boutons). Les appuis multiples sont gérés.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2898-nodon-soft-remote-enocean-lagoon-3700313920312.html)|

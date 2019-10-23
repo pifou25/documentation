@@ -212,7 +212,7 @@ Niu
 Noke
 =====
 
-|Imagen|Marca|Nom|tipo|Observación|Lien|
+|Imagen|Marca|Nombre|tipo|Observación|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/noke.jpg" width="60" />|Noke|Noke|Cadenas|Visible que sur appui du bouton (peut fonctionner via un hack des trames pour récupérer la clé) mais ne sera pas fait car illégal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
