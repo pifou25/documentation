@@ -4,7 +4,7 @@
 
 C'est un service Jeedom SAS, gratuit le temps des tests en beta, qui deviendra payant par la suite une fois celui-ci stabilisé. Il prends en compte les assistants vocaux de Google et d'Amazon.
 
-## Pourquoi est-ce payant ?
+## ¿Por qué es de pago?
 
 Ce service nous oblige a mettre en place une infrastructure de serveur entre vos Jeedom et les serveurs de Google ou Amazon. Cela à donc un coup récurrent pour Jeedom SAS.
 De plus ces 2 services nous demandes beaucoup de temps de maintient/developpement et nous impose une grosse charge de travail pour la partie validation avec Amazon ou Google.

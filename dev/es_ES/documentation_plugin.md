@@ -34,7 +34,7 @@ Nous vous recommandons dans votre plugin (hebergé sur github) de faire un dossi
 
 Une fois cela fait vous allez avoir dans le dossier docs un dossier fr_FR (le seul à modifier). Dans ce dossier nous vous conseillons de faire 2 fichiers : 
 
-- changelog.md => votre changelog
+- changelog.md => su changelog
 - index.md => votre documentation
 
 ### Publicación
@@ -54,7 +54,7 @@ Il vous faut maintenant mettre les liens de votre documentation dans le fichier 
 >
 > Vous l'aurez compris lorsque l'utilisateur va demander à voir votre doc jeedom ou le market vont automatiquement remplacer #language# par la langue de l'utilisateur pour pointer vers la bonne langue (si votre documentation n'est pas disponible dans la langue de l'utilisateur alors automatiquement cela renverra vers le Français)
 
-### Gestion de la traduction
+### Gestión de la traducción
 
 Si votre plugin est structuré comme conseil au dessus alors la gestion des traductions est très simple a mettre en place en plus d'etre automatique, il suffit d'autoriser l'utilisateur github zoic21 à push/pull sur votre dépot et dans le market sur la page d'édition de votre plugin dans l'onglet github de cocher "Activer la génération de la documention et de la traduction". Le robot passe tous les jours à 12h (plus ou moins 2h en fonction de la charge de travails) pour recuperer la documentation Francaise de votre plugin et le changelog (branche beta) la pousser sur transiflex (systeme de traduction communautaire), recuperer les nouvelles traduction et le pousser sur votre dépot github dans les bons dossier.
 

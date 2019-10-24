@@ -1,7 +1,7 @@
-# Sauvegarde cloud
+# Copia de seguridad en la nube
 
 
-## FAQ
+## Preguntas frecuentes
 
 > **Erreur Specification mandate value for attribute defer on line 19, column 146**
 >

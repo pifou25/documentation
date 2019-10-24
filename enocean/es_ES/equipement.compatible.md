@@ -194,46 +194,46 @@ F6-02
 F6-03
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/f6-03-01.impulsion_eltako_F8S12-12VDC.jpg" width="60" />|Eltako|Module F8S12-12VDC|Impulsion|Bien choisir le bon profil après inclusion et créer un équipement par canal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/f6-03-01.impulsion_eltako_F8S12-12VDC.jpg" width="60" />|Eltako|Módulo F8S12-12VDC|Pulso|Elija el perfil correcto después de la inclusión y cree un dispositivo por canal|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 ||F6-03|||||
 
 F6-04
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/f6-04-01_ nodon_lecteur_de_carte.jpg" width="60" />|Nodon|Interruptor de tarjeta EnOcean|Interruptor|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/3066-nodon-interrupteur-a-carte-enocean-3700313920329.html)|
 
 F6-05
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/f6-05-01_eltako_innondation_fws81.jpg" width="60" />|Eltako|Détecteur d'inondation Enocean FWS81|Fuga|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/3132-eltako-detecteur-d-inondation-enocean-4010312316061.html)|
 
 F6-10
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Aluminium|Poignée|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
-|<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Blanche|Poignée|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
+|<img src="../images/f6-10-00_hoppe_poignee-aluminium.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Aluminium|Manija|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/1062-hoppe-poignee-fenetre-secusignal-atlanta-alu-4012789023428.html)|
+|<img src="../images/f6-10-00_hoppe_poignee-blanche.jpg" width="60" />|Hoppe|Poignée de fenêtre Sécusignal Atlanta Blanche|Manija|Elegir el perfil correcto después de la inclusión|[Comprar](http://www.domadoo.fr/fr/peripheriques/1063-hoppe-poignee-fenetre-secusignal-atlanta-blanc-4012789104158.html)|
 
-Recepteur
+Receptor
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/recepteur_1_canal_trio2sys_recepteur_1_canal.jpg" width="60" />|Trio2sys|Récepteur 1 canal O2line|Micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/recepteur_1_canal_vitec_ubid1008.jpg" width="60" />|Vitec|Récepteur 1 canal Vitec|Micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/recepteur_2_canaux_trio2sys_recepteur_2_canaux.jpg" width="60" />|Trio2sys|Récepteur 2 canaux O2line|Micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/recepteur_1_canal_trio2sys_recepteur_1_canal.jpg" width="60" />|Trio2sys|Receptor 1 canal O2line|Micromódulo|Módulo solamente receptor no se incluye pero se associa|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/recepteur_1_canal_vitec_ubid1008.jpg" width="60" />|Vitec|Receptor 1 canal Vitec|Micromódulo|Módulo receptor solamente no se incluye pero se asocia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/recepteur_2_canaux_trio2sys_recepteur_2_canaux.jpg" width="60" />|Trio2sys|Receptor 2 canales O2line|Micromódulo|Module récepteur seulement ne s'inclue pas mais s'appaire|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/recepteur_dimmer_eltako_dimmer_sans_neutre.jpg" width="60" />|Eltako|Actionneur radio télévariateur universel sans neutre - FUD61NP-230V|Micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/2424-eltako-actionneur-radio-variateur-rlc-encastrable-sans-neutre-4010312300183.html)|
-|<img src="../images/recepteur_dimmer_eltako_variateur_ballast_fsg71.jpg" width="60" />|Eltako|Variateur pour ballasts électroniques 1-10V|Ballast|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/3208-eltako-variateur-pour-ballasts-electroniques-1-10v-4010312316283.html)|
+|<img src="../images/recepteur_dimmer_eltako_variateur_ballast_fsg71.jpg" width="60" />|Eltako|Variateur pour ballasts électroniques 1-10V|Lastre|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/3208-eltako-variateur-pour-ballasts-electroniques-1-10v-4010312316283.html)|
 |<img src="../images/recepteur_dimmer_eltako_dimmer.jpg" width="60" />|Eltako|Actionneur radio, variateur universel, encastrable - FUD61NPN-230V|Micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/1936-eltako-actionneur-radio-variateur-rlcesl-et-led-encastrable-4010312300299.html)|
 |<img src="../images/recepteur_dimmer_eltako_prise_dimmer_FSUD230V.jpg" width="60" />|Eltako|Enchufe regulador - FSUD-230V|Enchufe|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/recepteur_dimmer_eltako_FUD71.jpg" width="60" />|Eltako|Variateur Ballast - FUD71-230V|Ballast|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/recepteur_dimmer_eltako_FUD71.jpg" width="60" />|Eltako|Variateur Ballast - FUD71-230V|Lastre|Bien activer le retour d'état sur le module en suivant la documentation du fabricant. Le module envoit son état 1 seconde après la fin du changement|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61NP.jpg" width="60" />|Eltako|Actionneur Enocean télérupteur - FSR61NP-230V|Micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3112-eltako-actionneur-enocean-telerupteur-4010312300190.html)|
 |<img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61.jpg" width="60" />|Eltako|Actionneur télérupteur EnOcean - FSR61-230V|Micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3109-eltako-actionneur-telerupteur-enocean-4010312301531.html)|
 |<img src="../images/recepteur_retour_etat_1_canal_eltako_FSR61_8-24.jpg" width="60" />|Eltako|Actionneur EnOcean télérupteur à alimentation en 8 à 24V UC - FSR61/8-24V|Micromódulo|Bien activer le retour d'état sur le module en suivant la documentation du fabricant|[Comprar](http://www.domadoo.fr/fr/peripheriques/3110-eltako-actionneur-enocean-telerupteur-a-alimentation-en-8-a-24v-uc-4010312301357.html)|

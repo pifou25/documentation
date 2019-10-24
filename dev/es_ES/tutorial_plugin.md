@@ -151,7 +151,7 @@ Et rien d’autre , ne pas changer la ligne <?php include_file('core', 'plugin.t
 
 - Ouvrir le fichier plugin_info/install.php
 
-Et renommer les fonctions comme suit
+Y cambie el nombre de las funciones de la siguiente manera
 
 ```
 function vdm_install() {
@@ -172,7 +172,7 @@ Voilà le plugin est prêt mais il reste la customisation et l’icône à mettr
 
 Ajouter l'icône dans le dossier plugin_info sous le nom vdm_icon.png
 
-dans mon cas 
+en mi caso
 
 ![imagen](../images/tutorial_vdm_icon.png)
 
@@ -373,7 +373,7 @@ Voici le rendu.Les options de configuration (Affichage et historiser) sont bien 
 
 ![image](../images/tutorial_vdm_cmd2.png)
 
-Voilà il reste à récupérer une vdm aléatoire et à utiliser les commandes.
+Solo falta por recuperar una vdm aleatoria y usar los comandos.
 
 
 # Recuperando informaciones
@@ -475,7 +475,7 @@ On va voir maintenant comment mettre à jour la commande en utilisant les foncti
 
 Hay varios :
 
-- cron : rafraichissement toutes les minutes
+- cron : actualizando cada minuto
 - cron5 : rafraichissement toutes les 5 minutes
 - cron15 : rafraichissement toutes les 15 minutes
 - cron30 : rafraichissement toutes les 30 minutes
@@ -508,7 +508,7 @@ Nuestra función es operativa
 Maintenant il faut récupérer tous les équipements de notre plugin,
 
 ```
-self::byType('vdm') //array contenant tous les équipements du plugin 
+self::byType('vdm') //array que contiene todos los dispositivos del plugin 
 ```
 
 y ordenarlos 1 por 1
@@ -618,7 +618,7 @@ Et encore mieux d'aller sur le github du core ==> [ICI](https://github.com/jeedo
 
 Mettez le nez de dedans pour maîtrisez encore plus .
 
-Le plugin est fonctionnel en l'état.
+El plugin es funcional como es.
 
 Je prendrai le temps d'ajouter la façon de mettre en place un cron personnalisé selon l'équipement .
 
@@ -697,7 +697,7 @@ Pour le moment, nous avons donc utiliser 3 classes du core de jeedom : EqLogic, 
 $plugin = plugin::byId('vdm'); // appelle la classe plugin du core
 ```
 
-Il faut comprendre que tout est fait pour nous faciliter la tâche. 
+Debe entender que todo se hace para facilitar la tarea.
 
 Pour un paramètre/une option interne au plugin , on va utiliser une des méthodes de la class eqLogic du core : setConfiguration() en y ajoutant les paramètres que l’on souhaite. Par exemple :
 

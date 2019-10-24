@@ -219,17 +219,17 @@ Noke
 Nut
 =====
 
-|Image|Marca|Nom|Type|Observación|Lien|
+|Image|Marca|Nom|Type|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/nut.jpg" width="60" />|Nut|Nut|Présence|Uniquement pour de la présence|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Bleu|Présence||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/nut.jpg" width="60" />|Nut|Nut|Presencia|Solamente por la presencia|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/nut.jpg" width="60" />|Nut|Nut Mini Azul|Presencia||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Parrotpot
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/parrotpot.jpg" width="60" />|Parrot|Parrot Pot|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/parrotpot.jpg" width="60" />|Parrot|Parrot Pot|Sensores|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Playbulb
 =====
