@@ -830,15 +830,15 @@ Vitrum
 Wenzhou
 =====
 
-|Image|Marca|Nombre|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
 |<img src="../images/280.1.1_tz88.smart.energy.plug.jpg" width="60" />|Wenzhou|TZ88|Enchufe|También se vende bajo la marca TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.11.1_st812.flood.detector.jpg" width="60" />|Wenzhou|ST812|Fuga|Vendido bajo la marca Everspring|[Comprar](http://www.domadoo.fr/fr/peripheriques/860-everspring-detecteur-d-eau-z-wave-st-812-3700946500318.html)|
 |<img src="../images/280.2056.2056_tz65d.dual.wall.dimmer.jpg" width="60" />|Wenzhou|TZ65D|Interruptor|Vendu aussi sous la marque TkbHome. Bouton de droit fonctionne en association seulement.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2056-tkb-home-tz65d-interrupteur-variateur-double-z-wave-blanc-6959174465006.html)|
 |<img src="../images/280.257.259_tz68e.wall.plug.jpg" width="60" />|Wenzhou|TZ68e|Enchufe|También se vende bajo la marca TkbHome|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/280.258.4128_tz66d.double.switch.jpg" width="60" />|Wenzhou|TZ66D|Interruptor|Vendu aussi sous la marque TkbHome. Bouton de droit fonctionne en association seulement.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2058-tkb-home-tz66d-interrupteur-double-z-wave-blanc-6959174466010.html)|
+|<img src="../images/280.258.4128_tz66d.double.switch.jpg" width="60" />|Wenzhou|TZ66D|Interruptor|También se vende bajo la marca TkbHome. El botón derecho funciona solamente en asociación.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2058-tkb-home-tz66d-interrupteur-double-z-wave-blanc-6959174466010.html)|
 |<img src="../images/280.3.3_tz56.double.switch.jpg" width="60" />|Wenzhou|TZ56|Interruptor|Le deuxième Bouton sert uniquement en association direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/280.3.4_tz55.double.switch.dimmer.jpg" width="60" />|Wenzhou|TZ55|Interruptor|Le deuxième Bouton sert uniquement en association direct|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/280.3.4_tz55.double.switch.dimmer.jpg" width="60" />|Wenzhou|TZ55|Interruptor|El segundo botón solo se usa en asociación directa|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.514.1553_tz67.wall.plug.dimmer.jpg" width="60" />|Wenzhou|TZ67|Enchufe|También se vende bajo la marca TkbHome.|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.785.515_tz57.double.switch.jpg" width="60" />|Wenzhou|TZ57|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/280.785.772_tz74.double.switch.jpg" width="60" />|Wenzhou|TZ74 Doble carga|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -846,10 +846,10 @@ Wenzhou
 Widom
 =====
 
-|Imagen|Marca|Nombre|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Enlace|
 |---|---|---|---|---|---|
-|<img src="../images/329.18.260_ubs.switch.jpg" width="60" />|Widom|USB Single charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/329.4628.1284_wds.double.switch.jpg" width="60" />|Widom|WDS Double charge|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3694-widom-micromodule-commutateur-double-z-wave-8059265060047.html)|
+|<img src="../images/329.18.260_ubs.switch.jpg" width="60" />|Widom|USB Simple carga|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/329.4628.1284_wds.double.switch.jpg" width="60" />|Widom|WDS Doble carga|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3694-widom-micromodule-commutateur-double-z-wave-8059265060047.html)|
 ||Widom|WPMC Energy Driven Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3693-widom-micromodule-commutateur-z-wave-avec-pince-amperemetrique.html)|
 |<img src="../images/329.4628.772_wpms.energy.driven.switch.jpg" width="60" />|Widom|WPMS Energy Driven Switch|Micromódulo||[Comprar](http://www.domadoo.fr/fr/peripheriques/3688-widom-micromodule-z-wave-commutateur-avec-mesure-d-energie.html)|
 
@@ -861,19 +861,19 @@ Zipato
 |<img src="../images/305.1.18_pan04-eu.wallSwitch.jpg" width="60" />|Zipato|PAN04 In Wall Switch Module with meter 2X1.5KW|Micromódulo|También se vende bajo la marca Philio|[Comprar](http://www.domadoo.fr/fr/peripheriques/2610-zipato-micromodule-commutateur-double-z-wave-avec-mesure-d-energie-3858890730821.html)|
 |<img src="../images/305.1.21_pan08-1.in.wall.roller.shutter.jpg" width="60" />|Zipato|PAN08-1 In Wall Roller Shutter Controller|Persianas||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/305.2.12_psm02-eu.4.in.1.jpg" width="60" />|Zipato|PSM02 4in1 Multi-Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/2608-zipato-detecteur-z-wave-4-en-1-mouvement-ouverture-luminosite-tem-3858890730425.html)|
-|<img src="../images/305.2.2_rgbw_bulb.jpg" width="60" />|Zipato|Bulb RGBW|Ampoule||[Comprar](http://www.domadoo.fr/fr/peripheriques/2541-zipato-ampoule-led-rgbw-z-wave-3858890731026.html)|
-|<img src="../images/305.2.3_rgbw_bulb2.jpg" width="60" />|Zipato|Bulb 2|Ampoule|Onglet Système, modifier Color Channels avec la valeur 31 pour avoir des rapports de couleurs cohérents|[Comprar](http://www.domadoo.fr/fr/peripheriques/4111-zipato-ampoule-led-rgbw-z-wave-v2-3858890733464.html)|
+|<img src="../images/305.2.2_rgbw_bulb.jpg" width="60" />|Zipato|Bulb RGBW|Bombilla||[Comprar](http://www.domadoo.fr/fr/peripheriques/2541-zipato-ampoule-led-rgbw-z-wave-3858890731026.html)|
+|<img src="../images/305.2.3_rgbw_bulb2.jpg" width="60" />|Zipato|Bulb 2|Bombilla|Onglet Système, modifier Color Channels avec la valeur 31 pour avoir des rapports de couleurs cohérents|[Comprar](http://www.domadoo.fr/fr/peripheriques/4111-zipato-ampoule-led-rgbw-z-wave-v2-3858890733464.html)|
 |<img src="../images/305.24881.17665_mini.keypad.jpg" width="60" />|Zipato|Mini teclado RFID|Teclado RFID|Le badge utilisé ne remonte pas.|[Comprar](http://www.domadoo.fr/fr/peripheriques/2470-zipato-clavier-a-code-et-rfid-z-wave-3858890730579.html)|
 |<img src="../images/305.3.1089_nas-pd01zt.jpg" width="60" />|Zipato|Sensor PIR|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/305.3.4226_nas-ds01z.jpg" width="60" />|Zipato|Door Sensor|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/305.3.4227_nas-pd01z.jpg" width="60" />|Zipato|PIR Sensor|Multisensores||[Comprar](http://www.domadoo.fr/fr/peripheriques/4160-zipato-capteur-de-mouvement-pir-z-wave-3858890733341.html)|
-|<img src="../images/305.3.4233_nas-pd01zt.jpg" width="60" />|Zipato|PIR Sensor|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/305.3.4226_nas-ds01z.jpg" width="60" />|Zipato|Sensor de puerta|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/305.3.4227_nas-pd01z.jpg" width="60" />|Zipato|Sensor PIR|Multisensores||[Comprar](http://www.domadoo.fr/fr/peripheriques/4160-zipato-capteur-de-mouvement-pir-z-wave-3858890733341.html)|
+|<img src="../images/305.3.4233_nas-pd01zt.jpg" width="60" />|Zipato|Sensor PIR|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/305.32770.4096_hs1saz_smoke_sensor.jpg" width="60" />|Zipato|Smart Smoke Sensor (HS1SA-Z)|Humo||[Comprar](http://www.domadoo.fr/fr/peripheriques/4149-zipato-capteur-de-fumee-z-wave--3858890733594.html)|
-|<img src="../images/305.32771.4096_hs1cgz_gaz_sensor.jpg" width="60" />|Zipato|Gaz Sensor (HS1CG-Z)|Gas|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Comprar](http://www.domadoo.fr/fr/peripheriques/4153-zipato-capteur-de-gaz-z-wave-3858890733587.html)|
+|<img src="../images/305.32771.4096_hs1cgz_gaz_sensor.jpg" width="60" />|Zipato|Sensor de Gas (HS1CG-Z)|Gas|Pas de remontée d'alerte au contrôleur. Sonne sur détection de gaz combustible|[Comprar](http://www.domadoo.fr/fr/peripheriques/4153-zipato-capteur-de-gaz-z-wave-3858890733587.html)|
 |<img src="../images/305.32772.4096_hs1wlz_flood_sensor.jpg" width="60" />|Zipato|Flood Sensor (HS1WL-Z)|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/4159-zipato-capteur-d-inondation-z-wave--3858890733624.html)|
 |<img src="../images/305.32773.4096_hs1caz_co_sensor.jpg" width="60" />|Zipato|CO Sensor (HS1CA-Z)|CO||[Comprar](http://www.domadoo.fr/fr/peripheriques/4151-zipato-capteur-de-monoxyde-de-carbone-z-wave-3858890733563.html)|
 |<img src="../images/305.4.10_pse02.indoor.siren.jpg" width="60" />|Zipato|PH-PSE02 Sirena Z-Wave +|Sirena||[Comprar](http://www.domadoo.fr/fr/peripheriques/2960-zipato-sirene-d-interieur-z-wave-3858890733310.html)|
-|<img src="../images/305.8193.262_vszd2102.eu.doorwindow.sensor.jpg" width="60" />|Zipato|VS-ZD2102 Door/Window Sensor|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
+|<img src="../images/305.8193.262_vszd2102.eu.doorwindow.sensor.jpg" width="60" />|Zipato|VS-ZD2102 Door/Window Sensor|Apertura||[Comprar](http://www.domadoo.fr/fr/peripheriques/2609-zipato-detecteur-d-ouverture-z-wave-3858890730470.html)|
 |<img src="../images/305.8194.517_zp3102.eu.pir.motion.sensor.jpg" width="60" />|Zipato|ZP3102|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/2605-zipato-detecteur-de-mouvement-et-capteur-de-temperature-z-wave-3858890730272.html)|
 |<img src="../images/305.8223.7968_zd2301.multisensor.4in1.jpg" width="60" />|Zipato|ZD2301 Multisensor 4in1|Apertura|También se vende bajo la marca Vision.|[Comprar](http://www.domadoo.fr/fr/peripheriques/3823-zipato-detecteur-z-wave-plus-4-en-1-3858890732153.html)|
 

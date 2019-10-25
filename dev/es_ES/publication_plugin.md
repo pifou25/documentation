@@ -25,7 +25,7 @@ Une fois connecté avec votre compte dev sur le market il faut :
     - une note sur l'utilisation si necessaire
   - Github : c'est ici que vous aller mettre les information entre le market et Github
     - le token (a ne mettre que si votre plugin est sur un dépot privé)
-    - votre nom d'utilisateur github
+    - su nombre de usuario github
     - el nombre del depósito en github
     - cocher la case pour que le market gere la traduction de votre plugin et de la documentation (attention dans ce cas à bien donner tous les droits à l'utilisateur zoic21 de github sur votre dépot github)
 
@@ -33,7 +33,7 @@ Une fois connecté avec votre compte dev sur le market il faut :
 
    - beta
    - estable
-   - pro (ne sert a rien dans 99% des cas)
-   - stablev3 (bientot)
+   - pro (es inútil en el 99% de los casos)
+   - stablev3 (pronto)
 
    La synchronisation se fait soit automatiquement tous les jours à 12h10 (attention vu le nombre de plugin et les restrictions d'appels api la mise à jour commence à 12h10 mais prendre plusieurs dizaine d'heure). Vous pouvez aussi lancer une synchronisation manuel d'une branche à partir de la fiche plugin

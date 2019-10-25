@@ -11,7 +11,7 @@ Par défaut, celle-ci est configurée en mode Modem afin d'être compatible avec
 
 > sudo nano /etc/usb_modeswitch.conf
 
-puis ajouter ceci :
+luego agregue esto :
 
 > TargetVendor=0x12d1
 

@@ -56,7 +56,7 @@ Programación         | programación             |
 Protocolo domótico   | automation protocol     |
 Salud                 | salud                  |
 Sécurité              | security                |
-Automatisme           | automatisation          |
+Automatisme           | automatización          |
 
 
 

@@ -241,9 +241,9 @@ Playbulb
 Ropot
 =====
 
-|Imagen|Marca|Nom|Tipo|Observación|Lien|
+|Imagen|Marca|Nombre|Tipo|Observación|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Capteurs|Capteurs de plantes|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/ropot.jpg" width="60" />|Xiaomi|Miflora|Sensores|Sensores de plantas|[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 Ruuvi
 =====
