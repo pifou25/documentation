@@ -2,7 +2,7 @@
 
 Il existe dans Jeedom plusieurs maniere de remonter un soucis : 
 
-- remonter le soucis sur a [communautée](https://community.jeedom.com), c'est en géneral la que vous aurez la réponse la plus rapide
+- remonter le soucis sur la [communautée](https://community.jeedom.com), c'est en géneral la que vous aurez la réponse la plus rapide
 - remonter un soucis à l'équipe Jeedom : 
 -- **Demande de support** (nécessite un service pack power ou plus ou bien que le soucis soit sur un plugin/service payant), cette demande est **privée** et vous mettra directement en relation avec l'équipe support de Jeedom qui analyse votre cas en particulier
 -- **Rapport de bug**, dans ce cas la demande est **public** et sera posté sur la communauté
