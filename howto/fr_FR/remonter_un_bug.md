@@ -33,3 +33,6 @@ Puis faire une capture de ce qui va s'afficher, en particulier la ligne en rouge
 ![remonter_un_bug002](../images/remonter_un_bug002.png)
 
 Voila si vous suivez bien tout ca vous devriez avoir des réponses a votre probleme bien plus rapide et bien plus juste et permettre à la personne qui vous a aider d'aider une autre personne plus rapidement.
+
+- vous avez un soucis avec un démon : il faut absolument mettre la log en debug de celui-ci sinon aucune aide ne sera possible. Vous pouvez aussi en bonus ajoute la log d'installation des dépendances (souvent en \_update)
+- vous avez un probleme d'installation de dépendances, il faut absolument mettre la log de leur installation (souvent en \_update)
