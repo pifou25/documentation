@@ -45,7 +45,7 @@ Después de instalar una distribución Linux para su
 Hardware: Debian (vm, PC, ...), Raspbian Lite (Frambuesa Pi), Armbian
 (Ordoid, ...), ...
 
-Logiciel
+Software
 ========
 
 > **Importante**
@@ -106,13 +106,13 @@ Controlador Zigbee :
 
 - [Phoscon Conbee I/II](http://bit.ly/2n4VyWc)
 
-Modules Zwave
+Módulos Zwave
 -------------
 
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/zwave/fr_FR/equipement.compatible)
 
-Modules EnOcean
+Módulos EnOcean
 ---------------
 
 Vous trouverez la liste
@@ -130,7 +130,7 @@ Módulos RFXcom
 Vous trouverez la liste
 [ici](https://jeedom.github.io/documentation/rfxcom/fr_FR/equipement.compatible)
 
-Caméras
+Cámaras
 -------
 
 Vous trouverez la liste
@@ -143,7 +143,7 @@ L’équipe jeedom vous recommande (en fonction de votre budget) :
 
 -   Jeedom Smart (tout est préinstallé, vous n’avez rien à faire)
 
--   Odroid C2 (meilleur rapport performance/prix)
+-   Odroid C2 (mejor relación rendimiento/precio)
 
 -   Intel Nuc gen6 (des performances extrêmes, voir la catégorie tuto
     pour le choix dans les differents modèles et l’installation)

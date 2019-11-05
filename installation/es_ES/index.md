@@ -33,11 +33,11 @@ Voici une configuration "type" pour bien débuter avec Jeedom en Z-Wave :
 
     -   Un raspberry+boitier \~ 50 €
 
-    -   Une clef Aeon Gen 5 \~ 60 €
+    -   Una llave Aeon Gen 5 \~ 60 € 
 
-    -   Une micro carte SD \~ 7 €
+    -   Una tarjeta micro SD  \~ 7 €
 
-    -   Une alimentation USB \~ 8 €
+    -   Una alimentación USB \~ 8 €
 
 Soit un total de 125 € pour une box domotique open source avec une
 maîtrise complète de son installation.
@@ -188,7 +188,7 @@ Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
 -   Utilisez un scanner de port type "angyipscanner"
     [ici](http://angryip.org/download/#windows)
 
-Etablir la connexion
+Establecer la conexión
 
 Ensuite utilisez par exemple putty pour établir votre connexion
 [Ici](http://www.putty.org/)
@@ -231,7 +231,7 @@ Il vous suffit ensuite d’aller sur IP\_MACHINE\_JEEDOM
 
     ./install.sh -w /var/www/html -z -m Jeedom
 
-**8/ Optimisation système
+**8/ Optimización sistema
 
 Si vous utilisez votre Raspberry pour Jeedom sans écran connecté, il est recommandé d'effectuer le minimum de RAM à la partie vidéo.
 
@@ -283,7 +283,7 @@ Etape 3 : Installation en cours
 Patientez pendant le téléchargement de l'image
 ![delta5](../images/delta5.png)
 
-Etape 4 : Connectez-vous à votre Jeedom
+Paso 4: Conéctate a tu Jeedom
 ---
 
 Vous pouvez vous connecter grâce à l'adresse indiquée sur la page:
@@ -348,11 +348,11 @@ Etape 4 : Lancement de la VM
 
 -   Cliquez sur configuration
 
--   Sélectionnez stockage
+-   Seleccione almacenamiento
 
 -   Ajoutez un lecteur optique
 
--   Choisissez un disque
+-   Elige un disco
 
 ![VirtualBox2](../images/VirtualBox2.PNG)
 
@@ -386,7 +386,7 @@ C’est du classique …​
 -   Pour Grub, pas d’inquiétude, le secteur de démarrage est celui de la
     VM, pas celui de votre PC. Aucun risque de casser quoi que ce soit.
 
-Etape 6 : Installation de jeedom
+Etape 6 : Instalación de jeedom
 ---
 
 -   Lancez votre VM
@@ -417,7 +417,7 @@ Etape 6 : Installation de jeedom
 Etape 7 : Lancement de jeedom
 ---
 
--   Pour connaitre l’adresse Ip Lan de la VM
+-   Para conocer la dirección Ip Lan de la VM
 
 <!-- -->
 
@@ -482,7 +482,7 @@ Puis la lancer :
 
     sudo docker run --name jeedom-mysql -v /opt/jeedom/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=your-mysql-password -d mysql:latest
 
-Avec :
+Con :
 
 -   jeedom-mysql : le nom du conteneur mysql
 
@@ -494,7 +494,7 @@ Avec :
 Etape 3 : Installation d’une image Jeedom
 ---
 
-Installation de l’image :
+Instalando la imagen :
 
     docker pull jeedom/jeedom
 
@@ -590,7 +590,7 @@ Donnez un nom à votre mysql ainsi qu’un port local redirigé vers le port
 
 ![install synology 18](../images/install_synology_18.PNG)
 
-Faites suivant :
+Haz siguiente :
 
 ![install synology 19](../images/install_synology_19.PNG)
 
@@ -644,7 +644,7 @@ suivant :
 
 ![install synology 23](../images/install_synology_23.PNG)
 
-Faites suivant :
+Haz siguiente :
 
 ![install synology 24](../images/install_synology_24.PNG)
 

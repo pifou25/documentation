@@ -330,7 +330,7 @@ Cette demande passe par un ticket. Il est possible d’en ouvrir un de
 plusieurs façons :
 
 -   Directement à partir de Jeedom (méthode conseillée) : où que vous
-    soyez dans Jeedom, il y a un point d’exclamation en haut à droite
+    vaya en Jeedom, hay un signo de exclamación en la esquina superior derecha
     qui permet de faire une demande de support :
 
 ![premier support4](../images/premier-support4.png)
