@@ -18,13 +18,13 @@ des plugins offerts :
 -   [Jeedom Smart
     Z-Wave+](https://www.domadoo.fr/fr/box-domotique/3959-jeedom-controleur-domotique-jeedom-smart-z-wave.html)
 
--   [Jeedom Smart Z-Wave+ et
+-   [Jeedom Smart Z-Wave + y
     RFXCOM](https://www.domadoo.fr/fr/box-domotique/4043-jeedom-controleur-domotique-jeedom-smart-z-wave-et-interface-rfxcom.html)
 
 -   [Jeedom Smart
     EnOcean](https://www.domadoo.fr/fr/box-domotique/4041-jeedom-controleur-domotique-jeedom-smart-enocean.html)
 
--   [Jeedom Smart EnOcean et
+-   [Jeedom Smart EnOcean y
     RFXCOM](https://www.domadoo.fr/fr/box-domotique/4044-jeedom-controleur-domotique-jeedom-smart-enocean-et-interface-rfxcom.html)
 
 Voici une configuration "type" pour bien débuter avec Jeedom en Z-Wave :
@@ -68,7 +68,7 @@ Jeedom Smart
 
 Vous trouverez ici la documentation pas à pas pour installer ou restaurer Jeedom
 
-[ici](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
+[aquí](https://jeedom.github.io/documentation/howto/fr_FR/recovery_mode_jeedom_smart)
 
 Jeedom mini+
 ===========
@@ -186,7 +186,7 @@ Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
 -   Consultez la configuration DHCP dans votre routeur
 
 -   Utilisez un scanner de port type "angyipscanner"
-    [ici](http://angryip.org/download/#windows)
+    [aquí](http://angryip.org/download/#windows)
 
 Establecer la conexión
 
@@ -257,7 +257,7 @@ Freebox Delta
 
 Il est possible d'installer sur Freebox Delta Jeedom via le système de VMs.
 
-Etape 1 : Connexion à la Delta
+Paso 1 : Conexión a la Delta
 ---
 
 Vous devez vous rendre sur l'interface de configuration de votre Freebox Delta.
@@ -330,23 +330,23 @@ Cliquez sur nouvelle et renseignez les champs comme ci dessous :
 ![VirtualBox1](../images/VirtualBox1.PNG)
 
 -   Cliquez sur suivant, adapter la taille de la mémoire par rapport à
-    votre système (1024 sont suffisants)
+    su sistema (1024 son suficientes)
 
 -   Cliquez sur suivant, créer un disque virtuel maintenant
 
--   Cliquez sur Créer, choisissez VDI
+-   Haga clic en Crear, elija VDI
 
 -   Cliquez sur suivant, dynamiquement alloué
 
 -   Cliquez sur suivant, Choisissez une taille pour l’espace
     (4Go suffisent)
 
--   Cliquez sur créer
+-   Haga clic en crear
 
 Etape 4 : Lancement de la VM
 ---
 
--   Cliquez sur configuration
+-   Haga clic en configuración
 
 -   Seleccione almacenamiento
 
@@ -389,9 +389,9 @@ C’est du classique …​
 Etape 6 : Instalación de jeedom
 ---
 
--   Lancez votre VM
+-   Lanza su VM
 
--   Identifiez-vous avec l’utilisateur et le mot de passe choisis
+-   Identifícate con el usuario y la contraseña elegidos
     pendant l’installation
 
 -   Passez en root
@@ -451,7 +451,7 @@ Etape 1 : Installation de docker
 Docker est maintenant disponible sur toutes les distributions récentes.
 Pour l’installer sur une distribution
 
--   à base de rpm
+-   basado en rpm
 
 <!-- -->
 
@@ -487,7 +487,7 @@ Con :
 -   jeedom-mysql : le nom du conteneur mysql
 
 -   /opt/jeedom/mysql : le dossier de l’hote ou l’on doit stoker les
-    données de MySql
+    Datos de MySQL
 
 -   your-mysql-password : le mot de passe root de l’instance MySql
 
@@ -498,7 +498,7 @@ Instalando la imagen :
 
     docker pull jeedom/jeedom
 
-Puis lancez la :
+Entonces lanza la :
 
     sudo docker run --name jeedom-server --link jeedom-mysql:mysql --privileged -v /your/jeedom/path:/var/www/html -e ROOT_PASSWORD=your-root-password -p 9080:80 -p 9022:22 jeedom/jeedom
 
