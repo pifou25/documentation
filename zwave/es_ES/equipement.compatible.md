@@ -187,7 +187,7 @@ Dome
 
 |Imagen|Marca|Nom|tipo|Observación|enlace|
 |---|---|---|---|---|---|
-|<img src="../images/543.3.131_motion-sensor.jpg" width="60" />|Dome|Motion Detector|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/543.3.131_motion-sensor.jpg" width="60" />|Dome|Motion Detector|Multisensores||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.133_leak.sensor.jpg" width="60" />|Dome|Leak Sensor|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.134_mouser.jpg" width="60" />|Cúpula|Mouser|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/543.3.135_on_off_plug_in_switch.jpg" width="60" />|Dome|On/Off Plug-In Switch|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
