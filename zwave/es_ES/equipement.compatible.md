@@ -164,7 +164,7 @@ Devolo
 |---|---|---|---|---|---|
 |<img src="../images/373.1.17_mt02646.metering.plug.jpg" width="60" />|Devolo|Metering Plug (MT02646)|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.1.18_mt02792.metering.plug.jpg" width="60" />|Devolo|Smart Metering Plug (MT02792)|Enchufe||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/373.2.13_mt02647.motion.sensor.jpg" width="60" />|Devolo|Motion Sensor MT02647|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/373.2.13_mt02647.motion.sensor.jpg" width="60" />|Devolo|Sensor de movimiento MT02647|Multicapteurs||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.14_mt02648.contact.door.jpg" width="60" />|Devolo|Door/Window Contact MT02648|Ouverture||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.32_mt02755.humidity.jpg" width="60" />|Devolo|Flood Sensor MT02756|Multisensor||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/373.2.33_mt02756.flood.jpg" width="60" />|Devolo|Flood Sensor MT02756|Fuga||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
@@ -226,7 +226,7 @@ Duwi
 |<img src="../images/100.1.0_zw.edan.300.flush.mounted.dimmer.jpg" width="60" />|Duwi|ZW EDAN 300 Dimmer|Interruptor|Il faut activer le polling pour avoir une remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/749-duwi-interrupteur-variateur-everlux-z-wave-4008297054337.html)|
 |<img src="../images/100.12289.0_zw.zs.3500.plugin.switch.jpg" width="60" />|Duwi|ZW ZS 3500 Plugin Switch|Enchufe|Il faut activer le polling pour avoir une remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/752-duwi-module-prise-on-off-z-wave-pour-l-exterieur-4008297054382.html)|
 |<img src="../images/100.16385.0_zw.esj.blind.control.jpg" width="60" />|Duwi|ZW ESJ Duwi Blind Control|Volets||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/100.20481.0_zwfb.jpg" width="60" />|Duwi|Wireless remote control 10-channel|Mando a distancia|Remplacé par la Z-WAVE.ME RC2|[Comprar](http://www.domadoo.fr/fr/peripheriques/3075-z-waveme-telecommande-z-wave-10-canaux.html)|
+|<img src="../images/100.20481.0_zwfb.jpg" width="60" />|Duwi|Wireless remote control 10-channel|Mando a distancia|Reemplazado por el Z-WAVE.ME RC2|[Comprar](http://www.domadoo.fr/fr/peripheriques/3075-z-waveme-telecommande-z-wave-10-canaux.html)|
 |<img src="../images/100.20482.0_wireless.flush.mounted.switch.jpg" width="60" />|Duwi|Wireless Flush Mounted Switch (5443)|Télécommande||[Comprar](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/100.4096.9_05458.dimmer.jpg" width="60" />|Duwi|DURO 2000 Dimmer 05458|Interruptor||[Comprar](http://www.domadoo.fr/fr/peripheriques/2307-z-waveme-interrupteur-variateur-z-wave-avance-finition-duro-2000-0019962003509.html)|
 ||Duwi|Interruptor Dimmer Duro 2000|Interruptor|Il faut activer le polling pour avoir une remonté d'état|[Comprar](http://www.domadoo.fr/fr/peripheriques/758-duwi-interrupteur-variateur-duro-2000-z-wave-4008297054580.html)|

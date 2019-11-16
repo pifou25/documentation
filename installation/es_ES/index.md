@@ -31,7 +31,7 @@ Voici une configuration "type" pour bien débuter avec Jeedom en Z-Wave :
 
 1.  Raspberry pi 3 :
 
-    -   Un raspberry+boitier \~ 50 €
+    -   Una raspberry+caja \~ 50 €
 
     -   Una llave Aeon Gen 5 \~ 60 € 
 
@@ -151,7 +151,7 @@ graphique**
 > décompression est inutile (format Zip reconnu directement dans la
 > sélection du fichier image).
 
-**4/ Activer un accès SSH**
+**4/ Habilitar un acceso SSH**
 
 > **Warning**
 >
@@ -177,9 +177,9 @@ renommer en "ssh" **sans extension**
 Insérez votre carte SD, branchez le cable réseau, branchez
 l’alimentation.
 
-**6/ Se connecter en SSH**
+**6/ Iniciar sesión en SSH**
 
-Identifiez votre Pi sur le réseau
+Identifica tu Pi en la red
 
 Il faut connaître l’adresse Ip de votre PI. Plusieurs solutions :
 
@@ -339,7 +339,7 @@ Cliquez sur nouvelle et renseignez les champs comme ci dessous :
 -   Cliquez sur suivant, dynamiquement alloué
 
 -   Cliquez sur suivant, Choisissez une taille pour l’espace
-    (4Go suffisent)
+    (4Go son suficientes)
 
 -   Haga clic en crear
 
@@ -350,7 +350,7 @@ Etape 4 : Lancement de la VM
 
 -   Seleccione almacenamiento
 
--   Ajoutez un lecteur optique
+-   Agregar un lector óptico
 
 -   Elige un disco
 
@@ -363,12 +363,12 @@ Etape 4 : Lancement de la VM
 
 ![VirtualBox3](../images/VirtualBox3.PNG)
 
--   Cliquez sur OK \*Cliquez sur démarrer
+-   Haga clic en OK \*Haga clic en iniciar
 
 Etape 5 : Installation de debian 9
 ---
 
-C’est du classique …​
+Es clásico ...
 
 ![VirtualBox4](../images/VirtualBox4.PNG)
 
@@ -394,7 +394,7 @@ Etape 6 : Instalación de jeedom
 -   Identifícate con el usuario y la contraseña elegidos
     pendant l’installation
 
--   Passez en root
+-   Ponerse en root
 
 <!-- -->
 
@@ -478,7 +478,7 @@ J’utilise [celle-ci](https://hub.docker.com/_/mysql/). Pour l’installer
 
     docker pull mysql:latest
 
-Puis la lancer :
+Y lanzarla :
 
     sudo docker run --name jeedom-mysql -v /opt/jeedom/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=your-mysql-password -d mysql:latest
 
@@ -529,7 +529,7 @@ Synology
 Vous trouverez ici la documentation pas à pas pour installer Jeedom sur un
 Synology (DSM 5.2 minimum).
 
-Etape 1 : Installation de Docker
+Paso 1: Instalación de Docker
 ================================
 
 Allez sur le centre des paquets :
