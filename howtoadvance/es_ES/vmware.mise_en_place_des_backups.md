@@ -128,7 +128,7 @@ contenant 4 fichiers :
 
 -   \*.vmdk ⇒ le descripteur du disque
 
--   \*.vmx ⇒ le fichier contenant le configuration de votre machine
+-   \*.vmx ⇒ el archivo que contiene la configuración de tu máquina
 
 -   STATUS.ok ⇒ indique que le backup est bien ok
 

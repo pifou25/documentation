@@ -1,4 +1,4 @@
-# Comment remonter un bug ?
+# ¿Cómo informar de un error?
 
 Il existe dans Jeedom plusieurs manières de remonter un souci : 
 

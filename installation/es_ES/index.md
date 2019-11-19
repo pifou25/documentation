@@ -379,7 +379,7 @@ Es clásico ...
     plupart des écrans, il suffit de valider le choix par défaut. Vous
     pouvez laissez des champs vides, ce n’est pas bloquant.
 
--   Pour la sélection des logiciels :
+-   Para la selección de los software:
 
 ![VirtualBox5](../images/VirtualBox5.PNG)
 
@@ -392,7 +392,7 @@ Etape 6 : Instalación de jeedom
 -   Lanza su VM
 
 -   Identifícate con el usuario y la contraseña elegidos
-    pendant l’installation
+    durante la instalación
 
 -   Ponerse en root
 
@@ -507,7 +507,7 @@ Avec :
 -   jeedom-server : nom du Docker jeedom voulu
 
 -   /your/jeedom/path : répertoire où les données de Jeedom sont mises
-    sur l’hôte
+    en el anfitrión
 
 -   your-root-password : mot de passe root pour accéder à Jeedom en SSH
 
@@ -652,7 +652,7 @@ Cliquez sur "Paramètres avancés"
 
 ![install synology 25](../images/install_synology_25.PNG)
 
-Puis sur "Ajouter un dossier"
+Luego en "Agregar una carpeta"
 
 ![install synology 26](../images/install_synology_26.PNG)
 

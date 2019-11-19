@@ -1,4 +1,4 @@
-Pourquoi ? 
+Por qué ? 
 ==========
 
 -   Apache se convertirá gradualmente en la norma con Jeedom.
@@ -86,7 +86,7 @@ Vous devriez maintenant pouvoir accéder à Jeedom depuis la même URL
 qu’avant. Si c’est bon vous pouvez continuer SINON IL NE FAUT SURTOUT
 PAS FAIRE LA SUITE.
 
-Mise à jour de la crontab 
+Actualización del crontab 
 -------------------------
 
 Hacer :

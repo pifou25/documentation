@@ -19,7 +19,7 @@ chez VMware, en effet vous allez surement rencontrer quelques bugs ou
 ralentissements avec mais un petit rafrachissement de la page et ça
 repart sans soucis.
 
-Connexion à l’interface web 
+Conexión a la interfaz web 
 ===========================
 
 Allez sur IP\_ESXI/ui avec votre navigateur internet, vous devez avoir :
@@ -74,7 +74,7 @@ Cliquez sur "Navigateur de banque de données" :
 
 ![vmware.createvm20](../images/vmware.createvm20.PNG)
 
-Cliquez sur "Télécharger" (le premier) :
+Haz clic en "Descargar" (el primero):
 
 ![vmware.createvm21](../images/vmware.createvm21.PNG)
 
@@ -107,7 +107,7 @@ d’exploitation (ici on va installer une Débian) :
 
 ![vmware.createvm7](../images/vmware.createvm7.PNG)
 
-Indiquez le datastore cible :
+Indica el datastore de destino :
 
 ![vmware.createvm8](../images/vmware.createvm8.PNG)
 
