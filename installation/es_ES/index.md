@@ -372,7 +372,7 @@ Es clásico ...
 
 ![VirtualBox4](../images/VirtualBox4.PNG)
 
--   Choisissez Graphical install
+-   Elige Graphical install
 
 -   Installez la debian de préférence sans interface graphique
     car inutile. Le nom d’utilisateur n’a aucune importance. Dans la
@@ -412,7 +412,7 @@ Etape 6 : Instalación de jeedom
 
     ./install.sh
 
--   et laissez faire…​
+-   y deja hacer...
 
 Etape 7 : Lancement de jeedom
 ---
@@ -445,7 +445,7 @@ Pour découvrir Jeedom, vous pouvez aussi le faire tourner dans un
 conteneur Docker :
 
 
-Etape 1 : Installation de docker
+Paso 1 : Instalación de Docker
 ---
 
 Docker est maintenant disponible sur toutes les distributions récentes.
@@ -502,7 +502,7 @@ Entonces lanza la :
 
     sudo docker run --name jeedom-server --link jeedom-mysql:mysql --privileged -v /your/jeedom/path:/var/www/html -e ROOT_PASSWORD=your-root-password -p 9080:80 -p 9022:22 jeedom/jeedom
 
-Avec :
+Con :
 
 -   jeedom-server : nom du Docker jeedom voulu
 
@@ -648,7 +648,7 @@ Haz siguiente :
 
 ![install synology 24](../images/install_synology_24.PNG)
 
-Cliquez sur "Paramètres avancés"
+Haga clic en "Configuraciones avanzadas"
 
 ![install synology 25](../images/install_synology_25.PNG)
 
