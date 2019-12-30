@@ -25,6 +25,10 @@ La liste de ce qui est surveillé évolue pour essayer d'etre le plus réactif/p
 
 Vous êtes aussi prévenu lors d'un redemarrage de votre Jeedom.
 
+# Historique
+
+Sur le market a partir de votre page profil puis en cliquant sur information dans l'onglet mes service partie service monitoring vous avez toute les données actuel connu sur votre jeedom et vous pouvez en cliquant sur graphique voir l'historique sur les dernieres 24h (nous ne conservons pas plus de données que les dernieres 24h)
+
 ## Comment suis-je prévenu
 
 Par default vous êtes prévenu par un mail sur votre mail configuré dans votre profils mais vous pouvez dans la configuration du monitoring cloud (sur votre page profils du market) : 
