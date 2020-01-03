@@ -14,6 +14,8 @@ Este archivo es obligatorio.
 
 Le agradecemos de antemano que no utilice el mismo código de color que los iconos oficiales de los plugin de Jeedom.
 
-Modelos :
+Pour 2020 il est maintenant recommandé de ne plus mettre le nom sous l'image (attention à garder quand meme les memes tailles du modele !)
+
+Merci d'utiliser ce modèle (bors arrondi, taille, fond coloré, transparence autour etc..) :
 
 ![modele-icone](../images/plugin-Jeedom-px.jpg)
