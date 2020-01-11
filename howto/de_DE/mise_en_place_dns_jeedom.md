@@ -20,9 +20,9 @@ Ce principe a l'avantage de ne pas exposer votre Jeedom sur internet, pas d'ouve
 
 > **IMPORTANT**
 >
-> Pour que cela fonctionne il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996 et 1997. En particulier pour les Livebox et routeur 4g Huawei il faut baisser le niveau du firewall, pour les Freebox Delta il faut désactiver le contrôle parental
+> Pour que cela fonctionne il faut que votre box autorise une connexion sortante sur les ports 1194,1195,1996,1997,1198,1199,2000 et 2001. En particulier pour les Livebox et routeur 4g Huawei il faut baisser le niveau du firewall, pour les Freebox Delta il faut désactiver le contrôle parental
 
-Nous avons actuellement 5 serveurs DNS répartis sur 2 machines physiques différentes, ayant chacun une connexion 1Gbit/s. 
+Nous avons actuellement 6 serveurs DNS répartis sur 2 machines physiques différentes, ayant chacun une connexion 500Mbit/s. 
 
 ## Mise en place
 
@@ -33,12 +33,6 @@ Là c'est super simple, vous devez connecter votre Jeedom au market (voir docume
 ### Market
 
 Une fois votre Jeedom lié au market, vous allez sur le market; puis sur votre profils (https://www.jeedom.com/market/index.php?v=d&p=profils) et enfin sur l'onglet "Mes Jeedoms".
-
-Vous devriez normalement voir votre Jeedom, avec devant une indication "Statut du DNS", tant que c'est pas vert votre Jeedom ne pourra pas utiliser les services DNS, il faut attendre environ 24h après la première connexion d'un Jeedom au market pour que le status passe à "Connexion possible" (vert)
-
-> **IMPORTANT**
->
-> Si votre status n'est pas à "Connexion possible" cela ne sert à rien de faire les étapes suivantes. Il faut attendre, si au bout de 48h votre status n'est toujours pas à "Connexion possible" vérifiez que vous avez bien un service pack power ou plus (onglet Mon profils sur le market puis partie Résumé)
 
 ### Retour à Jeedom
 
@@ -53,10 +47,6 @@ Jeedom va démarrer le DNS et vous donner votre url d'accès à votre Jeedom
 Voilà votre Jeedom est accessible de l'exterieure en https
 
 ## FAQ
-
-> **Mon status sur le market est bien en "Connexion possible" mais mon Jeedom ne se connecte pas**
->
-> Vous pouvez essayer de cliquer sur redémarrer pour voir si cela corrige. Si cela ne fonctionne toujours pas il faut vérifier que votre boxe ADSL autorise bien la connexion (voir plus haut). Si tout est bon il faut aller lire les log openvpn_* et le cas échéant communiquer ces logs lors de votre ouverture de demande de support.
 
 > **Y a-t-il besoin d'ouvrir des ports sur ma box**
 >
@@ -76,4 +66,4 @@ Voilà votre Jeedom est accessible de l'exterieure en https
 
 > **Ma configuration est bonne mais impossible d'avoir une page ça tourne à l'infini**
 >
-> Si votre configuration est bonne (Initialization Sequence Completed dans le log openvpn_DNS_Jeedom) mais que vous n'arrivez pas à avoir la page de connexion qui marche avec l'application mobile de manière aléatoire et vous êtes en 4g ou en fin de ligne ADSL. Il faut dans ce cas cocher la case dans la configuration réseaux jeedom comme quoi vous etes en 4g et relancer le dns comme ca jeedom va changer le mtu de votre connexion pour reduire la taille des packet.
+> Si votre configuration est bonne (Initialization Sequence Completed dans le log openvpn_DNS_Jeedom) mais que vous n'arrivez pas à avoir la page de connexion qui marche avec l'application mobile de manière aléatoire et vous êtes en 4g ou en fin de ligne ADSL. Il faut dans ce cas cocher la case dans la configuration réseaux jeedom comme quoi vous etes en 4g et relancer le dns comme ca jeedom va changer le mtu de votre connexion pour reduire la taille des packets.
