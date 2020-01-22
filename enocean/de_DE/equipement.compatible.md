@@ -16,7 +16,8 @@ A5-04
 
 |Image|Marke|Name|Typ|Bemerkungen|Link|
 |---|---|---|---|---|---|
-|<img src="../images/a5-04-01_trio2sys-capteur-temperature-humidite-o2line-blanc.jpg" width="60" />|Trio2sys|Sonde radio humidité et température pour montage interieur|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-04-01_trio2sys_capteur_temperature_humidite_o2line_blanc.jpg" width="60" />|Trio2sys|Sonde radio humidité et température pour montage interieur|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-04-01_nexelec_insafe+_pilot_temperature_humidite.jpg" width="60" />|Nexelec|Insafe+ Pilot Sonde humidité et température|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-04-02_eltako_temperature_humidite_FAFT60.jpg" width="60" />|Eltako|Sonde radio humidité et température pour montage extérieur - FAFT60|Température||[Acheter](http://www.domadoo.fr/fr/peripheriques/1931-eltako-sonde-radio-humidite-et-temperature-montage-exterieur-faft60-4010312310120.html)|
 
 A5-06
@@ -32,6 +33,7 @@ A5-07
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/a5-07-01_eosca_mouvement.jpg" width="60" />|Eosca|Détecteur de mouvement EnOcean (position plafond)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-07-01_pressac_underdesk.jpg" width="60" />|Pressac|Détecteur de mouvement Sous bureau (underdesk)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_nodon_mouvement.jpg" width="60" />|Nodon|Détecteur de mouvement et luminosité EnOcean|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_avidsen_mouvement.jpg" width="60" />|Avidsen|Détecteur de mouvement|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -40,10 +42,12 @@ A5-09
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-|<img src="../images/a5-09-04_nanosense_e4000_CO2.jpg" width="60" />|Nanosense|Sonde qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-09-04_nanosense_E4000_CO2.jpg" width="60" />|Nanosense|Sonde CO2 qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-09-04_pressac_co2_humidite_temperature.jpg" width="60" />|PressacSensing|Sonde Co2 Température Humidité|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-||Nanosense|Sonde qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
-|<img src="../images/a5-09-07_nanosense_p4000.jpg" width="60" />|Nanosense|Sonde particules fines P4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-09-04_nexelec_insafe+_carbon_co2_humidite_temperature.jpg" width="60" />|Nexelec|Insafe+ Carbon Sonde Co2 Température Humidité|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-09-05_nanosense_E4000_VOC.jpg" width="60" />|Nanosense|Sonde qualité d'air E4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+||Nanosense|Sonde particules fines P4000|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-09-0c_nanosense_E4000NG_VOC.jpg" width="60" />|Nanosense|Sonde qualité d'air E4000NG|Capteur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-10
 =====
@@ -51,6 +55,7 @@ A5-10
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/a5-10-06_eltako_regulateur_de_temperature_FTR65HS-WG.jpg" width="60" />|Eltako|Régulateur de température avec fonctions jour/nuit/OFF|Régulateur||[Acheter](http://www.domadoo.fr/fr/peripheriques/3128-eltako-regulateur-de-temperature-avec-fonctions-journuitoff-4010312315859.html)|
+||Avidsen|Sonde de température et d'humidité avec affichage numérique|Régulateur||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 A5-11
 =====
@@ -85,12 +90,26 @@ A5-20
 |---|---|---|---|---|---|
 |<img src="../images/a5-20-01_micropelt.jpg" width="60" />|Micropelt|Vanne thermostatique EnOcean sans pile|Vanne|Bien s'assurer que la vanne clignote une fois en réponse à l'inclusion|[Acheter](http://www.domadoo.fr/fr/peripheriques/3259-micropelt-vanne-thermostatique-enocean-4260413370022.html)|
 
+D1079-00
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/d1079-00-00_assistant_ventilairsec.jpg" width="60" />|Ventilairsec|Assistant|Télécommande||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+D1079-01
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/d1079-01-00_vmi_ventilairsec.jpg" width="60" />|Ventilairsec|VMI|Ventilation||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
 D2-01
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-||Avidsen|Module Chaudière|Contacteur|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/d2-01-01_chaudiere_avidsen.jpg" width="60" />|Avidsen|Module Chaudière|Contacteur|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-08_flextron-aladin-prise.jpg" width="60" />|Flextron|ALADIN prise intermédiaire Pro|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/d2-01-09_smartplug_ubiwizz_metering.jpg" width="60" />|UbiWizz|Smart Plug EnOcean|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2667-ubiwizz-smart-plug-enocean-schuko.html)|
 |<img src="../images/d2-01-0a_smartplug_nodon.jpg" width="60" />|Nodon|Prise intelligente EnOcean|Prise|Bien s'assurer que la prise sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2631-nodon-prise-intelligente-enocean-type-eu-3700313920008.html)|
@@ -107,15 +126,14 @@ D2-03
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-||Nodon|Soft Button|Bouton|5 appuis rapides en mode inclusion||
-|<img src="../images/d2-03-0a_soft_button_nodon.jpg" width="60" />|Avidsen|Micromodule commutateur double EnOcean|Micromodule|Bien s'assurer que le micromodule sort du learn après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/d2-03-0a_soft_button_nodon.jpg" width="60" />|Nodon|Soft Button|Bouton|5 appuis rapides en mode inclusion||
 
 D2-04
 =====
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-||Nanosens|E4000-NG|Capteur|||
+|<img src="../images/d2-04-08_nanosense_e4000_NG.jpg" width="60" />|Nanosense|E4000-NG|Capteur|||
 
 D2-05
 =====
@@ -130,7 +148,7 @@ D2-06
 
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
-||Soda|Poignée intelligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2.html)|
+|<img src="../images/d2-06-01_poignee_soda.jpg" width="60" />|Soda|Poignée intelligente EnOcean|Poignée|Bien s'assurer que la poignée bippe après inclusion. Sinon procédez à une exclusion avant|[Acheter](http://www.domadoo.fr/fr/peripheriques/2.html)|
 
 D2-14
 =====
