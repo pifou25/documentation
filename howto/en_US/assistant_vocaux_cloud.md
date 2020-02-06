@@ -2,25 +2,18 @@
 
 ## Description
 
-C'est un service Jeedom SAS, gratuit le temps des tests en beta, qui deviendra payant par la suite une fois celui-ci stabilisé. Il prends en compte les assistants vocaux de Google et d'Amazon.
+Ce service permet de connecter votre Jeedom avec les assistants vocaux de Google et Amazon.
 
-## Pourquoi est-ce payant ?
-
-Ce service nous oblige a mettre en place une infrastructure de serveur entre vos Jeedom et les serveurs de Google ou Amazon. Cela à donc un coup récurrent pour Jeedom SAS.
-De plus ces 2 services nous demandes beaucoup de temps de maintient/developpement et nous impose une grosse charge de travail pour la partie validation avec Amazon ou Google.
-
-## Comment l'utiliser 
-
-Il faut : 
-
-- avoir du crédit (voir [ici](https://www.jeedom.com/market/index.php?v=d&p=profils#services) pour l'abonnement)
-- avoir le plugin Dialogflow, [documentation](https://jeedom.github.io/plugin-dialogflow/fr_FR/)
+Il peut être utilisé avec 
+- le plugin Dialogflow, [documentation](https://jeedom.github.io/plugin-dialogflow/fr_FR/)
 - ou le plugin Google Smarthome, [documentation](https://jeedom.github.io/plugin-gsh/fr_FR/)
 - ou le plugin Alexa, [documentation](https://jeedom.github.io/plugin-ash//fr_FR/)
 
+Ce service est payant et peut être souscrit sur le Market Jeedom, dans la page [Mes Services](https://www.jeedom.com/market/index.php?v=d&p=profils#services)
+
 Vous trouverez dans la documentation respective des plugins leurs différences.
 
-Ensuite une fois l'abonnement pris il faut attendre la synchronisation (voir chapitre suivant). Vous pouvez faire la configuration en suivant la documentation du plugin
+Ensuite une fois l'abonnement souscrit il faut attendre la synchronisation (voir chapitre suivant). Vous pouvez faire la configuration en suivant la documentation du plugin
 
 ## Synchronisation et délai
 
