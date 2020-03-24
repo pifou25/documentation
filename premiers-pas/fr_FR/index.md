@@ -1,17 +1,13 @@
-Bienvenue dans cette documentation de premiers pas, celle-ci va vous
-aider à mettre en service votre Jeedom.
+Bienvenue dans cette documentation de premiers pas, celle-ci va vous aider à mettre en service votre Jeedom.
 
 > **Tip**
 >
-> Ce guide n’a pas vocation à se substituer à la documentation complète
-> disponible sur le site Jeedom [ici](https://jeedom.fr/doc).
+> Ce guide n’a pas vocation à se substituer à la documentation complète disponible sur le site Jeedom [ici](https://jeedom.fr/doc).
 
 Inscription sur le market 
 =========================
 
-La première chose à faire est de se créer un compte sur le Market pour
-pouvoir enregistrer votre Jeedom sur celui-ci, cliquez
-[ici](https://www.jeedom.com/market) pour commencer
+La première chose à faire est de se créer un compte sur le Market pour pouvoir enregistrer votre Jeedom sur celui-ci, cliquez [ici](https://www.jeedom.com/market) pour commencer
 
 ![premier market](../images/premier-market.png)
 
@@ -19,33 +15,27 @@ Cliquez sur le bouton "S’enregistrer" en haut à droite :
 
 ![premier market2](../images/premier-market2.png)
 
-Remplissez les différents champs et validez. Vous tomberez ensuite sur
-cette page :
+Remplissez les différents champs et validez. Vous tomberez ensuite sur cette page :
 
 ![premier market3](../images/premier-market3.png)
 
-Voila votre compte Market est créé, pour plus de details sur le market
-cliquez
+Voila votre compte Market est créé, pour plus de details sur le market cliquez
 [ici](https://www.jeedom.fr/doc/documentation/core/fr_FR/doc-core-market.html)
 
 Ajout de votre code service pack 
 ================================
 
-Si vous avez acheté une box Jeedom alors vous avez dû recevoir un mail
-contenant un code pour votre service pack.
+Si vous avez acheté une box Jeedom alors vous avez dû recevoir un mail contenant un code pour votre service pack.
 
 > **Important**
 >
-> Il est important de le renseigner car ce code vous donne accès à
-> certains plugins gratuitement, ainsi qu’à des services exclusifs.
+> Il est important de le renseigner car ce code vous donne accès à certains plugins gratuitement, ainsi qu’à des services exclusifs.
 
 > **Important**
 >
-> Si vous achetez un service pack depuis le Market Jeedom vous n’avez
-> rien à faire, celui-ci vous est automatiquement affecté.
+> Si vous achetez un service pack depuis le Market Jeedom vous n’avez rien à faire, celui-ci vous est automatiquement affecté.
 
-Une fois le code recupéré dans le mail il vous suffit d’aller sur le
-[market Jeedom](https://market.jeedom.fr) et de vous identifier.
+Une fois le code recupéré dans le mail il vous suffit d’aller sur le [market Jeedom](https://market.jeedom.fr) et de vous identifier.
 
 Puis allez sur votre page de profil :
 
@@ -59,15 +49,12 @@ Renseignez votre numéro de service pack et validez :
 
 ![premier servicepack3](../images/premier-servicepack3.png)
 
-Voilà votre service pack est enregistré. Pour plus de details sur le
-Market cliquez
+Voilà votre service pack est enregistré. Pour plus de details sur le Market cliquez
 [ici](https://github.com/jeedom/core/blob/stable/doc/fr_FR/market.asciidoc)
 
 > **Tip**
 >
-> Si vous avez acheté une box officielle Jeedom, le numéro de service
-> pack a dû vous être envoyé par email. Si vous n’avez rien reçu, merci
-> de contacter le magasin où vous avez acheté votre box.
+> Si vous avez acheté une box officielle Jeedom, le numéro de service pack a dû vous être envoyé par email. Si vous n’avez rien reçu, merci de contacter le magasin où vous avez acheté votre box.
 
 Trouver votre Jeedom sur le réseau 
 ==================================
@@ -80,25 +67,18 @@ Trouver Jeedom
 
 ### Par le market 
 
-Solution la plus simple (mais ne marche pas dans 100% des cas en
-fonction de la configuration de votre accès internet), il faut démarrer
-la box, attendre environ 10 minutes (attention si vous utilisez une
-image type netinstallation, ça sera plutôt 30min) et aller
+Solution la plus simple (mais ne marche pas dans 100% des cas en fonction de la configuration de votre accès internet), il faut démarrer la box, attendre environ 10 minutes (attention si vous utilisez une image type netinstallation, ça sera plutôt 30min) et aller
 [ici](https://www.jeedom.com/market/index.php?v=d&p=find)
 
 > **Tip**
 >
-> Attention, il faut être sur le même réseau que la box Jeedom pour que
-> cette méthode fonctionne.
+> Attention, il faut être sur le même réseau que la box Jeedom pour que cette méthode fonctionne.
 
 > **Important**
 >
 > En fonction de votre box ADSL cette fonctionalité peut ne pas marcher.
-> Si c’est le cas, rien de grave, il vous suffit de vous connecter à
-> votre box ADSL et de trouver l’IP de jeedom dans celle-ci. Cette étape
-> ne fait rien d’autre que de vous donner l’IP locale de votre Jeedom.
-> Ce n’est pas à ce moment-là que l’ajout de votre Jeedom à votre compte
-> market est fait.
+> Si c’est le cas, rien de grave, il vous suffit de vous connecter à votre box ADSL et de trouver l’IP de jeedom dans celle-ci. Cette étape ne fait rien d’autre que de vous donner l’IP locale de votre Jeedom.
+> Ce n’est pas à ce moment-là que l’ajout de votre Jeedom à votre compte market est fait.
 
 ### Par votre box internet 
 
