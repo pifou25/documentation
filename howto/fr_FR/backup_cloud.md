@@ -11,6 +11,10 @@ Une fois le service acheté il faut dans jeedom :
 >
 >Il est possible de voir les dossiers des backups jeedom directement depuis votre page profils sur le market, onglet mes services puis configuration au niveau du service backup cloud
 
+>**IMPORTANT**
+>
+>Le backup cloud est sensible a la case sur votre login market, si il y a des majusucules il faut ABSOLUMENT mettre les majusucules au meme endroit dans la configuration de votre jeedom onglet mise à jour
+
 ## FAQ
 
 > **Erreur Specification mandate value for attribute defer on line 19, column 146**
