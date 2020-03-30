@@ -532,6 +532,10 @@ Synology (DSM 5.2 minimum).
 Etape 1 : Installation de Docker
 ================================
 
+> **Important**
+>
+> L'installation sous Docker n'est pas officiellement supporté par Jeedom (le DNS jeedom ne marchera pas par exemple) ainsi que par certains plugins
+
 Allez sur le centre des paquets :
 
 ![install synology 1](../images/install_synology_1.PNG)
@@ -546,8 +550,7 @@ Attendez jusqu’à ce que l’installation soit finie :
 
 > **Important**
 >
-> Pour avoir accès au paquet Docker, il faut absolument avoir DSM 5.2 et
-> un NAS compatible
+> Pour avoir accès au paquet Docker, il faut absolument avoir DSM 5.2 et un NAS compatible
 
 Etape 2 : Récupération et installation des images Jeedom
 ========================================================
