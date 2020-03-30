@@ -439,6 +439,10 @@ Docker
 
 > **Important**
 >
+> L'installation sous Docker n'est pas officiellement supporté par Jeedom (le DNS jeedom ne marchera pas par exemple) ainsi que par certains plugins
+
+> **Important**
+>
 > Attention, nous partons ici du principe que vous maîtrisez déjà Docker
 
 Pour découvrir Jeedom, vous pouvez aussi le faire tourner dans un
