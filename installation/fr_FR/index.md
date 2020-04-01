@@ -398,7 +398,7 @@ Etape 6 : Installation de jeedom
 
 <!-- -->
 
-    su
+    su -
 
 -   Saisissez le mot de passe root défini pendant l’installation
 
