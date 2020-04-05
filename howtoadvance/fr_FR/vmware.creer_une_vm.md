@@ -169,7 +169,7 @@ votre OS :
 > "sudo apt-get -y install open-vm-tools".
 
 Pour la suite de l’installation je vous invite à lire ce
-[tutoriel](https://jeedom.github.io/documentation/howto/fr_FR/doc-howto-debian.installation.html#_installation)
+[tutoriel](https://github.com/jeedom/documentation/blob/master/installation/fr_FR/index.md#autres)
 
 Monter les péripheriques USB dans la VM 
 =======================================
