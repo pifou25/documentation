@@ -34,6 +34,8 @@ A5-07
 |---|---|---|---|---|---|
 |<img src="../images/a5-07-01_eosca_mouvement.jpg" width="60" />|Eosca|Détecteur de mouvement EnOcean (position plafond)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-01_pressac_underdesk.jpg" width="60" />|Pressac|Détecteur de mouvement Sous bureau (underdesk)|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-07-01_easyfit_eosc.jpg" width="60" />|Easyfit|Détecteur de mouvement plafond|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+|<img src="../images/a5-07-01_easyfit_epac.jpg" width="60" />|Easyfit|Détecteur de mouvement sous bureau|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_nodon_mouvement.jpg" width="60" />|Nodon|Détecteur de mouvement et luminosité EnOcean|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 |<img src="../images/a5-07-03_avidsen_mouvement.jpg" width="60" />|Avidsen|Détecteur de mouvement|Mouvement||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
@@ -156,6 +158,13 @@ D2-14
 |Image|Marque|Nom|Type|Remarque|Lien|
 |---|---|---|---|---|---|
 |<img src="../images/d2-14-30_insafe_nexelec.jpg" width="60" />|Nexelec|Insafe|Fumée||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
+
+D2-15
+=====
+
+|Image|Marque|Nom|Type|Remarque|Lien|
+|---|---|---|---|---|---|
+|<img src="../images/d2-15-00_epac_easyfit.jpg" width="60" />|EasyFit|EPAC|Présence||[Acheter](http://www.domadoo.fr/fr/peripheriques/.html)|
 
 D2-32
 =====
